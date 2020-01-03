@@ -1,0 +1,10737 @@
+{{Use mdy dates|date=June 2018}}
+[[File:Nintendo-Game-Boy-Advance-Purple-FL.jpg|thumb|right|250px|The original model of the [[Game Boy Advance]].]]
+[[File:Nintendo Game Cartridge Size Comparison.jpg|thumb|right|250px|Clockwise from left: A [[Game Boy]] Game Pak, a [[Game Boy Advance]] Game Pak, and a [[Nintendo DS]] Game Card. On the far right is a [[Nickel (United States coin)|United States Nickel]] shown for scale.]]
+
+This is a '''list of games released for the [[Game Boy Advance]]''' handheld [[video game]] system. The number of games in this list is '''{{table row counter|tableno=3|ignore=1}}''', organized alphabetically by the games' localized English titles, or, when Japan-exclusive, their ''[[rōmaji]]'' transliterations.
+
+Every GBA game features the disclaimers "Only for Game Boy Advance" and "Not compatible with other Game Boy systems".
+
+The Game Boy Advance is a handheld video game system developed by [[Nintendo]] and released during the [[History of video game consoles (sixth generation)|sixth generation of video games]].
+
+The final game released for the Game Boy Advance was the North American localization of ''[[Samurai Deeper Kyo]]'', which released as a bundle with a [[DVD]] set on February 12, 2008.<ref>{{cite web|url=https://www.imusic.dk/gboy/5707409000925/krea-2007-pixeline-i-pixieland-gameboy-gameboy|title=Pixeline I Pixieland Gameboy - Krea (GBOY) (2007) - imusic.dk|website=www.imusic.dk|language=da|access-date=2018-08-21}}</ref><ref>{{Cite news|url=http://www.siliconera.com/2008/02/21/samurai-deeper-kyo-the-gba%E2%80%99s-swan-song/|title=Samurai Deeper Kyo, the GBA's swan song? - Siliconera|date=2008-02-21|work=Siliconera|access-date=2018-08-21|language=en-US}}</ref>
+
+{|class="wikitable sortable"
+|-
+!Region(s) released
+!Region description
+|-
+|JP ([[Japan]])
+|Japanese ([[NTSC-J]]) formatted release.
+|-
+|NA ([[North America]])
+|North America and other [[NTSC]] territories, besides Japan.
+|-
+|PAL
+|[[PAL]]/[[SECAM]] territories, most of [[Europe]], [[Australia]], and parts of [[Asia]].
+|}
+
+Games are listed with their abilities for multiplayer, when applicable. Multiplayer games between two or more Game Boy Advance systems require the appropriate [[Game Boy Advance Game Link Cable|Game Link Cable]] or [[Game Boy Advance Game Link Cable|Wireless Adapter]]. The table below shows the acronyms used.
+
+{|class="wikitable"
+|-
+!Multiplayer
+!Description
+|-
+|Yes
+|Has multiplayer of some kind.
+|-
+|No
+|Does not have any multiplayer support.
+|-
+|N/A
+|Not Available.
+|-
+|COOP
+|[[Cooperative gameplay]].
+|-
+|VS
+|Versus - competitive multiplayer.
+|-
+|SPM
+|Single-pack multiplayer.
+|}
+
+==Games==
+{{Compact ToC|center=yes|num=yes|seealso=no|refs=no|nobreak=yes|extlinks=yes}}
+
+{|class="wikitable sortable" style="width:98%; margin-right:0" <!-- Please keep at 98%, see [[Wikipedia:98 percent table width anomaly]]. -->
+|- #coding
+!width=5%|Title(s)<br><ref name=NMGL>{{cite web|title=Nintendo Master Game List|url=https://www.nintendo.com/consumer/gameslist/gamelist.jsp?revealed=true&dsie=&dc=false&dgp=false&sh=&gf=&pf=&wifi=false&ww=&dw=&mic=&pap=&vc=&man=&al=&rf=&nf=&pp=&sf=Game+Boy+Advance&ef=&sort=Title&sorto=a|accessdate=April 30, 2012}}</ref>
+!width=5%|Multiplayer<br>
+!width=5%|Year(s) released
+!width=20%|Developer(s)<br><ref name=NMGL/>
+!width=20%|Publisher(s)<br><ref name=NMGL/>
+!width=10%|Region(s) released<br><ref name=NMGL/>
+|-
+|id="0–9"|''[[007: Everything or Nothing]]<br>•''James Bond 007: Everything or Nothing''<sup>JP</sup>''
+|Yes
+|November,17,2003<sup>NA, PAL</sup><br>2004<sup>JP</sup>
+|[[Griptonite Games]]
+|[[EA Games]]<sup>NA, PAL</sup> / [[Electronic Arts]]<sup>JP</sup>
+|NA, PAL, JP
+|-
+|''[[007: Nightfire]]''
+|Yes (VS)
+|2003
+|[[JV Games|JV Games Inc.]]
+|[[Electronic Arts]]
+|NA, PAL
+|-
+|''2-in-1: [[Tony Hawk's Underground]] / [[Kelly Slater's Pro Surfer]]''
+|N/A
+|2006
+|Neversoft Entertainment
+|Activision
+|NA, PAL
+|-
+|''2-in-1: [[V-Rally 3]] / [[Stuntman (video game)|Stuntman]]''
+|N/A
+|
+|
+|Atari
+|PAL
+|-
+|''3-in-1 Sports Pack: [[Paintball Splat!]] / [[Dodgeball Dodge This!]] / [[Big Alley Bowling]]''<br>•''Majesco's Sport Pack''<sup>PAL</sup>
+|N/A
+|2005<sup>NA</sup><br>2006<sup>PAL</sup>
+|[[Skyworks Technologies]]
+|[[Majesco Entertainment]]
+|NA, PAL
+|-
+|''3 Games in 1: [[Tak and the Power of Juju]] / [[SpongeBob SquarePants: SuperSponge]] / [[Rugrats: I Gotta Go Party]]''
+|N/A
+|2005
+|
+|[[THQ]]
+|PAL
+|-
+|''4 Games on One Game Pak: [[GT Advance]] / [[GT Advance 2]] / [[GT Advance 3]] / [[MotoGP]]''
+|N/A
+|2007
+|[[MTO (video game company)|MTO]] / [[Visual Impact]] / [[THQ]]
+|THQ
+|NA
+|-
+|id="A"|''[[A Sound of Thunder (video game)|A Sound of Thunder]]''
+|Yes (COOP, SPM)
+|2004<sup>PAL</sup><br>2005<sup>NA</sup>
+|[[Möbius Entertainment]]
+|[[BAM! Entertainment, Inc.]] / [[Franchise Pictures|Franchise Interactive]]
+|NA, PAL
+|-
+|''[[Ace Combat Advance]]''
+|No
+|2005<sup>NA</sup><br>2006<sup>PAL</sup>
+|[[HumanSoft]]
+|[[Namco]]
+|NA, PAL
+|-
+|''Ace Lightning''
+|No
+|2002
+|[[Tiertex Design Studios]]
+|[[BBC Multimedia]]
+|PAL
+|-
+|''[[Action Man: Robot Atak#Video game|Action Man: Robot Atak]]''
+|No
+|2004
+|[[Magic Pockets (company)|Magic Pockets]]
+|[[Atari]]
+|PAL
+|-
+|''[[Activision Anthology]]''
+|Yes (SPM)
+|2003
+|[[Aspyr]]
+|Aspyr
+|NA
+|-
+|''[[Advance Guardian Heroes]]''
+|Yes (COOP)
+|2004
+|[[Treasure Co. Ltd]]
+|[[Ubisoft]]
+|NA, PAL, JP
+|-
+|''[[Advance Wars]]''
+|Yes (SPM)
+|2001
+|[[Intelligent Systems]]
+|[[Nintendo]]
+|NA, PAL
+|-
+|''[[Advance Wars 2: Black Hole Rising]]''
+|Yes (SPM)
+|2003
+|[[Intelligent Systems]]
+|[[Nintendo]]
+|NA, PAL
+|-
+|''Adventure of Tokyo Disney Sea''
+|N/A
+|2001
+|
+|[[Konami]]
+|JP
+|-
+|''[[The Adventures of Jimmy Neutron vs. Jimmy Negatron]]''
+|Yes (SPM)
+|2002
+|HumanSoft
+|[[THQ]]
+|NA, PAL
+|-
+|''[[The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies]]''
+|Yes
+|2004
+|[[Tantalus Media|Tantalus]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[The Adventures of Jimmy Neutron Boy Genius: Jet Fusion]]''
+|No
+|2003
+|[[Helixe]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Aero the Acro-Bat]]''<br>•''Acrobat Kid''<sup>JP</sup>''
+|No
+|2002
+|[[Atomic Planet Entertainment]]
+|[[Metro3D, Inc.|Metro3D]]
+|NA, PAL, JP
+|-
+|''[[Agassi Tennis Generation]]''
+|Yes
+|2003
+|[[Aqua Pacific]]
+|[[DreamCatcher Interactive]]
+|NA, PAL
+|-
+|''[[Hugo (series)|Agent Hugo: Roborumble]]''
+|N/A
+|2007
+|[[Program-Ace]]
+|[[ITE Media]]
+|PAL
+|-
+|''[[Aggravation (board game)|Aggravation]] / [[Sorry! (game)|Sorry]] / [[Scrabble variants#Scrabble Junior|Scrabble Junior]]''
+|N/A
+|2005
+|[[Gravity-I]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[Aggressive Inline (video game)|Aggressive Inline]]''
+|N/A
+|2002
+|[[Full Fat]]
+|[[Acclaim Entertainment|Acclaim]]
+|NA, PAL
+|-
+|''[[AirForce Delta Storm]]''<sup>NA</sup><br>•''Deadly Skies''<sup>PAL</sup><br>•''Airforce Delta II''<sup>JP</sup>
+|No
+|2002
+|[[Mobile21]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''Aka-chan Dōbutsuen''
+|N/A
+|2004
+|
+|[[TDK|TDK Core]]
+|JP
+|-
+|''[[Akagi (manga)#Video games|Akagi]]''
+|N/A
+|2006
+|
+|Culture Brain
+|JP
+|-
+|''Aleck Bordon Adventure: Tower and Shaft Advance''
+|N/A
+|2004
+|[[Aruze]]
+|Aruze
+|JP
+|-
+|''Alex Ferguson's Player Manager 2002''<sup> UK</sup><br>•''Total Soccer Manager''<sup> PAL</sup><br>•''Guy Roux Manager 2002''<sup> FRE</sup>
+|N/A
+|2002
+|[[Exient Entertainment]]
+|[[Ubisoft]]
+|PAL
+|-
+|''[[Alex Rider: Stormbreaker]]''
+|N/A
+|2006
+|[[Razorback Developments]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Alienators: Evolution Continues]]''
+|N/A
+|2001
+|[[Digital Eclipse]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Alien Hominid]]''
+|No
+|2006
+|[[Tuna Technologies|Tuna]]
+|[[Zoo Digital Publishing]]
+|PAL
+|-
+|''[[All Grown Up!: Express Yourself]]''
+|Yes
+|2004
+|[[Altron]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[All-Star Baseball 2003]]''
+|N/A
+|2002
+|[[Software Creations (UK)|Software Creations]]
+|[[Acclaim Entertainment|Acclaim]]
+|NA
+|-
+|''[[All-Star Baseball 2004]]''
+|N/A
+|2003
+|[[Acclaim Studios Manchester]]
+|[[Acclaim Entertainment|Acclaim]]
+|NA
+|-
+|''[[Altered Beast: Guardian of the Realms]]''
+|Yes
+|2002
+|[[3d6 Games]]
+|[[THQ]]
+|NA, PAL
+|-
+|''The Amazing Virtual Sea-Monkeys''
+|N/A
+|2002
+|Elo Interactive
+|[[Conspiracy Entertainment]]
+|NA
+|-
+|''[[American Bass Challenge]]''<br>•''Super Black Bass Advance''<sup>JP</sup>
+|Yes (SPM)
+|2001
+|[[Starfish]]
+|[[Ubisoft]]
+|NA, JP
+|-
+|''[[American Idol (video game)|American Idol]]''<br>•''Pop Idol''<sup>PAL</sup>''
+|N/A
+|2003
+|[[Rockstar Leeds]]
+|[[Codemasters]]
+|NA, PAL
+|-
+|''[[An American Tail: Fievel's Gold Rush]]''
+|No
+|2002
+|[[Hokus-Pokus]]
+|[[Conspiracy Entertainment]]
+|NA, PAL
+|-
+|''Angel Collection - Mezase! Gakuen no Fashion Leader''
+|N/A
+|2004
+|[[Gakken]]
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''Angel Collection 2: Pichimo Ni Narou''
+|N/A
+|2004
+|[[Gakken]]
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''[[Angelique (video game)|Angelique]]''
+|No
+|2002
+|[[Ruby Party]]
+|[[Koei]]
+|JP
+|-
+|''Animal Mania: Dokidoki Aishou Check''
+|N/A
+|2002
+|[[Jupiter (company)|Jupiter]]
+|[[Konami]]
+|JP
+|-
+|''[[Animal Snap: Rescue Them 2 by 2]]''
+|N/A
+|2003
+|[[Awesome Developments]]
+|[[Ignition Entertainment]]
+|PAL
+|-
+|''[[Animal Yokochō|Animal Yokochou: Doki*Doki Kyushutsu Daisakusen! no Maki]]''
+|N/A
+|2005
+|
+|[[Konami]]
+|JP
+|-
+|''[[Animal Yokochō|Animal Yokochou: Doki*Doki Shinkyuu Shiken! no Kan]]''
+|N/A
+|2006
+|[[Konami]]
+|Konami
+|JP
+|-
+|''[[Animaniacs: Lights, Camera, Action!]]''
+|N/A
+|2005
+|[[Warthog Games|Warthog]]
+|[[Ignition Entertainment]]
+|NA, PAL
+|-
+|''[[The Ant Bully (video game)|The Ant Bully]]''
+|N/A
+|2006
+|[[Artificial Mind and Movement|A2M]]
+|[[Midway Games]]
+|NA, PAL
+|-
+|''[[Antz Extreme Racing]]''
+|N/A
+|2002
+|[[Magic Pockets (company)|Magic Pockets]]
+|[[LSP (game publisher)|LSP]]
+|NA, PAL
+|-
+|''Ao Zora to Nakama Tachi: Yume no Bouken''
+|N/A
+|2002
+|
+|MTO
+|JP
+|-
+|''[[Archer Maclean's 3D Pool]]''
+|N/A
+|2003
+|[[Awesome Productions]]
+|[[Crave Entertainment|Crave]]
+|NA, PAL
+|-
+|''[[Arctic Tale (video game)|Arctic Tale]]''
+|N/A
+|2007
+|[[Atomic Planet]]
+|[[Zoo Digital Publishing]] / [[DSI Games]]
+|NA, PAL
+|-
+|''[[Army Men Advance]]''
+|No
+|2001
+|[[DC Studios]]
+|[[The 3DO Company|3DO]]
+|NA, PAL
+|-
+|''[[Army Men: Operation Green]]''
+|No
+|2001
+|[[Pocket Studios]]
+|[[The 3DO Company|3DO]]
+|NA, PAL
+|-
+|''[[Army Men: Turf Wars]]''
+|Yes (SPM)
+|2002
+|[[Mobius Entertainment]]
+|[[The 3DO Company|3DO]]
+|NA
+|-
+|''[[Around the World in 80 Days (video game)|Around the World in 80 Days]]''
+|No
+|2004
+|[[Saffire Corporation|Saffire]]
+|[[Hip Games]]
+|NA, PAL
+|-
+|''[[Arthur and the Invisibles (video game)|Arthur and the Invisibles]]''<br>•''Arthur and The Minimoys''<sup>PAL</sup>''
+|N/A
+|2007
+|[[Mistic Software]]
+|[[Atari]]
+|NA, PAL
+|-
+|''[[Artifact (GBA game)|Artifact]]''
+|
+|2002
+|[[Engine Software]]
+|[[Foreign Media Games]]
+|
+|-
+|''[[Ashita no Joe Makkani Moeagare!]]''
+|N/A
+|2003
+|[[Konami]]
+|Konami
+|JP
+|-
+|''[[Asterix & Obelix: Bash 'em All!]]''
+|N/A
+|2002
+|[[Bit Managers]]
+|[[Atari]]
+|NA
+|-
+|''[[Asterix & Obelix XXL]]''
+|N/A
+|2004
+|[[V3D Production]]
+|[[Atari]]
+|PAL
+|-
+|''[[Asteroids (video game)|Asteroids]] / [[Pong]] / [[Yars' Revenge]]''
+|N/A
+|2005
+|[[ECI Interactive]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[Astro Boy: Omega Factor]]''<br>•''Astro Boy: Tetsuwan Atom''<sup>JP</sup>''
+|No
+|2003
+|[[Sega AM3|Hitmaker]]
+|[[Sega]]
+|NA, PAL, JP
+|-
+|''[[Atari Anniversary Edition|Atari Anniversary Advance]]''
+*''[[Asteroids (video game)|Asteroids]]''
+*''[[Battlezone (1980 video game)|Battlezone]]''
+*''[[Centipede (video game)|Centipede]]''
+*''[[Missile Command]]''
+*''[[Breakout (video game)#Super Breakout|Super Breakout]]''
+*''[[Tempest (video game)|Tempest]]''
+|N/A
+|2002
+|[[Digital Eclipse]]
+|[[Atari]]
+|NA, PAL
+|-
+|''[[Atomic Betty (video game)|Atomic Betty]]''
+|N/A
+|2005
+|[[Big Blue Bubble]]
+|[[Namco]]
+|NA, PAL
+|-
+|''[[ATV Quad Power Racing]]''
+|No
+|2002
+|[[Climax Group|Climax]]
+|[[Acclaim Entertainment|Acclaim]]
+|NA, PAL
+|-
+|''ATV Thunder Ridge Riders''
+|N/A
+|2006
+|[[SkyRiver Studios]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[Avatar: The Last Airbender (video game)|Avatar: The Last Airbender]]''<sup>NA</sup><br>•''Avatar: The Legend of Aang''<sup>PAL</sup>
+|N/A
+|2006
+|[[THQ]] / [[TOSE]] / [[Halfbrick]]
+|THQ
+|NA, PAL
+|-
+|''[[Avatar: The Last Airbender – The Burning Earth]]''<sup>NA</sup><br>•''Avatar: The Legend of Aang – The Burning Earth''<sup>PAL</sup>
+|N/A
+|2007
+|[[THQ]] / [[Halfbrick]]
+|THQ
+|NA, PAL
+|-
+|''[[Azumanga Daioh Advance]]''
+|N/A
+|2003
+|[[TOSE]]
+|King Records
+|JP
+|-
+|id="B"|''Babar: To the Rescue''
+|N/A
+|2006
+|[[Sirius Software]]
+|[[The Game Factory]]
+|NA, PAL
+|-
+|''[[Back to Stone]]''
+|N/A
+|2006<sup>NA</sup><br>2007<sup>PAL</sup>
+|Hidden Floor
+|Q3 Entertainment<sup>NA</sup><br>Neko Entertainment<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Back Track]]''
+|Yes
+|2001
+|[[JV Games]]
+|[[Telegames]]
+|NA, PAL
+|-
+|''[[Backyard Baseball]]''
+|N/A
+|2003
+|GameBrains
+|[[Infogrames]]
+|NA
+|-
+|''[[Backyard Baseball|Backyard Baseball 2006]]''
+|N/A
+|2005
+|GameBrains
+|[[Atari]]
+|NA
+|-
+|''[[Backyard Basketball]]''
+|N/A
+|2004
+|[[Humongous Entertainment]], Mistic
+|[[Atari]]
+|NA
+|-
+|''[[Backyard Football]]''
+|N/A
+|2002
+|[[Torus Games]]
+|[[Infogrames]]
+|NA
+|-
+|''[[Backyard Football|Backyard Football 2006]]''
+|N/A
+|2005
+|[[Humongous Entertainment]]
+|[[Atari]]
+|NA
+|-
+|''[[Backyard Sports series|Backyard Hockey]]''
+|N/A
+|2003
+|[[Humongous Entertainment]], Mistic
+|[[Atari]]
+|NA
+|-
+|''[[Backyard Skateboarding]]''
+|N/A
+|2005
+|[[Full Fat]] / [[Humongous Entertainment]]
+|[[Atari]]
+|NA
+|-
+|''[[Backyard Sports series|Backyard Sports: Baseball 2007]]''
+|N/A
+|2006
+|[[Humongous Entertainment]]
+|[[Atari]]
+|NA
+|-
+|''[[Backyard Sports series|Backyard Sports: Basketball 2007]]''
+|N/A
+|2006
+|[[Humongous Entertainment]], Mistic
+|Atari
+|NA
+|-
+|''[[Backyard Football 2007]]''
+|N/A
+|2006
+|[[Humongous Entertainment]]
+|Atari
+|NA
+|-
+|''[[Beyblade|Bakuten Shoot Beyblade: Gekitou! Saikyou Blade]]''
+|N/A
+|2001
+|AI
+|[[Broccoli (company)|Broccoli]]
+|JP
+|-
+|''[[Beyblade|Bakuten Shoot Beyblade 2002: Ikuze! Gekitou! Chou Jiryoku Battle!!]]''
+|N/A
+|2002
+|Hudson Soft
+|[[Broccoli (company)|Broccoli]]
+|JP
+|-
+|''[[Beyblade|Bakuten Shoot Beyblade 2002: Gekisen! Team Battle!! Kouryuu no Shou - Daichi Version]]''
+|N/A
+|2002
+|Hudson Soft
+|Broccoli
+|JP
+|-
+|''[[Beyblade|Bakuten Shoot Beyblade 2002: Gekisen! Team Battle!! Seiryuu no Shou - Takao Version]]''
+|N/A
+|2002
+|Hudson Soft
+|[[Broccoli (company)|Broccoli]]
+|JP
+|-
+|''[[Baldur's Gate: Dark Alliance]]''
+|N/A
+|2004
+|[[Magic Pockets (company)|Magic Pockets]]
+|Destination Software
+|NA, PAL
+|-
+|''[[Ballistic: Ecks vs. Sever (video game)|Ballistic: Ecks vs. Sever]]''<sup>NA</sup><br>''Ecks vs. Sever II: Ballistic''<sup>PAL</sup>
+|Yes (COOP)
+|2002
+|Crawfish Int.
+|[[Bam Entertainment]]
+|NA, PAL
+|-
+|''[[Banjo-Kazooie: Grunty's Revenge]]''
+|No
+|2003
+|[[Rare (company)|Rare]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Banjo-Pilot]]''
+|Yes
+|2005
+|[[Rare (company)|Rare]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Barbie and the Magic of Pegasus]]''
+|N/A
+|2005
+|[[WayForward]]
+|[[VU Games]]
+|NA, PAL
+|-
+|''[[Barbie as the Island Princess (video game)|Barbie as the Island Princess]]''
+|N/A
+|2007
+|HumanSoft
+|[[Activision]]
+|NA
+|-
+|''[[Barbie as the Princess and the Pauper]]''
+|N/A
+|2004
+|[[WayForward]]
+|[[VU Games]]
+|NA, PAL
+|-
+|''The Barbie Diaries: High School Mystery''
+|N/A
+|2006
+|Gorilla Systems
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Barbie in the 12 Dancing Princesses]]''
+|N/A
+|2007
+|[[WayForward]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Barbie Horse Adventures: Blue Ribbon Race|Barbie Software - Horse Adventures: Blue Ribbon Race]]''<sup>NA</sup><br>''Barbie Horse Adventures''<sup>PAL</sup>
+|N/A
+|2003
+|[[Möbius Entertainment]]
+|[[VU Games]]
+|NA, PAL
+|-
+|''Barbie Software: Groovy Games''
+|N/A
+|2002
+|[[Digital Illusions]]
+|[[VU Games]]
+|NA, PAL
+|-
+|''Barbie Software - Secret Agent Barbie: Royal Jewels Mission''<sup>NA</sup><br>''Barbie Software - Secret Agent Barbie''<sup>PAL</sup>
+|N/A
+|2002
+|[[Digital Illusions]]
+|[[VU Games]]
+|NA, PAL
+|-
+|''Barbie Superpack: Secret Agent/Groovy Games''<sup>NA</sup><br>''Barbie Superpack 2 in 1: Secret Agent/Groovy Games''<sup>PAL</sup>
+|N/A
+|2005
+|[[Digital Illusions]]
+|[[VU Games]]
+|NA, PAL
+|-
+|''[[Barnyard (video game)|Barnyard]]'' <sup>NA</sup><br>''Nickelodeon Barnyard'' <sup>PAL</sup>
+|N/A
+|2006
+|[[Halfbrick Studios]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Baseball Advance]]''<sup>NA</sup><br>''Greatest Nine''<sup>JP</sup>
+|No
+|2002
+|[[Smilebit]]
+|[[THQ]]<sup>NA</sup><br>[[Sega]]<sup>PAL</sup>
+|NA, JP
+|-
+|''Bass Tsuri Shiyouze!: Tournament wa Senryaku da!''
+|N/A
+|2002
+|
+|[[Konami]]
+|JP
+|-
+|''[[Batman Begins (video game)|Batman Begins]]''
+|N/A
+|2005
+|[[Vicarious Visions]]
+|[[EA Games]]
+|NA, PAL
+|-
+|''[[Batman: Rise of Sin Tzu]]''
+|No
+|2003
+|[[Ubisoft]]
+|Ubisoft
+|NA
+|-
+|''[[Batman: Vengeance]]''
+|N/A
+|2001
+|[[Ubisoft Montreal]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Battle B-Daman]]''<br>•''B-Densetsu! Battle B-Daman Moero! B-Kon''<sup>JP</sup>
+|N/A
+|2004<sup>JP</sup><br>2006<sup>NA</sup>
+|[[Atlus]]
+|Atlus
+|NA, JP
+|-
+|''[[Battle B-Daman: Fire Spirits!]]''<br>•''B-Densetsu! Battle B-Daman Honoo Tamashii''<sup>JP</sup>
+|N/A
+|2005<sup>JP</sup><br>2006<sup>NA</sup>
+|[[Atlus]]
+|Atlus
+|NA, JP
+|-
+|''Battle x Battle: Kyoudai Uo Densetsu''
+|N/A
+|2003
+|[[Starfish]]
+|
+|JP
+|-
+|''[[BattleBots: Beyond the BattleBox]]''
+|Yes
+|2002<sup>NA</sup><br>2003<sup>PAL</sup>
+|Cave Barn
+|[[Majesco Entertainment]]<sup>NA</sup><br>[[Sierra Entertainment]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[BattleBots: Design & Destroy]]''
+|Yes
+|2003
+|Cave Barn
+|[[Majesco Entertainment]]
+|NA
+|-
+|''BB Ball''
+|N/A
+|2004
+|Micott & Basara
+|Micott & Basara
+|JP
+|-
+|''Beast Shooter: Mezase Beast King''
+|Yes (SPM)
+|2002
+|[[Hudson Soft]]
+|[[Konami]]
+|JP
+|-
+|''[[The Bee Game]]''<br>•''Die Biene Maja: Klatschmohnwiese in Gefahr''<sup> PAL</sup>
+|N/A
+|2007
+|Independent Arts
+|[[Midway Games|Midway]]
+|NA, PAL
+|-
+|''The Berenstain Bears and the Spooky Old Tree''
+|N/A
+|2005
+|Program-Ace
+|[[Namco]]
+|NA
+|-
+|''Best Play Pro Yakyuu'' (''Best Play Pro Baseball'')
+|N/A
+|2002
+|ParityBit
+|[[Enterbrain]]
+|JP
+|-
+|''[[Metal Fight Beyblade DS|Beyblade: G-Revolution]]''
+|N/A
+|2004
+|Full Fat
+|Atari
+|NA, PAL
+|-
+|''[[Beyblade VForce: Ultimate Blader Jam]]''
+|N/A
+|2003
+|Full Fat
+|[[Atari]]
+|NA, PAL
+|-
+|''[[Bibi Blocksberg|Bibi Blocksberg: Der Magische Hexenkreis]]''
+|N/A
+|2005
+|Morgen Studios
+|Kiddinx
+|PAL
+|-
+|''[[Bibi Blocksberg|Bibi und Tina: Ferien auf dem Martinshof]]''
+|N/A
+|2006
+|Morgen Studios
+|Kiddinx
+|PAL
+|-
+|''[[The Bible Game]]''
+|N/A
+|2005
+|[[Crave Entertainment|Crave]]
+|Crave
+|NA
+|-
+|''[[Big Mutha Truckers]]''
+|No
+|2005
+|[[Raylight Studios]]
+|Destination Games<sup>NA</sup><br>[[Zoo Digital Publishing]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Bionicle (video game)|Bionicle]]''
+|N/A
+|2003
+|[[Möbius Entertainment]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Bionicle Heroes]]''
+|N/A
+|2006
+|[[Amaze Entertainment]]
+|[[Eidos Interactive]]
+|NA, PAL
+|-
+|''[[Bionicle: Matoran Adventures]]''
+|N/A
+|2002
+|[[Argonaut Games]]
+|[[Electronic Arts]]
+|NA, PAL
+|-
+|''[[Bionicle: Maze of Shadows]]''
+|N/A
+|2005
+|[[Razorback Developments]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[bit Generations|bit Generations Series]]''
+*''Boundish''
+*''Coloris''
+*''Dialhex''
+*''Digidrive''
+*''Dotstream''
+*''Orbital''
+*''Soundvoyager''
+|N/A
+|2006
+|Skip<sup>Not Digidrive</sup><br>Q-Games<sup>Digidrive</sup>
+|Nintendo
+|JP
+|-
+|''Black Belt Challenge''
+|Yes
+|2002
+|[[Lost Boys Games|Lost Boys]]
+|[[THQ]]<sup>NA</sup><br>[[Xicat Interactive]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Black Black]]''
+|N/A
+|2002
+|[[Capcom]]
+|Capcom
+|JP
+|-
+|''[[Black/Matrix#Black Matrix Zero|Black Matrix Zero]]''
+|No
+|2002
+|[[Flight-Plan]]
+|[[NEC Interchannel]]
+|JP
+|-
+|''[[Blackthorne]]''
+|N/A
+|2003
+|[[Mass Media Inc.]]
+|[[Blizzard Entertainment|Blizzard Classic Arcade]]
+|NA, PAL
+|-
+|''Blades of Thunder''
+|N/A
+|2005
+|InterActive Vision Games
+|Summitsoft Entertainment
+|NA
+|-
+|''Blast Arena Advance'' (Unlicensed)
+|N/A
+|2005
+|Mathew Carr
+|
+|
+|-
+|''[[Bleach Advance: Kurenai ni Somaru Soul Society]]''
+|N/A
+|2005
+|Alpha Unit
+|[[Sega]]
+|JP
+|-
+|''[[Blender Bros.]]''
+|Yes (SPM)
+|2002
+|A.I.
+|[[Infogrames]]
+|NA
+|-
+|''[[Blue Angelo: Angels from the Shrine]]''
+|N/A
+|2005
+|Virtual Spaghetti
+|Shibuya Interactive
+|PAL
+|-
+|''BMX Trick Racer''
+|N/A
+|2003
+|Hyptonix
+|[[Simon & Schuster Interactive]]
+|NA
+|-
+|''Board Game Classics''<sup>NA</sup><br>''Board Game Classics: Chess & Draughts & Backgammon''<sup>PAL</sup>
+|N/A
+|2005
+|Black Lantern Studios
+|DSI Games<sup>NA</sup><br>[[Zoo Digital Publishing]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Bobobo-bo Bo-bobo|Bobobo-bo Bo-bobo: 9 Kiwame Senshi Gyagu Yuugou]]''
+|N/A
+|2004
+|
+|[[Hudson Soft]]
+|JP
+|-
+|''[[Bobobo-bo Bo-bobo|Bobobo-bo Bo-bobo: Backutou Hajike Taisen]]''
+|N/A
+|2004
+|
+|[[Hudson Soft]]
+|JP
+|-
+|''[[Bobobo-bo Bo-bobo|Bobobo-bo Bo-bobo: Majide!!? Shinken Shoubu]]''
+|N/A
+|2003
+|Rokumendo
+|[[Hudson Soft]]
+|JP
+|-
+|''[[Bobobo-bo Bo-bobo|Bobobo-bo Bo-bobo: Ougi 87.5 Bakuretsu Hanage Shinken]]''
+|N/A
+|2002
+|
+|[[Hudson Soft]]
+|JP
+|-
+|''[[Boktai: The Sun is in Your Hand]]''<br>•''Bokura no Taiyō''<sup>JP</sup>
+|N/A
+|2003<sup>JP, NA</sup><br>2004<sup>PAL</sup>
+|[[Konami|Hideo Kojima Production]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[Boktai 2: Solar Boy Django]]''<br>•''Zoku Bokura no Taiyō Taiyō Shōnen Jango''<sup>JP</sup>
+|N/A
+|2004<sup>JP, NA</sup><br>2005<sup>PAL</sup>
+|[[Konami|Hideo Kojima Production]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''Boku no Kabuto Kuwagata''
+|N/A
+|2003
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''Boku no Kabuto Mushi''
+|N/A
+|2001
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''Boku no Kuwagata''
+|N/A
+|2001
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''[[I am an Air Traffic Controller|Boku wa Koukuu Kanseikan]]'' (I am an Air Traffic Controller)
+|N/A
+|{{Vgrtbl|JP|March 21, 2001}}
+|Graphic Research
+|[[Tamsoft]]
+|JP
+|-
+|''[[Bomberman Jetters|Bomberman Jetters: Densetsu no Bomberman]]''
+|Yes (SPM)
+|2002
+|A.I.
+|[[Hudson Soft]]
+|JP
+|-
+|''[[Bomberman Jetters|Bomberman Jetters: Game Collection]]''
+|Yes (SPM)
+|2002
+|[[Hudson Soft]]
+|Hudson Soft
+|JP
+|-
+|''[[Bomberman Max 2: Blue Advance]]''<br>•''Bomberman Max 2: Bomberman Version''<sup>JP</sup>
+|Yes (SPM)
+|2002<sup>JP, NA</sup><br>2003<sup>PAL</sup>
+|[[Hudson Soft]]
+|Hudson Soft<sup>JP</sup><br>[[Majesco Entertainment]]<sup>NA</sup><br>[[Sierra Entertainment]]<sup>PAL</sup>
+|NA, PAL, JP
+|-
+|''[[Bomberman Max 2: Red Advance]]''<br>•''Bomberman Max 2: Max Version''<sup>JP</sup>
+|Yes
+|2002<sup>JP, NA</sup><br>2003<sup>PAL</sup>
+|[[Hudson Soft]]
+|Hudson Soft<sup>JP</sup><br>[[Majesco Entertainment]]<sup>NA</sup><br>[[Sierra Entertainment]]<sup>PAL</sup>
+|NA, PAL, JP
+|-
+|''[[Bomberman Tournament]]''<br>•''Bomberman Story''<sup>JP</sup>
+|Yes (SPM)
+|2001
+|Amble
+|[[Hudson Soft]]<sup>JP</sup><br>Activision<sup>NA, PAL</sup>
+|NA, PAL, JP
+|-
+|''[[Bookworm (video game)|Bookworm]]''
+|N/A
+|2004
+|[[PopCap]]
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[Pluster World|Bokuen Yuuki Pluster World Series]]''
+*''Densetsu no Pluster Gate''
+*''Densetsu no Pluster Gate EX''
+*''Pluston GP''
+|N/A
+|2003
+|Will
+|[[Takara]]
+|JP
+|-
+|''Bouken-Ou Beet: Busters Road''
+|N/A
+|2005
+|
+|[[Bandai]]
+|JP
+|-
+|''Boukyaku no Senritsu: The Melody of Oblivion''
+|N/A
+|2004
+|Alpha Unit
+|[[Bandai]]
+|JP
+|-
+|''[[Boulder Dash|Boulder Dash EX]]''
+|Yes (SPM)
+|2002<sup>JP, NA</sup><br>2003<sup>PAL</sup>
+|Vision Works
+|[[Kemco]]
+|NA, PAL, JP
+|-
+|''[[Boxing Fever]]''
+|Yes
+|2001<sup>NA</sup><br>2002<sup>PAL</sup>
+|[[Digital Fiction]]
+|[[Majesco Entertainment]]<sup>NA</sup><br>[[THQ]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Bratz (video game)|Bratz]]''
+|N/A
+|2003
+|DC Studios
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Bratz Babyz (video game)|Bratz Babyz]]''
+|N/A
+|2006
+|[[Barking Lizards]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Bratz: Forever Diamondz (video game)|Bratz: Forever Diamondz]]''
+|N/A
+|2006
+|[[Barking Lizards]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Bratz: Rock Angelz (video game)|Bratz: Rock Angelz]]''
+|No
+|2005
+|[[Altron]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Bratz: The Movie (video game)|Bratz: The Movie]]''
+|N/A
+|2007
+|[[Disney Interactive Studios]]
+|[[THQ]]
+|NA
+|-
+|''[[Breath of Fire (video game)|Breath of Fire]]''<br>•''Breath of Fire: Ryuu no Senshi''<sup>JP</sup>
+|No
+|2001
+|[[Capcom]]
+|Capcom<sup>JP, NA</sup><br>[[Ubisoft]]<sup>PAL</sup>
+|NA, PAL, JP
+|-
+|''[[Breath of Fire II]]''<br>•''Breath of Fire II: Shimei no Ko''<sup>JP</sup>
+|No
+|2001<sup>JP</sup><br>2002<sup>NA, PAL</sup>
+|[[Capcom]]
+|Capcom<sup>JP, NA</sup><br>[[Ubisoft]]<sup>PAL</sup>
+|NA, PAL, JP
+|-
+|''[[Britney's Dance Beat]]''
+|N/A
+|2002
+|[[Art Co., Ltd|Art]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Broken Sword: The Shadow of the Templars]]''
+|No
+|2002
+|[[Revolution Software]]
+|[[BAM! Entertainment]]
+|NA, PAL
+|-
+|''[[Bruce Lee: Return of the Legend]]''
+|No
+|2003
+|Vicarious Visions
+|[[VU Games]]<sup>NA</sup><br>[[Universal Interactive]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Bubble Bobble|Bubble Bobble Old & New]]''
+|Yes (COOP, SPM)
+|2002<sup>JP</sup><br>2003<sup>NA, PAL</sup>
+|[[Taito Corporation]]
+|Media Kite<sup>JP</sup><br>[[Empire Interactive]]<sup>NA, PAL</sup>
+|NA, PAL, JP
+|-
+|''[[Buffy the Vampire Slayer: Wrath of the Darkhul King]]''<br>•''Buffy - Im Bann der Daemonen: Koenig Darkhuls Zorn''<sup>GER</sup><br>•''Buffy contre les Vampires: La Colere de Darkhul''<sup>FRE</sup>
+|N/A
+|2003
+|[[Natsume (company)|Natsume]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Butt-Ugly Martians|Butt-Ugly Martians: B.K.M. Battles]]''
+|N/A
+|2002
+|Runecraft
+|[[VU Games]]
+|NA, PAL
+|-
+|id="C"|''[[Cabbage Patch Kids: The Patch Puppy Rescue]]''
+|N/A
+|2006
+|[[1st Playable Productions]]
+|[[D3Publisher]]
+|NA, PAL
+|-
+|''[[Cabela's Big Game Hunter (2002)|Cabela's Big Game Hunter]]''
+|N/A
+|2002
+|ImageBuilder Software
+|Activision
+|NA
+|-
+|''[[Cabela's Big Game Hunter 2005 Adventures]]''
+|N/A
+|2004
+|[[Torus Games]]
+|[[Activision Value]]
+|NA, PAL
+|-
+|''Caesars Palace Advance: Millenium Gold Edition''
+|N/A
+|2001
+|
+|Majesco
+|NA
+|-
+|''Calcio Bit''
+|N/A
+|2006
+|ParityBit]
+|[[Nintendo]]
+|JP
+|-
+|''[[Camp Lazlo: Leaky Lake Games]]''
+|N/A
+|2006
+|Collision Studios
+|[[Crave Entertainment|Crave]]
+|NA, PAL
+|-
+|''[[Candy Land]] / [[Chutes and Ladders]] / [[Concentration (game)|Original Memory Game]]''
+|N/A
+|2005<br>2006
+|[[Black Lantern Studios]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Capcom Classics Mini-Mix]]''
+*''[[Strider (Nintendo Entertainment System)|Strider]]''
+*''[[Bionic Commando (Nintendo Entertainment System)|Bionic Commando]]''
+*''[[Mighty Final Fight]]''
+|N/A
+|2006
+|[[Digital Eclipse Software]]
+|[[Capcom]]
+|NA
+|-
+|''[[Captain Tsubasa: Eikou no Kiseki]]'' (''Captain Tsubasa: Road to Glory'')
+|N/A
+|2002
+|
+|[[Konami]]
+|JP
+|-
+|''[[Car Battler Joe]]''<br>•''Gekitou! Car Battler Go!!''<sup> JP</sup>
+|N/A
+|2001<sup>JP</sup><br>2002<sup>NA</sup>
+|[[Ancient]]
+|[[Victor Interactive Software]]<sup>JP</sup><br>[[Natsume (company)|Natsume]]<sup>NA</sup>
+|NA, JP
+|-
+|''[[Cardcaptor Sakura: Sakura to Fushigina no Clow Card|Cardcaptor Sakura: Sakura Card de Mini-Game]]''
+|N/A
+|2003
+|Affect 
+|TDK Core
+|JP
+|-
+|''[[Cardcaptor Sakura: Sakura to Fushigina no Clow Card|Cardcaptor Sakura: Sakura Card-hen - Sakura Card to Tomodachi]]''
+|N/A
+|2004
+|
+|MTO
+|JP
+|-
+|''Card Party''
+|Yes (SPM)
+|2002
+|[[NDcube]]
+|[[Media Kite]]
+|JP
+|-
+|''[[Care Bears: Care Quest]]''
+|N/A
+|2005
+|[[Sirius Games]]
+|[[The Game Factory]]
+|NA, PAL
+|-
+|''Carrera Power Slide''
+|N/A
+|2003
+|[[Tiertex Design Studios]]
+|[[Stadlbauer]]
+|PAL
+|-
+|''[[Cars (video game)|Cars]]''
+|Yes
+|2006
+|[[Helixe]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''[[Cars Mater-National Championship]]''
+|N/A
+|2007
+|[[Tantalus Interactive]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Cartoon Network: Block Party]]''
+|N/A
+|2004
+|[[Majesco Entertainment]]
+|Majesco Sales
+|NA, PAL
+|-
+|''[[Cartoon Network Speedway]]''
+|N/A
+|2003
+|DC Studios
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[Casper (video game)|Casper]]''
+|N/A
+|2002
+|
+|[[Microïds]]
+|NA, PAL
+|-
+|''[[Castlevania: Aria of Sorrow]]''<br>•''Castlevania: Akatsuki no Minuet''<sup>JP</sup>
+|No
+|2003
+|[[Konami|KCEK]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[Castlevania: Circle of the Moon]]''<br>•''Castlevania''<sup>PAL</sup><br>•''Akumajou Dracula: Circle of the Moon''<sup>JP</sup>
+|No
+|{{Vgrtbl|JP|March 21, 2001|US|June 10, 2001|EU|June 22, 2001}}
+|[[Konami|KCEK]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[Castlevania: Harmony of Dissonance]]''<br>•''Castlevania: Byakuya no Conserto''<sup>JP</sup>
+|No
+|2002
+|[[Konami|KCEK]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[The Cat in the Hat]]''
+|N/A
+|2005
+|Jack of All Games
+|[[NewKidCo]]
+|NA
+|-
+|''[[Catwoman (video game)|Catwoman]]''
+|No
+|2004
+|[[Magic Pockets (company)|Magic Pockets]]
+|[[EA Games]]
+|NA, PAL
+|-
+|''[[Petz|Catz]]''
+|N/A
+|2006
+|[[MTO (video game company)|MTO]]
+|Ubisoft
+|NA, PAL
+|-
+|''[[Centipede (video game)|Centipede]] / [[Breakout (video game)|Breakout]] / [[Warlords (1989 video game)|Warlords]]''
+|N/A
+|2005
+|Epicenter Interactive
+|DSI Games
+|NA, PAL
+|-
+|''Cesti to Meigurumi-tachi no Mahou no Bouken: Kisekko Gurumii''
+|N/A
+|2003
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''[[Charlie and the Chocolate Factory (2005 video game)|Charlie and the Chocolate Factory]]''
+|Yes
+|2005
+|High Voltage Software
+|Global Star Software
+|NA, PAL
+|-
+|''[[Charlotte's Web (video game)|Charlotte's Web]]''
+|N/A
+|2006
+|[[Backbone Entertainment]]
+|[[Sega of America]]
+|NA, PAL
+|-
+|''[[The Cheetah Girls (video game)|The Cheetah Girls]]''
+|N/A
+|2006
+|Gorilla Systems
+|[[Buena Vista Games]]
+|NA
+|-
+|''[[The Chessmaster]]''
+|Yes (SPM)
+|2002
+|
+|Ubisoft
+|NA, PAL
+|-
+|''[[Chicken Shoot]]''
+|N/A
+|2005
+|FrontLine Studios
+|DSI Games
+|NA, PAL
+|-
+|''[[Chicken Shoot 2]]''
+|N/A
+|2006
+|FrontLine Studios
+|DSI Games
+|NA, PAL
+|-
+|''[[Chobits|Chobits: Atashi Dake no Hito]]''
+|N/A
+|2002
+|
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''[[Chocobo Land|Chocobo Land: A Game of Dice]]''
+|N/A
+|2002
+|SquareSoft
+|[[Square (video game company)|Square]]
+|JP
+|-
+|''[[The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (video game)|The Chronicles of Narnia: The Lion, the Witch and the Wardrobe]]''<br>•''Narnia Koku Monogatari: Lion to Majo''<sup>JP</sup>
+|N/A
+|2005
+|[[Amaze Entertainment]]
+|[[Buena Vista Games]]
+|NA, PAL, JP
+|-
+|''[[ChuChu Rocket!]]''
+|Yes (SPM)
+|2001
+|[[Sonic Team]]
+|[[Sega]]
+|NA, PAL, JP
+|-
+|''[[CIMA: The Enemy]]''<br>•''Frontier Stories''<sup>JP</sup>
+|N/A
+|2003<sup>NA</sup><br>2005<sup>JP</sup>
+|[[Neverland]]
+|[[Natsume (company)|Natsume]]<sup>NA</sup><br>[[Marvelous Entertainment]]<sup>JP</sup>
+|NA, JP
+|-
+|''Cinnamon: Yume no Daibouken''
+|N/A
+|2004
+|
+|[[Imagineer (Japanese company)|Imagineer]]
+|JP
+|-
+|''[[Cinnamoroll#Video games|Cinnamoroll FuwaFuwa Daibouken]]''
+|N/A
+|2005
+|
+|Rocket Company
+|JP
+|-
+|''[[Cinnamoroll#Video games|Cinnamoroll Koko ni Ruyo]]''
+|N/A
+|2003
+|AI 
+|[[Imagineer (Japanese company)|Imagineer]]
+|JP
+|-
+|''[[Classic NES Series]]'' (''Famicom Mini Series'')
+*''[[Adventure Island (video game)|Adventure Island]]''
+*''[[Balloon Fight]]''
+*''[[Bomberman]]''
+*''[[Castlevania (1986 video game)|Castlevania]]''
+*''[[Clu Clu Land]]''
+*''[[Dig-Dug]]''
+*''[[Donkey Kong (arcade game)|Donkey Kong]]''
+*''[[Dr. Mario (video game)|Dr. Mario]]''
+*''[[Excitebike]]''
+*''[[Famicom Mukashi Hanashi: Shin Onigashima]]''
+*''[[Famicom Tantei Club: Kieta Koukeisha]]''
+*''[[Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo Zengouhen]]''
+*''[[Ghosts 'n Goblins]]''
+*''[[Kid Icarus]]''
+*''[[Ice Climber]]''
+*''[[The Legend of Zelda]]''
+*''[[Mappy]]''
+*''[[Mario Bros.]]''
+*''[[Metroid]]''
+*''[[Ganbare Goemon]]''
+*''[[Nazo no Murasame Jō]]''
+*''[[Pac-Man]]''
+*''[[SD Gundam World Gachapon Senshi: Scramble Wars]]''
+*''[[Star Soldier]]''
+*''[[Super Mario Bros.]]''
+*''[[Super Mario Bros.: The Lost Levels]]''
+*''[[Twinbee]]''
+*''[[Wrecking Crew (video game)|Wrecking Crew]]''
+*''[[Xevious]]''
+*''[[Zelda II: The Adventure of Link]]''
+|Yes (SPM)
+*''Balloon Fight''
+*''Clu Clu Land''
+*''Dig Dug''
+*''Donkey Kong''
+*''Dr. Mario''
+*''Ghosts 'n Goblins''
+*''Ice Climber''
+*''Mappy''
+*''Mario Bros.''
+*''Pac-Man''
+*''SD Gundam World Gachapon Senshi: Scramble Wars''
+*''Super Mario Bros.''
+*''Twinbee''
+*''Wrecking Crew''
+*''Xevious''
+|2004
+|[[Nintendo]], [[Hudson Soft]], [[Konami]], [[Namco]], [[Capcom]], [[Bandai]] 
+|Nintendo
+|NA, PAL, JP
+|-
+|''[[Cocoto Kart Racer]]''
+|N/A
+|2005
+|[[Neko Entertainment]]
+|[[Bigben Interactive]]
+|PAL
+|-
+|''[[Cocoto Platform Jumper]]''
+|N/A
+|2007
+|[[Neko Entertainment]]
+|[[Bigben Interactive]]
+|PAL
+|-
+|''[[Codename: Kids Next Door: Operation S.O.D.A.]]''
+|N/A
+|2004
+|Vicarious Visions
+|Global Star Software
+|NA
+|-
+|''[[Colin McRae Rally 2.0]]''
+|Yes (SPM)
+|2002
+|Spellbound
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Columns Crown]]''
+|Yes (SPM)
+|2002
+|[[Wow Entertainment]]
+|[[Sega]]
+|NA, PAL, JP
+|-
+|''[[List of Choro Q video games|Combat Choro Q: Advance Daisakusen]]''
+|N/A
+|2002
+|Access
+|Takara
+|JP
+|-
+|''[[Comix Zone]]''
+|N/A
+|2002
+|Virtucraft
+|Sega
+|PAL
+|-
+|''[[Connect Four]] / [[Perfection (board game)|Perfection]] / [[Trouble (board game)|Trouble]]''
+|N/A
+|2005
+|[[Gravity-I]]
+|[[DSI Games]]
+|NA
+|-
+|''[[Contra Advance: The Alien Wars EX]]''<br>•''Contra: Hard Spirits''<sup>JP</sup>
+|Yes (COOP)
+|2002
+|[[Tose (company)|TOSE]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[Corvette (video game)|Corvette]]''
+|N/A
+|2003
+|[[Visual Impact]]
+|[[TDK Mediactive]]
+|NA
+|-
+|''[[Crash Bandicoot: The Huge Adventure]]''<sup>NA</sup><br>•''Crash Bandicoot XS''<sup>PAL</sup><br>•''Crash Bandicoot Advance''<sup>JP</sup>
+|No
+|2002
+|[[Vicarious Visions]]
+|[[Vivendi Games]]
+|NA, PAL, JP
+|-
+|''[[Crash Bandicoot 2: N-Tranced]]''<br>•''Crash Bandicoot Advance 2: Guru Guru Sai Min Dai Panic!''<sup>JP</sup>
+|Yes
+|2003
+|[[Vicarious Visions]]
+|[[Vivendi Games]]
+|NA, PAL, JP
+|-
+|''[[Crash Bandicoot Purple: Ripto's Rampage and Spyro Orange: The Cortex Conspiracy|Crash Bandicoot Purple: Ripto's Rampage]]''<br>•''Crash Bandicoot: Fusion''<sup>PAL</sup><br>•''Crash Bandicoot Advance: Wakuwaku Tomodachi Daisakusen!<sup>JP</sup>
+|Yes (SPM)
+|2005
+|[[Vicarious Visions]]
+|[[Vivendi Games]]
+|NA
+|-
+|''[[Crash Nitro Kart]]''<br>•''Crash Bandicoot: Bakusou! Nitro Kart''<sup>JP</sup>
+|Yes
+|2003
+|[[Vicarious Visions]]
+|[[Vivendi Games]]
+|NA, PAL, JP
+|-
+|''[[Crash of the Titans]]''
+|N/A
+|2007
+|[[Amaze Entertainment]]
+|[[Sierra Entertainment]]
+|NA, PAL
+|-
+|''[[Crayon Shin-chan#Official video games|Crayon Shin-Chan: Arashi no Yobu Cinema-Land no Daibouken!]]''<sup>JP</sup><br>•''Shinchan: Aventuras en Cineland''<sup>ES</sup>
+|N/A
+|2004<sup>JP</sup><br>2005<sup>PAL</sup>
+|[[Inti Creates]]
+|[[Atari SA]]
+|PAL, JP
+|-
+|''[[Crayon Shin-chan#Official video games|Crayon Shin-Chan: Densetsu o Yobu Omake no To Shukkugaan!]]''<sup>JP</sup><br>•''Shinchan contra los muñecos de Shock Gahn''<sup>ES</sup>
+|N/A
+|2006
+|[[Inti Creates]]
+|[[Atari SA]]
+|PAL, JP
+|-
+|''[[Crazy Frog Racer]]''
+|No
+|2005
+|Neko Entertainment
+|Digital Jesters
+|PAL
+|-
+|''[[Kid Klown in Crazy Chase|Crazy Chase]]''
+|No
+|2002
+|
+|Kemco
+|NA, PAL
+|-
+|''[[Crazy Taxi: Catch a Ride]]''
+|No
+|2003
+|[[Kemco]]
+|[[Sega]]
+|NA, PAL
+|-
+|''[[Creatures (Game Boy Advance game)|Creatures]]''
+|N/A
+|2002
+|[[Elo Interactive]]
+|[[Swing! Deutschland]]
+|PAL
+|-
+|''[[Croket!#Games|Croket! Great Jikuu no Boukensha]]''
+|N/A
+|2004
+|
+|[[Konami]]
+|JP
+|-
+|''[[Croket!#Games|Croket! Yume no Banker Survival!]]''
+|N/A
+|2002
+|
+|[[Konami]]
+|JP
+|-
+|''[[Croket!#Games|Croket! 2: Yami no Bank to Ban Joou]]''
+|N/A
+|2003
+|
+|[[Konami]]
+|JP
+|-
+|''[[Croket!#Games|Croket! 3: Granyuu Oukoku no Nazo]]''
+|N/A
+|2003
+|
+|[[Konami]]
+|JP
+|-
+|''[[Croket!#Games|Croket! 4: Bank no Mori no Mamorigami]]''
+|N/A
+|2004
+|
+|[[Konami]]
+|JP
+|-
+|''[[Crouching Tiger, Hidden Dragon]]''
+|N/A
+|2003
+|
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Cruis'n Velocity]]''
+|N/A
+|2001
+|[[Graphic State]]
+|[[Midway Games]]
+|NA
+|-
+|''[[Crushed Baseball]]''
+|N/A
+|2004
+|Griptonite Games
+|Summitsoft Entertainment
+|NA
+|-
+|''[[CT Special Forces]]''
+|Yes
+|2002
+|Light and Shadow Productions
+|Hip Interactive
+|NA, PAL
+|-
+|''[[CT Special Forces 2: Back in the Trenches]]''<sup> NA</sup><br>•''CT Special Forces 2: Back to Hell''<sup> PAL</sup>
+|Yes
+|2003
+|Light and Shadow Productions
+|Hip Interactive
+|NA, PAL
+|-
+|''[[CT Special Forces 3: Bioterror]]''
+|Yes
+|2004
+|Light and Shadow Productions
+|Light and Shadow Productions
+|PAL
+|-
+|''[[Cubix|Cubix: Robots for Everyone: Clash 'n Bash]]''
+|N/A
+|2001
+|
+|3DO
+|NA
+|-
+|''[[Curious George (video game)|Curious George]]''
+|N/A
+|2006
+|Torus Games
+|Namco
+|NA, PAL
+|-
+|''[[Custom Robo GX]]''
+|N/A
+|2002
+|[[Noise (company)|Noise]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Cyber Drive Zoids (Game Boy Advance)|Cyber Drive Zoids: Hatakedamono no Senshi Hugh]]''
+|N/A
+|2003
+|[[Amedio]]
+|[[Tomy Corporation]]
+|JP
+|-
+|id="D"|''Dai-Mahjong''
+|N/A
+|2001
+|
+|Hori
+|JP
+|-
+|''[[Daisenryaku]]''
+|N/A
+|2001
+|
+|[[Media Kite]]
+|JP
+|-
+|''Daisuki Teddy''
+|N/A
+|2002
+|
+|MTO
+|JP
+|-
+|''Dan Doh!! Tobase Shouri no Smile Shot''
+|N/A
+|2004
+|
+|Takara
+|JP
+|-
+|''Dan Doh!! Xi''
+|N/A
+|2002
+|
+|GameVillage
+|JP
+|-
+|''Dancing Sword: Senkou'' (''Dancing Sword: Flash'')
+|N/A
+|2003
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''[[Danny Phantom: The Ultimate Enemy]]''
+|N/A
+|2005
+|[[Altron]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Danny Phantom: Urban Jungle]]''
+|N/A
+|2006
+|[[Altron]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Daredevil (video game)|Daredevil]]''
+|No
+|2003
+|[[Griptonite Games]]
+|[[BAM! Entertainment|BAM!]]
+|NA, PAL
+|-
+|''[[Darius (video game)|Darius R]]''
+|N/A
+|2002
+|[[RideonJapan, Inc.]]
+|[[Pacific Century]]
+|JP
+|-
+|''[[Dark Arena]]''
+|N/A
+|2002
+|[[Graphic State]]
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[Dave Mirra Freestyle BMX 2]]''
+|N/A
+|2003
+|[[Full Fat]]
+|[[Acclaim Entertainment|Acclaim]]
+|NA, PAL
+|-
+|''[[Dave Mirra Freestyle BMX 3]]''
+|N/A
+|2004
+|[[Full Fat]]
+|[[Acclaim Entertainment|Acclaim]]
+|NA, PAL
+|-
+|''[[David Beckham Soccer]]''
+|N/A
+|2002
+|Yoyo Entertainment
+|[[Rage Software]]
+|NA, PAL
+|-
+|''[[Davis Cup Tennis]]''
+|N/A
+|2002
+|Hokus Pokus Games
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Dead to Rights (Game Boy Advance)|Dead to Rights]]''
+|N/A
+|2004
+|[[Torus Games]]
+|[[Namco]]
+|NA, PAL
+|-
+|''[[Deal or No Deal (video game)|Deal or No Deal]]''
+|N/A
+|2007
+|Gravity-I
+|DSI Games
+|NA
+|-
+|''[[Defender (2002 video game)|Defender]]''<sup> NA</sup><br>•''Defender: For All Mankind''<sup> PAL</sup>
+|N/A
+|2002
+|[[Outlook Entertainment]]
+|[[Midway Games]]
+|NA, PAL
+|-
+|''[[Defender of the Crown]]
+|N/A
+|2002<br>2004
+|[[Crawfish Interactive]]
+|[[Metro3D, Inc.|Metro3D]]
+|NA, PAL
+|-
+|''[[DemiKids: Dark Version]]''<br>•''Shin Megami Tensei: Devil Children Yami no Sho''<sup> JP</sup>
+|N/A
+|2002
+|[[Multimedia Intelligence Transfer]]
+|[[Atlus]]
+|NA, JP
+|-
+|''[[DemiKids: Light Version]]''<br>•''Shin Megami Tensei: Devil Children Hikari no Sho''<sup> JP</sup>
+|N/A
+|2002
+|[[Multimedia Intelligence Transfer]]
+|[[Atlus]]
+|NA, JP
+|-
+|''Demon Driver: Time to Burn Rubber''
+|N/A
+|2004
+|[[Ignition Entertainment]]
+|AIA USA
+|NA, PAL
+|-
+|''[[Denki Blocks!]]''
+|N/A
+|2001
+|[[Rage Software]]
+|Rage Software / [[Majesco Entertainment]] / [[Global A Entertainment|Global A]]
+|NA, PAL, JP
+|-
+|''[[Densetsu no Stafy (video game)|Densetsu no Starfy]]''
+|No
+|2002
+|[[TOSE]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Densetsu no Starfy 2]]''
+|No
+|2003
+|[[TOSE]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Densetsu no Starfy 3]]''
+|Yes
+|2004
+|[[TOSE]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Derby Stallion Advance]]''
+|N/A
+|2002
+|[[ParityBit]]
+|[[Enterbrain]]
+|JP
+|-
+|''[[Desert Strike|Desert Strike Advance]]''
+|No
+|2002
+|[[Budcat Creations]]
+|[[EA Games]]
+|NA
+|-
+|''[[Dexter's Laboratory: Chess Challenge]]''
+|N/A
+|2002
+|[[Virtucraft]]
+|[[Bam Entertainment]]
+|NA, PAL
+|-
+|''[[Dexter's Laboratory: Deesaster Strikes!]]''
+|N/A
+|2001
+|[[Virtucraft]]
+|[[Bam Entertainment]]
+|NA, PAL
+|-
+|''DiaDroids World: Evil Teikoku no Yabou''
+|N/A
+|2001
+|
+|[[Epoch Co.|Epoch]]
+|JP
+|-
+|''[[Di Gi Charat#Games|Di Gi Charat: Di Gi Communication]]''
+|N/A
+|2002
+|[[M2 (game developer)|M2]]
+|[[Broccoli (company)|Broccoli]]
+|JP
+|-
+|''[[Di Gi Charat#Games|Di Gi Communication 2: Datou! Black GemaGema Dan!]]''
+|N/A
+|2004
+|[[M2 (game developer)|M2]]
+|[[Broccoli (company)|Broccoli]]
+|JP
+|-
+|''[[Digimon Battle Spirit]]''
+|Yes
+|2003
+|[[Dimps Corporation]]
+|[[Bandai]]
+|NA, PAL
+|-
+|''[[Digimon Battle Spirit 2]]''
+|Yes
+|2003/2004
+|[[Dimps Corporation]]
+|[[Bandai]]
+|NA, PAL
+|-
+|''[[Digimon Racing]]''
+|Yes
+|2004
+|[[Griptonite Games]]
+|[[Bandai]]
+|NA, PAL, JP
+|-
+|''[[Dinotopia: The Timestone Pirates]]''
+|N/A
+|2002
+|[[RFX Interactive]]
+|[[TDK Mediactive]]
+|NA, PAL
+|-
+|''[[Disney Princess (video game)|Disney Princess]]''
+|N/A
+|2003
+|[[Art Co., Ltd|Art]]
+|THQ
+|NA, PAL
+|-
+|''[[Disney's Princess Royal Adventure]]''
+|Yes
+|2006
+|[[Konami]]
+|[[Disney Interactive Studios]]
+|NA, PAL
+|-
+|''[[Disney Sports Basketball]]''
+|N/A
+|2002
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Disney Sports Football]]''<br>•''Disney Sports: American Football''<sup> JP</sup>
+|N/A
+|2002
+|[[Konami]]
+|Konami
+|NA, JP
+|-
+|''[[Disney Sports Motocross]]''
+|N/A
+|2002
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Disney Sports Skateboarding]]''
+|N/A
+|2002
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Disney Sports Snowboarding]]''
+|N/A
+|2002
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Disney Sports Soccer]]''<sup> NA</sup><br>•''Disney Sports Football''<sup> PAL</sup>
+|N/A
+|2002
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Disney's Aladdin (Capcom video game)|Disney's Aladdin]]''
+|N/A
+|2004
+|[[Capcom]]
+|Capcom
+|NA, PAL, JP
+|-
+|''[[American Dragon: Jake Long#Video games|Disney's American Dragon: Jake Long - Rise of the Huntsclan]]''
+|N/A
+|2006
+|[[WayForward|WayForward Technologies]]
+|[[Buena Vista Games]]
+|NA, PAL
+|-
+|''[[Atlantis: The Lost Empire (video game)|Disney's Atlantis: The Lost Empire]]''
+|N/A
+|2001
+|[[3d6 Games]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Disney's Brother Bear (video game)|Disney's Brother Bear]]''
+|N/A
+|2003
+|Vicarious Visions
+|THQ
+|NA, PAL
+|-
+|''[[Disney's Chicken Little]]''
+|N/A
+|2005
+|Artificial Mind and Movement 
+|Buena Vista Games
+|NA, PAL, JP
+|-
+|''[[Disney's Cinderella: Magical Dreams]]''
+|N/A
+|2005
+|
+|Disney Interactive Studios
+|NA, PAL
+|-
+|''[[Disney's Extreme Skate Adventure]]''
+|N/A
+|2003
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Herbie: Fully Loaded (video game)|Disney's Herbie: Fully Loaded]]''
+|Yes
+|2005
+|Disney Interactive Studios
+|[[Buena Vista Interactive]]
+|NA, PAL
+|-
+|''[[Home on the Range (2004 film)|Disney's Home on the Range]]''
+|N/A
+|2004
+|Artificial Mind and Movement
+|Disney Interactive Studios
+|NA, PAL
+|-
+|''[[Kim Possible (video game series)|Disney's Kim Possible: Revenge of Monkey Fist]]''<br>''Disney's Kim Possible''<sup> PAL</sup>
+|N/A
+|2002<sup>NA</sup><br>2003<sup>EU</sup>
+|[[Backbone Entertainment|Digital Eclipse Software]]
+|[[Disney Interactive Studios]]<sup>NA</sup> / [[THQ]]<sup>EU</sup>
+|NA, PAL
+|-
+|''[[Kim Possible (video game series)|Disney's Kim Possible 2: Drakken's Demise]]''<br>''Disney's Kim Possible''<sup> JP</sup>
+|N/A
+|2004<sup>NA</sup><br>2006<sup>EU</sup><br>2005<sup>JP</sup>
+|[[Artificial Mind and Movement]]
+|[[Disney Interactive Studios]]<sup>NA, PAL</sup> / [[D3 Publisher]]<sup>JP</sup>
+|NA, PAL, JP
+|-
+|''[[Kim Possible (video game series)|Disney's Kim Possible 3: Team Possible]]''
+|N/A
+|2005
+|[[Artificial Mind and Movement]]
+|[[Disney Interactive Studios]]
+|NA
+|-
+|''[[Disney's Lilo & Stitch (Game Boy Advance video game)|Disney's Lilo & Stitch]]''
+|N/A
+|2002
+|[[Digital Eclipse Software]]
+|[[Disney Interactive Studios]]
+|NA, PAL
+|-
+|''[[Lilo & Stitch 2: Hämsterviel Havoc|Disney's Lilo & Stitch 2: Hämsterviel Havoc]]''<sup> NA</sup><br>''Disney's Lilo & Stitch 2''<sup> PAL</sup><br>''Disney's Lilo and Stitch''<sup> JP</sup>
+|N/A
+|2004
+|[[Firemint]]
+|[[Disney Interactive Studios]]
+|NA, PAL, JP
+|-
+|''[[Little Einsteins|Disney's Little Einsteins]]''
+|Yes
+|2006
+|[[InLight Entertainment]]
+|[[Buena Vista Games]]
+|NA, PAL
+|-
+|''[[The Lion King 1½ (video game)|Disney's The Lion King 1½]]''<sup> NA</sup><br>•''Disney's The Lion King''<sup> PAL</sup>
+|N/A
+|2003
+|[[Vicarious Visions]]
+|[[Disney Interactive Studios]]
+|NA, PAL
+|-
+|''[[The Jungle Book (video game)|Disney's The Jungle Book]]''<br>•''Disney's The Jungle Book 2''<sup>PAL</sup>
+|N/A
+|2003
+|[[Visual Impact]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[The Magical Quest Starring Mickey Mouse|Disney's Magical Quest Starring Mickey & Minnie]]''<br>•''Disney's Mickey to Minnie no Magical Quest''<sup> JP</sup>
+|Yes (SPM)
+|2002
+|[[Capcom]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[The Great Circus Mystery Starring Mickey & Minnie|Disney's Magical Quest 2 Starring Mickey and Minnie]]''<br>•''Disney's Mickey to Minnie no Magical Quest 2''<sup> JP</sup>
+|N/A
+|2003
+|[[Capcom]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Disney's Magical Quest 3 Starring Mickey & Donald]]''<br>•''Disney's Mickey to Donald no Magical Quest 3''<sup> JP</sup>
+|N/A
+|2005
+|[[Klein Computer Entertainment]]
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Disney's Party]]''<br>•''Mickey no Pocket Resort''<sup>JP</sup>
+|Yes (SPM)
+|2003<sup>PAL, NA</sup><br>2004<sup>JP</sup>
+|[[Jupiter (company)|Jupiter]]
+|Electronic Arts
+|NA, PAL
+|-
+|''[[Disney's Peter Pan: Return to Neverland]]''
+|N/A
+|2001
+|Amedio
+|Tomy Corporation
+|NA, PAL
+|-
+|''[[Disney's Tarzan: Return to the Jungle]]''
+|N/A
+|2002
+|Digital Eclipse
+|Activision
+|NA, PAL
+|-
+|''Disney's The Little Mermaid: Magic in Two Kingdoms''
+|N/A
+|2006
+|Gorilla Systems
+|Buena Vista Games
+|NA, PAL
+|-
+|''[[Treasure Planet (video game)|Disney's Treasure Planet]]''
+|No
+|2002
+|[[Bizarre Creations]]
+|Disney Interactive Studios
+|NA, PAL
+|-
+|''[[DK King of Swing|DK: King of Swing]]''<br>•''Bura Bura Donkey''<sup>JP</sup>
+|Yes (SPM)
+|2005
+|Paon Corporation
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Dogz]]''<br>•''Kawaii Koinu: Wonderful''<sup>JP</sup>
+|N/A
+|2005
+|[[Natsume (company)|Natsume]]
+|[[Ubisoft]]
+|NA, PAL, JP
+|-
+|''[[Petz: Dogz 2 and Catz 2|Dogz 2]]''
+|N/A
+|2007
+|[[MTO (video game company)|MTO]]
+|Ubisoft
+|NA, PAL
+|-
+|''[[Petz|Dogz Fashion]]''<br>•''Oshare Wanko''<sup>JP</sup>
+|N/A
+|2005
+|[[Natsume (company)|Natsume]]
+|[[Ubisoft]]
+|NA, PAL, JP
+|-
+|''[[Dokapon: Monster Hunter]]''<sup> NA</sup><br>•''Dokapon: Monster Hunter!''<sup> PAL</sup><br>•''Dokapon-Q: Monster Hunter!''<sup> JP</sup>
+|N/A
+|2001<br>2002
+|[[Asmik Ace Entertainment, Inc]]
+|[[AIA (video game company)|AIA]]
+|NA, PAL, JP
+|-
+|''Dokodemo Taikyoku: Yakuman Advance'' (''Play Anywhere Versus Advance'')
+|Yes (SPM)
+|2001
+|
+|[[Nintendo]]
+|JP
+|-
+|''[[Domo-kun no Fushigi Terebi]]''
+|N/A
+|2002
+|[[Suzak Inc.|Suzak]]
+|[[Nintendo]]
+|JP
+|-
+|''Don-Chan Puzzle: Hanabi de Don!''
+|N/A
+|2004
+|Takumi Corporation
+|Aruze Corp
+|JP
+|-
+|''[[Donald Duck Advance]]''
+|No
+|2001
+|Ubisoft Shanghai
+|Disney Interactive Studios
+|NA, PAL, JP
+|-
+|''[[Donkey Kong Country]]''<br>•''Super Donkey Kong''<sup> JP</sup>
+|Yes
+|2003
+|[[Rare (company)|Rare]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Donkey Kong Country 2: Diddy's Kong Quest|Donkey Kong Country 2]]''<br>•''Super Donkey Kong 2''<sup> JP</sup>
+|Yes
+|2004
+|[[Rare (company)|Rare]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Donkey Kong Country 3: Dixie Kong's Double Trouble!|Donkey Kong Country 3]]''<br>•''Super Donkey Kong 3''<sup> JP</sup>
+|Yes
+|2005
+|[[Rare (company)|Rare]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Official versions of Doom#Game Boy Advance|Doom]]''
+|Yes
+|2001
+|[[David A. Palmer Productions]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Doom II|Doom II: Hell on Earth]]''
+|Yes
+|2002
+|[[Torus Games]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Dora the Explorer: The Search for Pirate Pig's Treasure]]''
+|N/A
+|2002
+|[[NewKidCo]]
+|[[Nick Jr.]]
+|NA
+|-
+|''[[Dora the Explorer: Super Spies]]''
+|N/A
+|2003
+|Cinegroupe
+|[[Gotham Games]]
+|NA
+|-
+|''[[Dora the Explorer: Super Star Adventures]]''
+|N/A
+|2004
+|ImaginEngine
+|Global Star Software<sup>NA</sup><br>The Game Factory<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Dora's World Adventure]]''
+|Yes
+|2006
+|Black Lantern Studios
+|Global Star Software
+|NA
+|-
+|''[[List of Doraemon video games#Game Boy Advance|Doraemon Dokodemo Walker]]'' (''Doraemon Anywhere Walker'')
+|N/A
+|2002
+|
+|[[Epoch Co.|Epoch]]
+|JP
+|-
+|''[[List of Doraemon video games#Game Boy Advance|Doraemon Midori No Wakusei]]'' (''Doraemon's Green Planet'')
+|N/A
+|2001
+|
+|[[Epoch Co.|Epoch]]
+|JP
+|-
+|''[[Double Dragon Advance]]''
+|N/A
+|2003<br>2004
+|Million
+|Atlus
+|NA, JP
+|-
+|''[[Downforce (video game)|Downforce]]''
+|N/A
+|2002
+|[[Karma Studios]]
+|[[Titus Software]]
+|NA, PAL
+|-
+|''[[Dr. Mario & Puzzle League]]''<br>•''Dr. Mario & Panel de Pon''<sup> JP</sup>
+|Yes
+|2005
+|[[TOSE]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Dr. Muto]]''
+|N/A
+|2002
+|[[Digital Eclipse]]
+|[[Midway Games|Midway]]
+|PAL
+|-
+|''[[Dr. Seuss: Green Eggs and Ham (video game)|Dr. Seuss: Green Eggs and Ham]]''
+|N/A
+|2003
+|[[Handheld Games]]
+|[[NewKidCo]]
+|NA
+|-
+|''[[Dr. Seuss' The Cat in the Hat (video game)|Dr. Seuss' The Cat in the Hat]]''<br>•''The Cat in the Hat''<sup> PAL</sup>
+|N/A
+|2003<sup>NA</sup><br>2004<sup>EU</sup>
+|[[Digital Eclipse]]
+|[[VU Games]]
+|NA, PAL
+|-
+|''[[Dr. Sudoku (video game)|Dr. Sudoku]]''<br>•''Minna no Soft Series: Numpla Advance''<sup>JP</sup>
+|N/A
+|2006
+|Success
+|[[Mastiff (company)|Mastiff]]
+|NA, PAL, JP
+|-
+|''[[Dragon Ball: Advanced Adventure]]''
+|N/A
+|2004
+|[[Dimps]]
+|[[Atari]] / [[Banpresto]]
+|NA, PAL, JP
+|-
+|''[[Dragon Ball Z: The Legacy of Goku (series)#Buu's Fury|Dragon Ball Z: Buu's Fury]]''
+|N/A
+|2004
+|[[Webfoot]]
+|[[Atari]]
+|NA
+|-
+|''[[Dragon Ball Z: Collectible Card Game]]''
+|N/A
+|2002
+|[[ImaginEngine]]
+|Infogrames
+|NA
+|-
+|''[[Dragon Ball Z: The Legacy of Goku (series)#The Legend of Goku|Dragon Ball Z: The Legacy of Goku]]''
+|N/A
+|2002
+|[[Webfoot]]
+|[[Atari]]
+|NA, PAL
+|-
+|''[[Dragon Ball Z: The Legacy of Goku (series)#The Legend of Goku II|Dragon Ball Z: The Legacy of Goku II]]''
+|N/A
+|2003
+|[[Webfoot]]
+|[[Atari]]
+|NA, PAL, JP
+|-
+|''[[Dragon Ball Z: Supersonic Warriors]]''<br>•''Dragon Ball Z: Bukuu Tougeki''<sup> JP</sup>
+|N/A
+|2004
+|[[Arc System Works]]
+|[[Atari]]
+|NA, PAL, JP
+|-
+|''[[Dragon Ball Z: Taiketsu]]''
+|Yes
+|2004
+|[[Webfoot]]
+|[[Atari]]
+|NA, PAL
+|-
+|''[[Dragon Ball GT: Transformation]]''
+|N/A
+|2005
+|[[Webfoot]]
+|[[Atari]]
+|NA
+|-
+|''[[Dragon Drive|Dragon Drive: World D Break]]''
+|N/A
+|2003
+|[[Zero One (game developer)|Zero One]]
+|[[Banpresto]]
+|JP
+|-
+|''[[Torneko: The Last Hope|Dragon Quest Characters: Toruneko no Daibouken 2 Advance]]''
+|N/A
+|2001
+|
+|[[Square Enix]]
+|JP
+|-
+|''[[Dragon Quest Characters: Torneko no Daibōken 3|Dragon Quest Characters: Torneko no Daibōken 3 Advance - Fushigi no Dungeon]]''
+|N/A
+|2004
+|Rakish
+|[[Square Enix]]
+|JP
+|-
+|''[[Dragon Quest Monsters: Caravan Heart]]''
+|No
+|2003
+|TOSE
+|[[Square Enix]]
+|JP
+|-
+|''[[Dragon Tales: Dragon Adventures]]'' 
+|N/A
+|2001 
+|[[Handheld Games]]
+|[[NewKidCo]]
+|NA
+|-
+|''Dragon's Rock'' 
+|N/A
+|2006
+|Independent Arts
+|[[East Entertainment Media]]
+|PAL
+|-
+|''[[Drake & Josh (video game)|Drake & Josh]]''
+|N/A
+|2007
+|[[Artificial Mind and Movement]]
+|[[THQ]]
+|NA
+|-
+|''[[Drill Dozer]]''<br>•''Screw Breaker: Goushin Dorirurero''<sup> JP</sup>
+|No
+|2005
+|[[Game Freak]]
+|[[Nintendo]]
+|NA, JP
+|-
+|''[[Driv3r]]''
+|N/A
+|2005
+|[[V3D Production]]
+|[[Atari]]
+|NA, PAL
+|-
+|''[[Driven (video game)|Driven]]''
+|Yes (SPM)
+|2001
+|Crawfish Interactive
+|[[Bam Entertainment|BAM!]]
+|NA, PAL
+|-
+|''[[Driver 2|Driver 2 Advance]]''
+|N/A
+|2002
+|Sennari Interactive
+|[[Atari]]
+|NA, PAL
+|-
+|''[[Drome Racers]]''
+|N/A
+|2003
+|Mobius Entertainment
+|THQ
+|NA, PAL
+|-
+|''[[Droopy's Tennis Open]]''
+|Yes (SPM)
+|2002
+|Bit Managers
+|LSP
+|PAL
+|-
+|''[[Dual Blades]]''
+|N/A
+|2002
+|[[Sobee|Dinc Interactive]]
+|[[Metro3D, Inc.|Metro3D]]
+|NA, JP
+|-
+|''[[Duel Masters (video game)|Duel Masters]]''
+|N/A
+|2003
+|[[Mistic Software]]
+|[[Takara]]
+|JP
+|-
+|''[[Duel Masters|Duel Masters: Kaijudo Showdown]]''
+|N/A
+|2004
+|[[Mistic Software]]
+|[[Atari]]
+|NA, PAL
+|-
+|''[[Duel Masters|Duel Masters: Sempai Legends]]''
+|Yes
+|2004
+|[[Mistic Software]]
+|[[Atari]]
+|NA, PAL
+|-
+|''[[Duel Masters|Duel Masters: Shadow of the Code]]''
+|N/A
+|2004<sup>PAL</sup>2005<sup>NA</sup>
+|[[Amble]]
+|[[Atari SA]]
+|NA, PAL
+|-
+|''[[Duel Masters|Duel Masters 2]]''
+|N/A
+|2003
+|[[Mistic Software]]
+|[[Takara]]
+|JP
+|-
+|''[[Duel Masters|Duel Masters 2: Kirifuda Shoubu Version]]''
+|N/A
+|2004
+|[[Mistic Software]]
+|[[Takara]]
+|JP
+|-
+|''[[Duel Masters|Duel Masters 3]]''
+|N/A
+|2004
+|[[Atlus]]/[[Caravan Group]]
+|[[Takara]]
+|JP
+|-
+|''[[Duke Nukem Advance]]''
+|Yes
+|2002
+|[[Torus Games]]
+|[[Take-Two Interactive]]
+|NA, PAL
+|-
+|''[[Eye of the Beholder (2002 video game)|Dungeons & Dragons: Eye of the Beholder]]''
+|N/A
+|2002
+|[[Pronto Games]]
+|[[Infogrames]]
+|NA
+|-
+|''[[Dynasty Warriors Advance]]''<br>•''Shin Sangoku Musou Advance<sup>JP</sup>
+|No
+|2005
+|[[TOSE]] 
+|[[Koei Tecmo|Koei]]
+|NA, PAL, JP
+|-
+|id="E"|''[[Nintendo e-Reader]]''
+|N/A
+|2001/2002
+|[[Nintendo]]
+|Nintendo
+|NA, JP
+|-
+|''[[Earthworm Jim (video game)|Earthworm Jim]]''
+|No
+|2001
+|[[Game Titan]]
+|Majesco Entertainment
+|NA, PAL
+|-
+|''[[Earthworm Jim 2]]''
+|No
+|2002
+|Super Empire
+|Majesco Entertainment
+|NA, PAL
+|-
+|''[[Ecks vs. Sever]]''
+|N/A
+|2001
+|[[Crawfish Interactive]]
+|[[Bam Entertainment]]
+|NA, PAL
+|-
+|''[[Ed, Edd n Eddy: Jawbreakers!]]''
+|N/A
+|2003
+|[[Crawfish Interactive]]
+|[[BAM! Entertainment]]
+|NA, PAL
+|-
+|''[[Ed, Edd n Eddy: The Mis-Edventures]]''
+|N/A
+|2005
+|[[Artificial Mind and Movement]]
+|[[Midway Games]]
+|NA, PAL
+|-
+|''[[Egg Mania: Eggstreme Madness]]''<br>•''Eggo Mania''<sup> PAL</sup><br>•''Tsukande! Mawashite! Dossun Pazuru Eggo Mania''<sup> JP</sup>
+|Yes (SPM)
+|2002
+|[[HotGen]]
+|[[Kemco]]
+|NA, PAL, JP
+|-
+|''[[Elemix!]]''
+|N/A
+|2003
+|
+|[[SIMS Co., Ltd.]]
+|JP
+|-
+|''[[Elevator Action Old & New]]''
+|N/A
+|2002
+|Taito Corporation
+|[[Media Kite]]
+|JP
+|-
+|''[[Elf: The Movie]]''
+|N/A
+|2005<sup>EU</sup><br>2004<sup>NA</sup>
+|[[HumanSoft]]
+|[[Crave Entertainment|Crave]]
+|NA, PAL
+|-
+|''[[Elf Bowling 1 & 2]]''
+|N/A
+|2005
+|Black Lantern Studios
+|Ignition Entertainment
+|NA
+|-
+|''[[Enchanted (video game)|Enchanted: Once Upon Andalasia]]''
+|N/A
+|2007
+|[[Artificial Mind and Movement]]
+|[[Disney Interactive Studios]]
+|NA
+|-
+|''[[Eragon (video game)|Eragon]]''
+|N/A
+|2006
+|[[Amaze Entertainment]]
+|[[Sierra Entertainment]]
+|NA, PAL
+|-
+|''[[Elemental Gelade|Erementar Gerad: Huuin Sarashi Kyou]]'' (Elemental Gelade: Tozasareshi Uta)
+|N/A
+|2005
+|[[Jupiter (company)|Jupiter]]
+|[[Tomy Company]]
+|JP
+|-
+|''[[ESPN Final Round Golf 2002]]''<br>•''ESPN Final Round Golf''<sup>PAL</sup><br>•''JGTO Golf Master: Japan Tour Golf Game''<sup>JP</sup>
+|Yes
+|2001
+|[[Konami Computer Entertainment Nagoya]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[ESPN Great Outdoor Games: Bass 2002]]''<br>•''ESPN Great Outdoor Games: Bass Tournament<sup>PAL</sup><br>•''Exciting Bass<sup>JP</sup>
+|N/A
+|2002
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[ESPN International Winter Sports 2002]]''<br>•''ESPN International Winter Sports''<sup>PAL</sup><br>•''Hyper Sports 2002 Winter''<sup>JP</sup>
+|Yes (SPM)
+|2002
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[ESPN Winter X-Games Snowboarding 2002]]''<br>•''ESPN Winter X-Games Snowboarding 2''<sup>PAL</sup>
+|N/A
+|2002
+|KCEO
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[ESPN X Games Skateboarding]]''
+|N/A
+|2001
+|Konami Honolulu Studio
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[E.T. the Extra-Terrestrial in video games#2001|E.T. The Extra Terrestrial]]''
+|N/A
+|2001
+|Fluid Studios
+|NewKidCo
+|NA, PAL
+|-
+|''[[European Super League (video game)|European Super League]]''
+|N/A
+|2001
+|[[Aqua Pacific]]
+|[[Virgin Interactive Entertainment]]
+|PAL
+|-
+|''[[everGirl]]''
+|N/A
+|2005
+|[[THQ]] / [[Behaviour Interactive|A2M]]
+|[[Nickelodeon]]
+|NA
+|-
+|''EX Monopoly''
+|Yes (SPM)
+|2001
+|[[Mobile 21]]
+|[[Takara]]
+|JP
+|-
+|''[[Extreme Ghostbusters: Code Ecto-1]]''
+|N/A
+|2002
+|[[Magic Pockets (company)|Magic Pockets]]
+|[[DreamCatcher Interactive]]
+|NA, PAL
+|-
+|''[[Extreme Mahjong Deluxe: Terminator 21]]'' (Goku Mahjong Deluxe: Mirai Senshi 21)
+|N/A
+|2001
+|
+|Athena
+|JP
+|-
+|''[[Eyeshield 21: Devilbats Devildays]]''
+|N/A
+|2006
+|[[Eighting]]
+|[[Nintendo]]
+|JP
+|-
+|''[[EZ-Talk 1|EZ-Talk Shokyuuhen 1]]''
+|N/A
+|{{Vgrtbl|2=2001}}
+|[[NDcube]]
+|[[KeyNet]]
+|JP
+|-
+|''[[EZ-Talk 2|EZ-Talk Shokyuuhen 2]]''
+|N/A
+|{{Vgrtbl|JP|August 1, 2001}}
+|[[NDcube]]
+|[[KeyNet]]
+|JP
+|-
+|''[[EZ-Talk 3|EZ-Talk Shokyuuhen 3]]''
+|N/A
+|{{Vgrtbl|JP|August 1, 2001}}
+|[[NDcube]]
+|[[KeyNet]]
+|JP
+|-
+|''[[EZ-Talk 4|EZ-Talk Shokyuuhen 4]]''
+|
+|{{Vgrtbl|JP|August 1, 2001}}
+|[[NDcube]]
+|[[KeyNet]]
+|JP
+|-
+|''[[EZ-Talk 5|EZ-Talk Shokyuuhen 5]]''
+|N/A
+|{{Vgrtbl|JP|August 1, 2001}}
+|[[NDcube]]
+|[[KeyNet]]
+|JP
+|-
+|''[[EZ-Talk 6|EZ-Talk Shokyuuhen 6]]''
+|N/A
+|{{Vgrtbl|JP|August 1, 2001}}
+|[[NDcube]]
+|[[KeyNet]]
+|JP
+|-
+|id="F"|''[[EA Sports F1 2002|F1 2002]]''
+|N/A
+|2002
+|[[Visual Sciences (game company)|Visual Science]]
+|[[EA Sports]]
+|NA, PAL
+|-
+|''[[F-14 Tomcat (video game)|F-14 Tomcat]]''
+|N/A
+|2001
+|[[Virtucraft]]
+|Majesco
+|NA, PAL
+|-
+|''[[F24: Stealth Fighter]]''
+|N/A
+|2006
+|[[Skyworks Technologies]]
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[The Fairly OddParents: Breakin' Da Rules]]''
+|N/A
+|2003
+|[[Blitz Games]]
+|[[THQ]]
+|NA
+|-
+|''[[The Fairly OddParents: Clash with Anti-World]]''
+|N/A
+|2005
+|[[Blitz Games]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[The Fairly OddParents: Enter the Cleft]]
+|Yes
+|2002
+|[[Blitz Games]]
+|[[THQ]]
+|NA
+|-
+|''[[The Fairly OddParents: Shadow Showdown]]''
+|N/A
+|2004
+|[[Blitz Games]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[F-Zero: Climax]]''
+|Yes (SPM)
+|2004
+|[[Suzak Inc.|Suzak]]
+|[[Nintendo]]
+|JP
+|-
+|''[[F-Zero: GP Legend (video game)|F-Zero: GP Legend]]''<br>•''F-Zero: Falcon Densetsu''<sup>JP</sup>
+|Yes (SPM)
+|2003
+|[[Suzak Inc.|Suzak]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[F-Zero: Maximum Velocity]]''<br>•''F-Zero''<sup>JP</sup>
+|Yes (SPM)
+|2001
+|[[NDcube]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Family Feud]]''
+|N/A
+|2006
+|Atomic Planet Entertainment
+|Global Star Software
+|NA
+|-
+|''Family Tennis Advance''
+|N/A
+|2002
+|[[Natsume (company)|Natsume]]
+|[[Namco Limited]]
+|JP
+|-
+|''[[Family Stadium|Famista Advance]]''
+|Yes (SPM)
+|2002
+|
+|[[Namco]]
+|JP
+|-
+|''Fancy Pocket''
+|N/A
+|2002
+|
+|[[Jorudan]]
+|JP
+|-
+|''[[Fantastic Four (2005 video game)|Fantastic Four]]''
+|N/A
+|2005
+|[[7 Studios]]
+|[[Activision]]
+|NA
+|-
+|''[[Fantastic Four: Flame On]]''
+|N/A
+|2005
+|[[Torus Games]]
+|[[Activision]]
+|NA
+|-
+|''[[Fantastic Children]]''
+|N/A
+|2005
+|[[Inti Creates]]
+|[[Bandai]]
+|JP
+|-
+|''Fantastic Marchen: Keaki Okusan Monogatari''
+|N/A
+|2002
+|
+|
+|JP
+|-
+|''[[Fear Factor: Unleashed]]''
+|N/A
+|2004
+|[[DC Studios]]
+|[[Hip Games]]
+|NA
+|-
+|''Field of Nine: Digital Edition 2001''
+|N/A
+|2001
+|[[Konami]]
+|Konami
+|JP
+|-
+|''[[FIFA Football 2003]]''
+|N/A
+|2002
+|Exient Entertainment
+|[[EA Sports]]
+|NA, PAL
+|-
+|''[[FIFA Football 2004]]''
+|N/A
+|2003
+|Exient Entertainment
+|[[EA Sports]]
+|NA, PAL
+|-
+|''[[FIFA Football 2005]]''
+|N/A
+|2004
+|
+|[[EA Sports]]
+|NA, PAL
+|-
+|''[[FIFA 06]]''
+|N/A
+|2005
+|
+|[[EA Sports]]
+|NA, PAL
+|-
+|''[[FIFA 07]]''
+|N/A
+|2006
+|
+|[[EA Sports]]
+|NA, PAL
+|-
+|''[[2006 FIFA World Cup (video game)|FIFA World Cup: Germany 2006]]''
+|N/A
+|2006
+|
+|[[EA Sports]]
+|NA
+|-
+|''[[FightBox]]''
+|N/A
+|2004
+|[[Gamezlab]]
+|[[BBC Multimedia]]
+|PAL
+|-
+|''[[FILA Decathlon]]''
+|N/A
+|2002
+|[[Athletic Design AB]]
+|[[THQ]]
+|PAL
+|-
+|''[[Final Fantasy I & II: Dawn of Souls]]''<br>•''Final Fantasy I & II Advance''<sup> JP</sup>
+|N/A
+|2004
+|[[TOSE]]
+|[[Square Enix]] (Japan), Nintendo (overseas)
+|NA, PAL, JP
+|-
+|''[[Final Fantasy IV Advance]]''
+|N/A
+|2005
+|[[TOSE]]
+|[[Square Enix]](Japan), Nintendo (overseas)
+|NA, PAL, JP
+|-
+|''[[Final Fantasy V Advance]]''
+|N/A
+|2006
+|[[TOSE]]
+|[[Square Enix]] (Japan), Nintendo (overseas)
+|NA, PAL, JP
+|-
+|''[[Final Fantasy VI Advance]]''
+|N/A
+|2006
+|[[Square Enix]]
+|Square Enix (Japan), Nintendo (overseas)
+|NA, PAL, JP
+|-
+|''[[Final Fantasy Tactics Advance]]''
+|N/A
+|2003
+|[[Square Enix]]
+|Square Enix (Japan), Nintendo (overseas)
+|NA, PAL, JP
+|-
+|''[[Final Fight One]]''
+|N/A
+|2001
+|[[Capcom]]
+|Capcom
+|NA, PAL, JP
+|-
+|''[[Finding Nemo (video game)|Finding Nemo]]''
+|No
+|2003
+|[[Traveller's Tales]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''[[Finding Nemo: The Continuing Adventure]]''<br>•''Finding Nemo: Arata na Bouken ''<sup> JP</sup>
+|N/A
+|2004
+|[[Altron]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''[[Fire Emblem (video game)|Fire Emblem]]''<br>•''Fire Emblem: Rekka no Ken''<sup> JP</sup>
+|N/A
+|2003
+|[[Intelligent Systems]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Fire Emblem: The Binding Blade]]'' (''Fire Emblem: Fuuin no Tsurugi'')
+|N/A
+|2002
+|[[Intelligent Systems]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Fire Emblem: The Sacred Stones]]''<br>•''Fire Emblem: Seima no Kousek''<sup> JP</sup>
+|N/A
+|2004
+|[[Intelligent Systems]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Fire Pro Wrestling (GBA)|Fire Pro Wrestling]]''<br>•''Fire Pro Wrestling A''<sup> JP</sup>
+|Yes
+|{{Vgrtbl|JP|March 21, 2001|US|June 10, 2001|EU|June 11, 2001}}
+|Vaill
+|[[BAM! Entertainment|Bam Entertainment]]
+|NA, PAL, JP
+|-
+|''[[Fire Pro Wrestling 2]]''<br>•''Final Fire ProWrestling: Yume no Dantai Unei!''<sup>JP</sup>
+|N/A
+|2002
+|[[Spike (company)|Spike]]
+|[[Bam Entertainment]]
+|NA, JP
+|-
+|''[[Flame of Recca#Video games|Flame of Recca: The Game]]'' (Rekka no Honō: The Game)
+|N/A
+|2001
+|
+|Konami
+|JP
+|-
+|''[[The Flintstones: Big Trouble In Bedrock]]''
+|N/A
+|2001
+|H2O Entertainment
+|[[Crave Entertainment|Crave]]
+|NA, PAL
+|-
+|''[[Flushed Away (video game)|Flushed Away]]''
+|N/A
+|2006
+|[[Altron]]
+|[[D3 Publisher]]
+|NA, PAL
+|-
+|''[[Ford Racing (series)#Ford Racing 3|Ford Racing 3]]''
+|N/A
+|2006
+|
+|[[Empire Interactive]]
+|NA, PAL
+|-
+|''[[Formation Soccer 2002]]''
+|N/A
+|2002
+|
+|[[Spike (company)|Spike]]
+|JP
+|-
+|''[[Fortress (tower defense video game)|Fortress]]''
+|N/A
+|2001
+|
+|[[Majesco Entertainment]]
+|NA, PAL
+|-
+|''[[Foster's Home for Imaginary Friends (video game)|Foster's Home for Imaginary Friends]]''
+|N/A
+|2006
+|Collision Studios
+|[[Crave Entertainment]]
+|NA, PAL
+|-
+|''[[Franklin the Turtle (video game)|Franklin the Turtle]]''
+|N/A
+|2005
+|[[InterActive Vision Games]]
+|[[The Game Factory]]
+|NA, PAL
+|-
+|''[[Franklin's Great Adventures]]''
+|N/A
+|2006
+|[[Neko Entertainment]]
+|[[The Game Factory]]
+|NA, PAL
+|-
+|''[[Freekstyle]]''
+|N/A
+|2003
+|[[Full Fat]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Frogger Advance: The Great Quest]]''
+|No
+|2002
+|KCEA
+|Konami
+|NA, PAL
+|-
+|''[[Frogger's Adventures: Temple of the Frog]]''
+|No
+|2001
+|Konami Software Shanghai
+|Konami
+|NA, PAL
+|-
+|''[[Frogger's Adventures 2: The Lost Wand]]''<br>•''Frogger: Mahou no Kuni no Daibouken''<sup> JP</sup>
+|Yes (SPM)
+|2002<br>2003
+|
+|Konami
+|NA, PAL, JP
+|-
+|''[[Frogger's Journey: The Forgotten Relic]]''<br>•''Frogger: Kodaibunmei no Nazo''<sup> JP</sup>
+|N/A
+|2003<br>2004
+|
+|Konami
+|NA, JP
+|-
+|''From TV animation - One Piece: Mezase! King of Berry''
+|N/A
+|2003
+|
+|Banpresto
+|JP
+|-
+|''From TV animation - One Piece: Nanatsu-jima no Dai-hihō''
+|N/A
+|2002
+|
+|Banpresto
+|JP
+|-
+|''Fruits Mura no Doubutsu Tachi''
+|N/A
+|2004
+|
+|[[TDK|TDK Core]]
+|JP
+|-
+|''[[Fushigi no Kuni no Alice]]'' (''Alice's Adventures in Wonderland'')
+|N/A
+|2003
+|
+|[[Global A Entertainment|Global A]]
+|JP
+|-
+|''[[Fushigi no Kuni no Angelique]]'' (''Angelique's Adventures in Wonderland'')
+|N/A
+|2002
+|
+|[[Koei]]
+|JP
+|-
+|''[[Futari wa Pretty Cure|Futari wa Pretty Cure: Ariena~i! Yume no Sono wa Daimeikyuu]]''
+|N/A
+|2004
+|
+|[[Bandai]]
+|JP
+|-
+|''[[Futari wa Pretty Cure|Futari Wa Pretty Cure Max Heart: Maji? Maji!? Fight de IN Janai]]''
+|N/A
+|2005
+|
+|[[Bandai]]
+|JP
+|-
+|id="G"|''Gachasute! Dino Device Blue''
+|N/A
+|2002
+|AI
+|[[Smilesoft]]
+|JP
+|-
+|''Gachasute! Dino Device Red''
+|N/A
+|2002
+|AI
+|[[Smilesoft]]
+|JP
+|-
+|''Gachasute! Dino Device 2: Dragon''
+|N/A
+|2003
+|AI
+|[[Rocket Company]]
+|JP
+|-
+|''Gachasute! Dino Device 2: Phoenix''
+|N/A
+|2003
+|AI
+|[[Rocket Company]]
+|JP
+|-
+|''Gachinko Pro Yakyuu''
+|N/A
+|2002
+|
+|[[Now Production]]
+|JP
+|-
+|''[[List of Choro Q video games|Gadget Racers]]''<br>•''Penny Racers''<sup>PAL</sup><br>•''Choro Q Advance''<sup>JP</sup>
+|N/A
+|2001
+|Electronics Applications
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''Gakkou no Kaidan: Hyakuyoubako no Fuuin''
+|N/A
+|2004
+|
+|TDK Core
+|JP
+|-
+|''Gakkou O Tsukurou!! Advance''
+|N/A
+|2001
+|
+|[[Victor Interactive Software|Victor]]
+|JP
+|-
+|''[[Gakuen Alice: DokiDoki Fushigi Taiken]]''
+|N/A
+|2004
+|Rokumendo
+|[[Kids Station]]
+|JP
+|-
+|''[[Gakuen Senki Muryou]]''
+|N/A
+|2003
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''[[Galaxy Angel]]''
+|N/A
+|2002
+|
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''[[Galidor: Defenders of the Outer Dimension]]''
+|N/A
+|2002
+|[[Tiertex Design Studios]]
+|[[Lego Media]]
+|NA
+|-
+|''[[Game Boy Wars Advance 1+2]]''
+|N/A
+|2004
+|[[Intelligent Systems]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Game & Watch Gallery 4]]''<br>•''Game & Watch Gallery Advance''<sup>PAL</sup>
+|Yes (SPM)
+|2002
+|[[TOSE]]
+|[[Nintendo]]
+|NA, PAL
+|-
+|''[[The Game of Life]] / [[Yahtzee]] / [[Pay Day (board game)|Payday]]''
+|N/A
+|2005
+|[[Black Lantern Studios]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Game Boy Advance Video]] Series''
+|N/A
+|2004-2005
+|
+|[[Majesco Entertainment]]
+|NA
+|-
+|''Games Explosion''
+|N/A
+|2006
+|[[FrontLine Studios]]
+|[[THQ]]
+|NA
+|-
+|''[[Ganbare! Dodge Fighters]]''
+|Yes (SPM)
+|2005
+|[[Kamui]]
+|[[Bandai]]
+|JP
+|-
+|''[[Garfield: The Search for Pooky]]''
+|N/A
+|2005
+|[[InterActive Vision Games]]
+|[[The Game Factory]]
+|NA, PAL
+|-
+|''[[Garfield and His Nine Lives]]''
+|N/A
+|2006
+|[[Lucky Jump]]
+|[[The Game Factory]]
+|NA, PAL
+|-
+|''[[Gauntlet (1985 video game)|Gauntlet]] / [[Rampart (video game)|Rampart]]''
+|N/A
+|2005
+|[[EC Interactive Games]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[Gauntlet Dark Legacy]]''
+|N/A
+|2002
+|[[Pocket Studios]]
+|[[Midway Games|Midway]]
+|NA
+|-
+|''[[GeGeGe no Kitarō#Video games|Gegege no Kitarou: Kiki Ippatsu! Youkai Rettou]]''
+|N/A
+|2003
+|
+|[[Konami]]
+|JP
+|-
+|''[[Gekido Advance: Kintaro's Revenge]]''
+|N/A
+|2003<sup>NA</sup><br>2002<sup>EU</sup>
+|[[Naps Team]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''Gekitou Densetsu Noah: Dream Management'' (Dream Management)
+|N/A
+|2003
+|
+|[[Game Village]]
+|JP
+|-
+|''[[Gem Smashers]]''<br>•''Pazunin: Uminin no Puzzle de Nimu''<sup>JP</sup>
+|N/A
+|2003
+|[[Frame Studios Interactive]]
+|[[Metro3D, Inc.|Metro3D]]
+|NA, JP
+|-
+|''[[Genseishin Justirisers|Genseishin Justirisers: Souchaku! Chikyuu no Senshitachi]]''
+|N/A
+|2004
+|[[WinkySoft]]
+|[[Konami]]
+|JP
+|-
+|''Gensou Maden Saiyuki: Hangyaku no Toshin Taishi''
+|N/A
+|2003
+|
+|[[Digital Kids]]
+|JP
+|-
+|''[[Gensō Suikoden Card Stories]]''
+|N/A
+|2001
+|Will
+|[[Konami]]
+|JP
+|-
+|''[[AM Driver#Video games|Get Ride! AMDriver: Senkou no Hero Tanjou]]''
+|N/A
+|2004
+|[[WinkySoft]]
+|[[Konami]]
+|JP
+|-
+|''[[AM Driver#Video games|Get Ride! AMDriver: Shutsugeki! Battle Party]]''
+|N/A
+|2004
+|[[KCEJ]]
+|[[Konami]]
+|JP
+|-
+|''[[GET! Boku no Mushi Tsukamaete]]''
+|N/A
+|2003
+|Wizard
+|[[Kemco]]
+|JP
+|-
+|''[[GetBackers#Video games|GetBackers Dakkanya: Jagan Fuuin!]]''
+|N/A
+|2003
+|
+|[[Konami]]
+|JP
+|-
+|''[[GetBackers#Video games|GetBackers Dakkanya: Jigoku no Scaramouche]]''
+|N/A
+|2001
+|[[Konami]]
+|Konami
+|JP
+|-
+|''[[GetBackers#Video games|GetBackers Dakkanya: Metropolis Dakkan Sakusen!]]''
+|N/A
+|2003
+|
+|[[Konami]]
+|JP
+|-
+|''[[Ghost Rider (video game)|Ghost Rider]]''
+|N/A
+|2006
+|
+|[[2K Games]]
+|NA, PAL
+|-
+|''[[Ghost Trap]]''
+|N/A
+|2002
+|[[Artoon]]
+|[[Eidos Interactive]]
+|JP
+|-
+|''[[Go! Go! Beckham! Adventure on Soccer Island]]''
+|N/A
+|2002
+|[[Denki]]
+|[[Rage Software]]
+|PAL
+|-
+|''[[Godzilla: Domination!]]''<br>•''Gojira: Kaijuu Dairantou Advance''<sup>JP</sup>
+|Yes (SPM)
+|2002<br>2003
+|[[WayForward|WayForward Technologies]]
+|[[Atari]]
+|NA, PAL, JP
+|-
+|''[[Goemon: New Age Shutsudou!]]''
+|N/A
+|2002
+|[[Konami]]
+|Konami
+|JP
+|-
+|''[[Golden Nugget Casino DS|Golden Nugget Casino]]''
+|N/A
+|2004
+|[[Pipe Dream Interactive]]
+|Majesco
+|NA
+|-
+|''[[Golden Sun]]''<br>•''Ougon no Taiyou: Hirakareshi Fuuin''<sup>JP</sup>
+|Yes
+|2001
+|[[Camelot Software Planning]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Golden Sun: The Lost Age]]''<br>•''Ougon no Taiyou: Ushinawareshi Toki''<sup>JP</sup>
+|N/A
+|2003
+|[[Camelot Software Planning]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Gradius Galaxies]]''<sup>NA</sup><br>•''Gradius Advance''<sup>PAL</sup>''<br>•''Gradius Generation''<sup>JP</sup>
+|N/A
+|2001
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Granbo]]''
+|N/A
+|2001
+|
+|[[Capcom]]
+|JP
+|-
+|''[[Grand Theft Auto (Game Boy Advance)|Grand Theft Auto Advance]]''
+|No
+|2004
+|[[Digital Eclipse]]
+|[[Rockstar Games]]
+|NA, PAL
+|-
+|''[[Greg Hastings' Tournament Paintball Max'd]]''
+|N/A
+|2006
+|WXP
+|[[Activision Value]]
+|NA
+|-
+|''[[Gremlins: Stripe vs Gizmo]]''
+|N/A
+|2002
+|[[Magic Pockets (company)|Magic Pockets]]
+|[[DreamCatcher Interactive]]
+|NA, PAL
+|-
+|''[[The Grim Adventures of Billy & Mandy (video game)|The Grim Adventures of Billy & Mandy]]''
+|N/A
+|2006
+|[[Full Fat]]
+|[[Midway Games]]
+|NA
+|-
+|''[[Rave Master|Groove Adventure Rave: Hikari to Yami no Daikessen]]''
+|N/A
+|2002
+|[[Konami|KCEJ]]
+|[[Konami]]
+|JP
+|-
+|''[[GT Advance Championship Racing]]''<br>Advance GTA<sup>JP</sup>
+|N/A
+|{{Vgrtbl|JP|March 21, 2001|US|June 8, 2001|EU|June 15, 2001}}
+|[[MTO (video game company)|MTO]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''[[GT Advance 2: Rally Racing]]''<br>Advance Rally<sup>JP</sup>
+|N/A
+|2002
+|[[MTO (video game company)|MTO]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''[[GT Advance 3: Pro Concept Racing]]''<br>Advance GT2<sup>JP</sup>
+|N/A
+|2003
+|[[MTO (video game company)|MTO]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''[[GT Racers]]''
+|N/A
+|2006
+|[[Aqua Pacific]]
+|[[Liquid Games]]
+|PAL
+|-
+|''[[Guilty Gear X: Advance Edition]]''
+|N/A
+|2002
+|[[Arc System Works]]
+|[[Sammy Studios]]
+|NA, PAL, JP
+|-
+|''[[Gumby vs. the Astrobots]]''
+|N/A
+|2005
+|Torus Games
+|Namco
+|NA
+|-
+|''[[Gunstar Super Heroes]]''<br>''Gunstar Future Heroes''<sup>PAL</sup>
+|No
+|2005
+|[[Treasure Co. Ltd]]
+|[[Sega]]
+|NA, PAL, JP
+|-
+|''[[Guru Logi Champ]]''
+|Yes (SPM)
+|2001
+|[[Compile (publisher)|Compile]]
+|Compile
+|JP
+|-
+|id="H"|''Hachiemon''
+|N/A
+|2003
+|[[Natsume (company)|Natsume]]
+|[[Namco]]
+|JP
+|-
+|''[[Fullmetal Alchemist Trading Card Game|Hagane no Renkinjutsushi: Meisou no Rinbukyoku]]''
+|N/A
+|2004
+|[[Tom Create]]
+|[[Bandai]]
+|JP
+|-
+|''[[Fullmetal Alchemist Trading Card Game|Hagane no Renkinjutsushi: Omoide no Soumeikyoku]]'' (Fullmetal Alchemist: Omoide no Sonata)
+|N/A
+|2004
+|[[Tom Create]]
+|[[Bandai]]
+|JP
+|-
+|''[[Hajime no Ippo The Fighting! DS|Hajime no Ippo: The Fighting]]''
+|N/A
+|2002
+|[[Treasure Co. Ltd]]
+|[[ESP Software]]
+|JP
+|-
+|''[[Hamepane Tōkyō Myū Myū|Hamepane Tokyo Mew Mew]]''
+|N/A
+|2002
+|[[WinkySoft]]
+|[[Takara]]
+|JP
+|-
+|''Hamster Club 4: Shigessa Daidassou''
+|N/A
+|2003
+|[[Nekogumi]]
+|[[Jorudan]]
+|JP
+|-
+|''[[Culture Brain#Ferret/Hamster Monogatari series|Hamster Monogatari 2 GBA]]''
+|N/A
+|2001
+|Culture Brain
+|Culture Brain
+|JP
+|-
+|''[[Culture Brain#Ferret/Hamster Monogatari series|Hamster Monogatari 3 GBA]]''
+|N/A
+|2002
+|Culture Brain
+|Culture Brain
+|JP
+|-
+|''[[Culture Brain#Ferret/Hamster Monogatari series|Hamster Monogatari 3EX, 4, Special]]''
+|N/A
+|2003
+|Culture Brain
+|Culture Brain
+|JP
+|-
+|''[[Culture Brain#Ferret/Hamster Monogatari series|Hamster Monogatari Collection]]''
+|N/A
+|2003
+|Culture Brain
+|Culture Brain
+|JP
+|-
+|''Hamster Paradise: Pure Heart''
+|N/A
+|2003
+|Digital Kids
+|[[Atlus]]
+|JP
+|-
+|''Hamster Paradise Advanchu''
+|N/A
+|2002
+|Digital Kids
+|[[Atlus]]
+|JP
+|-
+|''[[Hamtaro (series)#Ham-Ham Games|Hamtaro: Ham-Ham Games]]''<br>•''Tottoko Hamutarou: Hamu-Hamu Sports''<sup>JP</sup>
+|Yes
+|2004
+|[[Alpha Dream]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Hamtaro: Ham-Ham Heartbreak]]''<br>•''Tottoko Hamutaro 3: Love Love Daibōken Dechu''<sup>JP</sup>
+|No
+|2002<br>2003
+|[[Pax Softnica]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Hamtaro (series)#Rainbow Rescue|Hamtaro: Rainbow Rescue]]''<br>•''Tottoko Hamtaro 4: Nijiiro Daikoushin Dechu''<sup>JP</sup>
+|No
+|2003<br>2004
+|[[Alpha Dream]]
+|[[Nintendo]]
+|PAL, JP
+|-
+|''Hanabi Hyakkei Advance''
+|N/A
+|2004
+|
+|[[Aruze]]
+|JP
+|-
+|''Hanafuda Trump Mahjong: Depachika Wayounaka''
+|N/A
+|2002
+|
+|[[Global A Entertainment|Global A]]
+|JP
+|-
+|''[[Happy Feet (video game)|Happy Feet]]''
+|N/A
+|2006
+|[[Artificial Mind and Movement]]
+|[[Warner Bros. Interactive Entertainment]]
+|NA, PAL
+|-
+|''Hardcore Pinball''
+|N/A
+|2002
+|[[Paragon 5]]
+|[[Telegames]]
+|NA
+|-
+|''Hardcore Pool''
+|Yes (SPM)
+|
+|
+|[[Telegames]]
+|PAL
+|-
+|''[[Harlem Globetrotters: World Tour]]''
+|No
+|2006
+|[[DSI Games]]
+|DSI Games
+|NA, PAL
+|-
+|''Harobots: Robo Hero Battling!!''
+|N/A
+|2002
+|
+|[[Sunrise Interactive]]
+|JP
+|-
+|''[[Harry Potter: Quidditch World Cup]]''
+|N/A
+|2003
+|[[Magic Pockets (company)|Magic Pockets]]
+|[[EA Games]]
+|NA, PAL, JP
+|-
+|''[[Harry Potter and the Chamber of Secrets (video game)|Harry Potter and the Chamber of Secrets]]''<br>•''Harry Potter to Himitsu no Heya''<sup>JP</sup>
+|N/A
+|2002
+|[[Eurocom]]
+|[[EA Games]]
+|NA, PAL, JP
+|-
+|''[[Harry Potter and the Goblet of Fire (video game)|Harry Potter and the Goblet of Fire]]''
+|Yes
+|2005
+|[[Magic Pockets (company)|Magic Pockets]]
+|[[EA Games]]
+|NA, PAL
+|-
+|''[[Harry Potter and the Order of the Phoenix (video game)|Harry Potter and the Order of the Phoenix]]''
+|N/A
+|2007
+|
+|[[EA Games]]
+|NA, PAL
+|-
+|''[[Harry Potter and the Prisoner of Azkaban (video game)|Harry Potter and the Prisoner of Azkaban]]''<br>•''Harry Potter to Azkaban no Shuujin''<sup>JP</sup>
+|N/A
+|2004
+|[[Griptonite Games]]
+|[[EA Games]]
+|NA, PAL, JP
+|-
+|''[[Harry Potter and the Philosopher's Stone (video game)|Harry Potter and the Sorcerer's Stone]]''<sup>NA</sup><br>•''Harry Potter and the Philosopher's Stone''<sup>PAL</sup><br>•''Harry Potter to Kenja no Ishi''<sup>JP</sup>
+|No
+|2001
+|[[Griptonite Games]]
+|[[EA Games]]
+|NA, PAL, JP
+|-
+|''[[Harukanaru Toki no Naka de]]'' (Haruka: Beyond the Stream of Time)
+|N/A
+|2002
+|[[Inis]]
+|[[Koei]]
+|JP
+|-
+|''[[Harvest Moon: Friends of Mineral Town]]''<br>•''Bokujou Monogatari: Mineral Town no Nakama-tachi''<sup>JP</sup>
+|No
+|2003
+|[[TOSE]]
+|[[Natsume (company)|Natsume]] (Japan, North America), Nintendo (Australia)
+|NA, PAL, JP
+|-
+|''[[Harvest Moon: More Friends of Mineral Town]]''<br>•''Bokujou Monogatari - Mineral Town no Nakama-tachi for Girl''<sup>JP</sup>
+|N/A
+|2005<br>2003
+|[[TOSE]]
+|[[Natsume (company)|Natsume]]
+|NA, JP
+|-
+|''[[Hatena Satena]]''
+|No
+|2001
+|[[Hudson Soft]]
+|Hudson Soft
+|JP
+|-
+|''[[Heidi: The Game]]''
+|N/A
+|2005
+|[[Independent Arts]]
+|[[East Entertainment Media]]
+|PAL
+|-
+|''[[Hello! Idol Debut]]''
+|N/A
+|2004
+|
+|[[TDK|TDK Core]]
+|JP
+|-
+|''[[Hello Kitty|Hello Kitty Collection: Miracle Fashion Maker]]''
+|N/A
+|2001
+|[[Access Co.|Access]]
+|[[Imagineer (Japanese company)|Imagineer]]
+|JP
+|-
+|''[[Hello Kitty|Hello Kitty: Happy Party Pals]]''
+|N/A
+|2005
+|[[Webfoot Technologies]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Hey Arnold!: The Movie]]''
+|N/A
+|2002
+|[[Altron]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Hi Hi Puffy AmiYumi: Kaznapped!]]''
+|N/A
+|2005
+|[[Altron]]
+|[[D3Publisher]]
+|NA, PAL, JP
+|-
+|''[[Higanbana no Saku Yoru ni|Higanbana]]''
+|N/A
+|2002
+|[[TOSE]]
+|[[Athena]]
+|JP
+|-
+|''[[High Heat Major League Baseball 2002]]''
+|N/A
+|2001
+|[[Möbius Entertainment]]
+|[[The 3DO Company|3DO]]
+|NA
+|-
+|''[[High Heat Major League Baseball 2003]]''
+|N/A
+|2002
+|[[Möbius Entertainment]]
+|[[The 3DO Company|3DO]]
+|NA
+|-
+|''[[High School Musical: Livin' the Dream]]''
+|N/A
+|2007
+|[[Artificial Mind and Movement]]
+|[[Disney Interactive Studios]]
+|NA
+|-
+|''[[Hikaru no Go#Other media|Hikaru no Go]]''
+|N/A
+|2002
+|KCEJ
+|[[Konami]]
+|JP
+|-
+|''[[Hikaru no Go#Other media|Hikaru no Go 2]]''
+|N/A
+|2001
+|KCEJ
+|[[Konami]]
+|JP
+|-
+|''Princess Blue: Hime Kishi Monogatari''
+|N/A
+|2002
+|
+|[[Tonkin House]]
+|JP
+|-
+|''[[The Hobbit (2003 video game)|The Hobbit]]''<br>•''Hobbit no Bouken: Lord of the Rings Hajimari no Monogatari''<sup>JP</sup>
+|N/A
+|2003
+|[[Saffire Corporation|Saffire]]
+|[[Sierra Entertainment]]
+|NA, PAL, JP
+|-
+|''[[Horsez]]''<br>•''Horse & Pony: My Stud Farm''<sup>EU</sup><br>•''Pferd & Pony: Mein Gestüt''<sup>GE</sup><br>•''Alexandra Ledermann: Aventures au Galop''<sup>FR</sup>
+|N/A
+|2006
+|[[Independent Arts]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Hot Potato (video game)|Hot Potato!]]''
+|N/A
+|2001
+|[[Pukka Games]]
+|[[Bam Entertainment]]
+|NA, PAL
+|-
+|''[[Hot Wheels All Out]]''
+|N/A
+|2006
+|[[TwoFiveSix]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[Hot Wheels: Burnin' Rubber]]''<br>•''Hot Wheels Advance''<sup>JP</sup>
+|N/A
+|2001
+|[[Altron]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''[[Hot Wheels: Stunt Track Challenge]]''
+|N/A
+|2004
+|[[Razorback Developments]]
+|[[THQ]]
+|NA
+|-
+|''[[Hot Wheels Velocity X]]''
+|N/A
+|2002
+|[[Saffire Corporation|Saffire]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Hot Wheels World Race (video game)|Hot Wheels World Race]]''
+|N/A
+|2003
+|
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Hudson Best Collections]]''
+*''Vol. 1: Bomberman Collection'' ([[Bomberman]]/[[Bomberman II]])
+*''Vol. 2: Lode Runner Collection'' ([[Lode Runner]]/[[Championship Lode Runner]])
+*''Vol. 3: Action Collection'' ([[Challenger (video game)|Challenger]]/[[Milon's Secret Castle]])
+*''Vol. 4: Nazotoki Collection'' ([[Nuts & Milk]]/[[Binary Land]]/[[Princess Tomato in the Salad Kingdom]])
+*''Vol. 5: Shooting Collection'' ([[Star Force]]/[[Star Soldier]]/[[Starship Hector]])
+*''Vol. 6: Bōkenjima Collection'' ([[Adventure Island (video game)|Adventure Island]]/[[Adventure Island II]]/[[Adventure Island III]]/[[Adventure Island IV]])
+|N/A
+|2005<br>2006
+|[[Hudson Soft]]
+|Hudson Soft
+|JP
+|-
+|''[[Hugo: Bukkazoom!]]''
+|N/A
+|2003
+|[[ITE Media]]
+|[[Namco]]
+|PAL
+|-
+|''[[Hugo: The Evil Mirror]]''
+|N/A
+|2002<br>2005
+|[[ITE Media]]
+|[[Namco]]
+|NA, PAL
+|-
+|''[[Hunter × Hunter#Video games|Hunter X Hunter: Minna Tomodachi Daisakusen!!]]''
+|N/A
+|2003
+|
+|[[Konami]]
+|JP
+|-
+|id="I"|''[[I Spy Challenger!]]''
+|N/A
+|2002
+|Black Hammer Game
+|Scholastic, Inc.
+|NA
+|-
+|''[[Ice Age (video game)|Ice Age]]''
+|N/A
+|2002
+|A2M
+|Ubisoft
+|NA, PAL, JP
+|-
+|''[[Ice Age 2 (video game)|Ice Age 2: The Meltdown]]''
+|N/A
+|2006
+|[[Amaze Entertainment]]
+|[[Sierra Entertainment]]
+|NA, PAL
+|-
+|''[[Ice Nine (video game)|Ice Nine]]''
+|N/A
+|2005
+|Torus Games
+|BAM! Entertainment
+|NA, PAL
+|-
+|''[[The Incredible Hulk (2003 video game)|The Incredible Hulk]]''
+|N/A
+|2003
+|[[Pocket Studios]]
+|[[Universal Interactive]]
+|NA, PAL
+|-
+|''[[The Incredibles (video game)|The Incredibles]]<br>•''Mr. Incredible''<sup>JP</sup>
+|Yes
+|2004
+|Helixe
+|THQ
+|NA, PAL, JP
+|-
+|''[[The Incredibles: Rise of the Underminer]]''<br>•''Mr. Incredible: Kyouteki Underminer Toujou''<sup>JP</sup>
+|N/A
+|2005
+|[[Helixe]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''[[Initial D: Another Stage]]''
+|N/A
+|2002
+|[[Sammy Studios]]
+|Sammy Studios
+|JP
+|-
+|''[[Inspector Gadget: Advance Mission]]''
+|Yes
+|2001
+|Magic Pockets
+|DreamCatcher Games
+|NA, PAL
+|-
+|''[[Inspector Gadget Racing]]''
+|N/A
+|2003
+|[[Bit Managers]]
+|LSP
+|PAL
+|-
+|''[[International Karate#Ports, variants, and re-releases|International Karate Advanced]]''
+|N/A
+|2001
+|
+|[[Studio 3]]
+|PAL
+|-
+|''[[International Karate +|IK+]]'' (International Karate Plus)
+|No
+|2003
+|[[Ignition Entertainment]]
+|AIA
+|NA, PAL
+|-
+|''[[International Superstar Soccer]]''<br>•''Jikkyou World Soccer Pocket''<sup>JP</sup>
+|Yes
+|2001
+|Konami
+|Konami
+|PAL, JP
+|-
+|''[[International Superstar Soccer Advance]]''<br>•''Jikkyou World Soccer Pocket 2''<sup>JP</sup>
+|Yes
+|2003
+|Konami
+|Konami
+|PAL, JP
+|-
+|''[[Inukko Club: Fukumaru no Daibouken]]''
+|N/A
+|2002
+|
+|[[Jorudan]]
+|JP
+|-
+|''[[Inuyasha: Naraku no Wana! Mayoi no Mori no Shoutaijou]]''
+|N/A
+|2003
+|[[WinkySoft]]
+|[[Takara]]
+|JP
+|-
+|''[[Invader (video game)|Invader]]''
+|N/A
+|2002
+|[[Formula]]
+|[[Xicat Interactive]]
+|PAL
+|-
+|''[[The Invincible Iron Man (video game)|The Invincible Iron Man]]''
+|N/A
+|2002/2003
+|Torus Games
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Iridion 3D]]''
+|N/A
+|2001
+|Shin'en
+|[[Majesco Entertainment]]
+|NA, PAL
+|-
+|''[[Iridion II]]''
+|N/A
+|2003
+|Shin'en
+|[[Majesco Entertainment]]<br />[[Sierra Entertainment]]
+|NA, PAL
+|-
+|''[[Iron Kid]]''
+|N/A
+|2007
+|
+|[[Daiwon C&A]]
+|KR
+|-
+|''Isseki Hacchou: Kore 1-pon de 8 Shurui!''
+|Yes (SPM)
+|2002
+|
+|[[Konami]]
+|JP
+|-
+|''[[It's Mr. Pants]]''
+|N/A
+|2005
+|Rare
+|[[THQ]]
+|NA, PAL
+|-
+|id="J"|''[[J.League Pocket]]''
+|N/A
+|{{Vgrtbl|JP|March 21, 2001}}
+|KCEO
+|[[Konami]]
+|JP
+|-
+|''[[J-League Pocket 2]]''
+|N/A
+|2002
+|[[Konami]]
+|Konami
+|JP
+|-
+|''[[J-League Winning Eleven Advance 2002]]''
+|N/A
+|2002
+|[[Konami]]
+|Konami
+|JP
+|-
+|''[[J.League Pro Soccer Club o Tsukurou! Advance]]''
+|N/A
+|2002
+|[[Smilebit]]
+|[[Sega]]
+|JP
+|-
+|''[[Jackie Chan Adventures: Legend of the Dark Hand]]''
+|N/A
+|2001
+|[[Torus Games]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Jaja-Kun Jr. Denshouki]]''
+|N/A
+|2004
+|
+|[[Jaleco Entertainment]]
+|JP
+|-
+|''[[James Pond 2|James Pond: Codename Robocod]]''
+|N/A
+|2005
+|[[Creature Labs]]
+|[[Valcon Games]]
+|NA, PAL
+|-
+|''Japan Pro Mahjong Renmei Kounin: Tetsuman Advance''
+|N/A
+|2002
+|
+|[[Kaga Tech]]
+|JP
+|-
+|''[[Jazz Jackrabbit (2002 video game)|Jazz Jackrabbit]]''
+|Yes (SPM)
+|2002
+|[[Game Titan]]
+|[[Jaleco Entertainment]]
+|NA, PAL
+|-
+|''[[Jet Grind Radio]]''<sup>NA</sup><br>•''Jet Set Radio''<sup>PAL</sup>
+|N/A
+|2003<br>2004
+|[[Vicarious Visions]]
+|[[THQ]], [[Sega]]
+|NA, PAL
+|-
+|''[[Jimmy Neutron: Boy Genius (video game)|Jimmy Neutron: Boy Genius]]''
+|N/A
+|2001
+|[[HumanSoft]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Jinsei Game|Jinsei Game Advance]]''
+|N/A
+|2002
+|
+|[[Takara]]
+|JP
+|-
+|''[[Jissen Pachi-Slot Hisshouhou! Juuou Advance]]''
+|N/A
+|2002
+|
+|[[Sammy Studios]]
+|JP
+|-
+|''[[Jonny Moseley Mad Trix]]''
+|N/A
+|2002
+|[[GFX Construction]]
+|[[The 3DO Company|3DO]]
+|NA, PAL
+|-
+|''[[Juka and the Monophonic Menace]]''
+|N/A
+|2006
+|[[Orbital Media|Orbital Media, Inc.]]
+|[[SouthPeak Games]]
+|NA, PAL
+|-
+|''[[Jurassic Park Institute Tour: Dinosaur Rescue]]''
+|N/A
+|2003
+|
+|[[Rocket Company]]
+|JP
+|-
+|''[[Jurassic Park III: Island Attack]]''<sup>NA</sup><br>•''Jurassic Park III: Dino Attack''<sup>PAL</sup><br>•''Jurassic Park III: Advanced Action''<sup>JP</sup>
+|N/A
+|2001
+|[[Mobile21]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[Jurassic Park III: Park Builder]]''<br>•''Jurassic Park III: Kyouryuu ni ai ni Ikou!''<sup>JP</sup>
+|N/A
+|2001
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Jurassic Park III: The DNA Factor]]''<br>•''Jurassic Park III: Ushinawareta Idenshi''<sup>JP</sup>
+|No
+|2001
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Justice League: Injustice for All]]''
+|N/A
+|2002
+|[[Saffire Corporation|Saffire]]
+|[[Midway Games|Midway]]
+|NA, PAL
+|-
+|''[[Justice League: Chronicles]]''
+|N/A
+|2003
+|[[Full Fat]]
+|[[Midway Games|Midway]]
+|NA
+|-
+|''[[Justice League Heroes: The Flash]]''
+|N/A
+|2006
+|[[WayForward|WayForward Technologies]]
+|[[Warner Bros. Interactive Entertainment]], [[Eidos Interactive]]
+|NA, PAL
+|-
+|id="K"|''[[K-1 Pocket Grand Prix]]''
+|N/A
+|2002
+|[[Daft (company)|Daft]]
+|[[Konami]]
+|JP
+|-
+|''[[K-1 Pocket Grand Prix 2]]''
+|N/A
+|2002
+|[[Daft (company)|Daft]]
+|[[Konami]]
+|JP
+|-
+|''[[Kaeru B Back]]''
+|N/A
+|2002
+|
+|[[Kadokawa Corporation|Kadokawa]]
+|JP
+|-
+|''[[Kagetsu Tohya]]''
+|N/A
+|
+|
+|
+|JP
+|-
+|''[[Kaiketsu Zorori to Mahou no Yuuenchi]]''
+|N/A
+|2004
+|[[Suzak]]
+|[[Bandai]]
+|JP
+|-
+|''[[Banshee's Last Cry|Kamaitachi no Yoru Advance]]'' (Banshee's Last Cry)
+|N/A
+|2002
+|
+|[[ChunSoft]]
+|JP
+|-
+|''Kami no Kijutsu: Illusion of the Evil Eyes''
+|N/A
+|2002
+|KCEJ
+|[[Konami]]
+|JP
+|-
+|''[[Kanwa Tsukihime]]''
+|N/A
+|
+|
+|
+|JP
+|-
+|''[[Kao the Kangaroo|KAO the Kangaroo]]''
+|N/A
+|2001
+|[[Titus Software]]
+|Titus Software
+|NA, PAL
+|-
+|''[[Kappa no Kai-Kata: Katan Daibouken]]''
+|N/A
+|2005
+|KCEJ
+|[[Konami]]
+|JP
+|-
+|''[[Karnaaj Rally]]''
+|N/A
+|2002
+|[[Paragon 5]]
+|[[Jaleco Entertainment]]
+|NA, PAL
+|-
+|''[[List of River King video games|Kawa no Nushi Tsuri 3 & 4]]''
+|N/A
+|2006
+|[[TOSE]]
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''[[List of River King video games|Kawa no Nushi Tsuri 5]]''
+|N/A
+|2002
+|[[TOSE]]
+|[[Victor Interactive Software]]
+|JP
+|-
+|''Kawaii Pet Game Gallery''
+|N/A
+|2003
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Kawaii Pet Game Gallery 2''
+|N/A
+|2004
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Kawaii Pet Shop Monogatari 3''
+|N/A
+|2002
+|
+|[[Pacific Century Cyber Works]]
+|JP
+|-
+|''[[Keitai Denjū Telefang|Keitai Denjū Telefang 2: Power Version]]''
+|N/A
+|2002
+|[[Natsume (company)|Natsume]]
+|[[Smilesoft]]
+|JP
+|-
+|''[[Keitai Denjū Telefang|Keitai Denjū Telefang 2: Speed Version]]''
+|N/A
+|2002
+|[[Natsume (company)|Natsume]]
+|[[Smilesoft]]
+|JP
+|-
+|''[[Kelly Slater's Pro Surfer]]''
+|N/A
+|2002
+|[[HotGen]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Keroro Gunso DS|Keroro Gunsou Taiketsu! Keroro Cart de Arimasu!!]]''
+|N/A
+|2004
+|
+|[[Sunrise Interactive]]
+|JP
+|-
+|''[[KerPlunk (game)|Kerplunk!]] / [[Toss Across]] / [[Ideal Toy Company|Tip It]]''
+|N/A
+|2006
+|[[Gravity-I]]
+|[[DSI Games]]
+|NA
+|-
+|''[[Kessakusen! Ganbare Goemon 1 & 2]]''
+|N/A
+|2005
+|
+|[[Konami]]
+|JP
+|-
+|''[[Kid Paddle]]''
+|N/A
+|2005
+|[[Mistic Software]]
+|[[Atari SA]]
+|PAL
+|-
+|''[[Puyo Puyo|Kidou Gekidan Haro Ichiza: Haro no Puyo Puyo]]''
+|N/A
+|2005
+|
+|[[Bandai]]
+|JP
+|-
+|''Kidou Tenshi Angelic Layer''
+|N/A
+|2001
+|
+|[[Epoch Co.|Epoch]]
+|JP
+|-
+|''Kid's Cards''
+|N/A
+|2006
+|[[SkyRiver Studios]]
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[Kill Switch (video game)|Kill Switch]]''
+|N/A
+|2004
+|[[Visual Impact]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''Killer 3D Pool''
+|Yes
+|2005
+|[[Gravity-I]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[The King of Fighters EX: Neo Blood]]''
+|N/A
+|2002
+|[[Artoon]]
+|[[Marvelous Entertainment]]<sup>JP</sup> / [[Sammy Corporation|Sammy Studios]]<sup>NA, PAL</sup>
+|NA, PAL, JP
+|-
+|''[[The King of Fighters EX2: Howling Blood]]''
+|N/A
+|2003
+|[[Marvelous Entertainment]] / [[Sun-Tec]]
+|[[Marvelous Entertainment]]<sup>JP</sup> / [[Atlus]]<sup>NA</sup>
+|NA, PAL, JP
+|-
+|''[[Kingdom Hearts: Chain of Memories]]''
+|N/A
+|2004
+|[[Jupiter (company)|Jupiter]]
+|[[Square Enix]]
+|NA, PAL, JP
+|-
+|''[[Kinniku Banzuke|Kinniku Banzuke: Kimeru! Kiseki no Kanzen Seiha]]''
+|N/A
+|2001
+|[[KCE Studios]]
+|[[Konami]]
+|JP
+|-
+|''[[Kinniku Banzuke|Kinniku Banzuke: Kongou-Kun no Daibouken!]]''
+|N/A
+|2001
+|[[Jupiter Multimedia]]
+|[[Konami]]
+|JP
+|-
+|''[[Kirby: Nightmare in Dream Land]]''<br>•''Hoshi no Kirby: Yume no Izumi Deluxe''<sup>JP</sup>
+|Yes (SPM)
+|2002
+|[[HAL Laboratory]]
+|[[Nintendo]]
+|NA, JP, PAL, AUS
+|-
+|''[[Kirby & the Amazing Mirror]]''<br>•''Hoshi no Kirby: Kagami no Daimeikyuu''<sup>JP</sup>
+|Yes (COOP, SPM)
+|2004
+|[[Flagship (company)|Flagship]] [[Dimps]] [[HAL Laboratory]] [[Arika]]
+|[[Nintendo]]
+|NA, JP, PAL, AUS
+|-
+|''Kiss x Kiss: Seirei Gakuen''
+|N/A
+|2004
+|[[Kamui]]
+|[[Bandai]]
+|JP
+|-
+|''[[Klax (video game)|Klax]] / [[Marble Madness]]''
+|N/A
+|2005
+|[[Frame Studios Interactive]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[Klonoa Heroes: Densetsu no Star Medal]]''
+|N/A
+|2002
+|[[Namco]]
+|Namco
+|JP
+|-
+|''[[Klonoa: Empire of Dreams]]''<br>•''Kaze no Klonoa: Yumemiru Teikoku''<sup>JP</sup>
+|N/A
+|2001
+|[[Namco]], [[Now Production]]
+|Namco
+|NA, JP, PAL
+|-
+|''[[Klonoa 2: Dream Champ Tournament]]''<br>•''Kaze no Klonoa G2: Dream Champ Tournament''<sup>JP</sup>
+|N/A
+|2002, 2005
+|[[Namco]] [[Now Production]]
+|Namco
+|NA, JP
+|-
+|''[[The Koala Brothers|The Koala Brothers: Outback Adventures]]''
+|N/A
+|2006
+|[[Sirius Games]]
+|[[The Game Factory]]
+|NA, PAL
+|-
+|''Koinu to Issho! Aijou Monogatari''
+|N/A
+|2003
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Koinu to Issho! 2''
+|N/A
+|2004
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Koinu-Chan no Hajimete no Osanpo: Koino no Kokoro Ikusei Game''
+|N/A
+|2003
+|[[TDK Mediactive]]
+|TDK Mediactive
+|JP
+|-
+|''[[Konami Collector's Series: Arcade Advanced]]''<sup>NA</sup><br>•''Konami Collector's Series: Arcade Classics''<sup>PAL</sup><br>•''Konami Arcade Game Collection''<sup>JP</sup>
+|Yes (SPM)
+|2002
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Culture Brain#Konchuu Monster series|Konchuu Monster: Battle Master]]''
+|N/A
+|2005
+|
+|[[Culture Brain]]
+|JP
+|-
+|''[[Culture Brain#Konchuu Monster series|Konchuu Monster: Battle Stadium]]''
+|N/A
+|2005
+|
+|[[Culture Brain]]
+|JP
+|-
+|''[[Culture Brain#Konchuu Monster series|Konchuu Ouja Mushiking: Greatest Champion e no Michi]]'' (Kouchuu Ouja: Mushi King)
+|N/A
+|2005
+|
+|[[Sega]]
+|JP
+|-
+|''[[Culture Brain#Konchuu Monster series|Konchuu no Mori no Daibouken]]''
+|N/A
+|2005
+|
+|[[Culture Brain]]
+|JP
+|-
+|''[[Konami Krazy Racers]]''<br>•''Konami Wai Wai Racing Advance''<sup>JP</sup>
+|Yes (VS)
+|{{Vgrtbl|JP|March 21, 2001|US|June 10, 2001|EU|June 15, 2001}}
+|KCEK
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[Kong: The Animated Series (game)|Kong: The Animated Series]]''
+|N/A
+|2002<br>2003
+|[[Planet Interactive]]
+|[[Bam Entertainment]]
+|NA, PAL
+|-
+|''[[Kong: King of Atlantis]]''
+|N/A
+|2005
+|[[SkyRiver Studios]]
+|[[Majesco Entertainment]]
+|NA, PAL
+|-
+|''[[Kong: The 8th Wonder of the World]]''<sup>NA</sup><br>•''King Kong: The Official Game of the Movie''<sup>PAL</sup>
+|N/A
+|2005
+|[[Ubisoft]]
+|Ubisoft
+|NA, PAL
+|-
+|''[[Zatch Bell!|Konjiki no Gash Bell]]'' series
+*''[[List of Zatch Bell! video games|Konjiki no Gash Bell!!: Card Battle]]''
+*''[[List of Zatch Bell! video games|Konjiki no Gash Bell!!: Makai no Bookmark]]''
+*''[[List of Zatch Bell! video games|Konjiki no Gash Bell!!: Yuujou no Zakeru]]'' (''Zatch Bell!: Electric Arena'' in NA)
+*''[[List of Zatch Bell! video games|Konjiki no Gash Bell!!: Yuujou no Zakeru 2]]''
+*''[[List of Zatch Bell! video games|Konjiki no Gash Bell: Yuujou no Zakeru Dream Tag Tournament]]''
+|N/A
+|
+|
+|
+|JP
+|-
+|''[[Koro Koro Puzzle Happy Panechu!]]''
+|No
+|2002
+|[[Mobile21]], [[Nintendo R&D2]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Kotoba no Puzzle: Mojipittan Advance]]''
+|N/A
+|2003
+|
+|[[Namco]]
+|JP
+|-
+|''[[Koukou Juken Advance Series]]''
+*''Koukou Juken Advance Series: Eigo Koubunhen 26 Units Shuuroku''
+*''Koukou Juken Advance Series: Eijukugohen 650 Phrases Shuuroku''
+*''Koukou Juken Advance Series: Eitangohen 2000 Words Shuuroku''
+|N/A
+|
+|
+|[[Keynet]]
+|JP
+|-
+|''Kunio-kun Nekketsu Collection 1''
+*''[[Super Dodge Ball (NES video game)|Nekketsu Kōkō Dodgeball Bu]]''
+*''[[Shodai Nekketsu Kōha Kunio-kun|Nekketsu Street Basket]]''
+|N/A
+|2005
+|Million Co., Ltd.
+|[[Atlus]]
+|JP
+|-
+|''Kunio-kun Nekketsu Collection 2''
+*''[[Shodai Nekketsu Kōha Kunio-kun|Nekketsu Kōkō Dodgeball Bu: Soccer Hen]]''
+*''[[Shodai Nekketsu Kōha Kunio-kun|Downtown Nekketsu Kōshinkyoku]]''
+|N/A
+|2005
+|Million Co., Ltd.
+|[[Atlus]]
+|JP
+|-
+|''Kunio-kun Nekketsu Collection 3''
+*''[[Shin Nekketsu Koha Kunio-kun - Kunio Tachi No Banka|Downtown Special: Kunio-kun no Jidaigeki da yo - Zenin Shūgō!]]''
+*''[[Shin Nekketsu Kouha Kunio-kun - Kunio Tachi No Banka|Ike Ike! Nekketsu Hockey-bu: Subete Koronde Dairantō]]''
+|N/A
+|2006
+|Million Co., Ltd.
+|[[Atlus]]
+|JP
+|-
+|''Kurohige no Golf Shiyouyo''
+|N/A
+|2002
+|[[Inti Creates]]
+|[[Tomy Corporation]]
+|JP
+|-
+|''Kurohige no Kurutto Jintori''
+|N/A
+|2002
+|Happy-Smile
+|[[Tomy Corporation]]
+|JP
+|-
+|''[[Kuru Kuru Kururin]]''
+|Yes (VS, SPM)
+|{{Vgrtbl|JP|March 21, 2001|EU|June 22, 2001}}
+|[[Eighting]]
+|[[Nintendo]]
+|PAL, JP
+|-
+|''[[Kururin Paradise]]''
+|Yes (SPM)
+|2002
+|[[Eighting]]
+|[[Nintendo]]
+|JP
+|-
+|id="L"|''[[Lady Sia]]''
+|No
+|2001
+|[[RFX Interactive]]
+|[[TDK Mediactive]]
+|NA, PAL
+|-
+|''[[The Land Before Time (video game)|The Land Before Time]]''
+|N/A
+|2002
+|[[Full Fat]]
+|[[Conspiracy Entertainment]]
+|NA, PAL
+|-
+|''[[The Land Before Time: Into the Mysterious Beyond]]''
+|N/A
+|2006
+|[[Sirius Games]]
+|[[The Game Factory]]
+|NA, PAL
+|-
+|''Legend of Dynamic Goushouden: Houkai no Rondo''
+|N/A
+|2003
+|Will
+|[[Banpresto]]
+|JP
+|-
+|''[[The Legend of Spyro: A New Beginning]]''
+|N/A
+|2006
+|[[Krome Studios]]
+|[[Sierra Entertainment]]
+|NA, PAL
+|-
+|''[[The Legend of Spyro: The Eternal Night]]''
+|N/A
+|2007
+|[[Amaze Entertainment]] 
+|[[Sierra Entertainment]]
+|NA, PAL
+|-
+|''[[Densetsu no Stafy (video game)|Legend of Starfy]]''
+|N/A
+|2002
+|[[TOSE]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Densetsu no Stafy 2|Legend of Starfy 2]]''
+|N/A
+|2003
+|[[TOSE]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Densetsu no Stafy 3|Legend of Starfy 3]]''
+|N/A
+|2004
+|[[TOSE]]
+|[[Nintendo]]
+|JP
+|-
+|[[The Legend of Zelda: A Link to the Past and Four Swords|''The Legend of Zelda: A Link to the Past'' and ''Four Swords'']]<br>•''Zelda no Densetsu: Kamigami no Triforce & Yotsu no Tsurugi''<sup>JP</sup>
+|Yes
+|2003
+|[[Nintendo]]
+|Nintendo
+|NA, JP, PAL
+|-
+|''[[The Legend of Zelda: The Minish Cap]]''<br>•''Zeruda no Densetsu Fushigi no Bōshi''<sup>JP</sup>
+|No
+|2004
+|[[Capcom]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Legends of Wrestling II]]''
+|N/A
+|2002
+|Powerhead Games
+|[[Acclaim Entertainment|Acclaim]]
+|NA, PAL
+|-
+|''[[Legendz#Video games|Legendz: Yomigaeru Shiren no Shima]]''<br>•''Legendz: Buhwarhaneun Siryeonui Seom''<sup>KO</sup>
+|N/A
+|2004
+|[[Bec (company)|Bec]]
+|[[Bandai]]
+|JP, KO
+|-
+|''[[Legendz#Video games|Legendz: Sign of Nekuromu]]'' (Legendz: Sign of Necrom)
+|N/A
+|2005
+|
+|[[Bandai]]
+|JP
+|-
+|''[[Lego Bionicle (video game)|Lego Bionicle]]''
+|N/A
+|2001
+|[[Saffire Corporation]]
+|[[Lego Media]]
+|NA, PAL
+|-
+|''[[Island Xtreme Stunts|Lego Island: Xtreme Stunts]]''
+|N/A
+|2002
+|[[Silicon Dreams Studio]]
+|[[Lego Interactive]]
+|NA
+|-
+|''[[Lego Island 2: The Brickster's Revenge]]''
+|N/A
+|2001
+|[[Silicon Dreams]]
+|[[Lego Media]]
+|NA, PAL
+|-
+|''[[Lego Knights' Kingdom]]''
+|N/A
+|2004
+|[[Razorback Developments]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Lego Racers 2]]''
+|Yes
+|2001
+|[[Pocket Studios]]
+|[[Lego Media]]
+|NA, PAL
+|-
+|''[[Lego Star Wars: The Video Game]]''
+|Yes (COOP)
+|2005
+|[[Griptonite Games]]
+|[[Eidos Interactive]]
+|NA, PAL, JP
+|-
+|''[[Lego Star Wars II: The Original Trilogy]]''
+|No
+|2006
+|[[Amaze Entertainment]]
+|[[LucasArts]]
+|NA, PAL
+|-
+|''[[Lemony Snicket's A Series of Unfortunate Events (video game)|Lemony Snicket's A Series of Unfortunate Events]]''
+|N/A
+|2004
+|[[Griptonite Games]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Let's Ride! Dreamer]]''<sup>NA</sup><br>•''Paard & Pony: Paard in Galop''<sup>NL</sup><br>•''Pippa Funnell 2''<sup>FR</sup><br>•''Pferd & Pony: Lass Uns Reiten 2''<sup>GE</sup><br>•''Horse & Pony: Let's Ride 2''<sup>EU</sup>
+|N/A
+|2005<br>2006
+|[[Kritzelkratz]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Let's Ride! Friends Forever]]''<sup>NA</sup><br>•''Pferd & Pony: Best Friends - Mein Pferd''<sup>GE</sup><br>•''Horse & Pony: Best Friends - My Horse''<sup>EU</sup>
+|N/A
+|2007
+|[[dtp Young Entertainment AG]]
+|[[THQ]]
+|NA
+|-
+|''[[Let's Ride! Sunshine Stables]]''<sup>NA</sup><br>•''Paard & Pony: Mijn Manege''<sup>NL</sup><br>•''Pferd & Pony: Mein Pferdehof''<sup>GE</sup><br>•''Pippa Funnell: Stable Adventure''<sup>EU</sup><br>•''Alexandra Ledermann''<sup>FR</sup>
+|N/A
+|2005
+|[[ValuSoft]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Licca-chan no Oshare Nikki]]''
+|Yes (SPM)
+|2004
+|
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''Lilliput Oukoku: Lillimoni to Issho-puni!''
+|N/A
+|2004
+|[[Alpha Unit]]
+|[[Sega]]
+|JP
+|-
+|''Little Buster Q''
+|N/A
+|2002
+|[[Amedio]]
+|[[Tomy Corporation]]
+|JP
+|-
+|''Little League Baseball 2002''
+|N/A
+|2002
+|Handheld Games
+|NewKidCo
+|NA
+|-
+|''Little Patissier: Cake no Oshiro''
+|N/A
+|2004
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''[[Lizzie McGuire#Merchandising|Lizzie McGuire: On the Go]]''<sup>NA</sup><br>•''Lizzie McGuire''<sup>PAL</sup>
+|N/A
+|2003
+|[[Climax Studios]]
+|[[Buena Vista Interactive]]
+|NA
+|-
+|''[[Lizzie McGuire#Merchandising|Lizzie McGuire 2: Lizzie Diaries]]''
+|N/A
+|2004
+|[[Climax Studios]]
+|[[Buena Vista Interactive]]
+|NA
+|-
+|''[[Lizzie McGuire#Merchandising|Lizzie McGuire 3: Homecoming Havoc]]''
+|N/A
+|2005
+|[[Climax Studios]]
+|[[Buena Vista Interactive]]
+|NA
+|-
+|''[[Lode Runner]]''
+|N/A
+|2003
+|
+|Success
+|JP
+|-
+|''[[List of Looney Tunes video games|Looney Tunes Double Pack]]'' (Dizzy Driving / Acme Antics)
+|N/A
+|2005<br>2006
+|[[Warner Bros. Interactive Entertainment]]
+|[[Majesco Entertainment]]
+|NA, PAL
+|-
+|''[[Looney Tunes: Back in Action (video game)|Looney Tunes: Back in Action]]''
+|N/A
+|2003
+|[[Warner Bros. Interactive Entertainment]]
+|[[Majesco Entertainment]]
+|NA, PAL
+|-
+|''[[The Lord of the Rings: The Fellowship of the Ring (video game)|The Lord of the Rings: The Fellowship of the Ring]]''
+|No
+|2002
+|[[Pocket Studios]]
+|[[Black Label Games]]
+|NA, PAL
+|-
+|''[[The Lord of the Rings: The Two Towers (video game)|The Lord of the Rings: The Two Towers]]''<br>•''The Lord of the Rings: Futatsu no Tou''<sup>JP</sup>
+|Yes (COOP)
+|2002
+|[[Griptonite Games]]
+|[[Electronic Arts]]
+|NA, PAL, JP
+|-
+|''[[The Lord of the Rings: The Return of the King (video game)|The Lord of the Rings: The Return of the King]]''<br>•''The Lord of the Rings: Ou no Kikan''<sup>JP</sup>
+|Yes
+|2003
+|[[Griptonite Games]] 
+|[[EA Games]]
+|NA, PAL, JP
+|-
+|''[[The Lord of the Rings: The Third Age (Game Boy Advance)|The Lord of the Rings: The Third Age]]''<br>•''The Lord of the Rings: Nakatsukuni Daisanki''<sup>JP</sup>
+|Yes
+|2004
+|[[Griptonite Games]] 
+|[[EA Games]]
+|NA, PAL, JP
+|-
+|''[[The Lost Vikings]]''
+|Yes (COOP)
+|2003
+|[[Mass Media]]
+|[[Blizzard Entertainment|Blizzard Classic Arcade]]
+|NA, PAL
+|-
+|''[[Love Hina Advance|Love Hina Advance: Shukufuku no Kane wa Harukana]]''
+|N/A
+|2001
+|[[Marvelous Entertainment]]
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''[[Lucky Luke: Wanted!]]''
+|N/A
+|2001
+|[[WizardSoft]]
+|[[Infogrames]]
+|PAL
+|-
+|''[[Lufia: The Ruins of Lore]]''<br>•''Estopolis Densetsu: Chinmoku no Iseki''<sup>JP</sup>
+|Yes (COOP)
+|2002<sup>JP</sup><br>2003<sup>NA</sup>
+|[[Atelier Double]]
+|[[Taito]]<sup>JP</sup><br>[[Atlus]]<sup>NA</sup>
+|NA, JP
+|-
+|''[[Lunar Legend]]''
+|N/A
+|2002
+|[[Japan Art Media]]
+|[[Media Rings]]<sup>JP</sup><br>[[Ubisoft]]<sup>NA</sup>
+|NA, JP
+|-
+|id="M"|''[[List of M&M's video games|M&M's Blast!]]''
+|N/A
+|2001
+|[[Pipe Dream Interactive]]
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[List of M&M's video games|M&M's Break' Em]]''
+|N/A
+|2007
+|[[Frame Studios Interactive]]
+|[[DSI Games]]
+|NA
+|-
+|''[[Madagascar (video game)|Madagascar]]''
+|N/A
+|2005
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL, JP
+|-
+|''[[Madagascar: Operation Penguin]]''
+|N/A
+|2005
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Madden NFL 2002]]''
+|N/A
+|2001
+|[[EA Tiburon, Budcat Creations]]
+|[[EA Sports]]
+|NA
+|-
+|''[[Madden NFL 2003]]''
+|N/A
+|2002
+|[[EA Tiburon, Budcat Creations]]
+|[[EA Sports]]
+|NA
+|-
+|''[[Madden NFL 2004]]''
+|N/A
+|2003
+|[[EA Tiburon, Budcat Creations]]
+|[[EA Sports]]
+|NA
+|-
+|''[[Madden NFL 2005]]''
+|N/A
+|2004
+|[[Exient Entertainment]]
+|[[EA Sports]]
+|NA
+|-
+|''[[Madden NFL 06]]''
+|N/A
+|2005
+|[[Exient Entertainment]]
+|[[EA Sports]]
+|NA
+|-
+|''[[Madden NFL 07]]''
+|N/A
+|2006
+|[[Exient Entertainment]]
+|[[EA Sports]]
+|NA
+|-
+|''[[Magi Nation (video game)|Magi Nation]]''
+|N/A
+|2002
+|Interactive Imagination
+|[[Epoch Co.|Epoch]]
+|JP
+|-
+|''Magical Houshin''
+|N/A
+|2002
+|[[Koei]]
+|Koei
+|JP
+|-
+|''[[Magical Vacation]]''
+|N/A
+|2001
+|[[Brownie Brown]]
+|[[Nintendo]]
+|JP
+|-
+|''Mahjong Detective'' (Mahjong Keiji)
+|Yes (SPM)
+|2001
+|
+|Hudson
+|JP
+|-
+|''Mahou Sensei Negima! Private Lesson: Dame Desu Toshokan''
+|N/A
+|2005
+|
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''Mahou Sensei Negima! Private Lesson 2: Ojama Shimasu Parasite de Chu''
+|N/A
+|2006
+|
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''Mail de Cute''
+|N/A
+|2002
+|[[Konami]]
+|Konami
+|JP
+|-
+|''Majokko Cream-Chan Gokko Series 1: Wan Nyon Idol Gakuen''
+|N/A
+|2003
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Majjokko Cream-Chan no Gokko Series 2: Kisekae Angel'' (Kisekae Angel)
+|N/A
+|2004
+|
+|[[Culture Brain]]
+|JP
+|-
+|''[[Major League Baseball 2K7]]''
+|N/A
+|2007
+|[[Skyworks Technologies]]
+|[[2K Sports]]
+|NA
+|-
+|''[[Manic Miner]]''
+|N/A
+|2002
+|[[Jester Interactive]]
+|[[Jester Interactive]]
+|PAL
+|-
+|''Manga-ka Debut Monogatari: Akogare! Manga Ka Ikusei Game!''
+|N/A
+|2002
+|
+|[[TDK|TDK Core]]
+|JP
+|-
+|''[[March of the Penguins]]''
+|N/A
+|2006
+|[[SkyRiver Studios]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[MÄR|Mar Heaven: Knockin' on Heaven's Door]]''
+|N/A
+|2005
+|[[Alpha Unit]]
+|[[Konami]]
+|JP
+|-
+|''Marie, Elie & Anis no Atelier: Soyokaze kara no Dengon''
+|N/A
+|2003
+|
+|[[Banpresto]]
+|JP
+|-
+|''[[Mario & Luigi: Superstar Saga]]''<br>•''Mario & Luigi RPG''<sup>JP</sup>
+|Yes (COOP, SPM)
+|2003
+|[[AlphaDream]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Mario Golf: Advance Tour]]''<br>•''Mario Golf: GBA Tour''<sup>JP</sup>
+|Yes
+|2004
+|[[Camelot Software Planning]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Mario Kart: Super Circuit]]''<br>•''Mario Kart Advance''<sup>JP</sup>
+|Yes (SPM)
+|2001
+|[[Intelligent Systems]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Mario Party Advance]]''
+|Yes (SPM)
+|2004
+|[[Hudson Soft]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Mario Party-e]]''
+|N/A
+|2003
+|[[Hudson Soft]]
+|[[Nintendo]]
+|
+|-
+|''[[Mario Pinball Land]]''<sup>NA</sup><br>•''Super Mario Ball''<sup>PAL,JP</sup>
+|No
+|2004
+|[[Fuse Games]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Mario Tennis: Power Tour]]''<sup>NA</sup><br>•''Mario Power Tennis''<sup>PAL</sup><br>•''Mario Tennis Advance''<sup>JP</sup>
+|Yes
+|2005
+|[[Camelot Software Planning]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Mario vs. Donkey Kong]]''
+|N/A
+|2004
+|[[Nintendo Software Technology]]
+|[[Nintendo]]
+|NA, PAL, AU, JP
+|-
+|''[[Marvel: Ultimate Alliance]]''
+|N/A
+|2006
+|[[Barking Lizards]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[List of Mary-Kate and Ashley video games|Mary-Kate and Ashley: Girls Night Out]]''
+|N/A
+|2002
+|Powerhead Games
+|[[Acclaim Entertainment|Acclaim]]
+|NA
+|-
+|''[[Mary-Kate and Ashley: Sweet 16 - Licensed to Drive]]''
+|N/A
+|2002
+|Powerhead Games
+|[[Acclaim Entertainment|Acclaim]]
+|NA, PAL
+|-
+|''[[He-Man: Power of Grayskull|Masters of the Universe - He-man Power of Grayskull]]''
+|N/A
+|2002
+|[[Taniko]]
+|[[TDK Mediactive]]
+|NA
+|-
+|''[[Mat Hoffman's Pro BMX]]''
+|N/A
+|2001
+|[[HotGen]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Mat Hoffman's Pro BMX 2]]''
+|N/A
+|2002
+|[[HotGen]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[The Mythical Detective Loki Ragnarok|Matantei Loki Ragnarok: Gensou no Labyrinth]]''
+|N/A
+|2003
+|
+|[[J-Wing]]
+|JP
+|-
+|''Matchbox Cross Town Heroes''
+|N/A
+|2002
+|[[Magellan Interactive]]
+|[[THQ]]
+|NA, PAL
+|-
+|''Matchbox Missions: Air, Land and Sea Rescue / Emergency Response''
+|N/A
+|2006
+|[[Gravity-I]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[Math Patrol: The Kleptoid Threat]]''
+|N/A
+|2007
+|[[GXB Interactive]]
+|[[Tomy Corporation]]
+|NA
+|-
+|''[[Max Payne (video game)#Game Boy Advance version|Max Payne]]''<sup>NA</sup><br>•''Max Payne Advance''<sup>PAL</sup>
+|No
+|2003
+|[[Möbius Entertainment]]
+|[[Rockstar Games]]
+|NA, PAL
+|-
+|''[[Maya the Bee: Sweet Gold]]''<br>•''Die Biene Maja: Süßes Gold''<sup>GER</sup>
+|N/A
+|2005
+|[[Shin'en]]
+|[[Midway Games|Midway]]
+|PAL
+|-
+|''[[Maya the Bee: The Great Adventure]]''
+|N/A
+|2002
+|[[Shin'en]]
+|[[Acclaim Entertainment|Acclaim]]
+|PAL
+|-
+|''[[Mazes of Fate]]''
+|N/A
+|2006
+|[[Sabarasa Entertainment]]
+|[[O3 Entertainment]]
+|NA
+|-
+|''[[Mech Platoon]]''<br>•''Kikaika Gunta: Mech Platoon''<sup>JP</sup>''
+|Yes
+|2001<sup>JP, PAL</sup><br>2002<sup>NA</sup>
+|[[Kemco]]
+|Kemco
+|NA, PAL, JP
+|-
+|''[[Medabots|Medabots AX: Metabee Version]]''<br>•''Medarot G: Kabuto Version''<sup>JP</sup>''
+|Yes
+|2002<br>2003
+|Natsume
+|[[Natsume (company)|Natsume]]
+|NA, PAL, JP
+|-
+|''[[Medabots|Medabots AX: Rokusho Version]]''<br>•''Medarot G: Kuwagata Version''<sup>JP</sup>''
+|Yes
+|2002<br>2003
+|[[Natsume (company)|Natsume]]
+|Natsume
+|NA, PAL, JP
+|-
+|''[[Medal of Honor: Infiltrator]]''
+|N/A
+|2003
+|[[Netherock Ltd.]]
+|[[EA Games]]
+|NA, PAL, JP
+|-
+|''[[Medal of Honor: Underground]]''
+|Yes
+|2002<br>2003
+|[[Rebellion]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Medarot Navi Kabuto Version]]''
+|N/A
+|2001
+|[[Natsume (company)|Natsume]]
+|[[Imagineer (Japanese company)|Imagineer]]
+|JP
+|-
+|''[[Medarot Navi Kuwagana Version]]''
+|N/A
+|2001
+|[[Natsume (company)|Natsume]]
+|[[Imagineer (Japanese company)|Imagineer]]
+|JP
+|-
+|''[[Medabots (video game)|Medabots: Metabee Version]]''<br>•''Medarot 2 Core: Kabuto Version''<sup>JP</sup>''
+|N/A
+|2002<br>2003
+|[[Natsume (company)|Natsume]]
+|Natsume
+|NA
+|-
+|''[[Medabots (video game)|Medabots: Rokusho Version]]''<br>•''Medarot 2 Core: Kuwagata Version''<sup>JP</sup>''
+|N/A
+|2002<br>2003
+|[[Natsume (company)|Natsume]]
+|Natsume
+|NA
+|-
+|''[[Meet the Robinsons (video game)|Meet the Robinsons]]''
+|N/A
+|2007
+|[[Climax Studios]] 
+|[[Disney Interactive Studios]]
+|NA, PAL
+|-
+|''[[Mega Man & Bass]]''<br>•''Rockman & Forte''<sup>JP</sup>''
+|N/A
+|2001
+|
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Battle Chip Challenge]]''<br>•''Rockman EXE Battle Chip GP''<sup>JP</sup>''
+|N/A
+|2003<br>2004
+|[[Capcom]]
+|Capcom
+|NA, PAL, JP
+|-
+|''[[Mega Man Battle Network (video game)|Mega Man Battle Network]]''<br>•''Battle Network Rockman EX''<sup>JP</sup>
+|Yes
+|{{Vgrtbl|JP|March 21, 2001|US|October 30, 2001|EU|November 30, 2001}}
+|
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Battle Network 2]]''<br>•''Battle Network Rockman EXE 2''<sup>JP</sup>
+|N/A
+|2001<br>2002
+|
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Battle Network 3|Mega Man Battle Network 3: Blue]]''<br>•''Battle Network Rockman EXE 3 Black''<sup>JP</sup>
+|N/A
+|2003
+|
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Battle Network 3|Mega Man Battle Network 3: White]]''<br>•''Battle Network Rockman EXE 3''<sup>JP</sup>
+|N/A
+|2004
+|
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Battle Network 4|Mega Man Battle Network 4: Blue Moon]]''<br>•''Rockman EXE 4 Tournament Blue Moon''<sup>JP</sup>
+|N/A
+|2004
+|
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Battle Network 4|Mega Man Battle Network 4: Red Sun]]''<br>•''Rockman EXE 4 Tournament Red Sun''<sup>JP</sup>
+|Yes
+|2004
+|
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Battle Network 5|Mega Man Battle Network 5: Team Protoman]]''<br>•''Rockman EXE 5 Team of Blues''<sup>JP</sup>
+|N/A
+|2005
+|
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Battle Network 5|Mega Man Battle Network 5: Team Colonel]]''<br>•''Rockman EXE 5 Team of Colonel''<sup>JP</sup>
+|N/A
+|2004<br>2005
+|
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Battle Network 6|Mega Man Battle Network 6: Cybeast Falzar]]''<br>•''Rockman EXE 6 Dennōjū Falzer''<sup>JP</sup>
+|N/A
+|2005
+|
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Battle Network 6|Mega Man Battle Network 6: Cybeast Gregar]]''<br>•''Rockman EXE 6 Dennōjū Glaga''<sup>JP</sup>
+|N/A
+|2005<br>2006
+|
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Zero (video game)|Mega Man Zero]]''<br>•''Rockman Zero''<sup>JP</sup>
+|N/A
+|2002
+|[[Inti Creates]]
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Zero 2]]''<br>•''Rockman Zero 2''<sup>JP</sup>
+|N/A
+|2003
+|[[Inti Creates]]
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Zero 3]]''<br>•''Rockman Zero 3''<sup>JP</sup>
+|N/A
+|2004
+|[[Inti Creates]]
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Mega Man Zero 4]]''<br>•''Rockman Zero 4''<sup>JP</sup>
+|N/A
+|2005
+|[[Inti Creates]]
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Meine Tierarztpraxis]]''<sup>GER</sup><br>•''Mijn Dierenpraktijk''<sup>NL</sup>
+|N/A
+|2006
+|[[Independent Arts]]
+|[[DTP Entertainment]]
+|PAL
+|-
+|''[[List of Case Closed video games|Meitantei Conan: Akatsuki no Monument]]''
+|N/A
+|2005
+|
+|[[Banpresto]]
+|JP
+|-
+|''[[List of Case Closed video games|Meitantei Conan: Nerawareta Tantei]]''
+|N/A
+|2003
+|[[Fortyfive]]
+|[[Banpresto]]
+|JP
+|-
+|''[[Men in Black: The Series (video game)|Men in Black: The Series]]''
+|N/A
+|2001<br>2002
+|[[David A. Palmer Productions]]
+|[[Crave Entertainment|Crave]]
+|NA, PAL
+|-
+|''[[Mermaid Melody Pichi Pichi Pitch#Video games|Mermaid Melody Pichi Pichi Pitch]]''
+|N/A
+|2003
+|[[Konami]]
+|Konami
+|JP
+|-
+|''[[Mermaid Melody Pichi Pichi Pitch#Video games|Mermaid Melody - Pichi Pichi Pitch - Pichi Pichi Party]]''
+|N/A
+|2003
+|[[Konami]]
+|Konami
+|JP
+|-
+|''[[Mermaid Melody Pichi Pichi Pitch#Video games|Mermaid Melody: Pichi Pichi Pitch - Pichi Pichitto Live Start]]''
+|N/A
+|2004
+|[[Konami]]
+|Konami
+|JP
+|-
+|''[[Metal Max 2 Kai]]''
+|N/A
+|2003
+|
+|[[Now Production]]
+|JP
+|-
+|''[[Metal Slug Advance]]''
+|No
+|2004
+|[[Noise Factory]]
+|[[SNK Playmore]]
+|NA, PAL, JP
+|-
+|''Metalgun Slinger''
+|N/A
+|2002
+|Open Sesame
+|[[Atmark]]
+|JP
+|-
+|''[[Metroid Fusion]]''
+|No
+|2002
+|[[Nintendo]]
+|Nintendo
+|NA, PAL, JP
+|-
+|''[[Metroid: Zero Mission]]''
+|No
+|2004
+|[[Nintendo]]
+|Nintendo
+|NA, PAL, JP
+|-
+|''Mezase! Koushien''
+|N/A
+|2005
+|
+|Tasuke
+|JP
+|-
+|''[[Micro Machines (video game series)|Micro Machines]]''
+|Yes (SPM)
+|2003
+|[[Paragon 5]]
+|[[Infogrames]]
+|PAL
+|-
+|''[[Midnight Club: Street Racing]]''
+|Yes
+|2001
+|[[Angel Studios]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Midway's Greatest Arcade Hits]]''
+|N/A
+|2001
+|[[Midway Games|Midway]]
+|Midway
+|NA, PAL
+|-
+|''[[Mighty Beanz|Mighty Beanz Pocket Puzzles]]''
+|N/A
+|2004
+|[[Radius9]]
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[Mike Tyson Boxing]]''
+|N/A
+|2002
+|[[Virtucraft]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Millipede (video game)|Millipede]] / [[Super Breakout]] / [[Lunar Lander (1979 video game)|Lunar Lander]]''
+|N/A
+|2005
+|[[Gravity-I]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''Minami no Umi no Odyssey''
+|N/A
+|2002
+|
+|[[Global A Entertainment|Global A]]
+|JP
+|-
+|''Mini Moni: Mika no Happy Morning Chatty''
+|N/A
+|2002
+|
+|[[Shogakukan]]
+|JP
+|-
+|''Mini Moni: Onegai Ohoshi-sama!''
+|N/A
+|
+|
+|[[Konami]]
+|JP
+|-
+|''Minna no Soft Series: Hyokkori Hyoutan Shima''
+|N/A
+|2003
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''Minna no Soft Series: Happy Trump 20''
+|Yes (SPM)
+|2005
+|[[Kouyousha]]
+|Success
+|JP
+|-
+|''Minna no Soft Series: Minna no Mahjong''
+|N/A
+|2003
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''Minna no Soft Series: Minna no Shogi''
+|N/A
+|2004
+|
+|Success
+|JP
+|-
+|''Minna no Soft Series: Shanghai''
+|N/A
+|2003
+|
+|Success
+|JP
+|-
+|''Minna no Soft Series: Tetris Advance''
+|Yes (SPM)
+|2003
+|
+|Success
+|JP
+|-
+|''[[Minority Report: Everybody Runs]]''
+|N/A
+|2002
+|[[Torus Games]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Miracle! Panzou: 7-tsu no Hoshi no Uchuu Kaizoku]]''
+|N/A
+|2005
+|
+|[[Atlus]]
+|JP
+|-
+|''[[Mission: Impossible: Operation Surma]]''
+|N/A
+|2003
+|[[M4 Limited]]
+|[[Atari SA]]
+|NA, PAL
+|-
+|''[[MLB Slugfest 2004]]''
+|N/A
+|2003
+|[[Handheld Games]]
+|[[Midway Games|Midway]]
+|NA
+|-
+|''[[Mobile Pro Baseball]]''
+|N/A
+|
+|
+|
+|
+|-
+|''[[Gundam: Battle Assault (series)#Mobile Suit Gundam Seed: Battle Assault and Mobile Suit Gundam SEED Destiny|Mobile Suit Gundam Seed: Tomo to Kimi to Koko de]]''<br>•''Kidou Senshi Gundam Seed: Tomo to Kimi to Koko de''<sup>JP</sup>
+|N/A
+|2004
+|[[Natsume (company)|Natsume]]
+|[[Bandai]]
+|JP
+|-
+|''[[Gundam: Battle Assault (series)#Mobile Suit Gundam Seed: Battle Assault and Mobile Suit Gundam SEED Destiny|Mobile Suit Gundam Seed: Battle Assault]]''<br>•''Kidou Senshi Gundam Seed Destiny''<sup>JP</sup>
+|N/A
+|2004
+|[[Natsume (company)|Natsume]]
+|[[Bandai]]
+|NA, JP
+|-
+|''[[Momotarou Matsuri]]'' (Momotaro Festival)
+|N/A
+|{{Vgrtbl|JP|March 21, 2001}}
+|Hudson
+|Hudson
+|JP
+|-
+|''[[Momotarou Dentetsu G: Gold Deck o Tsukure!]]''
+|N/A
+|2005
+|
+|[[Hudson Soft|Hudson]]
+|JP
+|-
+|''[[Monopoly video games|Monopoly]]''
+|N/A
+|2004
+|[[Destination Software]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[Monster! Bass Fishing]]''
+|N/A
+|2004
+|[[Ignition Entertainment]]
+|AIA USA
+|NA, PAL
+|-
+|''[[Monster Force (GBA game)|Monster Force]]''
+|N/A
+|2002
+|[[Digital Eclipse]]
+|[[Universal Interactive]]
+|NA, PAL
+|-
+|''[[Monster Gate]]''
+|Yes (SPM)
+|2002
+|[[KCE Studios]]
+|[[Konami]]
+|JP
+|-
+|''[[Monster Gate 2: Dai Inaru Dungeon]]'' (Monster Gate: Ooinaru Dungeon - Fuuin no Orb)
+|Yes (SPM)
+|2003
+|[[KCE Studios]]
+|[[Konami]]
+|JP
+|-
+|''[[Monster Guardians]]''
+|N/A
+|{{Vgrtbl|JP|March 21, 2001}}
+|[[Konami]]
+|Konami
+|JP
+|-
+|''[[Monster House (video game)|Monster House]]''
+|N/A
+|2006
+|[[Artificial Mind and Movement]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Monster Jam: Maximum Destruction]]''
+|N/A
+|2002
+|[[Unique Development Studios]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''Monster Maker 4: Flash Card''
+|N/A
+|2002
+|
+|Success
+|JP
+|-
+|''Monster Maker 4: Killer Dice''
+|N/A
+|2002
+|
+|Success
+|JP
+|-
+|''[[Monster Rancher Advance]]''<br>•''Monster Farm Advance''<sup>JP</sup>
+|N/A
+|2001
+|[[Tecmo]]
+|[[Tecmo]]
+|NA, PAL
+|-
+|''[[Monster Rancher Advance 2]]''<br>•''Monster Farm Advance 2''<sup>JP</sup>
+|N/A
+|2002
+|[[Tecmo]]
+|[[Tecmo]]
+|NA, PAL
+|-
+|''[[Monster Summoner]]''
+|N/A
+|2004
+|
+|[[Ertain]]
+|JP
+|-
+|''[[Monster Truck Madness]]''
+|N/A
+|2003
+|[[Tantalus Interactive]]
+|[[THQ]]
+|NA
+|-
+|''[[Monster Trucks (Game Boy Advance game)|Monster Trucks]]''
+|N/A
+|2004
+|[[Skyworks Technologies]]
+|[[Majesco Entertainment]]
+|NA, PAL
+|-
+|''[[Monster Trucks Mayhem]]''
+|N/A
+|2006
+|[[Apex Designs]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[Monsters, Inc. (video game)|Monsters, Inc.]]''
+|N/A
+|2001
+|[[Natsume (company)|Natsume]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''[[Moorhuhn 3: ...Es Gibt Huhn!]]''<sup>GER</sup><br>•''Crazy Chicken 3: The Chicken Chase''<sup>PAL</sup>
+|N/A
+|2002
+|[[Sproing Interactive Media|Sproing]]
+|[[Ubisoft]]
+|PAL
+|-
+|''Morita Shogi Advance''
+|Yes (SPM)
+|2001
+|Hudson
+|Hudson
+|JP
+|-
+|''The Morning Adventure''
+|N/A
+|2003
+|Bit Managers
+|Virtual Toys
+|PAL
+|-
+|''[[Mortal Kombat Advance]]''
+|N/A
+|2002
+|Virtucraft
+|Midway
+|NA, PAL
+|-
+|''[[Mortal Kombat: Deadly Alliance]]''
+|N/A
+|2002
+|Midway
+|Midway
+|NA, PAL
+|-
+|''[[Mortal Kombat: Tournament Edition]]''
+|N/A
+|2003
+|Midway
+|Midway
+|NA
+|-
+|''[[Mother 1 + 2]]''
+|N/A
+|2003
+|[[Brownie Brown]] / [[HAL Laboratory]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Mother 3]]''
+|N/A
+|2006
+|[[Brownie Brown]] / [[HAL Laboratory]] / [[Nintendo]]
+|Nintendo
+|JP
+|-
+|''[[MotoGP]]''
+|N/A
+|2002
+|[[Visual Impact]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''[[Moto Racer Advance]]''
+|N/A
+|2002
+|[[Adeline Software International]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Motocross Maniacs Advance]]''<br>•''Maniac Racers Advance''<sup>PAL</sup>
+|Yes (SPM)
+|2002
+|
+|[[Konami]]
+|NA, PAL
+|-
+|''[[Mouse Trap (game)|Mouse Trap]] / [[Operation (game)|Operation]] / [[Simon (game)|Simon]]''
+|N/A
+|2005
+|[[Gravity-I]]
+|[[Destination Software]]
+|NA
+|-
+|''[[Mr. Driller|Mr. Driller 2]]''
+|Yes
+|{{Vgrtbl|JP|March 21, 2001|EU|January 30, 2004|US|April 10, 2005}}
+|[[Namco]]
+|Namco
+|NA, PAL, JP
+|-
+|''[[Mr. Driller Ace: Fushigi na Pacteria]]''
+|Yes (SPM)
+|2002
+|
+|[[Namco]]
+|JP
+|-
+|''[[Mr. Nutz]]''
+|No
+|2001
+|Dream On
+|[[Infogrames]]
+|PAL
+|-
+|''[[Ms. Pac-Man Maze Madness]]''
+|N/A
+|2004
+|[[Full Fat]]
+|[[Namco]]<sup>NA</sup> / [[Zoo Digital Publishing]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Mucha Lucha! Mascaritas of the Lost Code]]''
+|N/A
+|2003
+|[[Digital Eclipse]]
+|[[Ubisoft]]
+|NA
+|-
+|''[[Mugen Kinogyou Zero Tours]]''
+|N/A
+|2001
+|[[Amedio]]
+|[[Media Rings]]
+|JP
+|-
+|''[[Mugenborg]]''
+|N/A
+|2003
+|[[Konami Computer Entertainment Tokyo|KCET]]
+|[[Konami]]
+|JP
+|-
+|''[[The Mummy: The Animated Series|The Mummy]]''
+|N/A
+|2002
+|[[Ubisoft Milan]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Muppet Pinball Mayhem]]''
+|N/A
+|2002
+|[[Digital Eclipse]]
+|[[NewKidCo]]
+|NA, PAL
+|-
+|''[[The Muppets: On With The Show!]]''
+|N/A
+|2003
+|[[Vicarious Visions]]
+|[[TDK Mediactive]]
+|NA, PAL
+|-
+|''[[Muscular Ranking]]''
+|N/A
+|
+|
+|
+|JP
+|-
+|''[[Mutsu: Water Looper Mutsu]]''
+|N/A
+|2001
+|[[Alpha Unit]]
+|[[Tomy Corporation]]
+|JP
+|-
+|''[[MX 2002 featuring Ricky Carmichael]]''
+|N/A
+|2001
+|[[Tiertex Design Studios]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[My Animal Centre in Africa]]''
+|N/A
+|2006
+|[[Zeal Game Studio|Zeal]]
+|[[Koch Media]]
+|PAL
+|-
+|''[[My Little Pony Crystal Princess: The Runaway Rainbow#Video game|My Little Pony Crystal Princess: The Runaway Rainbow]]''
+|N/A
+|2006
+|[[Webfoot Technologies]]
+|[[THQ]] / [[Hasbro]]
+|NA
+|-
+|id="N"|''[[Nakayoshi Mahjan Kaburiichi]]''
+|N/A
+|
+|
+|
+|JP
+|-
+|''Nakayoshi Pet Advance Series 1: Kawaii Hamusutaa''
+|N/A
+|
+|
+|
+|JP
+|-
+|''Nakayoshi Pet Advance Series 2: Kawaii Koinu''
+|N/A
+|2002
+|
+|MTO
+|JP
+|-
+|''Nakayoshi Pet Advance Series 3: Kawaii Koneko''
+|N/A
+|2002
+|
+|MTO
+|JP
+|-
+|''Nakayoshi Pet Advance Series 4: Kawaii Koinu Mini - Wanko to Asobou!! Kogatainu''
+|N/A
+|2003
+|
+|MTO
+|JP
+|-
+|''[[Namco Museum#Namco Museum (Game Boy Advance)|Namco Museum]]''
+|N/A
+|2001
+|Mass Media
+|Namco
+|NA, PAL, JP
+|-
+|''[[Namco Museum#Namco Museum: 50th Anniversary|Namco Museum 50th Anniversary]]''
+|N/A
+|2005
+|[[Backbone Entertainment|Backbone Vancouver]]
+|Namco
+|NA, PAL
+|-
+|''[[Nancy Drew: Message in a Haunted Mansion]]''
+|N/A
+|2001
+|[[Handheld Games]]
+|[[DreamCatcher Interactive]]
+|NA
+|-
+|''[[Napoleon (video game)|Napoleon]]''<br>•''Napoleon: L'Aigle de Guerrre''<sup>FRE</sup>
+|N/A
+|{{Vgrtbl|JP|March 21, 2001|EU|November 21, 2001}}
+|[[Genki (company)|Genki]]
+|[[Nintendo]]
+|PAL, JP
+|-
+|''Nakayoshi Youchien''
+|N/A
+|2002
+|
+|TDK Core
+|JP
+|-
+|''[[Naruto: Konoha Senki]]''
+|N/A
+|2003
+|Tomy Corporation
+|Tomy Corporation
+|JP
+|-
+|''[[Naruto: Ninja Council]]''<br>•''Naruto: Ninjutsu Zenkai! Saikyō Ninja Daikesshū ''<sup>JP</sup>
+|N/A
+|2003<br>2006
+|Tomy Corporation
+|Tomy Corporation
+|NA, JP
+|-
+|''[[Naruto: Ninja Council 2]]''<br>•''Naruto: Saikyō Ninja Daikesshu 2''<sup>JP</sup>
+|N/A
+|2004<br>2006
+|Tomy Corporation
+|Tomy Corporation
+|NA, JP
+|-
+|''[[Naruto RPG: Uketsugareshi Hi no Ishi]]''
+|N/A
+|2004
+|Tomy Corporation
+|Tomy Corporation
+|JP
+|-
+|''[[NASCAR Heat 2002]]''
+|Yes (SPM)
+|2002
+|[[Crawfish Interactive]]
+|[[Infogrames]]
+|NA
+|-
+|''[[Natural 2: Duo]]''
+|N/A
+|2002
+|
+|[[Omega Micott]]
+|JP
+|-
+|''[[NBA Jam 2002]]''
+|N/A
+|2002
+|[[DC Studios]]
+|[[Acclaim Entertainment|Acclaim]]
+|NA, PAL
+|-
+|''[[Need for Speed: Carbon – Own the City]]''
+|N/A
+|2006
+|[[EA Canada]]
+|[[EA Games]]
+|NA, PAL
+|-
+|''[[Need for Speed: Most Wanted (2005 video game)|Need for Speed: Most Wanted]]''
+|N/A
+|2005
+|[[EA Canada]]
+|[[Electronic Arts]]
+|NA, PAL
+|-
+|''[[Need for Speed: Underground]]''
+|N/A
+|2003
+|[[Pocketeers]]
+|[[Electronic Arts]]
+|NA, PAL
+|-
+|''[[Need for Speed: Underground 2]]''
+|N/A
+|2004
+|[[Pocketeers]]
+|[[Electronic Arts]]
+|NA, PAL
+|-
+|''[[Need for Speed: Porsche Unleashed]]''
+|N/A
+|2005
+|[[Pocketeers]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[NGT Next Generation Tennis]]'' (Roland Garros: French Open 2002)
+|Yes (SPM)
+|2002
+|Wanadoo
+|Strategy First
+|PAL
+|-
+|''[[NFL Blitz 20-02]]''
+|N/A
+|2001
+|[[OutLook Entertainment]]
+|[[Midway Games|Midway]]
+|NA
+|-
+|''[[NFL Blitz 20-03]]''
+|N/A
+|2002
+|[[OutLook Entertainment]]
+|[[Midway Games|Midway]]
+|NA
+|-
+|''[[NHL 2002]]''
+|N/A
+|2001
+|[[Budcat Creations]]
+|[[EA Sports]]
+|NA
+|-
+|''[[NHL Hitz 2003]]''
+|N/A
+|2002
+|[[Exient Entertainment]]
+|[[Midway Games|Midway]]
+|NA
+|-
+|''[[Nicktoons Racing]]''
+|N/A
+|2002
+|[[Software Creations (UK)|Software Creations]]
+|[[Infogrames]] / [[Nickelodeon]]
+|NA, PAL
+|-
+|''[[Nicktoons Unite!]]''<sup>NA</sup><br>•''SpongeBob SquarePants and Friends Unite!''<sup>PAL</sup>
+|N/A
+|2005
+|[[Climax Group]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Nicktoons: Attack of the Toybots]]''
+|N/A
+|2007
+|[[Firemint]]
+|[[THQ]]
+|NA
+|-
+|''[[Nicktoons: Battle for Volcano Island]]''<sup>NA</sup><br>•''SpongeBob SquarePants and Friends: Battle for Volcano Island''<sup>PAL</sup>
+|N/A
+|2006
+|[[Halfbrick Studios]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Nicktoons: Freeze Frame Frenzy]]''<sup>NA</sup><br>•''SpongeBob SquarePants and Friends: Freeze Frame Frenzy''<sup>PAL</sup>
+|N/A
+|2004
+|[[Altron]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Ninja Five-O]]''<sup>NA</sup><br>•''Ninja Cop''<sup>PAL</sup>
+|N/A
+|2003<sup>PAL</sup><br>2003<sup>NA</sup>
+|[[Hudson Soft]]
+|[[Konami]]
+|NA, PAL
+|-
+|''No no no Puzzle Chailien''
+|Yes (SPM)
+|2005
+|[[Creatures (company)|Creatures Inc.]]
+|Nintendo
+|JP
+|-
+|''[[No Rules: Get Phat]]''
+|No
+|2001
+|[[Flying Tiger Development]]
+|[[TDK Mediactive]]
+|NA, PAL
+|-
+|''Nobunaga Ibun''
+|N/A
+|2002
+|
+|[[Global A Entertainment|Global A]]
+|JP
+|-
+|''[[Nobunaga No Yabou]]''
+|N/A
+|2001
+|[[Koei]]/[[iNiS]]
+|Koei
+|JP
+|-
+|''[[Noddy, Toyland Detective|Noddy: A Day at Toyland]]''
+|Yes
+|2006
+|[[Lucky Jump ]]
+|[[The Game Factory]]
+|NA, PAL
+|-
+|''Nyan Nyan Nyanko no Nyan Collection''
+|N/A
+|2005
+|[[MTO (video game company)|MTO]]
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|id="O"|''[[Ocha-Ken#Video games|Ochaken no Bouken Jima: Honwaka Yume no Island]]''
+|N/A
+|2005
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''[[Ocha-Ken#Video games|Ochaken Kururin: Honwaka Puzzle de Hotto Shiyo?]]''
+|N/A
+|2004
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''[[Ocha-Ken#Video games|Ochaken no Heya]]''
+|Yes (SPM)
+|2003
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''[[Ocha-Ken#Video games|Ochaken no Yume Bouken]]''
+|N/A
+|2005
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''[[Oddworld: Munch's Oddysee]]''
+|N/A
+|2003
+|[[Art Co., Ltd|Art]]
+||[[THQ]]
+|NA, PAL
+|-
+|''Ohanaya-san Monogatari''
+|N/A
+|2002
+|
+|[[TDK|TDK Core]]
+|JP
+|-
+|''Ojarumaru: Gekkou Machi Sanpo de Ojaru''
+|N/A
+|2003
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''Okaitoku Series 5: Puzzle & Tantei Collection'' (Puzzle & Tantei Collection)
+|N/A
+|2003
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Okuman Chouja Game: Nottori Daisakusen!''
+|N/A
+|2001
+|[[Mobile 21]]
+|[[Bandai]]
+|JP
+|-
+|''[[Onimusha Tactics]]''
+|N/A
+|2003
+|
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[List of One Piece video games|One Piece: Going Baseball - Kaizoku Yakyuu]]''<sup> JP</sup><br>•''One Piece: Going Baseball - Haejeok Yagu''<sup> KOR</sup>
+|N/A
+|2004
+|Now Production
+|Bandai
+|JP
+|-
+|''[[List of One Piece video games|One Piece: Dragon Dream!]]''
+|N/A
+|2005
+|[[M2 (game developer)|M2]]
+|Bandai
+|JP
+|-
+|''[[Onmyō Taisenki#Video games|Onmyou Taisenki: Zeroshiki]]''
+|N/A
+|2004
+|[[Kamui]]
+|[[Bandai]]
+|JP
+|-
+|''[[Open Season (video game)|Open Season]]''
+|N/A
+|2006
+|[[Ubisoft Montreal]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Operation: Armored Liberty]]''
+|N/A
+|2003
+|[[Majesco Entertainment]]
+|Majesco Entertainment
+|NA, PAL
+|-
+|''Oriental Blue: Ao no Tengai''
+|N/A
+|2003
+|[[Hudson Soft|Hudson]]
+|[[Nintendo]]
+|JP
+|-
+|''Oshaberi Inko Club''
+|N/A
+|2002
+|
+|[[Alpha Unit]]
+|JP
+|-
+|''[[Culture Brain#Oshare Princess series|Oshare Princess]]''
+|N/A
+|2002
+|
+|[[Culture Brain]]
+|JP
+|-
+|''[[Culture Brain#Oshare Princess series|Oshare Princess 2 + Doubutsu Kyaranabi Uranai]]''
+|N/A
+|2002
+|
+|[[Culture Brain]]
+|JP
+|-
+|''[[Culture Brain#Oshare Princess series|Oshare Princess 3]]''
+|N/A
+|2003
+|
+|[[Culture Brain]]
+|JP
+|-
+|''[[Culture Brain#Oshare Princess series|Oshare Princess 5]]''
+|N/A
+|2005
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Ottifanten Pinball''
+|N/A
+|2005
+|[[Independent Arts]]
+|[[Trend Verlag]]
+|PAL
+|-
+|''[[Our Breeding Series: Boku No Kuwagata 3]]''
+|N/A
+|2001
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''[[Our Breeding Series: My Rhinoceros Beetle]]''
+|N/A
+|
+|
+|
+|JP
+|-
+|''[[Our Breeding Series: My Stag Beetle]]''
+|N/A
+|
+|
+|
+|JP
+|-
+|''[[Over the Hedge (video game)|Over the Hedge]]''
+|N/A
+|2006
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Over The Hedge: Hammy Goes Nuts!]]''
+|N/A
+|2006
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Ozzy & Drix]]''
+|N/A
+|2003
+|Raylight Studios
+|Midway
+|NA
+|-
+|id="P"|''[[Pac-Man Collection]]''
+|No
+|2001
+|[[Mass Media]]
+|[[Namco]]
+|NA, PAL, JP
+|-
+|''[[Pac-Man Pinball Advance]]''
+|N/A
+|2005
+|[[HumanSoft]]
+|[[Namco]]
+|NA, PAL
+|-
+|''[[Pac-Man World]]''
+|N/A
+|2004
+|[[Full Fat]]
+|[[Namco]]
+|NA, PAL
+|-
+|''[[Pac-Man World 2]]''
+|Yes
+|2005
+|[[Full Fat]]
+|[[Namco]]
+|NA, PAL
+|-
+|''[[Paperboy (video game)|Paperboy]] / [[Rampage (video game)|Rampage]]''
+|N/A
+|2005
+|[[DSI Games]]
+|DSI Games
+|NA, PAL
+|-
+|''Pawa Poke Dash''
+|N/A
+|2006
+|
+|[[Konami]]
+|JP
+|-
+|''[[Paws & Claws: Best Friends - Dogs & Cats]]''<sup>NA</sup><br>•''Best Friends: Hunde & Katze''<sup>PAL</sup>
+|N/A
+|2007
+|[[Sproing Interactive|Sproing]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Paws & Claws: Pet Resort]]''<sup>NA</sup><br>•''My Pet Hotel''<sup>PAL</sup><br>•''Léa Passion Vétérinaire''<sup>FR</sup><br>•''Mijn Dierenpension: Huisdieren logeren graag bij jou!''<sup>NL</sup>
+|N/A
+|2006
+|[[Independent Arts]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Payback (video game)|Payback]]''
+|N/A
+|2004
+|[[Apex Designs]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Peter Pan (2003 film)#Merchandise|Peter Pan: The Motion Picture Event]]''
+|No
+|2003
+|[[Saffire Corporation|Saffire]]
+|[[Atari SA]]
+|NA, PAL
+|-
+|''[[Petz|Petz: Hamsterz 2]]''<br>•''Hamster Gurakubu 3''<sup>JP</sup>
+|N/A
+|2007
+|[[Jorudan]]
+|[[Ubisoft]]
+|NA
+|-
+|''[[Petz|Petz Vet]]''<br>•''Himawari Doubutsu Byouin Pet no Oishasan''<sup>JP</sup>
+|N/A
+|2007
+|[[Sensory Sweep]]
+|[[Ubisoft]]
+|NA
+|-
+|''[[Phalanx (video game)|Phalanx]]''
+|N/A
+|2001
+|
+|[[Kemco]]
+|NA, PAL, JP
+|-
+|''[[Phantasy Star Collection]]''
+|N/A
+|2002/2003
+|[[Digital Eclipse]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Phil of the Future]]''
+|N/A
+|2006
+|[[Handheld Games]]
+|[[Buena Vista Games]]
+|NA
+|-
+|''[[Phoenix Wright: Ace Attorney]]''<br>•''Gyakuten Saiban''<sup>JP</sup>
+|N/A
+|2001
+|[[Capcom]]
+|Capcom
+|JP
+|-
+|''[[Phoenix Wright: Ace Attorney: Justice for All]]''<br>•''Gyakuten Saiban 2''<sup>JP</sup>
+|N/A
+|2002
+|[[Capcom]]
+|Capcom
+|JP
+|-
+|''[[Phoenix Wright: Ace Attorney: Trials and Tribulations]]''<br>•''Gyakuten Saiban 3''<sup>JP</sup>
+|N/A
+|2004
+|[[Capcom]]
+|Capcom
+|JP
+|-
+|''[[Welcome to Pia Carrot|Pia Carrot e Youkoso!! 3.3]]'' (Welcome to Pia Carrot 3.3)
+|N/A
+|2004
+|[[F&C]]
+|[[NEC Interchannel]]
+|JP
+|-
+|''[[Piglet's Big Game]]''
+|N/A
+|2003
+|[[Doki Denki]]
+|[[Disney Interactive Studios]]
+|NA, PAL
+|-
+|''Pika Pika Nurse Monogatari: Hatsuratsu Nurse Ikusei Game''
+|N/A
+|2003
+|
+|[[TDK|TDK Core]]
+|JP
+|-
+|''Pinball Advance''
+|N/A
+|2002
+|Rebellion
+|Digital Worldwide
+|PAL
+|-
+|''Pinball Challenge Deluxe'' ([[Pinball Dreams]] / [[Pinball Fantasies]])
+|N/A
+|2002
+|[[Binary 9 Studios]]
+|[[Ubisoft]]
+|PAL
+|-
+|''[[The Pinball of the Dead]]''
+|N/A
+|2002
+|[[Sega]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''Pinball Tycoon''
+|N/A
+|2003
+|[[Ignition Entertainment]]
+|[[AIA (video game company)|AIA]]
+|NA, PAL
+|-
+|''[[Pink Panther (character)#Games|Pink Panther: Pinkadelic Pursuit]]''
+|N/A
+|2002
+|[[Super Empire]]
+|[[DreamCatcher Interactive]]
+|NA, PAL
+|-
+|''[[Pinky and the Brain: The Masterplan]]''
+|Yes (SPM)
+|2002
+|[[Warthog]]
+|[[Swing! Deutschland]]
+|PAL
+|-
+|''Pinky Monkey Town''
+|N/A
+|2001
+|Starfish
+|Starfish
+|JP
+|-
+|''[[Pinobee & Phoebee]]''
+|N/A
+|2002
+|[[Artoon]]
+|[[Hudson Soft|Hudson]]
+|JP
+|-
+|''[[Pinobee: Wings of Adventure]]''<br>•''Pinobee no Daibouken''<sup>JP</sup>
+|No
+|{{Vgrtbl|JP|March 21, 2001|US|May 30, 2001|EU|2001}}
+|[[Artoon]]
+|[[Activision]]
+|NA, PAL, JP
+|-
+|''[[Pirates of the Caribbean: The Curse of the Black Pearl (video game)|Pirates of the Caribbean: The Curse of the Black Pearl]]''
+|No
+|2003
+|[[Pocket Studios]]
+|[[TDK Mediactive]]
+|NA, PAL, JP
+|-
+|''[[Pirates of the Caribbean: Dead Man's Chest (video game)|Pirates of the Caribbean: Dead Man's Chest]]''
+|Yes
+|2006
+|[[Amaze Entertainment]]
+|[[Buena Vista Games]]
+|NA, PAL
+|-
+|''[[Pitfall: The Lost Expedition]]''
+|Yes
+|2004
+|[[Torus Games]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Pitfall: The Mayan Adventure]]''
+|No
+|2001
+|[[Pipe Dream Interactive]]
+|[[Majesco Entertainment]]
+|NA
+|-
+|''Pixeline i Pixieland''
+|N/A
+|2007
+|
+|[[Krea Medie A/S]]
+|PAL
+|-
+|''[[Planet Monsters]]''
+|Yes
+|2001<sup>NA</sup><br>2002<sup>EU</sup>
+|[[Planet Interactive]]
+|[[Titus Software]]
+|NA, PAL
+|-
+|''[[Planet of the Apes (video game)|Planet of the Apes]]''
+|N/A
+|2001
+|[[Torus Games]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Silent Hill (video game)#Adaptations|Play Novel: Silent Hill]]''
+|No
+|{{Vgrtbl|JP|March 21, 2001}}
+|
+|[[Konami]]
+|JP
+|-
+|''Pocket Dogs''<br>•''Poke Inu: Poket Dog''<sup>JP</sup>
+|N/A
+|2005
+|[[Agatsuma Entertainment]]
+|[[O3 Entertainment]]
+|NA, JP
+|-
+|''Pocket Music''
+|N/A
+|2002
+|[[Jester Interactive]]
+|[[Rage Software]]
+|PAL
+|-
+|''Pocket Professor: KwikNotes Volume One''
+|N/A
+|2006
+|
+|[[Pocket Direct, L.L.C.]]
+|NA
+|-
+|''[[Pocky & Rocky with Becky]]''<br>•''Kiki KaiKai Advance''<sup>JP</sup>
+|N/A
+|2002
+|[[Altron]]
+|[[Natsume (company)|Natsume]]
+|NA, JP
+|-
+|''[[Pokémon Emerald]]''
+|N/A
+|2004
+|[[Game Freak]] [[Creatures Inc.]]
+|[[Nintendo]]
+|NA, JP, PAL
+|-
+|''[[Pokémon FireRed]]''
+|Yes
+|2004
+|[[Game Freak]]
+|[[Nintendo]]
+|NA, JP, PAL, AUS
+|-
+|''[[Pokémon LeafGreen]]''
+|Yes
+|2004
+|[[Game Freak]]
+|[[Nintendo]]
+|NA, JP, PAL, AUS
+|-
+|''[[Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team|Pokémon Mystery Dungeon: Red Rescue Team]]''<br>•''Pokémon Fushigi no Danjon Aka no Kyūjotai''<sup>JP</sup>
+|N/A
+|2005
+|[[Chunsoft]]
+|[[Nintendo]]
+|NA, JP, PAL, AUS, KOR
+|-
+|''[[Pokémon Pinball: Ruby and Sapphire]]''
+|N/A
+|2003
+|[[Jupiter (company)|Jupiter]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Pokémon Ruby]]''
+|N/A
+|2002
+|[[Game Freak]]
+|[[Nintendo]]
+|NA, JP, PAL, AUS
+|-
+|''[[Pokémon Sapphire]]''
+|N/A
+|2002
+|[[Game Freak]]
+|[[Nintendo]]
+|NA, JP, PAL, AUS
+|-
+|''[[The Polar Express]]''
+|Yes
+|2004
+|Tantalus
+|THQ
+|NA, PAL
+|-
+|''[[Polarium Advance]]''<br>•''Tsuukin Hitofude''<sup>JP</sup>
+|N/A
+|2005<br>2006
+|[[Mitchell Corporation|Mitchell]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Polly Pocket#Video games|Polly Pocket: Super Splash Island]]''
+|N/A
+|2003
+|Digital Illusions
+|VU Games
+|NA, PAL
+|-
+|''[[Popeye: Rush for Spinach]]''
+|N/A
+|2005<br>2006
+|[[Magic Pockets (company)|Magic Pockets]]
+|[[Namco]]
+|NA, PAL
+|-
+|''[[Postman Pat and the Greendale Rocket]]''
+|N/A
+|2007
+|[[Otaboo]]
+|[[The Game Factory]]
+|PAL
+|-
+|''Power Pro Kun Pocket 1+2''
+|Yes
+|2004
+|Diamond Head
+|[[Konami]]
+|JP
+|-
+|''[[Power Pro Kun Pocket|Power Pro Kun Pocket 3]]'' (Powerful Pro Baseball 3)
+|Yes
+|{{Vgrtbl|JP|March 21, 2001}}
+|Diamond Head
+|[[Konami]]
+|JP
+|-
+|''Power Pro Kun Pocket 4''
+|Yes
+|2002
+|Diamond Head
+|[[Konami]]
+|JP
+|-
+|''Power Pro Kun Pocket 5''
+|Yes
+|2003
+|Diamond Head
+|[[Konami]]
+|JP
+|-
+|''Power Pro Kun Pocket 6''
+|Yes
+|2003
+|Diamond Head
+|[[Konami]]
+|JP
+|-
+|''Power Pro Kun Pocket 7''
+|Yes
+|2004
+|Diamond Head
+|[[Konami]]
+|JP
+|-
+|''[[Power Rangers Dino Thunder|Power Rangers: Dino Thunder]]''
+|N/A
+|2004
+|[[Natsume (company)|Natsume]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Power Rangers: Ninja Storm]]''
+|N/A
+|2003
+|[[Natsume (company)|Natsume]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Power Rangers S.P.D.|Power Rangers: S.P.D.]]''
+|N/A
+|2005
+|[[Natsume (company)|Natsume]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Power Rangers: Time Force]]''
+|N/A
+|2001
+|[[Vicarious Visions]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Power Rangers Wild Force]]''
+|N/A
+|2002
+|[[Natsume (company)|Natsume]]
+|[[THQ]]
+|NA
+|-
+|''[[List of The Powerpuff Girls video games|The Powerpuff Girls: Him and Seek]]''
+|N/A
+|2002
+|[[Vicarious Visions]]
+|[[Bam Entertainment]]
+|NA, PAL
+|-
+|''[[The Powerpuff Girls: Mojo Jojo A-Go-Go]]''
+|N/A
+|2001
+|Sennari Interactive
+|Bam Entertainment
+|NA, PAL
+|-
+|''[[Prehistorik Man]]''
+|No
+|2001
+|[[Titus Software]]
+|Titus Software
+|NA, PAL
+|-
+|''Premier Action Soccer''<sup>PAL</sup><br>•''Anstoss Action''<sup>GER</sup>
+|N/A
+|2006
+|[[Independent Arts]]
+|[[East Entertainment Media]]
+|PAL
+|-
+|''[[Premier Manager (series)|Premier Manager 2003-04]]''
+|N/A
+|2003
+|
+|[[Zoo Digital Publishing]]
+|PAL
+|-
+|''[[Premier Manager (series)|Premier Manager 2004/2005]]''
+|N/A
+|2004
+|
+|[[Zoo Digital Publishing]]
+|PAL
+|-
+|''[[Premier Manager 2005/2006]]''
+|N/A
+|2005
+|[[Zoo Digital Publishing]]
+|Zoo Digital Publishing
+|PAL
+|-
+|''[[Prince of Persia: The Sands of Time]]''
+|No
+|2003
+|[[Ubisoft Montreal]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Prince of Persia: The Sands of Time]] / [[Tomb Raider: The Prophecy]]''
+|N/A
+|2006
+|
+|[[Ubisoft]]
+|PAL
+|-
+|''[[Princess Natasha|Princess Natasha: Student - Secret Agent - Princess]]''
+|N/A
+|2006
+|[[Frame Studios Interactive]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[Pro Mahjong Tsuwamono Advance]]''
+|N/A
+|2005
+|
+|[[Culture Brain]]
+|JP
+|-
+|''[[The Proud Family (video game)|The Proud Family]]''
+|N/A
+|2005
+|Gorilla Systems
+|[[Buena Vista Interactive]]
+|NA
+|-
+|''[[Pukupuku Natural Circular Notice|PukuPuku Tennen Kairanban]]''
+|N/A
+|2002
+|
+|[[Victor Interactive Software]]
+|JP
+|-
+|''[[Pukupuku Natural Circular Notice|PukuPuku Tennen Kairanban: Koi no Cupid Daisakusen]]''
+|N/A
+|2004
+|
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''[[Pukupuku Natural Circular Notice|PukuPuku Tennen Kairanban: Youkoso! Illusion Land e]]''
+|N/A
+|2004
+|
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''[[Punch King]]''
+|N/A
+|2002
+|[[Full Fat]]
+|Acclaim
+|NA, PAL
+|-
+|''[[Puppy Luv: Spa and Resort]]''
+|N/A
+|2007
+|[[Humagade]]
+|[[Activision]]
+|NA
+|-
+|''[[Puyo Pop]]''
+|Yes (SPM)
+|2002
+|[[Sonic Team]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''[[Puyo Pop Fever]]''<br>•''Puyo Puyo Fever''<sup>JP</sup>
+|Yes (SPM)
+|2004
+|[[Sonic Team]]
+|[[Sega]]
+|PAL, JP
+|-
+|''[[Pyu to Fuku! Jaguar#Video games|Pyuu to Fuku! Jaguar: Byuu to Deru! Megane-Kun]]''
+|N/A
+|2004
+|[[Intense]]
+|[[Konami]]
+|JP
+|-
+|id="Q"|''[[Quad Desert Fury]]''
+|No
+|2003
+|[[Skyworks Technologies]]
+|[[Majesco Sales]]
+|NA
+|-
+|id="R"|''[[R-Type III: The Third Lightning]]''
+|N/A
+|2004
+|[[Raylight Studios]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Racing GBA 4 pack]]''
+|N/A
+|2007
+|[[THQ]]
+|THQ
+|NA
+|-
+|''[[Racing Fever]]''
+|N/A
+|2005
+|[[Naps Team]]
+|[[Neko Entertainment]]
+|PAL
+|-
+|''[[Racing Gears Advance]]''
+|N/A
+|2005
+|[[Orbital Media, Inc.]]
+|Orbital Media, Inc.
+|NA, PAL
+|-
+|''[[Rampage Puzzle Attack]]''
+|Yes (SPM)
+|2001
+|[[Ninai Games]]
+|[[Midway Games|Midway]]
+|NA, PAL
+|-
+|''[[Rapala Pro Fishing]]''
+|N/A
+|2004<br>2005
+|[[Torus Games]]
+|[[Activision Value]]
+|NA, PAL
+|-
+|''[[Ratatouille (video game)|Ratatouille]]''
+|N/A
+|2007
+|[[Helixe]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Rave Master: Special Attack Force]]''<br>•''Groove Adventure Rave: Hikari to Yami no Daikessen 2''<sup> JP</sup>
+|N/A
+|2002<sup>JP</sup><br>2005<sup>NA</sup>
+|[[Konami|KCEJ]]
+|[[Konami]]
+|NA, JP
+|-
+|''[[Rayman 3]]''
+|Yes (SPM)
+|2003
+|[[Ubisoft]]
+|Ubisoft
+|NA, PAL
+|-
+|''[[Rayman 10th Anniversary]]''
+|Rayman Advance: No Rayman 3: Yes (SPM)
+|2005<sup>PAL, NA</sup>
+|[[Ubisoft]]
+|Ubisoft
+|NA, PAL
+|-
+|''[[Rayman (video game)#Rayman Advance|Rayman Advance]]''
+|No
+|2001
+|[[Digital Eclipse]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Rayman: Hoodlum's Revenge]]''<sup>NA</sup><br>•''Rayman: Hoodlums' Revenge''<sup>PAL</sup>
+|No
+|2005
+|[[Backbone Entertainment]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Rayman Raving Rabbids]]''
+|No
+|2005<br>2006
+|[[Visual Impact]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Razor Freestyle Scooter]]''<sup>NA</sup><br>•''Freestyle Scooter''<sup>PAL</sup>
+|N/A
+|2001
+|[[Crave Entertainment|Crave]]
+|Crave
+|NA, PAL
+|-
+|''[[Ready 2 Rumble Boxing: Round 2]]''
+|N/A
+|2001
+|[[Crawfish Interactive]]
+|[[Midway Games|Midway]]
+|NA, PAL
+|-
+|''[[Rebelstar: Tactical Command]]''
+|Yes
+|2005 <sup>NA</sup> 2006 <sup>PAL</sup>
+|Codo Technologies
+|Namco
+|NA, PAL
+|-
+|''Rec Room Challenge: Darts / Roll-a-Ball / Shuffle Bowl''
+|N/A
+|2005
+|Skyworks Technologies
+|Majesco
+|NA
+|-
+|''[[Reign of Fire (video game)|Reign of Fire]]''
+|N/A
+|2002
+|[[Crawfish Interactive]]
+|[[Bam Entertainment]]
+|NA, PAL
+|-
+|''[[Relaxuma na Mainichi]]''
+|N/A
+|2005
+|
+|[[Imagineer (Japanese company)|Imagineer]]
+|JP
+|-
+|''[[Rescue Heroes: Billy Blazes]]''
+|N/A
+|2003
+|[[WayForward]]
+|[[VU Games]]
+|NA
+|-
+|''[[The Revenge of Shinobi (Game Boy Advance)|The Revenge of Shinobi]]''
+|No
+|2002 <sup>NA</sup> 2003 <sup>PAL</sup>
+|[[3d6 Games]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[The Revenge of the Smurfs]]''
+|Yes (SPM)
+|2002
+|[[Bit Managers]]
+|[[Infogrames]]
+|PAL
+|-
+|''[[Rhythm Tengoku]]''
+|Yes
+|2006
+|[[Nintendo SPD]]
+|[[Nintendo]]
+|JP
+|-
+|''[[The Ripping Friends: The World's Most Manly Men!]]''
+|N/A
+|2002
+|Creations
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Risk (video game)|Risk]] / [[Battleship (1993 video game)|Battleship]] / [[Clue (1998 video game)|Clue]]''
+|N/A
+|2005
+|[[Gravity-I]]
+|[[DSI Games]]
+|NA
+|-
+|''[[River City Ransom EX]]''<br>•''Downtown Nekketsu Monogatari EX''<sup>JP</sup>
+|N/A
+|2004
+|Million Co., Ltd.
+|[[Atlus]]
+|NA, JP
+|-
+|''[[Riviera: The Promised Land]]''<br>•''Riviera: Yakusoku no Chi Riviera''<sup>JP</sup>
+|N/A
+|2004<br>2005
+|[[Sting Entertainment|Sting]]
+|[[Atlus]]
+|NA, JP
+|-
+|''[[Road Rash: Jailbreak]]''
+|N/A
+|2003
+|[[Magic Pockets (company)|Magic Pockets]]
+|[[Electronic Arts]]
+|NA, PAL
+|-
+|''[[Road Trip: Shifting Gears]]''<sup>NA</sup><br>•''Gadget Racers''<sup>PAL</sup><br>•''Choro Q Advance 2''<sup>JP</sup>
+|N/A
+|2002<sup>JP</sup><br>2003<sup>EU</sup><br>2004<sup>NA</sup>
+|[[Electronics Application]]
+|[[Conspiracy Entertainment]]
+|NA, PAL, JP
+|-
+|''[[Robopon 2 Ring and Cross Versions|Robopon 2: Cross Version]]''<br>•''Robot Pokotto 2: Cross Version''<sup>JP</sup>
+|Yes (SPM)
+|2001<br>2002
+|[[RED Entertainment]]
+|[[Atlus]]
+|NA, JP
+|-
+|''[[Robopon 2 Ring and Cross Versions|Robopon 2: Ring Version]]''<br>•''Robot Pokotto 2: Ring Version''<sup>JP</sup>
+|Yes (SPM)
+|2001<br>2002
+|[[RED Entertainment]]
+|[[Atlus]]
+|NA, JP
+|-
+|''[[Robot Wars: Advanced Destruction]]''
+|N/A
+|2001<br>2002
+|[[Crawfish Interactive]]
+|[[VU Games]]
+|PAL, NA
+|-
+|''[[Robot Wars: Extreme Destruction (Game Boy Advance)|Robot Wars: Extreme Destruction]]''
+|N/A
+|2002
+|[[Gamezlab]]
+|[[BBC Multimedia]]
+|PAL
+|-
+|''[[Robotech: The Macross Saga]]''
+|N/A
+|2002
+|[[Lucky Chicken]]
+|[[TDK Mediactive]]
+|NA, PAL 
+|-
+|''[[Robots (2005 video game)|Robots]]''
+|N/A
+|2005
+|[[Amaze Entertainment]]
+|[[Sierra Entertainment]]
+|NA, PAL, JP
+|-
+|''[[Rock 'Em Sock 'Em Robots (video game)|Rock 'Em Sock 'Em Robots]]''
+|N/A
+|2006
+|[[Full Fat]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[Rock n' Roll Racing]]''
+|Yes
+|2003
+|[[Mass Media]]
+|[[Blizzard Entertainment|Blizzard Classic Arcade]]
+|NA, PAL
+|-
+|''[[Rocket no Natsu]]'' (Rocket Summer)
+|N/A
+|
+|
+|
+|JP
+|-
+|''[[Rocket Power: Beach Bandits]]''
+|N/A
+|2002
+|[[Helixe]]
+|[[THQ]]
+|NA
+|-
+|''[[Rocket Power: Dream Scheme]]''
+|N/A
+|2001
+|[[Helixe]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Rocket Power: Zero Gravity Zone]]''
+|N/A
+|2003
+|[[Altron]]
+|[[THQ]]
+|NA
+|-
+|''[[Rockman EXE 4.5 Real Operation|Rockman EXE 4.5: Real Operation]]''
+|N/A
+|2004
+|[[Capcom|Capcom Production Studio 2]]
+|[[Capcom]]
+|JP
+|-
+|''[[Rocky (2002 video game)|Rocky]]''
+|N/A
+|2002<br>2003
+|[[Virtucraft]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[RPG Maker|RPG Tsukuru Advance]]''
+|N/A
+|2003
+|
+|[[Enterbrain]]
+|JP
+|-
+|''[[Rugrats Go Wild (video game)|Rugrats Go Wild]]''
+|N/A
+|2003
+|[[Magellan Interactive]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Rugrats: Castle Capers]]''
+|N/A
+|2001
+|[[Software Creations (UK)|Software Creations]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Rugrats: I Gotta Go Party]]''
+|Yes (SPM)
+|2002
+|[[Eurocom]]
+|[[THQ]]
+|NA, PAL
+|-
+|id="S"|''[[Sabre Wulf (2004 video game)|Sabre Wulf]]''
+|N/A
+|2004
+|[[Rare Ltd.]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Sabrina The Teenage Witch: Potion Commotion]]''
+|No
+|2002
+|[[Ubisoft]]
+|Ubisoft
+|NA, PAL
+|-
+|''[[Saibara Rieko no Dendou Mahjong]]''
+|Yes (SPM)
+|2001
+|[[Warashi]]
+|[[Media Rings]]
+|JP
+|-
+|''[[Sakura Momoko no Ukiuki Carnival]]''
+|N/A
+|2002
+|[[Indies Zero]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Salt Lake 2002 (video game)|Salt Lake 2002]]''
+|N/A
+|2002
+|[[DC Studios]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Samurai Deeper Kyo]]''
+|N/A
+|2008
+|[[Natsume (company)|Natsume]]
+|[[Bold Games]]
+|NA, JP
+|-
+|''[[Samurai Evolution: Oukoku Geist]]''
+|N/A
+|2002
+|[[TeaSet]]
+|[[Enix]]
+|JP
+|-
+|''[[Samurai Jack: The Amulet of Time]]''
+|N/A
+|2003
+|Virtucraft Studios
+|[[BAM! Entertainment]]
+|NA, PAL
+|-
+|''[[San Goku Shi]]'' (Romance of the Three Kingdoms)
+|N/A
+|2005
+|[[Koei]]
+|Koei
+|JP
+|-
+|''[[San Goku Shi: Eiketsuden]]''
+|N/A
+|2005
+|
+|[[Koei]]
+|JP
+|-
+|''[[San Goku Shi: Koumeiden]]''
+|N/A
+|2005
+|
+|[[Koei]]
+|JP
+|-
+|''[[Sanrio Puro Land All-Characters]]''
+|N/A
+|2003
+|
+|[[Tomy Corporation]]
+|JP
+|-
+|''[[Sansara Naga (series)|Sansara Naga 1x2]]''
+|N/A
+|2001
+|[[Groove Box Japan]]
+|[[Victor Interactive Software]]
+|JP
+|-
+|''Santa Claus Jr. Advance''
+|N/A
+|2002
+|[[Neon Studios]]
+|[[JoWooD Entertainment AG]]
+|PAL
+|-
+|''Santa Claus Saves the Earth''
+|No
+|2002
+|Credited as Ivolgamus (now known as [[Nordcurrent]])
+|[[Telegames]]
+|PAL
+|-
+|''[[The Santa Clause 3: The Escape Clause#Video game|The Santa Clause 3: The Escape Clause]]''
+|N/A
+|2006
+|[[1st Playable Productions]]
+|[[Buena Vista Games]]
+|NA
+|-
+|''[[Scan Hunter]]''
+|N/A
+|2002
+|
+|[[Pacific Century Cyber Works]]
+|JP
+|-
+|''[[Scooby-Doo (film)#Video games|Scooby-Doo!]]''
+|N/A
+|2002
+|[[Helixe]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Scooby-Doo 2: Monsters Unleashed]]''
+|N/A
+|2004
+|[[Altron]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Scooby-Doo and the Cyber Chase (video game)|Scooby-Doo and the Cyber Chase]]''
+|N/A
+|2001
+|[[Software Creations (UK)|Software Creations]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Scooby-Doo! Mystery Mayhem]]''
+|N/A
+|2003
+|[[Artificial Mind and Movement]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Scooby-Doo! Unmasked]]''
+|N/A
+|2005
+|[[Artificial Mind and Movement]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[The Scorpion King: Sword of Osiris]]''
+|N/A
+|2002
+|[[WayForward]]
+|[[Universal Interactive]]
+|NA, PAL
+|-
+|''[[Scrabble]]''
+|N/A
+|2002
+|[[Runecraft]]
+|[[Ubisoft]]
+|PAL
+|-
+|''[[Scrabble Blast!]]''<sup>NA</sup><br>•''Scrabble Scramble''<sup>PAL</sup>
+|N/A
+|2005
+|[[Visual Impact]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Scurge: Hive]]''
+|N/A
+|2006
+|[[Orbital Media, Inc.]]
+|[[SouthPeak Games]]
+|NA, PAL
+|-
+|''[[SD Gundam G Generation Advance]]''
+|N/A
+|2003
+|[[Vanguard]]
+|[[Bandai]]
+|JP
+|-
+|''[[SD Gundam Force]]''
+|N/A
+|2004
+|[[Tom Create]]
+|[[Bandai]]
+|NA, JP
+|-
+|''[[Sea Trader: Rise of Taipan]]''
+|N/A
+|2003
+|
+|[[Jaleco Entertainment]]
+|NA
+|-
+|''[[Sega Arcade Gallery]]''
+|N/A
+|2003<sup>NA</sup>
+|[[Sega]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Sega Rally Championship]]''
+|N/A
+|2003
+|[[Dice]]
+|[[Sega]]
+|NA, PAL, JP
+|-
+|''[[Sega Smash Pack]]''
+|N/A
+|2002
+|[[CodeFire]] 
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Sengoku Kakumei Gaiden]]''
+|N/A
+|2003
+|[[KCE Studios]]
+|[[Konami]]
+|JP
+|-
+|''[[Sennen Kazoku]]''
+|N/A
+|2005
+|[[Indies Zero]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Sentouin: Yamada Hajime]]''
+|N/A
+|2004
+|Rokumendo
+|[[Kids Station]]
+|JP
+|-
+|''[[Serious Sam Advance]]''
+|No
+|2004
+|[[Climax Studios]]
+|[[Global Star Software]]
+|NA, PAL
+|-
+|''[[Shaman King Chou Senjiryakketsu 2]]''
+|N/A
+|2002
+|Studio Saizensen
+|[[Konami]]
+|JP
+|-
+|''[[Shaman King Chou Senjiryakketsu 3]]''
+|N/A
+|2002
+|Studio Saizensen
+|[[Konami]]
+|JP
+|-
+|''[[Shaman King: Legacy of the Spirits, Soaring Hawk]]''
+|N/A
+|2005
+|[[Konami]]
+|Konami
+|NA
+|-
+|''[[Shaman King: Legacy of the Spirits, Sprinting Wolf]]''
+|N/A
+|2005
+|[[Konami]]
+|Konami
+|NA
+|-
+|''[[Shaman King: Master of Spirits]]''
+|N/A
+|2004<br>2005
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Shaman King: Master of Spirits 2]]''
+|N/A
+|2005<br>2006
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Shamu's Deep Sea Adventures]]''
+|N/A
+|2005
+|[[Humagade]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Shanghai Advance]]''
+|Yes (SPM)
+|2001
+|[[SunSoft]]
+|SunSoft
+|JP
+|-
+|''[[Shark Tale (video game)|Shark Tale]]''
+|N/A
+|2004
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL, JP
+|-
+|''[[Shaun Palmer's Pro Snowboarder]]''
+|N/A
+|2001
+|[[Natsume (company)|Natsume]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Sheep (video game)|Sheep]]''<br>•''Hitsuji no Kimochi''<sup>JP</sup>
+|N/A
+|2004
+|[[Capcom]]
+|[[Empire Interactive]]
+|NA, PAL, JP
+|-
+|''Shikakui Atama o Maru Kusuru Advance: Kanji Keisanhen''
+|N/A
+|2004
+|
+|[[Rocket Company]]
+|JP
+|-
+|''Shikakui Atama o Maru Kusuru Advance: Kokugo Sansuu Shakai Rikahen''
+|N/A
+|2004
+|
+|[[Rocket Company]]
+|JP
+|-
+|''Shimura Ken no Bakatono-sama: Bakushou Tenka Touitsu Game''
+|N/A
+|2002
+|[[Kamui]]
+|[[TDK Core]]
+|JP
+|-
+|''Shin Bokura no Taiyō: Gyakushū no Sabata'' (Boktai 3: Sabata's Counterattack)
+|N/A
+|2005
+|[[Konami|Hideo Kojima Production]]
+|[[Konami]]
+|JP
+|-
+|''Shin Kisekae Monogatari''
+|N/A
+|2003
+|
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''Shin Megami Tensei''
+|N/A
+|2003
+|
+|[[Atlus]]
+|JP
+|-
+|''Shin Megami Tensei II''
+|N/A
+|2003
+|
+|[[Atlus]]
+|JP
+|-
+|''Shin Megami Tensei: Devil Children - Messiah Riser''
+|N/A
+|2004
+|[[Rocket Company]]
+|[[Atlus]]
+|JP
+|-
+|''Shin Megami Tensei: Devil Children - Puzzle de Call!''
+|Yes (SPM)
+|2003
+|
+|Atlus
+|JP
+|-
+|''Shin Megami Tensei: Devil Children 2 - Honoo no Sho''
+|N/A
+|2003
+|
+|Atlus
+|JP
+|-
+|''Shin Megami Tensei: Devil Children 2 - Koori no Sho''
+|N/A
+|2003
+|
+|Atlus
+|JP
+|-
+|''Shin Nippon Pro Wrestling: Toukon Retsuden Advance''
+|N/A
+|2002
+|
+|Tomy Corporation
+|JP
+|-
+|''[[Shingata Medarot: Kabuto Version]]''
+|N/A
+|2004
+|[[Natsume (company)|Natsume]]
+|[[Imagineer (Japanese company)|Imagineer]]
+|JP
+|-
+|''[[Shingata Medarot: Kuwagata Version]]''
+|N/A
+|2004
+|[[Natsume (company)|Natsume]]
+|[[Imagineer (Japanese company)|Imagineer]]
+|JP
+|-
+|''[[Shining Force: Resurrection of the Dark Dragon]]''<br>•''Shining Force: Kuroki Ryuu no Fukkatsu''<sup>JP</sup>
+|N/A
+|2004
+|[[Amusement Vision]] 
+|[[Atlus]]
+|NA, PAL, JP
+|-
+|''[[Shining Soul]]''
+|N/A
+|2002<br>2003
+|[[Nex Entertainment]]
+|[[Atlus]]
+|NA, PAL, JP
+|-
+|''[[Shining Soul II]]''
+|N/A
+|2003<br>2004
+|[[Nex Entertainment]]
+|[[Atlus]]
+|NA, PAL, JP
+|-
+|''Shining Star(beta version)''
+|N/A
+|2005
+|Eworks Studios
+|N/A
+|PAL
+|-
+|''Shiren Monsters: Netsal''
+|N/A
+|2004
+|
+|[[ChunSoft]]
+|JP
+|-
+|''[[Shonen Jump's One Piece]]''
+|N/A
+|2005
+|[[Dimps Corporation]]
+|[[Bandai]]
+|NA
+|-
+|''[[Legendary Gambler Tetsuya|Shoubushi Densetsu Tetsuya: Yomigaeru Densetsu]]'' (Gambler Densetsu Tetsuya: Yomigaeru Densetsu)
+|N/A
+|2002
+|
+|[[Athena]]
+|JP
+|-
+|''[[Shrek: Hassle at the Castle]]''
+|Yes (SPM)
+|2002
+|[[TOSE]]
+|[[TDK Mediactive]]
+|NA, PAL
+|-
+|''[[Shrek: Reekin' Havoc]]''
+|N/A
+|2003
+|TOSE
+|[[TDK Mediactive]]
+|NA, PAL
+|-
+|''[[Shrek Smash n' Crash Racing]]''
+|N/A
+|2006
+|[[Torus Games]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Shrek SuperSlam]]''
+|Yes
+|2005
+|[[Shaba Games]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Shrek: Swamp Kart Speedway]]''
+|N/A
+|2002
+|[[Prolific]]
+|[[TDK Mediactive]]
+|NA, PAL
+|-
+|''[[Shrek 2 (video game)|Shrek 2]]''
+|N/A
+|2004
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Shrek 2: Beg for Mercy!]]''
+|N/A
+|2004
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Shrek the Third (video game)|Shrek the Third]]''
+|N/A
+|2007
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Sigma Star Saga]]''
+|N/A
+|2005<br>2006
+|[[WayForward]]
+|[[Namco]]
+|NA, PAL
+|-
+|''[[Silent Scope]]''
+|Yes (SPM)
+|2002
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Silk to Cotton]]''
+|N/A
+|2002
+|
+|[[Mig Entertainment]]
+|JP
+|-
+|''[[SimCity 2000]]''
+|No
+|2003
+|Full Fat
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Simple series video games|Simple 2960 Tomodachi Series Vol. 1: The Table Game Collection]]''
+|Yes (SPM)
+|2003
+|[[Access Games|Access]]
+|[[D3 Publisher]]
+|JP
+|-
+|''[[Simple series video games|Simple 2960 Tomodachi Series Vol. 2: The Block Kuzushi]]''<br>•''Brick 'Em All''<sup>PAL</sup>
+|Yes (SPM)
+|2003<sup>JP</sup><br>2006<sup>PAL</sup>
+|[[Access Games|Access]]
+|[[D3 Publisher]]<sup>JP</sup><br>[[505 GameStreet]]<sup>PAL</sup>
+|PAL, JP
+|-
+|''[[Simple series video games|Simple 2960 Tomodachi Series Vol. 3: The Itsudemo Puzzle]]''
+|Yes (SPM)
+|2003
+|[[BeeWorks]]
+|[[D3 Publisher]]
+|JP
+|-
+|''[[Simple series video games|Simple 2960 Tomodachi Series Vol. 4: The Trump]]''<br>•''Funny Cards''<sup>PAL</sup>
+|Yes (SPM)
+|2003<sup>JP</sup><br>2006<sup>PAL</sup>
+|[[Access Games|Access]]
+|[[D3 Publisher]]<sup>JP</sup><br>[[505 GameStreet]]<sup>PAL</sup>
+|PAL, JP
+|-
+|''[[The Simpsons: Road Rage]]''
+|N/A
+|2003
+|[[Altron]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[The Sims 2]]''
+|N/A
+|2005
+|[[Maxis]]
+|[[Electronic Arts]]
+|NA, PAL
+|-
+|''[[The Sims Bustin' Out]]''<br>•''The Sims''<sup>JP</sup>
+|N/A
+|2003
+|[[Maxis]]
+|[[Electronic Arts]]
+|NA, PAL, JP
+|-
+|''[[The Sims 2: Pets]]''
+|N/A
+|2006
+|[[Maxis]]
+|[[Electronic Arts]]
+|NA, PAL
+|-
+|''[[Sister Princess|Sister Princess: Re Pure]]''
+|N/A
+|2003
+|
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''[[Sitting Ducks (TV series)#Video games|Sitting Ducks]]''
+|Yes
+|2004
+|LSP
+|[[Hip Games]]
+|NA, PAL
+|-
+|''[[Sky Dancers]]''
+|N/A
+|2005
+|
+|[[Crave Entertainment|Crave]]
+|NA, PAL
+|-
+|''[[Slime MoriMori Dragon Quest: Shougeki No Shippo Dan]]''
+|N/A
+|2003
+|[[TOSE]]
+|[[Square Enix]]
+|JP
+|-
+|''Slot! Pro Advance: Takarabune & Ooedo Sakura Fubuki 2''
+|N/A
+|2001
+|[[Nippon Telenet]]
+|[[Nippon Telenet]]
+|JP
+|-
+|''Slot! Pro 2 Advance: Go Go Juggler & New Tairyou''
+|N/A
+|2002
+|
+|[[Nippon Telenet]]
+|JP
+|-
+|''[[Smashing Drive]]''
+|N/A
+|2004
+|[[Raylight Studios]]
+|[[DSI Games]]
+|NA, PAL
+|-
+|''[[Smuggler's Run]]''
+|N/A
+|2002
+|
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Snap Kids]]''
+|N/A
+|2002
+|
+|
+|JP
+|-
+|''[[Snood (video game)|Snood]]''
+|N/A
+|2001
+|[[Rebellion]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Snood 2: On Vacation]]''
+|N/A
+|2005
+|[[Rebellion]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Soccer Kid]]''
+|N/A
+|2002
+|
+|[[Telegames]]
+|NA, PAL
+|-
+|''[[Soccer Mania]]''<sup>NA</sup><br>•''Football Mania''<sup>PAL</sup>
+|N/A
+|2002
+|[[Tiertex Design Studios]]
+|[[Lego Media]]
+|NA, PAL
+|-
+|''[[Sonic Advance]]''
+|Yes (SPM)
+|2002
+|[[Sonic Team]]
+|[[Sega]]
+|NA, PAL, JP
+|-
+|''[[Sonic Advance 2]]''
+|Yes (SPM)
+|2003
+|[[Sonic Team]] / [[Dimps]]
+|[[Sega]]
+|NA, PAL, JP
+|-
+|''[[Sonic Advance 3]]''
+|Yes (SPM)
+|2004
+|[[Sonic Team]] / [[Dimps]]
+|[[Sega]] / [[THQ]]
+|NA, PAL, JP
+|-
+|''[[Sonic Battle]]''
+|Yes (SPM)
+|2004
+|[[Sonic Team]]
+|[[Sega]] / [[THQ]]
+|NA, PAL, JP
+|-
+|''[[Sonic Pinball Party]]''
+|Yes (SPM)
+|2003
+|[[Sonic Team]]
+|[[Sega]]
+|NA, PAL, JP
+|-
+|''[[Sonic the Hedgehog (16-bit)#Sonic the Hedgehog Genesis|Sonic the Hedgehog Genesis]]''
+|N/A
+|2006
+|[[Sonic Team]]
+|[[Sega]]
+|NA
+|-
+|''[[Space Channel 5|Space Channel 5: Ulala's Cosmic Attack]]''
+|N/A
+|2003
+|[[Art Co., Ltd|Art]]
+|[[THQ]]
+|NA, PAL
+|-
+|''Space Hexcite: Maetel Legend EX''
+|Yes (SPM)
+|2001
+|[[Jorudan]]
+|Jorudan
+|JP
+|-
+|''[[Space Invaders]]''<br>•''Space Invaders EX''<sup>JP</sup>
+|Yes
+|2002
+|[[Torus Games]]
+|[[Activision]]
+|NA, JP
+|-
+|''[[Speedball 2]]''
+|Yes (SPM)
+|2002
+|[[Crawfish Interactive]]
+|[[Wanadoo]]
+|PAL
+|-
+|''[[Spider-Man: Mysterio's Menace]]''<br>•''Spider-Man: Mysterio no Kyoui''<sup>JP</sup>
+|N/A
+|2001
+|Vicarious Visions
+|Activision
+|NA, PAL, JP
+|-
+|''[[Spider-Man (2002 video game)|Spider-Man: The Movie]]''
+|No
+|2002
+|[[Digital Eclipse]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Spider-Man 2 (video game)|Spider-Man 2]]''
+|No
+|2004
+|[[Digital Eclipse]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Spirit: Stallion of the Cimarron — Search For Homeland]]''
+|N/A
+|2002
+|[[Hyperspace Cowgirls]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Spirits & Spells]]''<sup>NA</sup><br>•''Castleween''<sup>PAL</sup><br>•''Mahou no Pumpkin''<sup>JP</sup>
+|N/A
+|2003
+|[[Magic Pockets (company)|Magic Pockets]]
+|[[DreamCatcher Interactive]]
+|NA, PAL, JP
+|-
+|''[[SpongeBob SquarePants: Battle for Bikini Bottom]]''
+|No
+|2003
+|[[Nickelodeon|NickGames]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[SpongeBob SquarePants: Creature from the Krusty Krab]]''
+|Yes
+|2006
+|[[WayForward]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[SpongeBob SquarePants: Lights, Camera, Pants!]]''
+|N/A
+|2005
+|[[Nickelodeon|NickGames]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[SpongeBob SquarePants: Revenge of the Flying Dutchman]]''
+|N/A
+|2002
+|[[Nickelodeon|NickGames]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[SpongeBob SquarePants: SuperSponge]]''
+|No
+|2001
+|[[Nickelodeon|NickGames]]
+|[[THQ]]
+|NA
+|-
+|''[[The SpongeBob SquarePants Movie (video game)|The SpongeBob SquarePants Movie]]''
+|No
+|2004
+|[[WayForward|WayForward Technologies]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[SpongeBob's Atlantis SquarePantis]]''
+|N/A
+|2007
+|
+|[[THQ]]
+|NA
+|-
+|''[[Sports Illustrated for Kids Baseball]]''
+|N/A
+|2001
+|[[Sennari Interactive]]
+|[[Bam Entertainment]]
+|NA
+|-
+|''[[Sports Illustrated for Kids Football]]''
+|N/A
+|2003
+|[[Sennari Interactive]]
+|[[Bam Entertainment]]
+|NA
+|-
+|''[[Sportsman's Pack: Big Game Hunter & Pro Fishing]]''
+|N/A
+|
+|
+|
+|
+|-
+|''[[SpyHunter]]''
+|No
+|2002
+|[[Midway Games|Midway]]
+|Midway
+|NA, PAL
+|-
+|''[[Spy Hunter]] / [[Super Sprint]]''
+|Yes
+|2005
+|[[DSI Games]]
+|DSI Games
+|NA, PAL
+|-
+|''[[Spy Kids 3-D: Game Over]]''
+|N/A
+|2003
+|[[Digital Eclipse]]
+|[[Disney Interactive Studios]]
+|NA, PAL
+|-
+|''[[Spy Kids Challenger]]''
+|N/A
+|2002
+|[[Game Titan]]
+|[[Disney Interactive Studios]]
+|NA
+|-
+|''[[Spy Muppets: License to Croak]]''
+|N/A
+|2003
+|[[Vicarious Visions]]
+|[[TDK Mediactive]]
+|NA
+|-
+|''[[Spyro: Attack of the Rhynocs]]''<sup>NA</sup><br>•''Spyro Adventure''<sup>PAL</sup>
+|No
+|2003
+|[[Digital Eclipse]]
+|[[VU Games]]
+|NA, PAL
+|-
+|''[[Spyro: Season of Ice]]''<br>•''Spyro Advance''<sup>JP</sup>
+|No
+|2001
+|[[Universal Interactive Studios]]
+|Universal Interactive Studios / [[Digital Eclipse Software]]
+|NA, PAL, JP
+|-
+|''[[Spyro 2: Season of Flame]]''
+|No
+|2002
+|[[Digital Eclipse]]
+|[[VU Games]]
+|NA, PAL
+|-
+|''[[Crash Bandicoot Purple: Ripto's Rampage and Spyro Orange: The Cortex Conspiracy|Spyro Orange: The Cortex Conspiracy]]''<br>•''Spyro Fusion''<sup>PAL</sup><br>•''Spyro Advance: Wakuwaku Tomodachi Daisakusen''<sup>JP</sup>
+|Yes (SPM)
+|2004
+|[[Vicarious Visions]]
+|[[Vivendi Games]]
+|NA, PAL, JP
+|-
+|''[[SSX 3]]''
+|Yes
+|2003
+|[[Visual Impact]]
+|[[EA Sports BIG]]
+|NA, PAL
+|-
+|''[[SSX Tricky]]''
+|Yes
+|2005
+|[[Visual Impact]]
+|[[EA Sports BIG]]
+|NA, PAL
+|-
+|''Star Communicator''
+|N/A
+|2001
+|[[Konami]]
+|Konami
+|JP
+|-
+|''Stadium Games''
+|N/A
+|2004
+|[[Ignition Entertainment]]
+|Crave
+|NA, PAL
+|-
+|''[[Star Wars: The New Droid Army]]''
+|N/A
+|2002
+|[[Helixe]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Star Wars Episode I: Jedi Power Battles]]''
+|N/A
+|2001<br>2002
+|[[Helixe]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Star Wars: Episode II – Attack of the Clones]]''
+|No
+|2002
+|[[David A. Palmer Productions]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Star Wars: Episode III – Revenge of the Sith]]''
+|Yes (VS)
+|2005
+|[[Ubisoft]]
+|Ubisoft
+|NA, PAL
+|-
+|''[[Star Wars: Flight of the Falcon]]''
+|No
+|2003
+|[[Pocket Studios]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Star Wars Trilogy: Apprentice of the Force]]''
+|Yes (COOP)
+|2004
+|[[Ubisoft]]
+|Ubisoft
+|NA, PAL
+|-
+|''[[Star X]]''
+|N/A
+|2002
+|[[Graphic State]]
+|[[Bam Entertainment]]
+|NA, PAL
+|-
+|''[[Starsky & Hutch (video game)|Starsky & Hutch]]''
+|N/A
+|2003
+|[[Spellbound Entertainment|Spellbound]]
+|[[Empire Interactive]]
+|NA, PAL
+|-
+|''[[Steel Empire]]''<br>•''Koutetsu Teikoku from Hot-B''<sup>JP</sup>
+|N/A
+|2005
+|[[Starfish]]
+|[[Zoo Digital Publishing]]
+|PAL, JP
+|-
+|''[[Steven Gerrard's Total Soccer 2002]]''<sup>PAL</sup><br>•''Alexander Zickler Total Soccer 2002''<sup>GER</sup><br>•''Total Soccer Advance''<sup>JP</sup>
+|N/A
+|2001<br>2002
+|[[Exient Entertainment]]
+|[[Ubisoft]]
+|PAL, JP
+|-
+|''[[List of Strawberry Shortcake video games|Strawberry Shortcake: Ice Cream Island Riding Camp]]''
+|Yes
+|2006
+|Gorilla Systems
+|[[The Game Factory]]
+|PAL
+|-
+|''[[List of Strawberry Shortcake video games|Strawberry Shortcake: Summertime Adventure]]
+|Yes
+|2004
+|Gorilla Systems
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[List of Strawberry Shortcake video games|Strawberry Shortcake: Sweet Dreams]]''
+|Yes
+|2006
+|Gorilla Systems
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[Street Fighter Alpha 3]]''<br>•''Street Fighter Zero 3 Upper''<sup>JP</sup>
+|Yes (VS)
+|2002
+|[[Crawfish Interactive]]
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Street Jam Basketball]]''
+|N/A
+|2004
+|Prograph
+|[[Destination Software]]
+|NA
+|-
+|''[[Street Racing Syndicate]]''
+|N/A
+|2005
+|[[Raylight Studios]]
+|[[Namco]]
+|NA, PAL
+|-
+|''[[Strike Force Hydra]]''
+|N/A
+|2003
+|[[Awesome Developments]]
+|[[Ignition Entertainment]]
+|NA, PAL
+|-
+|''[[Stuart Little 2]]''
+|N/A
+|2002
+|[[Creations]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Stuntman (video game)|Stuntman]]''
+|N/A
+|2003
+|[[Velez & Dubail]]
+|[[Atari SA]]
+|NA, PAL
+|-
+|''[[Sudoku Fever]]''
+|N/A
+|2006
+|[[Global Star Software]]
+|[[Take-Two Interactive]]
+|NA, PAL
+|-
+|''[[Sugar Sugar Rune|Sugar Sugar Rune: Heart Ga Ippai! Moegi Gakuen]]''
+|N/A
+|2005
+|Open Sesame
+|[[Bandai]]
+|JP
+|-
+|''[[The Suite Life of Zack & Cody: Tipton Caper]]''
+|N/A
+|2006
+|[[Artificial Mind and Movement]]
+|[[Buena Vista Games]]
+|NA
+|-
+|''[[The Sum of All Fears]]''
+|N/A
+|2002
+|[[Red Storm Entertainment]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Summon Night: Swordcraft Story]]''<br>•''Summon Night: Craft Sword Monogatari''<sup>JP</sup>
+|Yes
+|2004<sup>JP</sup><br>2006<sup>NA</sup>
+|[[Flight-Plan]]
+|[[Atlus]]
+|NA, JP
+|-
+|''[[Summon Night: Swordcraft Story 2]]''<br>•''Summon Night: Craft Sword Monogatari 2''<sup>JP</sup>
+|No
+|2006
+|[[Flight-Plan]]
+|[[Atlus]]
+|NA, JP
+|-
+|''[[Summon Night Craft Sword Monogatari: Hajimari no Ishi]]''
+|Yes
+|2005
+|[[Flight-Plan]]
+|[[Banpresto]]
+|JP
+|-
+|''[[Super Army War]]''<sup>NA</sup><br>•''Glory Days: The Essence of War''<sup>PAL</sup>
+|No
+|2005
+|[[Capcom]]
+|Capcom
+|NA, PAL
+|-
+|''[[Super Bubble Pop]]''
+|N/A
+|2003
+|[[Runecraft]]
+|[[Jaleco Entertainment]]
+|NA, PAL
+|-
+|''[[Super Bust-A-Move]]''<br>•''Super Puzzle Bobble Advance''<sup>JP</sup>
+|N/A
+|2001
+|[[Taito Corporation]]
+|Taito<sup>JP</sup><br>[[Ubisoft]]<sup>NA,PAL</sup>
+|NA, PAL, JP
+|-
+|''[[Super Chinese I+II Advance|Super Chinese 1+2 Advance]]''
+|N/A
+|2004
+|[[Culture Brain]]
+|Culture Brain
+|JP
+|-
+|''[[Collapse!|Super Collapse! II]]''
+|N/A
+|2002
+|[[GameHouse]]
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[Super Dodge Ball Advance]]''<br>•''Bakunetsu Dodgeball Fighters''<sup>JP</sup>
+|N/A
+|2001
+|Million Co., Ltd.
+|[[Atlus]]
+|NA, PAL, JP
+|-
+|''[[Super Dropzone|Super Dropzone: Intergalactic Rescue Mission]]''
+|N/A
+|2003<br>2004
+|[[Pocket Studios]]
+|[[Ignition Entertainment]]
+|NA, PAL
+|-
+|''[[Super Duper Sumos]]''
+|N/A
+|2003
+|[[Handheld Games]]
+|[[Midway Games|Midway]]
+|NA
+|-
+|''[[Super Ghouls 'n Ghosts]]''<br>•''Chou Makai-Mura R''<sup>JP</sup>
+|No
+|2002
+|Affect
+|[[Capcom]]
+|NA, PAL, JP
+|-
+|''[[Super Hornet F/A-18F]]''
+|N/A
+|2004
+|UK Magic
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[Super Mario Advance]]''
+|Yes (SPM)
+|2001
+|[[Nintendo]]
+|Nintendo
+|NA, PAL, JP
+|-
+|''[[Super Mario Advance 2]]''
+|Yes (SPM)
+|2002
+|[[Nintendo]]
+|Nintendo
+|NA, PAL, JP
+|-
+|''[[Super Mario Advance 3]]''
+|Yes (SPM)
+|2002
+|[[Nintendo]]
+|Nintendo
+|NA, PAL, JP
+|-
+|''[[Super Mario Advance 4: Super Mario Bros. 3]]''
+|Yes (SPM)
+|2003
+|[[Nintendo]]
+|Nintendo
+|NA, PAL, JP
+|-
+|''[[Super Monkey Ball Jr.]]''
+|Yes
+|2002
+|[[Nickelodeon]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Super Puzzle Fighter II]]''<br>•''Super Puzzle Fighter II X''<sup>JP</sup>
+|N/A
+|2003
+|[[Atomic Planet Entertainment]]
+|[[Capcom]]
+|NA, PAL
+|-
+|''Super Real Mahjong Dousoukai''
+|N/A
+|2004
+|AI
+|[[Rocket Company]]
+|JP
+|-
+|''[[Super Robot Taisen: Original Generation]]''
+|N/A
+|2002
+|[[Banpresto]]
+|Banpresto / [[Atlus]]
+|NA, PAL, JP
+|-
+|''[[Super Robot Taisen: Original Generation 2]]''
+|N/A
+|2005
+|[[Banpresto]]
+|Banpresto / [[Atlus]]
+|NA, JP
+|-
+|''[[Super Robot Wars A]]''
+|N/A
+|2001
+|[[Banpresto]]
+|Banpresto
+|JP
+|-
+|''[[Super Robot Wars D]]''
+|N/A
+|2003
+|[[Banpresto]]
+|Banpresto
+|JP
+|-
+|''[[Super Robot Wars J]]''
+|N/A
+|2005
+|[[Banpresto]]
+|Banpresto
+|JP
+|-
+|''[[Super Robot Wars R]]''
+|N/A
+|2002
+|AI
+|[[Banpresto]]
+|JP
+|-
+|''[[Super Street Fighter 2 Turbo Revival|Super Street Fighter II Turbo Revival]]''<br>•''Super Street Fighter II X: Revival''<sup>JP</sup>
+|Yes (VS)
+|2001
+|[[Capcom]]
+|Capcom
+|NA, PAL, JP
+|-
+|''[[Superman: Countdown to Apokolips]]''
+|N/A
+|2003
+|[[Mistic Software]]
+|[[Atari SA]]
+|NA, PAL
+|-
+|''[[Superman Returns: Fortress of Solitude]]''
+|N/A
+|2006
+|[[EA Tiburon]]
+|[[EA Games]]
+|NA, PAL
+|-
+|''[[Surf's Up (video game)|Surf's Up]]''
+|N/A
+|2007
+|[[Ubisoft Quebec]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''Suteki na Obentou'' (DokiDoki Cooking Series 2: Gourmet Kitchen: Suteki na Obentou)
+|N/A
+|2003
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''Sweet Cookie Pie''
+|N/A
+|2001
+|
+|[[Culture Brain]]
+|JP
+|-
+|''[[Sword of Mana]]''<br>•''Shinyaku Seiken Densetsu''<sup>JP</sup>
+|No
+|2003
+|[[Brownie Brown]]
+|[[Square Enix]] / [[Nintendo]]
+|NA, PAL, JP
+|-
+|''Sylvania Families: Fashion Designer ni Naritai! Kurumi Risu no Onna no Ko''
+|N/A
+|2004
+|
+|[[Epoch Co.|Epoch]]
+|JP
+|-
+|''Sylvania Families 4: Meguru Kisetsu no Tapestry''
+|N/A
+|2002
+|
+|[[Epoch Co.|Epoch]]
+|JP
+|-
+|''[[Sylvanian Families|Sylvania Family: Yosei no Stick to Fushigi no Ki - Maron Inu no Onna no Ko]]''
+|N/A
+|2003
+|
+|[[Epoch Co.|Epoch]]
+|JP
+|-
+|id="T"|''[[Tactics Ogre: The Knight of Lodis]]''<br>•''Tactics Ogre Gaiden: The Knight of Lodis''<sup>JP</sup>
+|No
+|2001
+|[[Quest Corporation|Quest]]
+|[[Atlus]]
+|NA, JP
+|-
+|''[[Ultra Series|Taiketsu! Ultra Hero]]''
+|N/A
+|2004
+|
+|[[Jorudan]]
+|JP
+|-
+|''[[Tak and the Power of Juju]]''
+|No
+|2003
+|[[Avalanche Software]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Tak 2: The Staff of Dreams]]''
+|N/A
+|2004
+|[[Avalanche Software]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Tak: The Great Juju Challenge]]''
+|Yes (COOP)
+|2005
+|[[Avalanche Software]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Tales of Phantasia]]''
+|N/A
+|2003<sup>JP</sup>, 2006<sup>NA,PAL</sup>
+|[[Namco Tales Studio|Wolf Team]]
+|[[Namco]]<sup>JP</sup><br>[[Nintendo]]<sup>NA, PAL</sup>
+|NA, JP, PAL, AUS
+|-
+|''[[Tales of the World: Narikiri Dungeon 2]]''
+|N/A
+|2002
+|[[Alfa System]]
+|[[Namco]]
+|JP
+|-
+|''[[Tales of the World: Narikiri Dungeon 3]]''
+|N/A
+|2005
+|[[Alfa System]]
+|[[Namco]]
+|JP
+|-
+|''[[Tales of the World: Summoner's Lineage]]''
+|N/A
+|2003
+|[[Magical Company]]
+|[[Namco]]
+|JP
+|-
+|''[[Meine Liebe|Tanbi Musō: Meine Liebe]]''
+|N/A
+|2001
+|[[Mobile 21]]
+|[[Konami]]
+|JP
+|-
+|''[[Tang Tang]]''
+|N/A
+|2001
+|[[GameVision Corporation]]
+|[[Take-Two Interactive]]
+|NA, PAL
+|-
+|''[[Detective School Q|Tantei Gakuen Q: Kyuukyoku no Trick ni Idome!]]''
+|N/A
+|2004
+|
+|[[Konami]]
+|JP
+|-
+|''[[Detective School Q|Tantei Gakuen Q: Meitantei Hakimida!]]''
+|N/A
+|2003
+|
+|[[Konami]]
+|JP
+|-
+|''[[Jake Hunter|Tantei Jingūji Saburō: Shiroi Kage no Shōjo]]''
+|N/A
+|2005
+|[[WorkJam]]
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''[[Taxi 3]]''
+|N/A
+|2003
+|[[Visual Impact]]
+|[[Ubisoft]]
+|PAL
+|-
+|''[[Teen Titans (GBA game)|Teen Titans]]''
+|N/A
+|2005
+|[[Artificial Mind and Movement]]
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[Teen Titans (GBA game)|Teen Titans 2: The Brotherhood's Revenge]]''
+|N/A
+|2006<ref>{{cite web|title=50+ best GBA games of all time to try before YOU die|url=https://www.progeeksblog.com/best-gba-games-of-all-time/|date=13 January 2017}}</ref>
+|[[Artificial Mind and Movement]]
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[Teenage Mutant Ninja Turtles (Game Boy Advance)|Teenage Mutant Ninja Turtles]]''
+|N/A
+|2003
+|[[Konami]]
+|Konami
+|NA, PAL
+|-
+|''[[Teenage Mutant Ninja Turtles 2: Battle Nexus]]''
+|N/A
+|2004
+|[[Konami]]
+|Konami
+|NA, PAL
+|-
+|''[[Tekken Advance]]''
+|Yes
+|2001<sup>JP</sup><br>2002<sup>NA, PAL</sup>
+|[[Namco]]
+|Namco<sup>JP, NA</sup> / [[Infogrames]]<sup>PAL</sup>
+|NA, PAL, JP
+|-
+|''[[Ten Pin Alley 2]]''
+|N/A
+|2004
+|[[Pronto Games]]
+|[[XS Games]]
+|NA
+|-
+|''Tennis Masters Series 2003''
+|N/A
+|2002
+|[[Kaolink]]
+|[[Microïds]]
+|PAL
+|-
+|''[[List of The Prince of Tennis video games|Tennis no Oji-Sama: Aim at the Victory!]]''
+|N/A
+|2002
+|[[KCEJ]]
+|[[Konami]]
+|JP
+|-
+|''[[List of The Prince of Tennis video games|Tennis no Oji-Sama: Genius Boys Academy]]''
+|N/A
+|2002
+|[[KCEJ]]
+|[[Konami]]
+|JP
+|-
+|''[[List of The Prince of Tennis video games|Tennis no Oji-Sama 2003: Cool Blue]]''
+|N/A
+|2003
+|
+|[[Konami]]
+|JP
+|-
+|''[[List of The Prince of Tennis video games|Tennis no Oji-Sama 2003: Passion Red]]''
+|N/A
+|2003
+|
+|[[Konami]]
+|JP
+|-
+|''[[List of The Prince of Tennis video games|Tennis no Oji-Sama 2004: Glorious Gold]]''
+|N/A
+|2004
+|
+|[[Konami]]
+|JP
+|-
+|''[[List of The Prince of Tennis video games|Tennis no Oji-Sama 2004: Stylish Silver]]''
+|N/A
+|2004
+|
+|[[Konami]]
+|JP
+|-
+|''[[Terminator 3: Rise of the Machines (video game)|Terminator 3: Rise of the Machines]]''
+|N/A
+|2003
+|[[Taniko]]
+|[[Atari SA]]
+|NA, PAL
+|-
+|''[[Tetris Worlds]]''
+|N/A
+|2001
+|[[Radical Entertainment]]
+|[[THQ]]
+|NA, PAL, JP
+|-
+|''[[Texas Hold 'Em Poker (video game)|Texas Hold 'Em Poker]]''
+|N/A
+|2004
+|[[Skyworks Technologies]]
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[That's So Raven#Video games|That's So Raven]]''
+|N/A
+|2004
+|[[Vicarious Visions]]
+|[[Buena Vista Interactive]]
+|NA
+|-
+|''[[That's So Raven#Video games|That's So Raven 2: Supernatural Style]]''
+|N/A
+|2005
+|[[Artificial Mind and Movement]]
+|[[Buena Vista Interactive]]
+|NA
+|-
+|''[[The Three Stooges (video game)|The Three Stooges]]''
+|N/A
+|2002
+|[[Cinemaware]]
+|[[Metro3D, Inc.|Metro3D]]
+|NA
+|-
+|''Thunder Alley''
+|N/A
+|2004
+|[[Pronto Games]]
+|[[XS Games]]
+|NA
+|-
+|''[[Thunderbirds (2004 film)|Thunderbirds]]''
+|N/A
+|2004
+|[[Saffire Corporation|Saffire]]
+|[[VU Games]]
+|NA, PAL
+|-
+|''[[Thunderbirds: International Rescue]]''
+|N/A
+|2001
+|[[Pukka Games]]
+|[[SCi Games|SCi]]
+|PAL
+|-
+|''[[Tiger Woods PGA Tour 2004]]''
+|N/A
+|2003
+|[[Electronic Arts]]
+|Electronic Arts
+|NA, PAL
+|-
+|''[[Tiger Woods PGA Tour 2002|Tiger Woods PGA Tour Golf]]''
+|N/A
+|2002
+|[[Rebellion]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Tim Burton's The Nightmare Before Christmas: The Pumpkin King]]''
+|N/A
+|2005
+|[[TOSE]]
+|[[Buena Vista Interactive]]
+|NA, PAL, JP
+|-
+|''[[Tiny Toon Adventures: Scary Dreams]]''<sup>NA</sup><br>•''Tiny Toon Adventures: Buster's Bad Dream''<sup>PAL</sup>
+|N/A
+|2002
+|[[Treasure Co. Ltd]]
+|[[Swing! Entertainment]]
+|NA, PAL
+|-
+|''[[Tiny Toon Adventures: Wacky Stackers]]''
+|N/A
+|2001
+|[[Warthog Games Limited|Warthog]]
+|[[Conspiracy Games]]
+|NA, PAL
+|-
+|''Tir et But: Edition Champions du Monde''
+|N/A
+|2002
+|
+|[[Titus Software]]
+|PAL
+|-
+|''[[Titeuf: Ze Gag Machine]]''
+|N/A
+|2002
+|3D Lights
+|[[Infogrames]]
+|PAL
+|-
+|''[[Titeuf: Méga Compet]]''
+|N/A
+|2004
+|DREAM ON STUDIO
+|[[Atari SA]]
+|PAL
+|-
+|''[[TMNT (Game Boy Advance)|TMNT]]''
+|N/A
+|2007
+|[[Ubisoft Montreal]]
+|[[Ubisoft]]
+|NA, PAL, AUS
+|-
+|''[[TOCA World Touring Cars]]''
+|N/A
+|2003
+|[[Codemasters]]
+|[[Ubisoft]]
+|PAL
+|-
+|''[[Tokimeki Dream Series 1: Ohanaya-san ni Narou!]]''
+|N/A
+|2002
+|
+|[[MTO (video game company)|MTO]]
+|JP
+|-
+|''[[Tokyo Majin Gakuen: Fuju Houroku]]''
+|N/A
+|2004
+|
+|[[Marvelous Entertainment]]
+|JP
+|-
+|''[[Tokyo Xtreme Racer Advance]]''
+|N/A
+|2005
+|[[David A. Palmer Productions]]
+|[[Crave Entertainment|Crave]]
+|JP
+|-
+|''[[Tom and Jerry Tales#Video games|Tom and Jerry Tales]]''
+|N/A
+|2006
+|[[Sensory Sweep Studios]]
+|[[Warner Bros. Interactive Entertainment]]
+|NA, PAL
+|-
+|''[[Tom and Jerry: Infurnal Escape]]''
+|N/A
+|2003
+|[[Cinegroupe]]
+|[[NewKidCo]]
+|NA, PAL
+|-
+|''[[Tom and Jerry: The Magic Ring]]''
+|No
+|2001
+|Cave Barn Studios
+|[[NewKidCo]]
+|NA, PAL
+|-
+|''[[Tom Clancy's Rainbow Six: Rogue Spear]]''
+|Yes
+|2002
+|Ubisoft Milan
+|Ubisoft
+|NA, PAL
+|-
+|''[[Tom Clancy's Splinter Cell]]''
+|No
+|2003
+|Ubisoft Montreal
+|Ubisoft
+|NA, PAL
+|-
+|''[[Tom Clancy's Splinter Cell: Pandora Tomorrow]]''
+|No
+|2004
+|Ubisoft
+|Ubisoft
+|NA, PAL
+|-
+|''[[Tomato Adventure]]''
+|N/A
+|2002
+|[[Graphic Research]]
+|[[Nintendo]]
+|JP
+|-
+|''[[Tomb Raider: Legend]]''
+|No
+|2006
+|[[Core Design]]
+|[[Eidos Interactive]]
+|NA, PAL
+|-
+|''[[Tomb Raider: The Prophecy]]''
+|No
+|2002<sup>NA, PAL</sup>
+|[[Core Design]]
+|[[Eidos Interactive]]
+|NA, PAL, JP
+|-
+|''[[Tonka: On The Job]]''
+|N/A
+|2006
+|[[Webfoot Technologies]]
+|[[THQ]]
+|NA
+|-
+|''[[Tony Hawk's American Sk8land]]''
+|N/A
+|2005
+|Vicarious Visions
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Tony Hawk's Downhill Jam]]''
+|N/A
+|2006
+|Vicarious Visions
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Tony Hawk's Pro Skater 2]]''<br>•''SK8: Tony Hawk no Pro Skater 2''<sup>JP</sup>
+|N/A
+|2001
+|Vicarious Visions
+|[[Activision]]
+|NA, PAL, JP
+|-
+|''[[Tony Hawk's Pro Skater 3]]''
+|Yes
+|2002
+|Vicarious Visions
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Tony Hawk's Pro Skater 4]]''
+|N/A
+|2002
+|Vicarious Visions
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Tony Hawk's Underground]]''
+|N/A
+|2003
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Tony Hawk's Underground 2]]''
+|N/A
+|2004
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Top Gear GT Championship]]''<br>•''Zen Nihon GT Senshuken''<sup>JP</sup>
+|N/A
+|2001
+|[[Kemco]]
+|Kemco
+|NA, PAL, JP
+|-
+|''[[Top Gear Rally (2003 video game)|Top Gear Rally]]''<br>•''Top Gear Rally SP''<sup>JP</sup>
+|N/A
+|2003
+|[[Tantalus Interactive]]
+|[[Nintendo]]
+|NA, PAL, JP
+|-
+|''[[Top Gun: Combat Zones]]''
+|N/A
+|2004
+|[[Titus Software]]
+|Titus Software
+|NA
+|-
+|''[[Top Gun Firestorm Advance]]''
+|N/A
+|2002
+|[[Titus Software]]
+|Titus Software
+|NA
+|-
+|''[[Top Spin 2]]''
+|N/A
+|2006
+|[[Magic Pockets (company)|Magic Pockets]]
+|[[2K Sports]]
+|NA, PAL
+|-
+|''[[Totally Spies! (video game)|Totally Spies!]]''
+|N/A
+|2005
+|[[Mistic Software]]
+|[[Atari SA]]
+|NA, PAL
+|-
+|''[[Totally Spies! 2: Undercover]]''
+|N/A
+|2006
+|[[Mistic Software]]
+|[[Atari SA]]
+|NA, PAL
+|-
+|''[[Toukon Heat]]''
+|N/A
+|2002
+|
+|[[Pacific Century Cyber Works]]
+|JP
+|-
+|''[[The Tower SP]]''
+|N/A
+|2005
+|[[Vivarium]]
+|[[Nintendo]]
+|NA, JP
+|-
+|''[[Toy Robo Force]]''
+|N/A
+|2001
+|[[Global A Entertainment|Global A]]
+|Global A
+|JP
+|- 
+|''[[Trick Star]]''
+|No
+|2006
+|Tantalus
+|Liquid Games
+|PAL
+|-
+|''[[Tringo]]''
+|Yes (SPM)
+|2006
+|[[Crave Entertainment|Crave]]
+|Crave
+|NA, PAL
+|-
+|''[[Trollz: Hair Affair!]]''
+|N/A
+|2005
+|Powerhead Games
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Tron 2.0: Killer App]]''
+|N/A
+|2004
+|[[Digital Eclipse]]
+|[[Buena Vista Games]]
+|NA, PAL
+|-
+|''[[Turbo Turtle Adventure]]''
+|N/A
+|2002
+|[[Iridon Interactive AB]]
+|[[Majesco Entertainment]]
+|NA
+|-
+|''[[Turok: Evolution]]''
+|N/A
+|2002
+|[[RFX Interactive]]
+|[[Acclaim Games|Acclaim]]
+|NA, PAL
+|-
+|''[[Tweety and the Magic Gems|Tweety & the Magic Gems]]''<br>•''Tweety no Hearty Party''<sup>JP</sup>
+|N/A
+|2001
+|[[Kemco]]
+|Kemco
+|NA, PAL, JP
+|-
+|''Twin Series Vol. 1: Mezase Debut! Fashion Designer Monogatari + Kawaii Pet Game Gallery 2''
+|N/A
+|2004
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Twin Series Vol. 2: Oshare Princess 4 + Renai Uranai Daisakusen''
+|N/A
+|2004
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Twin Series Vol. 3: Konchuu Monster: Ouja Ketteisen + Super Chinese Labyrinth''
+|N/A
+|2004
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Twin Series Vol. 4: Ham Ham Monster EX/Fantasy Puzzle Hamster Monogatari''
+|N/A
+|2004
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Twin Series Vol. 5: Wan Wan Meitantei EX/Mahou no Kuni no Keaki-Okusan Monogatari''
+|N/A
+|2004
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Twin Series Vol. 6: Wan Nyon Idol Gakuen/Koinu Toissho Special''
+|N/A
+|2004
+|
+|[[Culture Brain]]
+|JP
+|-
+|''Twin Series Vol. 7: Twin Puzzle: Kisekae Wanko EX + Nyaa to Chuu no Rainbow Magic 2''
+|N/A
+|2004
+|
+|[[Culture Brain]]
+|JP
+|-
+|''[[Ty the Tasmanian Tiger 2: Bush Rescue]]''
+|No
+|2004
+|Krome Studios
+|Electronic Arts
+|NA, PAL
+|-
+|''[[Ty the Tasmanian Tiger 3: Night of the Quinkan]]''
+|N/A
+|2005
+|[[Krome Studios]]
+|[[Activision Value]]
+|NA
+|-
+|id="U"|''[[Uchuu no Stellvia]]''
+|N/A
+|2004
+|[[King Records (Japan)|King Records]]
+|King Records
+|JP
+|-
+|''[[Uchuu Daisakusen Chocovader: Uchuu kara no Shinryakusha]]''
+|N/A
+|2002
+|[[Namco]]
+|Namco
+|JP
+|-
+|''[[Ueki no Hōsoku: Jingi Sakuretsu! Nōryokusha Battle]]''
+|N/A
+|2006
+|[[Banpresto]]
+|Banpresto
+|JP
+|-
+|''[[Ultimate Arcade Games]]''
+|N/A
+|2005
+|[[Nocturnal Entertainment]]
+|[[Telegames, Inc.]]
+|NA
+|-
+|''[[Ultimate Beach Soccer]]''<sup>NA</sup><br>•''Pro Beach Soccer''<sup>PAL</sup>
+|N/A
+|2003
+|[[Magic Pockets (company)|Magic Pockets]]
+|[[DreamCatcher Interactive]]<sup>NA</sup> / [[Wanadoo]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Ultimate Brain Games]]''
+|Yes (SPM)
+|2003
+|[[Cosmigo]]
+|[[Telegames, Inc.]]
+|NA
+|-
+|''[[Ultimate Card Games]]''
+|Yes (SPM)
+|2004
+|[[Cosmigo]]
+|[[Telegames, Inc.]]
+|NA
+|-
+|''[[Ultimate Muscle: The Path of the Superhero]]''<br>•''Kinnikuman II Sei: Seigi Choujin e no Michi''<sup>JP</sup>
+|N/A
+|2002<sup>JP</sup><br>2003<sup>NA</sup>
+|[[Banpresto]]
+|Bandai<sup>NA</sup> / Banpresto<sup>JP</sup>
+|NA, JP
+|-
+|''[[Ultimate Puzzle Games]]''
+|N/A
+|2005
+|[[Telegames, Inc.]]
+|Telegames, Inc.
+|NA
+|-
+|''[[Ultimate Spider-Man (video game)|Ultimate Spider-Man]]''
+|N/A
+|2005
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[Ultimate Winter Games]]''
+|Yes (SPM)
+|2004
+|[[Sproing Interactive Media]]
+|[[Telegames, Inc.]]
+|NA
+|-
+|''[[Ultra Keibitai: Monster Attack]]''
+|N/A
+|2004
+|[[Rocket Company]]
+|Rocket Company
+|JP
+|-
+|''[[Unfabulous (video game)|Unfabulous]]''
+|N/A
+|2006
+|[[WayForward]]
+|[[THQ]]
+|NA
+|-
+|''[[Uno (handheld game)|Uno]] / [[Skip-Bo]]''<br>•''Uno & Skip-Bo''<sup>PAL</sup>
+|N/A
+|2006
+|[[Black Lantern Studios]]
+|[[DSI Games]]<sup>NA</sup> / [[Jack of All Games]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Uno 52]]''
+|N/A
+|2006<sup>NA</sup><br>2007<sup>PAL</sup>
+|[[Black Lantern Studios]]
+|[[DSI Games]]<sup>NA</sup> / [[Zoo Digital Publishing]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Uno Free Fall]]''
+|N/A
+|2007
+|[[Black Lantern Studios]]
+|[[DSI Games]]<sup>NA</sup> / [[Zoo Digital Publishing]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Urban Yeti!]]''
+|No
+|2002
+|[[Cave Barn]]
+|[[Telegames, Inc.]]
+|NA, PAL
+|-
+|''[[The Urbz: Sims in the City]]''
+|N/A
+|2004
+|[[Griptonite Games]]
+|[[EA Games]]
+|NA, PAL, JP
+|-
+|''[[USA Racer]]''
+|N/A
+|2002
+|[[Davilex]]
+|Davilex
+|PAL
+|-
+|id="V"|''[[V.I.P. (TV series)|V.I.P.]]''
+|N/A
+|2002
+|[[Planet Interactive]]
+|[[Ubisoft]]
+|PAL
+|-
+|''[[Van Helsing (video game)|Van Helsing]]''
+|N/A
+|2004
+|[[Saffire Corporation|Saffire]]
+|[[VU Games]]<sup>NA</sup> / [[Sierra Entertainment]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Vattroller X]]''
+|N/A
+|2004
+|[[Ganbarion]]
+|[[Bandai]]
+|JP
+|-
+|''[[VeggieTales|VeggieTales: LarryBoy and the Bad Apple]]''
+|N/A
+|2006
+|[[Crave Entertainment]]
+|Crave Entertainment
+|NA
+|-
+|''[[V Master Cross]]''
+|N/A
+|2002
+|[[Success (company)|Success]]
+|Success
+|JP
+|-
+|''[[V-Rally 3]]''
+|N/A
+|2002
+|[[V3D Production]]
+|[[Atari]]
+|NA, PAL, JP
+|-
+|''[[Virtua Tennis]]''
+|Yes
+|2002<sup>NA</sup><br>2003<sup>PAL</sup>
+|[[Altron]]
+|[[THQ]]<sup>NA</sup> / [[Sega]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Virtual Kasparov]]''
+|Yes (SPM)
+|2002
+|[[Titus Software]]
+|Titus Software
+|NA, PAL
+|-
+|id="W"|''[[W.I.T.C.H. (video game)|W.I.T.C.H.]]''
+|N/A
+|2005
+|[[Climax Group]]
+|[[Disney Interactive Studios|Buena Vista]]
+|PAL
+|-
+|''[[Wade Hixton's Counter Punch]]''
+|N/A
+|2004
+|[[Inferno Games]]
+|[[Destination Software]]<sup>NA</sup> / [[Zoo Digital Publishing]]<sup>PAL</sup>
+|NA, PAL
+|-
+|''[[Mirmo!#Video games|Wagamama * Fairy: Mirumo de Pon! DokiDoki Memorial Panic]]''
+|N/A
+|2005
+|
+|[[Konami]]
+|JP
+|-
+|''[[Mirmo!#Video games|Wagamama * Fairy: Mirumo de Pon! Hachinin no Toki no Yousei]]''
+|N/A
+|2003
+|[[Jupiter Multimedia]]
+|[[Konami]]
+|JP
+|-
+|''[[Mirmo!#Video games|Wagamama * Fairy: Mirumo de Pon! Nazo no Kagi to Shinjitsu no Tobira]]''
+|N/A
+|2004
+|[[Jupiter Multimedia]]
+|[[Konami]]
+|JP
+|-
+|''[[Mirmo!#Video games|Wagamama * Fairy: Mirumo de Pon! Ougon Maracas no Densetsu]]''
+|N/A
+|2002
+|[[Jupiter Multimedia]]
+|[[Konami]]
+|JP
+|-
+|''[[Mirmo!#Video games|Wagamama * Fairy: Mirumo de Pon! Taisen Mahoudama]]''
+|N/A
+|2003
+|
+|[[Konami]]
+|JP
+|-
+|''[[Mirmo!#Video games|Wagamama * Fairy: Mirumo de Pon! Yume no Kakera]]''
+|N/A
+|2004
+|
+|[[Konami]]
+|JP
+|-
+|''[[Wakeboarding Unleashed Featuring Shaun Murray]]''
+|N/A
+|2003
+|[[Small Rockets]]
+|[[Aspyr]]
+|NA
+|-
+|''[[Wan Wan Meitantei]]''
+|N/A
+|2003
+|
+|[[Culture Brain]]
+|JP
+|-
+|''[[Wanko de Kururin! Wankuru]]''
+|N/A
+|2004
+|
+|MTO
+|JP
+|-
+|''Wanko Mix: Chiwanko World''
+|N/A
+|2004
+|
+|[[TDK|TDK Core]]
+|JP
+|-
+|''Wan Nyan Doubutsu Byouin''
+|N/A
+|2003
+|
+|[[TDK|TDK Core]]
+|JP
+|-
+|''[[Wario Land 4]]''<br>•''Wario Land Advance''<sup>JP</sup>
+|No
+|2001
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]
+|NA, PAL, JP, AUS
+|-
+|''[[WarioWare, Inc.: Mega Microgame$!]]''<sup>NA</sup><br>•''Wario Ware, Inc: Minigame Mania''<sup>PAL</sup><br>•''Made in Wario ''<sup>JP</sup>
+|Yes
+|2003
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]
+|NA, JP, PAL, AUS
+|-
+|''[[WarioWare: Twisted!]]''<br>•''Mawaru Made in Wario''<sup>JP</sup>
+|No
+|2005
+|[[Intelligent Systems]] [[Nintendo SPD]] 
+|[[Nintendo]]
+|NA, JP, AUS
+|-
+|''Watashi no MakeSalon''
+|N/A
+|2002
+|
+|Ludic
+|JP
+|-
+|''[[Whac-A-Mole]]''
+|N/A
+|2005
+|[[DC Studios]]
+|[[Activision Value]]
+|NA, PAL
+|-
+|''[[Whistle!#Video games|Whistle! Dai 37-kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai]]''
+|N/A
+|2003
+|[[Intense]]
+|[[Konami]]
+|JP
+|-
+|''[[Who Wants to be a Millionaire?]]''
+|N/A
+|2002
+|[[Hothouse Creations]]
+|[[Zoo Digital Publishing]]
+|PAL
+|-
+|''[[Who Wants to be a Millionaire? 2nd Edition]]''
+|N/A
+|2004
+|[[Hothouse Creations]]
+|[[Zoo Digital Publishing]]
+|PAL
+|-
+|''[[Who Wants to be a Millionaire Junior Edition]]''
+|N/A
+|2005
+|[[Hothouse Creations]]
+|[[Zoo Digital Publishing]]
+|PAL
+|-
+|''[[The Wild Thornberrys: Chimp Chase]]''
+|N/A
+|2001
+|Helixe
+|THQ
+|NA, PAL
+|-
+|''[[The Wild Thornberrys Movie (video game)|The Wild Thornberrys Movie]]''
+|N/A
+|2002
+|[[HumanSoft]]
+|[[THQ]]
+|NA
+|-
+|''[[The Wild]]''
+|N/A
+|2006
+|Climax Studios
+|[[Buena Vista Games]]
+|NA, PAL
+|-
+|''[[Die Wilden Fussball Kerle: Entscheidung im Teufelstopf]]''
+|N/A
+|2006
+|[[Morgen Studios]]
+|[[Kiddinx]]
+|PAL
+|-
+|''[[Die Wilden Fussball Kerle: Gefahr im Wilde Kerle Land]]''
+|N/A
+|2007
+|
+|[[Kiddinx]]
+|PAL
+|-
+|''[[Wing Commander: Prophecy]]''
+|Yes
+|2003
+|[[Raylight Studios]]
+|[[Destination Software]]
+|NA, PAL
+|-
+|''[[Wings (1990 video game)|Wings]]''
+|N/A
+|2002
+|[[Raylight Games]]
+|[[Cinemaware]]
+|NA, PAL
+|-
+|''[[Winnie the Pooh's Rumbly Tumbly Adventure]]''
+|No
+|2005
+|[[Phoenix Studio]]
+|[[Ubisoft]]
+|NA, PAL
+|-
+|''[[Winnie the Pooh's Rumbly Tumbly Adventure]]'' / ''[[Rayman 3]]''
+|N/A
+|2006
+|[[Phoenix Studio]], [[Ubisoft]]
+|Ubisoft
+|PAL
+|-
+|''[[Winning Post|Winning Post for Game Boy Advance]]''
+|N/A
+|{{Vgrtbl|2=2001}}
+|[[Koei]]
+|Koei
+|JP
+|-
+|''[[Winter Spiele]]''
+|N/A
+|2006
+|[[Independent Arts]]
+|[[East Entertainment Media]]
+|PAL
+|-
+|''[[Winx Club (video game)|WinX Club]]''
+|N/A
+|2005
+|Rainbow Studios
+|Konami
+|NA, PAL
+|-
+|''[[WinX Club: Quest for the Codex]]''
+|N/A
+|2006
+|Powerhead Games
+|Konami
+|NA, PAL
+|-
+|''[[Wizardry Summoner]]''
+|N/A
+|2001
+|[[Fupac]]
+|[[Media Rings]]
+|JP
+|-
+|''[[Wolfenstein 3D]]''
+|No
+|2002
+|[[id Software]]
+|[[BAM! Entertainment]]
+|NA, PAL
+|-
+|''[[Woody Woodpecker in Crazy Castle 5]]''
+|Yes (SPM)
+|2002<br>2003
+|[[Tantalus Interactive]]
+|[[Kemco]]
+|NA, PAL, JP
+|-
+|''[[Word Safari: The Friendship Totems]]''
+|N/A
+|2007
+|[[GXB Interactive]]
+|[[Tomy Corporation]]
+|NA
+|-
+|''[[World Advance Soccer: Road to Win]]''
+|N/A
+|2001
+|[[TOSE]]
+|[[Hands-On Entertainment]]
+|JP
+|-
+|''[[World Championship Poker]]''
+|Yes (SPM)
+|2004
+|Sensory Sweep
+|Crave
+|NA, PAL
+|-
+|''[[World Poker Tour]]''
+|N/A
+|2005
+|[[Backbone Entertainment|Backbone Emeryville]]
+|[[2K Sports]]
+|NA, PAL
+|-
+|''[[World Reborn]]'' (Unlicensed)
+|N/A
+|2015
+|[[NeoPong Software]]
+|[[Piko Interactive LLC]]
+|NA
+|-
+|''[[World Soccer Winning Eleven]]''
+|N/A
+|2002
+|[[Konami Computer Entertainment Tokyo|KCET]]
+|[[Konami]]
+|JP
+|-
+|''[[World Tennis Stars]]''
+|N/A
+|2004
+|[[Awesome Developments]]
+|[[Ignition Entertainment]]
+|NA, PAL
+|-
+|''[[Worms Blast]]''
+|N/A
+|2002
+|[[Fluid Studios]]
+|[[Ubisoft]]
+|PAL
+|-
+|''[[Worms World Party]]''
+|Yes
+|2002
+|Fluid Studios
+|Ubisoft
+|NA, PAL
+|-
+|''[[WTA Tour Tennis]]''<sup>NA</sup><br>•''Pro Tennis WTA Tour''<sup>PAL</sup><br>•''WTA Tour Tennis Pocket''<sup>JP</sup>
+|N/A
+|2002
+|[[Now Production]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[WWE Road to WrestleMania X8]]
+|N/A
+|2002
+|[[Natsume (company)|Natsume]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[WWE Survivor Series (video game)|WWE Survivor Series]]''
+|N/A
+|2004
+|[[Natsume (company)|Natsume]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[WWF Road to WrestleMania]]''
+|N/A
+|2001
+|[[Natsume (company)|Natsume]]
+|[[THQ]]
+|NA
+|-
+|id="X"|''[[X2: Wolverine's Revenge]]''<br>•''X-Men 2: Wolverine's Revenge''<sup>PAL</sup>
+|N/A
+|2003
+|[[Vicarious Visions]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[X-Bladez: Inline Skater]]''
+|N/A
+|2002
+|[[The Code Monkeys]]
+|[[Crave Entertainment|Crave]]
+|NA, PAL
+|-
+|''[[X-Men: Reign of Apocalypse]]''
+|N/A
+|2001
+|[[Digital Eclipse]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[X-Men: The Official Game]]''
+|N/A
+|2006
+|[[WayForward|WayForward Technologies]]
+|[[Activision]]
+|NA, PAL
+|-
+|''[[XS Moto]]''
+|N/A
+|2004
+|[[DC Studios]]
+|[[XS Games]]
+|US
+|-
+|''[[xXx (video game)|xXx]]''
+|N/A
+|2002
+|[[Digital Eclipse]]
+|[[Activision]]
+|NA, PAL
+|-
+|id="Y"|''[[Yakyutuku Advance]]'' (Pro Yakyuu Team o Tsukurou! Advance)
+|N/A
+|2002
+|[[Smilebit]]
+|[[SEGA]]
+|JP
+|-
+|''[[Yggdra Union: We'll Never Fight Alone]]''
+|No
+|2006
+|[[Sting Entertainment]]
+|[[Atlus]]
+|NA, JP, PAL
+|-
+|''[[Yoshi Topsy-Turvy]]''<sup>NA</sup><br>•''Yoshi's Universal Gravitation''<sup>PAL</sup><br>•''Yoshi no Banyuu Inryoku''<sup>JP</sup>
+|No
+|2004
+|[[Artoon]]
+|[[Nintendo]]
+|NA, JP, PAL
+|-
+|''[[Youkaidou]]''
+|N/A
+|2002
+|[[Fuuki Co. Ltd.]]
+|Fuuki Co. Ltd.
+|JP
+|-
+|''[[Yu Yu Hakusho: Spirit Detective]]''
+|N/A
+|2003
+|[[Sensory Sweep Studios]]
+|[[Atari]]
+|NA, PAL
+|-
+|''[[Yu Yu Hakusho: Tournament Tactics]]''
+|N/A
+|2005
+|[[Sensory Sweep Studios]]
+|[[Atari]]
+|NA, PAL
+|-
+|''[[Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005]]''<br>•''Yu-Gi-Oh! Day of the Duelist: World Championship Tournament 2005''<sup>PAL</sup><br>•''Yu-Gi-Oh! Duel Monsters International 2''<sup>JP</sup>
+|No
+|2004<br>2005
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Yu-Gi-Oh! Destiny Board Traveler]]''<br>•''Yu-Gi-Oh! Sugoroku no Sugoroku''<sup>JP</sup>
+|N/A
+|2004
+|[[Konami Computer Entertainment Japan]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[List of Yu-Gi-Oh! video games|Yu-Gi-Oh! Duel Monsters 6: Expert 2]]''
+|N/A
+|2001
+|[[Konami]]
+|Konami
+|JP
+|-
+|''[[Dungeon Dice Monsters|Yu-Gi-Oh! Dungeon Dice Monsters]]''
+|Yes
+|2001<br>2003
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[List of Yu-Gi-Oh! video games|Yu-Gi-Oh! GX: Duel Academy]]''<br>•''Yu-Gi-Oh! Duel Monsters GX: Mezase Duel King!''<sup>JP</sup>
+|N/A
+|2006
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Yu-Gi-Oh! Reshef of Destruction]]''<br>•''Yu-Gi-Oh! Duel Monsters 8: Hametsu no Dai Jashin''<sup>JP</sup>
+|N/A
+|2003
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[List of Yu-Gi-Oh! video games|Yu-Gi-Oh! The Eternal Duelist Soul]]''<br>•''Yu-Gi-Oh! Duel Monsters 5: Expert 1''<sup>JP</sup>
+|N/A
+|2001<sup>JP</sup>, 2002<sup>NA</sup>, 2003<sup>PAL</sup>
+|[[Konami Computer Entertainment Japan]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[Yu-Gi-Oh! The Sacred Cards]]''<br>•''Yu-Gi-Oh! Duel Monsters 7: Kettou Toshi Densetsu''<sup>JP</sup>
+|N/A
+|2002
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006]]''<sup>NA</sup><br>•''Yu-Gi-Oh! World Championship Tournament 2006''<sup>PAL</sup><br>•''Yu-Gi-Oh! Duel Monsters Expert 2006''<sup>JP</sup>
+|N/A
+|2006
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Yu-Gi-Oh! World Championship Tournament 2004]]''<br>•''Yu-Gi-Oh! Duel Monsters Expert 3''<sup>JP</sup>
+|N/A
+|2004
+|[[Konami]]
+|Konami
+|NA, PAL, JP
+|-
+|''[[Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel]]''
+|N/A
+|2003
+|KCEJ
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[Yushun Rhapsody]]''
+|N/A
+|2001
+|TOSE
+|Capcom
+|JP
+|-
+|''[[Yuujou no Victory Goal 4v4 Arashi: Get the Goal!]]''
+|N/A
+|2001
+|
+|[[Konami]]
+|JP
+|-
+|''[[Yuurei Yashiki No Nijuuyon Jikan]]''
+|N/A
+|2002
+|[[Global A Entertainment|Global A]]
+|Global A
+|JP
+|-
+|id="Z"|''[[Zapper: One Wicked Cricket|Zapper]]''
+|Yes (SPM)
+|2002
+|[[Blitz Games]] / [[Atomic Planet Entertainment]]
+|[[Infogrames]]
+|NA, PAL
+|-
+|''[[List of Zatch Bell! video games|Zatch Bell: Electric Arena]]'' (''Konjiki no Gash Bell: Yuujou no Zakeru'')
+|N/A
+|2005
+|[[Banpresto]]
+|[[Bandai]]
+|NA, JP
+|-
+|''Zen-Nippon Shounen Soccer Taikai 2: Mezase Nippon Ichi!''
+|N/A
+|2002
+|Boom
+|[[Success (company)|Success]]
+|JP
+|-
+|''Zero One''
+|N/A
+|2003
+|
+|[[Fuuki]]
+|JP
+|-
+|''Zero One SP''
+|N/A
+|2004
+|
+|[[Fuuki]]
+|JP
+|-
+|''[[Grandpa Danger|Zettai Zetsumei Dangerous Jiisan: Shijou Saikyou no Dogeza]]''
+|N/A
+|2003
+|Rokumendo
+|[[Kids Station]]
+|JP
+|-
+|''[[Grandpa Danger|Zettai Zetsumei Dangerous Jiisan 2: Naki no Ikkai]]''
+|N/A
+|2004
+|Rokumendo
+|[[Kids Station]]
+|JP
+|-
+|''[[Grandpa Danger|Zettai Zetsumei Dangerous Jiisan 3: Hateshinaki Mamonogatari]]''
+|N/A
+|2004
+|Rokumendo
+|[[Kids Station]]
+|JP
+|-
+|''[[Grandpa Danger|Zettai Zetsumei Dangerous Jiisan Tsuu: Ikari no Oshioki Blues]]''
+|N/A
+|2004
+|Rokumendo
+|[[Kids Station]]
+|JP
+|-
+|''Zidane: Football Generation 2002''
+|N/A
+|2002
+|[[Aqua Pacific]]
+|[[Cryo Interactive]]
+|PAL
+|-
+|''[[Zoey 101]]''
+|Yes
+|2007
+|[[Barking Lizards]]
+|[[THQ]]
+|NA, PAL
+|-
+|''[[Zoids Legacy]]''<br>•''Zoids Saga II''<sup>JP</sup>
+|N/A
+|2004
+|Amedio
+|Atari SA
+|NA, JP
+|-
+|''[[Zoids Saga]]''
+|N/A
+|2001
+|[[Amedio]]
+|[[Tomy Corporation]]
+|JP
+|-
+|''[[Zoids Saga: Fuzors]]''
+|N/A
+|2004
+|[[Amedio]]
+|[[Tomy Corporation]]
+|JP
+|-
+|''[[Zone of the Enders: The Fist of Mars]]''<br>•''Zone of the Enders: 2173 Testament''<sup>JP</sup>
+|N/A
+|2001
+|[[Sunrise Interactive]]
+|[[Konami]]
+|NA, PAL, JP
+|-
+|''[[ZooCube]]''
+|Yes
+|2002
+|[[PuzzleKings]], [[Graphic State]]
+|[[Acclaim Entertainment|Acclaim]]
+|NA, PAL
+|-
+|''[[Zoo Keeper (2003 video game)|Zooo: Action Puzzle Game]]''<br>•''Minna no Soft Series: Zooo''<sup>JP</sup>
+|N/A
+|2006
+|Buddiez, Inc.
+|Ignition Entertainment
+|PAL, JP
+|}
+
+==See also==
+*[[Game Boy Advance]]
+*[[Game Boy Advance SP]]
+*[[Game Boy Micro]]
+*[[Nintendo DS]]
+*[[List of best-selling Game Boy Advance games]]
+
+==References==
+{{Reflist}}
+
+{{Game Boy line}}
+{{Nintendo DS}}
+{{Video game lists by platform}}
+
+[[Category:Game Boy Advance games|*]]
+[[Category:Nintendo-related lists|Game Boy Advance]]
+[[Category:Video game lists by platform|Game Boy Advance]]

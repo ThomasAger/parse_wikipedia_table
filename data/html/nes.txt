@@ -1,0 +1,4677 @@
+{{Use mdy dates|date=December 2019}}
+{{About|the list of video games for the Nintendo Entertainment System|the list of video games for the [[Nintendo Entertainment System|Famicom]]|List of Family Computer games|the list of video games for the [[Family Computer Disk System|Famicom Disk System]]|List of Family Computer Disk System games}}
+[[File:NES-Console-Set.jpg|thumb|right|300px|The Nintendo Entertainment System]]
+
+A total of 717 known licensed game titles were released for the [[Nintendo Entertainment System]] [[video game console]] during its life span, 680 of these games released in North America (if you count ''Short Order'', ''Eggsplode!''. ''[[Back to the Future Part II & III|Back to the Future Part II]]'' and ''[[Back to the Future Part II & III|Back to the Future Part III]]'' as 4 separate games) plus 2 championship cartridges, with an additional 35 released in Europe or Australia. This list does not feature unlicensed NES games. The Nintendo Entertainment System (NES) — renamed from the Family Computer, or Famicom – was first released in North America on {{Start date|1985|10|18}}.<ref>{{cite book | first = Van | last = Burnham | year = 2001 | title = Supercade: A Visual History of the Videogame Age, 1971–1984 | page = 375 | publisher = MIT Press | location = Cambridge, Massachusetts | isbn = 0-262-52420-1 }}</ref> The NES was released in Europe and Australia in late 1985 and distributed by various third-party companies until [[Nintendo]] took over distribution in 1990.<ref name="burnham">{{cite book|first=Van |last=Burnham |year=2001 |title=Supercade: A Visual History of the Videogame Age, 1971–1984 |page=375 |publisher=MIT Press |location=Cambridge, Massachusetts |isbn=0-262-52420-1}}</ref> The final licensed NES game released was ''[[Wario's Woods]]'' on December 10, 1994 in North America and the PAL-exclusive ''[[The Lion King (video game)|The Lion King]]'' in 1995, and the most recent unlicensed game of significant notability released is ''Data East All Star Collection'' released in December 2017.<ref>https://www.retrogamer.net/blog_post/retro-bit-multi-carts-on-sale-this-weekend/</ref> The NES was succeeded by the [[Super Nintendo Entertainment System]], released in 1991.
+
+==Licensed games==
+There are a total of 715 known licensed game titles of which 678 were released in North America along with 2 championship games. 35 were exclusively released outside North America, fully listed below.
+
+For a chronological list, click the sort button in any of the available region's columns. Games dated October 18, 1985 (North America) are launch titles for North America.<!--- Do not add fake stuff such as ''Hogan's Castle'' on this article--->
+
+{{Compact ToC|name=no|center=yes|top=no|nobreak=yes|num=yes}}
+
+{| class="wikitable plainrowheaders sortable" id="softwarelist" 
+|-
+!rowspan="2"|Title<ref name="NintendoList">{{cite web |url=https://www.nintendo.com/consumer/downloads/nes_games.pdf |format=PDF |publisher=[[Nintendo]] |accessdate=August 9, 2015 |title=All NES Games |url-status=dead |archiveurl=https://web.archive.org/web/20140611225644/http://www.nintendo.com/consumer/downloads/nes_games.pdf |archivedate=June 11, 2014 }}</ref><ref name="IGNList">{{cite web|url=http://retro.ign.com/index/nes-games.html |title=NES: Game Profiles |publisher=IGN Staff |accessdate=June 4, 2010 |url-status=bot: unknown |archiveurl=https://web.archive.org/web/20090211184008/http://retro.ign.com/index/nes-games.html |archivedate=February 11, 2009 }}</ref>
+! rowspan="2" |Developer(s)
+!colspan="2" |Publisher(s)<ref name="NintendoList"/><ref name="IGNList"/><ref name="GamespotList"/>
+! colspan="2" |Release date
+|-
+!North America
+!Europe / PAL
+!North America<ref name="NintendoList"/><ref name="IGNList"/><ref name="GamespotList">{{cite web |url=http://www.gamespot.com/games.html?platform=19&category=&type=games&mode=all&sort=title&sortdir=desc# |title=All NES Games |publisher=Gamespot.com Staff |accessdate=June 4, 2010}}</ref>
+!Europe / PAL<ref name="Bergsala">{{cite web |title=Swedish NES Release List |publisher=[[Bergsala]] |accessdate=February 20, 2012 |url=http://www.nesworld.com/files/swedish.doc}}</ref>
+|-
+
+<!-- # , 0-9 , 1 , 1-9 -->
+|''[[10-Yard Fight]]''
+|[[Irem]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1986|12|06}}
+|-
+|''[[1942 (video game)|1942]]''
+|[[Micronics]]
+|[[Capcom]]||{{unreleased}}
+|{{dts|1986|11}}||{{unreleased}}
+|-
+|''[[1943: The Battle of Midway]]''
+|[[Capcom]]
+|[[Capcom]]||{{unreleased}}
+|{{dts|1988|10}}||{{unreleased}}
+|-
+|''[[The 3-D Battles of WorldRunner|3-D WorldRunner]]''
+|[[Square (video game company)|Square]]
+|[[Acclaim Entertainment]]||{{unreleased}}
+|{{dts|1987|09}}||{{unreleased}}
+|-
+|''[[720°]]''
+|[[Beam Software]], [[Tengen (company)|Tengen]]
+|[[Mindscape]]||{{unreleased}}
+|{{dts|1989|11}}||{{unreleased}}
+|-
+|''[[8 Eyes]]''
+|[[Thinking Rabbit]]
+|[[Taxan]]||{{unreleased}}
+|{{dts|1990|01}}||{{unreleased}}
+|-
+
+<!-- A -->
+|id="A"|''[[Abadox]]''
+|[[Natsume (company)|Natsume]], I.T.L
+|[[Milton Bradley Company]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[The Addams Family (video game)|The Addams Family]]''
+|[[Ocean Software]]
+|[[Ocean Software]]||Ocean Software
+|{{dts|1992|01}}||{{dts|1992|12}}
+|-
+|''[[The Addams Family: Pugsley's Scavenger Hunt]]''
+|Enigma Variations
+|[[Ocean Software]]||Ocean Software
+|{{dts|1993|08}}||{{dts|1992}}
+|-
+|''[[DragonStrike (video game)|Advanced Dungeons & Dragons: DragonStrike]]''
+|[[Westwood Studios]]
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1992|07}}||{{unreleased}}
+|-
+|''[[Advanced Dungeons & Dragons: Heroes of the Lance]]''
+|[[Natsume (company)|Natsume]]
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1991|01}}||{{unreleased}}
+|-
+|''[[Hillsfar|Advanced Dungeons & Dragons: Hillsfar]]''
+|Crosstalk
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1993|02}}||{{unreleased}}
+|-
+|''[[Pool of Radiance|Advanced Dungeons & Dragons: Pool of Radiance]]''
+|Marionette
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1992|04}}||{{unreleased}}
+|-
+|''[[Adventure Island (video game)|Adventure Island]]''
+|[[Hudson Soft]]
+|[[Hudson Soft]]||Hudson Soft
+|{{dts|1988|09}}||{{dts|1992}}
+|-
+| {{vgrtbl|NA|''[[Adventure Island II]]''|EU/AUS|''The Adventure Island Part II''}}
+|[[Now Production]]
+|[[Hudson Soft]]||{{vgrtbl|EU|Hudson Soft|AUS|[[Mattel]]}}
+|{{dts|1991|02}}||{{dts|1992|07|22}}
+|-
+|''[[Adventure Island 3]]''
+|[[Now Production]]
+|[[Hudson Soft]]||{{unreleased}}
+|{{dts|1992|09}}||{{unreleased}}
+|-
+|''[[Adventures in the Magic Kingdom]]''
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1990|06}}||{{dts|1992|12|10}}
+|-
+|''[[The Adventures of Bayou Billy]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1989|06}}||{{dts|1991|01|24}}
+|-
+|''[[Adventures of Dino Riki]]''
+|[[Hudson Soft]]
+|[[Hudson Soft]]||{{unreleased}}
+|{{dts|1989|09}}||{{unreleased}}
+|-
+|''[[The Adventures of Gilligan's Island]]''
+|[[Human Entertainment]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1990|07}}||{{unreleased}}
+|-
+|''[[Adventures of Lolo]]''
+|[[HAL Laboratory]]
+|[[HAL America]]||[[HAL Laboratory]]
+|{{dts|1989|04}}||{{dts|1991|02|21}}
+|-
+|''[[Adventures of Lolo 2]]''
+|[[HAL Laboratory]]
+|[[HAL America]]||[[HAL Laboratory]]
+|{{dts|1990|03}}||{{dts|1991}}
+|-
+|''[[Adventures of Lolo 3]]''
+|[[HAL Laboratory]]
+|[[HAL America]]||[[HAL Laboratory]]
+|{{dts|1991|11|21}}||{{dts|1992|05|27}}
+|-
+|''[[The Adventures of Rad Gravity]]''
+|[[Interplay Productions]]
+|[[Activision]]||{{vgrtbl|EU|Activision|AUS|[[Mattel]]}}
+|{{dts|1990|12}}||{{dts|1991|05|30}}
+|-
+|''[[The Adventures of Rocky and Bullwinkle and Friends (video game)|The Adventures of Rocky and Bullwinkle and Friends]]''
+|[[Radical Entertainment]]
+|[[THQ]]||{{unreleased}}
+|{{dts|1992|12}}||{{unreleased}}
+|-
+|''[[The Adventures of Tom Sawyer (video game)|Adventures of Tom Sawyer]]''
+|[[Winkysoft]]
+|[[SETA Corporation|SETA]]||{{unreleased}}
+|{{dts|1989|08}}||{{unreleased}}
+|-
+|''[[Air Fortress]]''
+|[[HAL Laboratory]]
+|[[HAL America]]||{{vgrtbl|AUS|[[HAL Laboratory]]}}
+|{{dts|1989|09}}||{{dts|1989}}
+|-
+|''[[Airwolf (NES video game)|Airwolf]]''
+|[[Beam Software]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1989|06}}||{{dts|1988|08}}
+|-
+|{{vgrtbl|NA|''[[Al Unser Jr.'s Turbo Racing]]''|EU|''Turbo Racing''}}
+|[[Data East]]
+|[[Data East]]||Data East
+|{{dts|1990|03}}||{{dts|1991}}
+|-
+|''[[Alfred Chicken]]''
+|[[Twilight (company)|Twilight]]
+|[[Mindscape]]||Mindscape
+|{{dts|1994|02}}||{{dts|1993}}
+|-
+|''[[Alien 3 (video game)|Alien3]]''
+|[[Probe Software]], [[Bits Studios]]
+|[[LJN]]||LJN
+|{{dts|1993|03}}||{{dts|1993}}
+|-
+|''[[All-Pro Basketball]]''
+|[[Aicom]]
+|[[Vic Tokai]]||{{unreleased}}
+|{{dts|1989|12}}||{{unreleased}}
+|-
+|''[[Alpha Mission]]''
+|[[SNK]]
+|[[SNK]]||SNK
+|{{dts|1987|10}}||{{dts|1987}}
+|-
+|''[[Amagon]]''
+|[[Aicom]]
+|[[Sammy Corporation|American Sammy]]||{{unreleased}}
+|{{dts|1989|04}}||{{unreleased}}
+|-
+|''[[American Gladiators (video game)|American Gladiators]]''
+|[[Incredible Technologies]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1991|10}}||{{unreleased}}
+|-
+|''[[Anticipation (video game)|Anticipation]]''
+|[[Rare (company)|Rare]]
+|[[Nintendo]]||Nintendo
+|{{dts|1988|11}}||{{dts|1989|10|25}}
+|-
+|''[[Arch Rivals]]''
+|[[Rare (company)|Rare]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1990|11}}||{{dts|1991}}
+|-
+|''[[Archon: The Light and the Dark|Archon]]''
+|[[Bullet-Proof Software]]
+|[[Activision]]||{{unreleased}}
+|{{dts|1989|12}}||{{unreleased}}
+|-
+|''[[Arkanoid]]''
+|[[Taito]]
+|[[Taito]]||{{unreleased}}
+|{{dts|1987|08}}||{{unreleased}}
+|-
+|''[[Arkista's Ring]]''
+|[[NMK (company)|NMK]]
+|[[Sammy Corporation|American Sammy]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Asterix (1993 video game)|Asterix]]''
+|[[Bit Managers]]
+|{{unreleased}}||[[Infogrames Entertainment, SA|Infogrames]]
+|{{unreleased}}||{{dts|1993}}
+|-
+|''[[The Astyanax|Astyanax]]''
+|[[Aicom]]
+|[[Jaleco]]||Jaleco
+|{{dts|1990|03}}||{{dts|1990}}
+|-
+|''[[Athena (video game)|Athena]]''
+|[[Micronics]]
+|[[SNK]]||{{unreleased}}
+|{{dts|1987|08}}||{{unreleased}}
+|-
+|''[[Power Pad|Athletic World]]''
+|[[Human Entertainment]]
+|[[Bandai]]||[[Nintendo]]
+|{{dts|1987|07}}||{{dts|1988|06|15}}
+|-
+|''[[Attack of the Killer Tomatoes (1991 video game)|Attack of the Killer Tomatoes]]''
+|[[Imagineering (company)|Imagineering]]
+|[[THQ]]||THQ
+|{{dts|1992|01}}||{{dts|1991}}
+|-
+|''[[Aussie Rules Footy]]''
+|[[Beam Software]] ||{{unreleased}}
+|{{vgrtbl|AUS|[[Krome Studios Melbourne|Laser Beam Entertainment]]}}
+|{{unreleased}}||{{dts|1991}}
+|-
+
+<!-- B -->
+|id="B"|''[[Back to the Future (1989 video game)|Back to the Future]]''
+|[[Beam Software]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1989|09}}||{{unreleased}}
+|-
+|''[[Back to the Future Part II & III]]''
+|[[Beam Software]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Bad Dudes]]''|EU|''Bad Dudes vs. DragonNinja''}}
+|[[Data East]]
+|[[Data East]]||[[Ocean Software]]
+|{{dts|1989|08}}||{{dts|1990}}
+|-
+|''[[Bad News Baseball]]''
+|[[Tecmo]]
+|[[Tecmo]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Bad Street Brawler]]''
+|[[Beam Software]]
+|[[Mattel]]||{{unreleased}}
+|{{dts|1989|09}}||{{unreleased}}
+|-
+|''[[Balloon Fight]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1986|08}}||{{dts|1986|12|15}}
+|-
+|''[[Banana Prince]]''
+|[[KID]]
+|{{unreleased}}||[[Takara]]
+|{{unreleased}}||{{dts|1992|02}}
+|-
+|''[[Bandai Golf: Challenge Pebble Beach]]''
+|[[TOSE]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1989|02}}||{{unreleased}}
+|-
+|''[[Bandit Kings of Ancient China]]''
+|[[Koei]]
+|[[Koei]]||{{unreleased}}
+|{{dts|1990|12}}||{{unreleased}}
+|-
+|''[[Barbie (1991 video game)|Barbie]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Hi Tech Expressions]]||Hi Tech Expressions
+|{{dts|1991|12}}||{{dts|1992}}
+|-
+|''[[The Bard's Tale (1985 video game)|The Bard's Tale]]''
+|Atelier Double
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1991|11}}||{{unreleased}}
+|-
+|''[[Barker Bill's Trick Shooting]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1990|08}}||{{dts|1991|06|27}}
+|-
+|''[[Base Wars]]''
+|[[Konami]]
+|[[Ultra Games]]||{{unreleased}}
+|{{dts|1991|06}}||{{unreleased}}
+|-
+|''[[Baseball (1983 video game)|Baseball]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1985|06}}
+|-
+|''[[Baseball Simulator 1.000]]''
+|[[Culture Brain]]
+|[[Culture Brain]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[Baseball Stars]]''
+|[[SNK]]
+|[[SNK]]||{{unreleased}}
+|{{dts|1989|07}}||{{unreleased}}
+|-
+|''[[Baseball Stars 2]]''
+|Pixel
+|[[Romstar]]||{{unreleased}}
+|{{dts|1992|07}}||{{unreleased}}
+|-
+|''[[Bases Loaded (video game)|Bases Loaded]]''
+|[[TOSE]]
+|[[Jaleco]]||{{unreleased}}
+|{{dts|1988|07}}||{{unreleased}}
+|-
+|''[[Bases Loaded II: Second Season]]''
+|[[TOSE]]
+|[[Jaleco]]||{{unreleased}}
+|{{dts|1990|01}}||{{unreleased}}
+|-
+|''[[Bases Loaded 3]]''
+|[[TOSE]]
+|[[Jaleco]]||{{unreleased}}
+|{{dts|1991|09}}||{{unreleased}}
+|-
+|''[[Bases Loaded 4]]''
+|[[TOSE]]
+|[[Jaleco]]||{{unreleased}}
+|{{dts|1993|04}}||{{unreleased}}
+|-
+|''[[Batman (Nintendo Entertainment System)|Batman]]''
+|[[Sunsoft]]
+|[[Sunsoft]]||Sunsoft
+|{{dts|1990|02}}||{{dts|1990|09|14}}
+|-
+|''[[Batman Returns (video game)|Batman Returns]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1993|01}}||{{dts|1993}}
+|-
+|''[[Batman: Return of the Joker]]''
+|[[Sunsoft]]
+|[[Sunsoft]]||Sunsoft
+|{{dts|1991|12}}||{{dts|1992|11|19}}
+|-
+|''[[Battle Chess]]''
+|[[Beam Software]]
+|[[Data East]]||{{unreleased}}
+|{{dts|1990|07}}||{{unreleased}}
+|-
+|''[[The Battle of Olympus]]''
+|Infinity
+|[[Brøderbund]]||[[Nintendo]]
+|{{dts|1989|12}}||{{dts|1991|09|26}}
+|-
+|''[[Battle Tank (video game)|Battle Tank]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Absolute Entertainment]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[Battleship (1993 video game)|Battleship]]''
+|Mindscape
+|[[Mindscape]]||Mindscape
+|{{dts|1993|09}}||{{dts|1993}}
+|-
+|''[[Battletoads (video game)|Battletoads]]''
+|[[Rare (company)|Rare]]
+|[[Tradewest]]||Tradewest
+|{{dts|1991|06}}||{{dts|1993|02|18}}
+|-
+|''[[Battletoads & Double Dragon]]''
+|[[Rare (company)|Rare]]
+|[[Tradewest]]||Tradewest
+|{{dts|1993|06}}||{{dts|1993}}
+|-
+|''[[Beetlejuice (1991 video game)|Beetlejuice]]''
+|[[Rare (company)|Rare]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1991|05}}||{{unreleased}}
+|-
+|''[[Best of the Best: Championship Karate]]''
+|Movie Software
+|[[Electro Brain]]||[[Loriciels]]
+|{{dts|1992|12}}||{{dts|1993}}
+|-
+|''[[BigFoot (video game)|Bigfoot]]''
+|[[Beam Software]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1990|08}}||{{dts|1991|01|24}}
+|-
+|''[[Bill & Ted's Excellent Video Game Adventure]]''
+|Rocket Science Games
+|[[LJN]]||{{unreleased}}
+|{{dts|1991|08}}||{{unreleased}}
+|-
+|''[[Bill Elliott's NASCAR Challenge]]''
+|[[Distinctive Software]]
+|[[Konami]]||{{unreleased}}
+|{{dts|1991|12}}||{{unreleased}}
+|-
+|''[[Bionic Commando (Nintendo Entertainment System)|Bionic Commando]]''
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1988|12}}||{{dts|1990|10|26}}
+|-
+|''[[The Black Bass (NES video game)|The Black Bass]]''
+|Another
+|Hot-B||{{unreleased}}
+|{{dts|1989|09}}||{{unreleased}}
+|-
+|''[[Blades of Steel]]''
+|[[Konami]]
+|[[Konami]]||{{vgrtbl|AUS|[[Mattel]]}}
+|{{dts|1988|12}}||{{dts|1990|11|23}}
+|-
+|''[[Blaster Master]]''
+|[[Sunsoft]]
+|[[Sunsoft]]||Sunsoft
+|{{dts|1988|11}}||{{dts|1991|04|25}}
+|-
+|''[[The Blue Marlin]]''
+|Hot-B
+|Hot-B||{{unreleased}}
+|{{dts|1992|07}}||{{unreleased}}
+|-
+|''[[The Blues Brothers (video game)|The Blues Brothers]]''
+|[[Titus Software]]
+|[[Titus Software]]||Titus Software
+|{{dts|1992|09}}||{{dts|1992}}
+|-
+|''[[Bo Jackson Baseball]]''
+|[[Beam Software]]
+|[[Data East]]||{{unreleased}}
+|{{dts|1991|10}}||{{unreleased}}
+|-
+|''[[Bomberman (1983 video game)|Bomberman]]''
+|[[Hudson Soft]]
+|[[Hudson Soft]]||{{unreleased}}
+|{{dts|1989|01}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Bomberman II]]''|EU|''Dynablaster''}}
+|[[Hudson Soft]]
+|[[Hudson Soft]]||Hudson Soft
+|{{dts|1993|02}}||{{dts|1991}}
+|-
+|''[[Bonk's Adventure]]''
+|AI
+|[[Hudson Soft]]||{{unreleased}}
+|{{dts|1994|01}}||{{unreleased}}
+|-
+|''[[Boulder Dash]]''
+|[[Data East]], Sakata SAS
+|[[JVC]]||[[Nintendo]]
+|{{dts|1990|06}}||{{dts|1990}}
+|-
+|''[[A Boy and His Blob: Trouble on Blobolonia]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Absolute Entertainment]]||[[Nintendo]]
+|{{dts|1990|01}}||{{dts|1991}}
+|-
+|''[[Bram Stoker's Dracula (video game)|Bram Stoker's Dracula]]''
+|[[Probe Software]]
+|[[Sony Imagesoft]]||Sony Imagesoft
+|{{dts|1993|09}}||{{dts|1993}}
+|-
+|''[[Break Time: The National Pool Tour]]''
+|Opera House
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1993|01}}||{{unreleased}}
+|-
+|''[[BreakThru (video game)|BreakThru]]''
+|[[Data East]]
+|[[Data East]]||{{unreleased}}
+|{{dts|1987|11}}||{{unreleased}}
+|-
+|''[[Bubble Bobble]]''
+|[[Taito]]
+|[[Taito]]||{{vgrtbl|EU|Taito|AUS|[[Mattel]]}}
+|{{dts|1988|11}}||{{dts|1987|08}}
+|-
+|''[[Bubble Bobble Part 2]]''
+| I.T.L
+|[[Taito]]||{{unreleased}}
+|{{dts|1993|08}}||{{unreleased}}
+|-
+|''[[Bucky O'Hare (Nintendo Entertainment System)|Bucky O'Hare]]''
+|[[Konami]]
+|[[Konami]]||[[Palcom Software]]
+|{{dts|1992|01}}||{{dts|1993|02|18}}
+|-
+|{{vgrtbl|NA|''[[The Bugs Bunny Birthday Blowout]]''|EU|''The Bugs Bunny Blowout''}}
+|[[Kemco]]
+|Kemco*Seika||[[Kemco]]
+|{{dts|1990|09}}||{{dts|1990}}
+|-
+|''[[Crazy Castle (series)|The Bugs Bunny Crazy Castle]]''
+|[[Kemco]]
+|Kemco*Seika||{{unreleased}}
+|{{dts|1989|08}}||{{unreleased}}
+|-
+|''[[Bump 'n' Jump]]''
+|[[Data East]], Sakata SAS
+|[[Vic Tokai]]||{{unreleased}}
+|{{dts|1988|12}}||{{unreleased}}
+|-
+|''[[Burai Fighter]]''
+|[[KID]]
+|[[Taxan]]||[[Nintendo]]
+|{{dts|1990|03}}||{{dts|1990}}
+|-
+|''[[BurgerTime]]''
+|[[Data East]], Sakata SAS
+|[[Data East]]||{{unreleased}}
+|{{dts|1987|05}}||{{unreleased}}
+|-
+
+<!-- C -->
+|id="C"|''[[Cabal (video game)|Cabal]]''
+|[[Rare (company)|Rare]], Zippo Games
+|[[Milton Bradley Company]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Caesars Palace (video game)|Caesars Palace]]''
+|[[Realtime Associates]]
+|[[Virgin Interactive]]||{{unreleased}}
+|{{dts|1992|12}}||{{unreleased}}
+|-
+|''[[California Games]]''
+|[[Rare (company)|Rare]]
+|[[Milton Bradley Company]]||Milton Bradley Company
+|{{dts|1989|06}}||{{dts|1990}}
+|-
+|''[[Capcom's Gold Medal Challenge '92]]''
+|Make Software
+|[[Capcom]]||Capcom
+|{{dts|1992|08}}||{{dts|1993|06|17}}
+|-
+|''[[Captain America and The Avengers]]''
+|[[Data East]]
+|[[Data East]]||Data East
+|{{dts|1991|12}}||{{dts|1991}}
+|-
+|''[[Captain Planet and the Planeteers (video game)|Captain Planet and the Planeteers]]''
+|Chris Gray Enterprises
+|[[Mindscape]]||Mindscape
+|{{dts|1991|09}}||{{dts|1992|08|20}}
+|-
+|''[[Captain Skyhawk]]''
+|[[Rare (company)|Rare]]
+|[[Milton Bradley Company]]||[[Rare (company)|Rare]]
+|{{dts|1990|06}}||{{dts|1994|05|26}}
+|-
+|''[[Casino Kid]]''
+|[[SOFEL]]
+|[[SOFEL]]||{{unreleased}}
+|{{dts|1989|10}}||{{unreleased}}
+|-
+|''[[Casino Kid 2]]''
+|[[SOFEL]]
+|[[SOFEL]]||{{unreleased}}
+|{{dts|1993|04}}||{{unreleased}}
+|-
+|''[[Nebulus (video game)|Castelian]]''
+|[[Bits Studios]]
+|[[Triffix]]||[[Square Enix Europe#Beginnings as SCI|Storm]]
+|{{dts|1991|06}}||{{dts|1993}}
+|-
+|''[[Castle of Dragon]]''
+|[[Athena (company)|Athena]]
+|[[SETA Corporation|SETA]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Castlequest]]''
+|[[ASCII (company)|ASCII]]
+|Nexoft||{{unreleased}}
+|{{dts|1989|09}}||{{unreleased}}
+|-
+|''[[Castlevania (1986 video game)|Castlevania]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1987|05}}||{{dts|1988|12|19}}
+|-
+|''[[Castlevania II: Simon's Quest]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1988|12}}||{{dts|1990|04|27}}
+|-
+|''[[Castlevania III: Dracula's Curse]]''
+|[[Konami]]
+|[[Konami]]||[[Palcom Software]]
+|{{dts|1990|09}}||{{dts|1992|12|10}}
+|-
+|''[[Caveman Ughlympics|Caveman Games]]''
+|Painting By Numbers 
+|[[Data East]]||{{unreleased}}
+|{{dts|1990|10}}||{{unreleased}}
+|-
+|''[[Championship Bowling]]''
+|[[Athena (company)|Athena]]
+|[[Romstar]]||{{unreleased}}
+|{{dts|1989|12}}||{{unreleased}}
+|-
+|''[[Championship Pool]]''
+|Bitmasters
+|[[Mindscape]]||{{unreleased}}
+|{{dts|1993|10}}||{{unreleased}}
+|-
+|''[[Championship Rally]]''
+|[[Human Entertainment]]
+|{{unreleased}}||{{vgrtbl|AUS|[[HAL Laboratory]]}}
+|{{unreleased}}||{{dts|1991}}
+|-
+|''[[Chessmaster]]''
+|[[Software Toolworks]]
+|[[Hi Tech Expressions]]||Hi Tech Expressions
+|{{dts|1990|01}}||{{dts|1992|03|26}}
+|-
+|''[[Chip 'n Dale Rescue Rangers (video game)|Chip 'n Dale: Rescue Rangers]]''
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1990|06}}||{{dts|1991|12|12}}
+|-
+|''[[Chip 'n Dale: Rescue Rangers 2]]''
+|Make Software
+|[[Capcom]]||Capcom
+|{{dts|1994|01}}||{{dts|1994|09|29}}
+|-
+|''[[Chubby Cherub]]''
+|[[TOSE]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1986|10|29}}||{{unreleased}}
+|-
+|''[[Circus Caper]]''
+|Advance Communication Company
+|[[Toho]]||{{unreleased}}
+|{{dts|1990|07}}||{{unreleased}}
+|-
+|''[[City Connection]]''
+|[[Jaleco]]
+|[[Jaleco]]||Jaleco
+|{{dts|1988|05}}||{{dts|1988}}
+|-
+|''[[Clash at Demonhead]]''
+|[[Vic Tokai]]
+|[[Vic Tokai]]||{{unreleased}}
+|{{dts|1990|01}}||{{unreleased}}
+|-
+|''[[Classic Concentration]]''
+| Softie 
+|[[GameTek]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[Cliffhanger (video game)|Cliffhanger]]''
+|[[Rockstar Lincoln|Spidersoft]]
+|[[Sony Imagesoft]]||{{unreleased}}
+|{{dts|1993|11}}||{{unreleased}}
+|-
+|''[[Clu Clu Land]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1987|02|15}}
+|-
+|''[[Cobra Command (1988 video game)|Cobra Command]]''
+|[[Data East]]
+|[[Data East]]||{{unreleased}}
+|{{dts|1988|11}}||{{unreleased}}
+|-
+|''[[Cobra Triangle]]''
+|[[Rare (company)|Rare]]
+|[[Nintendo]]||Nintendo
+|{{dts|1989|07}}||{{dts|1989|10|25}}
+|-
+|''[[Code Name: Viper]]''
+|[[Arc System Works]], Capcom
+|[[Capcom]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[Color a Dinosaur]]''
+|[[FarSight Studios]]
+|[[Virgin Interactive]]||{{unreleased}}
+|{{dts|1993|07}}||{{unreleased}}
+|-
+|''[[Commando (video game)|Commando]]''
+|[[Capcom]]
+|[[Capcom]]||{{unreleased}}
+|{{dts|1986|11}}||{{unreleased}}
+|-
+|''[[Conan: The Mysteries of Time]]''
+|[[Mindscape]]
+|[[Mindscape]]||{{unreleased}}
+|{{dts|1991|02}}||{{unreleased}}
+|-
+|''[[Conflict (video game)|Conflict]]''
+|[[Vic Tokai]]
+|[[Vic Tokai]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[Conquest of the Crystal Palace]]''
+|[[Quest Corporation|Quest]]
+|[[Asmik Ace Entertainment|Asmik]]||{{unreleased}}
+|{{dts|1990|11}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Contra (video game)|Contra]]''|EU|''Probotector''}}
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1988|02}}||{{dts|1990|12|28}}
+|-
+|''[[Contra Force]]''
+|[[Konami]]
+|[[Konami]]||{{unreleased}}
+|{{dts|1992|09}}||{{unreleased}}
+|-
+|''[[Cool World (NES video game)|Cool World]]''
+|[[Ocean Software]]
+|[[Ocean Software]]||{{unreleased}}
+|{{dts|1993|06}}||{{unreleased}}
+|-
+|''[[Cowboy Kid]]''
+|[[Visco Corporation]]
+|[[Romstar]]||{{unreleased}}
+|{{dts|1992|01}}||{{unreleased}}
+|-
+|''[[Crackout (video game)|Crackout]]''
+|[[Konami]]
+|{{unreleased}}||[[Palcom Software]]
+|{{unreleased}}||{{dts|1991}}
+|-
+|''[[Crash 'n the Boys: Street Challenge]]''
+|[[Technōs Japan]]
+|[[Technōs Japan]]||{{unreleased}}
+|{{dts|1992|10}}||{{unreleased}}
+|-
+|''[[Crystalis]]''
+|[[SNK]]
+|[[SNK]]||{{unreleased}}
+|{{dts|1990|07}}||{{unreleased}}
+|-
+|''[[Cyberball]]''
+|[[Tengen (company)|Tengen]]
+|[[Jaleco]]||{{unreleased}}
+|{{dts|1992|01}}||{{unreleased}}
+|-
+|''[[Cybernoid: The Fighting Machine]]''
+|[[Raffaele Cecco]]
+|[[Acclaim Entertainment]]||{{unreleased}}
+|{{dts|1989|12}}||{{unreleased}}
+|-
+
+<!-- D -->
+|id="D"|''[[Dance Aerobics]]''
+|[[Human Entertainment]]
+|[[Nintendo]]||{{unreleased}}
+|{{dts|1989|03}}||{{unreleased}}
+|-
+|''[[Danny Sullivan's Indy Heat]]''
+|[[Rare (company)|Rare]]
+|[[Tradewest]]||Tradewest
+|{{dts|1992|08}}||{{dts|1992}}
+|-
+|''[[Darkman (video game)|Darkman]]''
+|Painting by Numbers
+|[[Ocean Software]]||Ocean Software
+|{{dts|1991|10}}||{{dts|1991}}
+|-
+|''[[Dash Galaxy in the Alien Asylum]]''
+|[[Beam Software]]
+|[[Data East]]||{{unreleased}}
+|{{dts|1990|02}}||{{unreleased}}
+|-
+|''[[Day Dreamin' Davey]]''
+|[[Sculptured Software]]
+|[[HAL America]]||{{unreleased}}
+|{{dts|1992|06}}||{{unreleased}}
+|-
+|''[[Days of Thunder (video game)|Days of Thunder]]''
+|[[Beam Software]]
+|[[Mindscape]]||Mindscape
+|{{dts|1990|10}}||{{dts|1991|04|25}}
+|-
+|''[[Deadly Towers]]''
+|Lenar, Tamtex
+|[[Brøderbund]]||{{unreleased}}
+|{{dts|1987|09}}||{{unreleased}}
+|-
+|''[[Defender II]]''
+|[[Vid Kidz]]
+|[[HAL America]]||{{unreleased}}
+|{{dts|1988|07}}||{{unreleased}}
+|-
+|''[[Defender of the Crown]]''
+|[[Beam Software]], [[Cinemaware]]
+|[[Ultra Games]]||[[Palcom Software]]
+|{{dts|1989|07}}||{{dts|1991|07|25}}
+|-
+|''[[Defenders of Dynatron City]]''
+|[[Lucasfilm Games]]
+|[[JVC]]||{{unreleased}}
+|{{dts|1992|07}}||{{unreleased}}
+|-
+|''[[Déjà Vu (video game)|Déjà Vu]]''
+|[[Kemco]]
+|Kemco*Seika||[[Kemco]]
+|{{dts|1990|12}}||{{dts|1992|09|24}}
+|-
+|''[[Demon Sword]]''
+|[[TOSE]]
+|[[Taito]]||{{unreleased}}
+|{{dts|1990|01}}||{{unreleased}}
+|-
+|''[[Desert Commander]]''
+|[[Kemco]]
+|Kemco*Seika||{{unreleased}}
+|{{dts|1989|06}}||{{unreleased}}
+|-
+|''[[Destination Earthstar]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Acclaim Entertainment]]||{{unreleased}}
+|{{dts|1990|02}}||{{unreleased}}
+|-
+|''[[Destiny of an Emperor]]''
+|[[Capcom]]
+|[[Capcom]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[Devil World]]''
+|[[Nintendo Research & Development 1]]
+|{{unreleased}}||[[Nintendo]]
+|{{unreleased}}||{{dts|1987|07|15}}
+|-
+|''[[Dick Tracy (video game)#NES version|Dick Tracy]]''
+|[[Realtime Associates]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1990|08}}||{{unreleased}}
+|-
+|''[[Die Hard (video game)|Die Hard]]''
+|[[Pack-In-Video]]
+|[[Activision]]||Activision
+|{{dts|1992|01}}||{{dts|1992|01}}
+|-
+|''[[Dig Dug II|Dig Dug II: Trouble in Paradise]]''
+|[[Namco]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1989|12}}||{{unreleased}}
+|-
+|''[[Digger T. Rock: Legend of the Lost City]]''
+|[[Rare (company)|Rare]]
+|[[Milton Bradley Company]]||Milton Bradley Company
+|{{dts|1990|12}}||{{dts|1991}}
+|-
+|''[[Dirty Harry (1990 video game)|Dirty Harry]]''
+|Gray Matter Inc.
+|[[Mindscape]]||{{unreleased}}
+|{{dts|1990|12}}||{{unreleased}}
+|-
+|''[[Disney's Aladdin (Virgin Games video game)|Disney's Aladdin]]''
+|NMS Software
+|{{unreleased}}||[[Virgin Interactive]]
+|{{unreleased}}||{{dts|1994|12|31}}
+|-
+|''[[Beauty and the Beast (1991 film)#Video games|Disney's Beauty and the Beast]]''
+|[[Probe Software]]
+|{{unreleased}}||[[Hudson Soft]]
+|{{unreleased}}||{{dts|1994}}
+|-
+|''[[Darkwing Duck (Capcom)|Disney's Darkwing Duck]]''
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1992|06}}||{{dts|1993|12|09}}
+|-
+|''[[The Jungle Book (video game)|Disney's The Jungle Book]]''
+|[[Eurocom]], [[Virgin Interactive]]
+|[[Virgin Interactive]]||Virgin Interactive
+|{{dts|1994|08}}||{{dts|1994|08|25}}
+|-
+|''[[The Lion King (video game)|Disney's The Lion King]]''
+|[[Westwood Studios]]
+|{{unreleased}}||[[Virgin Interactive]]
+|{{unreleased}}||{{dts|1995|05|25}}
+|-
+|''[[The Little Mermaid (video game)|Disney's The Little Mermaid]]''
+|[[Capcom]]
+|[[Capcom]]||{{unreleased}}
+|{{dts|1991|07}}||{{unreleased}}
+|-
+|''[[Donkey Kong (video game)|Donkey Kong]]''
+|[[Nintendo Research & Development 1]], [[Nintendo Research & Development 2]]
+|[[Nintendo]]||Nintendo
+|{{dts|1986|06}}||{{dts|1985|06}}
+|-
+|''[[Donkey Kong 3]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1986|06}}||{{dts|1987|09}}
+|-
+|''[[Donkey Kong Classics]]''
+|[[Nintendo]]
+|[[Nintendo]]||Nintendo
+|{{dts|1988|10}}||{{dts|1989|08|10}}
+|-
+|''[[Donkey Kong Jr.]]''
+|[[Nintendo Research & Development 1]], [[Nintendo Research & Development 2]]
+|[[Nintendo]]||Nintendo
+|{{dts|1986|06}}||{{dts|1985|06}}
+|-
+|''[[Donkey Kong Jr. Math]]''
+|[[Nintendo Research & Development 2]]
+|[[Nintendo]]||Nintendo
+|{{dts|1986|06}}||{{dts|1985|06}}
+|-
+|''[[Double Dare (video game)|Double Dare]]''
+|[[Rare (company)|Rare]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1990|04}}||{{unreleased}}
+|-
+|''[[Double Dragon (video game)|Double Dragon]]''
+|[[Technōs Japan]]
+|[[Tradewest]]||Tradewest
+|{{dts|1988|06}}||{{dts|1990|09|28}}
+|-
+|''[[Double Dragon II: The Revenge]]''
+|[[Technōs Japan]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1990|01}}||{{dts|1990|08}}
+|-
+|''[[Double Dragon III: The Sacred Stones]]''
+|[[Technōs Japan]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1991|02}}||{{dts|1991|01}}
+|-
+|''[[Double Dribble (video game)|Double Dribble]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1987|09}}||{{dts|1988}}
+|-
+|''[[Dr. Chaos]]''
+|Marionette
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1988|11}}||{{unreleased}}
+|-
+|''[[Dr. Jekyll and Mr. Hyde (video game)|Dr. Jekyll and Mr. Hyde]]''
+| Advance Communication Company
+|[[Bandai]]||{{unreleased}}
+|{{dts|1989|04}}||{{unreleased}}
+|-
+|''[[Dr. Mario]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1990|10}}||{{dts|1991|06|27}}
+|-
+|''[[Dragon Fighter (video game)|Dragon Fighter]]''
+|[[Natsume (company)|Natsume]]
+|[[SOFEL]]||{{unreleased}}
+|{{dts|1992|01}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Dragon Power]]''|FRA|''Dragon Ball: Le Secret du Dragon''}}
+|[[TOSE]]
+|[[Bandai]]||Bandai
+|{{dts|1988|03}}||{{dts|1990}}
+|-
+|''[[Dragon Spirit: The New Legend]]''
+|[[Now Production]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Dragon Quest (video game)|Dragon Warrior]]''
+|[[Chunsoft]]
+|[[Nintendo]]||{{unreleased}}
+|{{dts|1989|08}}||{{unreleased}}
+|-
+|''[[Dragon Warrior II]]''
+|[[Chunsoft]]
+|[[Enix]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[Dragon Warrior III]]''
+|[[Chunsoft]]
+|[[Enix]]||{{unreleased}}
+|{{dts|1992|03}}||{{unreleased}}
+|-
+|''[[Dragon Quest IV: Chapters of the Chosen|Dragon Warrior IV]]''
+|[[Chunsoft]]
+|[[Enix]]||{{unreleased}}
+|{{dts|1992|10}}||{{unreleased}}
+|-
+|''[[Dragon's Lair (NES game)|Dragon's Lair]]''
+|MotiveTime
+|[[CSG Imagesoft]]||[[Elite Systems]]
+|{{dts|1990|12}}||{{dts|1992|01|03}}
+|-
+|''[[Dropzone]]''
+|Arena Graphics
+|{{unreleased}}||[[Mindscape]]
+|{{unreleased}}||{{dts|1992}}
+|-
+|''[[Duck Hunt]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1985|06}}
+|-
+|''[[DuckTales (video game)|DuckTales]]''{{efn|name=Retro Re-release}}
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1989|09}}||{{dts|1990|12|14}}
+|-
+|''[[DuckTales 2]]''
+|Make Software
+|[[Capcom]]||Capcom
+|{{dts|1993|06}}||{{dts|1993|11|18}}
+|-
+|''[[Dungeon Magic: Sword of the Elements]]''
+|[[Natsume (company)|Natsume]]
+|[[Taito]]||{{unreleased}}
+|{{dts|1990|07}}||{{unreleased}}
+|-
+|''[[Dusty Diamond's All-Star Softball]]''
+|[[TOSE]]
+|[[Brøderbund]]||{{unreleased}}
+|{{dts|1990|07}}||{{unreleased}}
+|-
+|''[[Dynowarz: Destruction of Spondylus]]''
+|Advance Communication Company
+|[[Bandai]]||{{unreleased}}
+|{{dts|1990|04}}||{{unreleased}}
+|-
+
+<!-- E -->
+|id="E"|''[[Elevator Action]]''
+|[[Micronics]]
+|[[Taito]]||{{unreleased}}
+|{{dts|1987|08}}||{{unreleased}}
+|-
+|''[[Eliminator Boat Duel]]''
+|[[Sculptured Software]], Radioactive Software
+|[[Electro Brain]]||Electro Brain
+|{{dts|1991|11}}||{{dts|1993|04|29}}
+|-
+|''[[Elite (video game)|Elite]]''
+|David BrabenIan Bell
+|{{unreleased}}||[[Imagineer (Japanese company)|Imagineer]]
+|{{unreleased}}||{{dts|1991}}
+|-
+|''[[Excitebike]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1985|06}}
+|-
+
+<!-- F -->
+|id="F"|''[[F-117A Stealth Fighter]]''
+|[[MicroProse]]
+|[[MicroProse]]||{{unreleased}}
+|{{dts|1992|12}}||{{unreleased}}
+|-
+|''[[F-15 Strike Eagle (video game)|F-15 Strike Eagle]]''
+|[[MicroProse]]
+|[[MicroProse]]||MicroProse
+|{{dts|1992|02}}||{{dts|1993|02|18}}
+|-
+|''[[Family Feud#Home versions|Family Feud]]''
+|[[Beam Software]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1991|05}}||{{unreleased}}
+|-
+|''[[Faria: A World of Mystery and Danger]]''
+|[[Game Arts]]
+|Nexoft||{{unreleased}}
+|{{dts|1991|06}}||{{unreleased}}
+|-
+|''[[Faxanadu]]''
+|[[Hudson Soft]]
+|[[Nintendo]]||Nintendo
+|{{dts|1989|08}}||{{dts|1990|12|28}}
+|-
+|''[[Felix the Cat (video game)|Felix the Cat]]''
+|Shimada Kikaku
+|[[Hudson Soft]]||Hudson Soft
+|{{dts|1992|10}}||1992
+|-
+|''[[F-1 Hero MD|Ferrari Grand Prix Challenge]]''
+|[[System 3 (software company)|System 3]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1992|06}}||{{dts|1992|06}}
+|-
+|''[[Fester's Quest]]''
+|[[Sunsoft]]
+|[[Sunsoft]]||Sunsoft
+|{{dts|1989|09}}||{{dts|1990|09|14}}
+|-
+|''[[Final Fantasy (video game)|Final Fantasy]]''
+|[[Square (video game company)|Square]]
+|[[Nintendo]]||{{unreleased}}
+|{{dts|1990|05}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Fire 'n Ice]]''|EU|''Solomon's Key 2''}}
+|[[Tecmo]]
+|[[Tecmo]]||Tecmo
+|{{dts|1993|03}}||{{dts|1993|03|18}}
+|-
+|''[[Fisher-Price: Firehouse Rescue]]''
+|[[Imagineering (company)|Imagineering]]<br>Davidson Associates
+|[[GameTek]]||{{unreleased}}
+|{{dts|1992|03}}||{{unreleased}}
+|-
+|''[[Fisher-Price: I Can Remember]]''
+|[[Beam Software]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[Fisher-Price: Perfect Fit]]''
+|[[Beam Software]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[Fist of the North Star (1987 video game)|Fist of the North Star]]''
+|Shouei System
+|[[Taxan]]||{{unreleased}}
+|{{dts|1989|04}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Flight of the Intruder (video game)|Flight of the Intruder]]''|EU|''Phantom Air Mission''}}
+|[[Imagineering (company)|Imagineering]]
+|[[Mindscape]]|||Activision
+|{{dts|1991|05}}||1991
+|-
+|''[[The Flintstones: The Rescue of Dino & Hoppy]]''
+|[[Taito]]/SOL
+|[[Taito]]||{{vgrtbl|EU|Taito|AU|[[Mattel]]}}
+|{{dts|1991|12}}||{{dts|1992|04|30}}
+|-
+|''[[The Flintstones: Surprise at Dinosaur Peak]]''
+|[[Taito]]/SOL
+|[[Taito]]||Taito
+|{{dts|1994|08}}||{{dts|1994|02|24}}
+|-
+|''[[Flying Dragon: The Secret Scroll]]''
+|[[Culture Brain]]
+|[[Culture Brain]]||{{unreleased}}
+|{{dts|1989|08}}||{{unreleased}}
+|-
+|''[[Flying Warriors]]''
+|[[Culture Brain]]
+|[[Culture Brain]]||{{unreleased}}
+|{{dts|1991|02}}||{{unreleased}}
+|-
+|''[[F-1 Sensation|Formula 1 Sensation]]''
+|[[Konami]]
+|{{unreleased}}||[[Palcom Software]]
+|{{unreleased}}||{{dts|1993}}
+|-
+|''[[Formula One: Built to Win]]''
+|[[Winkysoft]]
+|[[SETA Corporation|SETA]]||{{unreleased}}
+|{{dts|1990|11}}||{{unreleased}}
+|-
+|''[[Frankenstein: The Monster Returns]]''
+|[[TOSE]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1991|07}}||{{unreleased}}
+|-
+|''[[Freedom Force (video game)|Freedom Force]]''
+|[[Sunsoft]]
+|[[Sunsoft]]||{{unreleased}}
+|{{dts|1988|04}}||{{unreleased}}
+|-
+|''[[Friday the 13th (NES video game)|Friday the 13th]]''
+|[[Atlus]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1989|02}}||{{unreleased}}
+|-
+|''[[Fun House (video game)|Fun House]]''
+|[[Realtime Associates]]
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1991|01}}||{{unreleased}}
+|-
+
+<!-- G -->
+|id="G"|''[[G.I. Joe (NES video game)|G.I. Joe: A Real American Hero]]''
+|[[KID]]
+|[[Taxan]]||{{unreleased}}
+|{{dts|1991|01}}||{{unreleased}}
+|-
+|''[[G.I. Joe: The Atlantis Factor]]''
+|[[KID]]
+|[[Capcom]]||{{unreleased}}
+|{{dts|1992|03}}||{{unreleased}}
+|-
+||{{vgrtbl|NA|''[[Galaga|Galaga: Demons of Death]]''|EU|''Galaga''}}
+|[[Namco]]
+|[[Bandai]]||Bandai
+|{{dts|1988|09}}||{{dts|1988}}
+|-
+|''[[Galaxy 5000]]''
+|[[Activision]]
+|[[Activision]]||Activision
+|{{dts|1991|02}}||{{dts|1991|02}}
+|-
+|''[[Gargoyle's Quest II]]''
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1992|10}}||{{dts|1993|06|17}}
+|-
+|''[[Gauntlet (NES video game)|Gauntlet]]''{{efn|name=Licensed&Unlicensed}}
+|[[Tengen (company)|Tengen]]
+|[[Tengen (company)|Tengen]]||{{unreleased}}
+|{{dts|1988|07}}||{{unreleased}}
+|-
+|''[[Gauntlet II]]''
+|[[Tengen (company)|Tengen]]
+|[[Mindscape]]||Mindscape
+|{{dts|1990|09}}||{{dts|1991|04|25}}
+|-
+|''[[Gemfire]]''
+|[[Koei]]
+|[[Koei]]||{{unreleased}}
+|{{dts|1992|03}}||{{unreleased}}
+|-
+|''[[Genghis Khan (video game)|Genghis Khan]]''
+|[[Koei]]
+|[[Koei]]||{{unreleased}}
+|{{dts|1990|01}}||{{unreleased}}
+|-
+|''[[George Foreman's KO Boxing]]''
+|[[Beam Software]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1992|12}}||{{dts|1992|12}}
+|-
+|''[[Ghostbusters (video game)#Ghostbusters (Activision)|Ghostbusters]]''
+|[[Bits Corporation]]
+|[[Activision]]||{{unreleased}}
+|{{dts|1988|10}}||{{unreleased}}
+|-
+|''[[Ghostbusters II (NES video game)|Ghostbusters II]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Activision]]||Activision
+|{{dts|1990|04}}||{{dts|1990|12|07}}
+|-
+|''[[Ghosts 'n Goblins (video game)|Ghosts 'n Goblins]]''
+|[[Micronics]]
+|[[Capcom]]||Capcom
+|{{dts|1986|11}}||{{dts|1989|03|23}}
+|-
+|''[[Ghoul School]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Electro Brain]]||{{unreleased}}
+|{{dts|1992|03}}||{{unreleased}}
+|-
+|''[[Goal! (video game)|Goal!]]''
+|[[TOSE]]
+|[[Jaleco]]||Jaleco
+|{{dts|1989|10}}||{{dts|1994|03|24}}
+|-
+|''[[Goal! Two]]''
+|[[TOSE]]
+|[[Jaleco]]||Jaleco
+|{{dts|1992|11}}||{{dts|1992}}
+|-
+|''[[Godzilla: Monster of Monsters]]''
+|[[Compile (company)|Compile]]
+|[[Toho]]||Toho
+|{{dts|1989|10}}||{{dts|1991}}
+|-
+|''[[Godzilla 2: War of the Monsters]]''
+|???
+|[[Toho]]||{{unreleased}}
+|{{dts|1992|02}}||{{unreleased}}
+|-
+|''[[Golf (1984 video game)|Golf]]''
+|[[Nintendo]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1985|06}}
+|-
+|''[[Golf Grand Slam (video game)|Golf Grand Slam]]''
+|[[TOSE]]
+|[[Atlus]]||{{unreleased}}
+|{{dts|1991|11}}||{{unreleased}}
+|-
+|''[[Golgo 13: Top Secret Episode]]''
+|[[Vic Tokai]]
+|[[Vic Tokai]]||{{unreleased}}
+|{{dts|1988|09}}||{{unreleased}}
+|-
+|''[[The Goonies II]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1987|11}}||{{dts|1988|12|19}}
+|-
+|''[[Gotcha! The Sport!]]''
+|[[Atlus]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1987|11}}||{{unreleased}}
+|-
+|''[[Gradius]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1986|12}}||{{dts|1988|11|30}}
+|-
+|''[[The Great Waldo Search (video game)|The Great Waldo Search]]''
+|Radiance
+|[[THQ]]||{{unreleased}}
+|{{dts|1992|12}}||{{unreleased}}
+|-
+|''[[Greg Norman's Golf Power]]''
+|[[Gremlin Interactive]]
+|[[Virgin Interactive]]||{{unreleased}}
+|{{dts|1992|07}}||{{unreleased}}
+|-
+|''[[Gremlins 2: The New Batch (video game)|Gremlins 2: The New Batch]]''
+|[[Sunsoft]]
+|[[Sunsoft]]||Sunsoft
+|{{dts|1990|10}}||{{dts|1991|02|21}}
+|-
+|''[[The Guardian Legend]]''
+|[[Compile (company)|Compile]]
+|[[Brøderbund]]||[[Nintendo]]
+|{{dts|1989|04}}||{{dts|1992|02|20}}
+|-
+|''[[Guerrilla War (video game)|Guerrilla War]]''
+|[[SNK]]
+|[[SNK]]||SNK
+|{{dts|1989|06}}||{{dts|1989}}
+|-
+|''[[Gumshoe (video game)|Gumshoe]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1986|08}}||{{dts|1988|05}}
+|-
+|''[[Gun-Nac]]''
+|[[Compile (company)|Compile]]
+|[[ASCII (company)|ASCII]]||{{unreleased}}
+|{{dts|1991|09}}||{{unreleased}}
+|-
+|''[[Gun.Smoke]]''
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1988|02}}||{{dts|1988|02|23}}
+|-
+|''[[Gyromite]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1985|06}}
+|-
+|''[[Gyruss]]''
+|[[Konami]]
+|[[Ultra Games]]||{{unreleased}}
+|{{dts|1989|02}}||{{unreleased}}
+|-
+
+<!-- H -->
+|id="H"|''[[Hammerin' Harry]]''
+|Tamtex
+|{{unreleased}}||[[Irem]]
+|{{unreleased}}||{{dts|1992}}
+|-
+|''[[Harlem Globetrotters (video game)|Harlem Globetrotters]]''
+|Softie
+|[[GameTek]]||{{unreleased}}
+|{{dts|1991|03}}||{{unreleased}}
+|-
+|''[[Hatris]]''
+|[[Bullet-Proof Software]]
+|[[Blue Planet Software|Bullet-Proof Software]]||{{unreleased}}
+|{{dts|1992|04}}||{{unreleased}}
+|-
+|''[[Heavy Barrel]]''
+|[[Data East]]
+|[[Data East]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Heavy Shreddin']]''|EU|''Snowboard Challenge''}}
+|[[Imagineering (company)|Imagineering]]
+|[[Parker Brothers]]||Parker Brothers
+|{{dts|1990|06}}||{{dts|1990}}
+|-
+|''[[High Speed (video game)|High Speed]]''
+|[[Rare (company)|Rare]]
+|[[Tradewest]]||Tradewest
+|{{dts|1991|07}}||{{dts|1994|04|28}}
+|-
+|''[[Hogan's Alley (video game)|Hogan's Alley]]''
+|[[Nintendo Research & Development 1]], [[Intelligent Systems]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1987|12|15}}
+|-
+|''[[Hollywood Squares (video game)|Hollywood Squares]]''
+|[[Rare (company)|Rare]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1989|09}}||{{unreleased}}
+|-
+|''[[Home Alone (video game)|Home Alone]]''
+|[[Bethesda Softworks]]
+|[[THQ]]||{{unreleased}}
+|{{dts|1991|10}}||{{unreleased}}
+|-
+|''[[Home Alone 2: Lost in New York (video game)|Home Alone 2: Lost in New York]]''
+|[[Imagineering (company)|Imagineering]]
+|[[THQ]]||THQ
+|{{dts|1992|10}}||{{dts|1992}}
+|-
+|''[[Hook (video game)|Hook]]''
+|[[Ocean Software]]
+|[[Sony Imagesoft]]||[[Ocean Software]]
+|{{dts|1992|04}}||{{dts|1992}}
+|-
+|''[[Hoops (video game)|Hoops]]''
+|[[Aicom]]
+|[[Jaleco]]||[[Jaleco]]
+|{{dts|1989|06}}||1989
+|-
+|''[[Hudson Hawk (video game)|Hudson Hawk]]''
+|Special FX
+|[[Sony Imagesoft]]||[[Ocean Software]]
+|{{dts|1992|02}}||{{dts|1992}}
+|-
+|''[[The Hunt for Red October (console game)|The Hunt for Red October]]''
+|[[Beam Software]]
+|[[Hi Tech Expressions]]||Hi Tech Expressions
+|{{dts|1991|01}}||{{dts|1992}}
+|-
+|''[[Hydlide]]''
+|[[T&E Soft]]
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1989|06}}||{{unreleased}}
+|-
+
+<!-- I -->
+|id="I"|''[[Ice Climber]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1985|06}}
+|-
+|''[[Ice Hockey (1988 video game)|Ice Hockey]]''
+|[[Nintendo Research & Development 2]]
+|[[Nintendo]]||Nintendo
+|{{dts|1988|03}}||{{dts|1988|04|15}}
+|-
+|''[[Ikari Warriors]]''
+|[[Micronics]]
+|[[SNK]]||SNK
+|{{dts|1987|05}}||{{dts|1989|08|10}}
+|-
+|''[[Ikari Warriors II: Victory Road]]''
+|[[Micronics]]
+|[[SNK]]||{{unreleased}}
+|{{dts|1988|04}}||{{unreleased}}
+|-
+|''[[Ikari III: The Rescue|Ikari Warriors III: The Rescue]]''
+|SNK
+|[[SNK]]||{{unreleased}}
+|{{dts|1991|02}}||{{unreleased}}
+|-
+|''[[Image Fight]]''
+|Lenar
+|[[Irem]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[The Immortal (video game)|The Immortal]]''
+|Sandcastle
+|[[Electronic Arts]]||{{unreleased}}
+|{{dts|1990|11}}||{{unreleased}}
+|-
+|''[[The Incredible Crash Dummies]]''
+|[[Software Creations (UK)|Software Creations]], [[Gray Matter Interactive]]
+|[[LJN]]||LJN
+|{{dts|1994|08}}||{{dts|1993|10|21}}
+|-
+|''[[Indiana Jones and the Last Crusade (1991 video game)|Indiana Jones and the Last Crusade]]''
+|[[Software Creations (UK)|Software Creations]]
+|[[Taito]]||{{unreleased}}
+|{{dts|1991|03}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Indiana Jones and the Last Crusade: The Action Game|Indiana Jones and the Last Crusade]]''|EU|''Indy: Indiana Jones and the Last Crusade''}}
+|NMS Software
+|[[Ubisoft]]||Ubisoft
+|{{dts|1993|12}}||{{dts|1993|}}
+|-
+|''[[Indiana Jones and the Temple of Doom (1988 video game)|Indiana Jones and the Temple of Doom]]''{{efn|name=Licensed&Unlicensed}}
+|[[Tengen (company)|Tengen]]
+|[[Mindscape]]||{{unreleased}}
+|{{dts|1988|12}}||{{unreleased}}
+|-
+|''[[Infiltrator (video game)|Infiltrator]]''
+|Chris Gray Enterprises
+|[[Mindscape]]||{{unreleased}}
+|{{dts|1990|01}}||{{unreleased}}
+|-
+|''[[International Cricket]]''
+|[[Beam Software]]
+|{{unreleased}}||[[Laser Beam Entertainment]]
+|{{unreleased}}||{{dts|1992}}
+|-
+|''[[Iron Tank|Iron Tank: The Invasion of Normandy]]''
+|[[SNK]]
+|[[SNK]]||SNK
+|{{dts|1988|07}}||{{dts|1988}}
+|-
+|''[[Ironsword: Wizards & Warriors II]]''
+|[[Rare (company)|Rare]], Zippo Games
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1989|12}}||{{dts|1991|03|27}}
+|-
+|''[[Isolated Warrior]]''
+|[[KID]]
+|[[Nippon Television|NTVIC]]||NTVIC
+|{{dts|1991|02}}||{{dts|1991}}
+|-
+|''[[Ivan 'Ironman' Stewart's Super Off Road]]''
+|[[Rare (company)|Rare]]
+|[[Tradewest]]||Tradewest
+|{{dts|1990|04}}||{{dts|1991|03|14}}
+|-
+
+<!-- J -->
+|id="J"|''[[Jack Nicklaus' Greatest 18 Holes of Major Championship Golf]]''
+|[[Sculptured Software]]
+|[[Konami]]||Konami
+|{{dts|1990|03}}||{{dts|1991|06|27}}
+|-
+|''[[Jackal (video game)|Jackal]]''
+|[[Konami]]
+|[[Konami]]||{{unreleased}}
+|{{dts|1988|09}}||{{unreleased}}
+|-
+|''[[Jackie Chan's Action Kung Fu]]''
+|[[Now Production]]
+|[[Hudson Soft]]||Hudson Soft
+|{{dts|1990|12}}||{{dts|1991}}
+|-
+|''[[James Bond Jr.]]''
+|[[Eurocom]]
+|[[THQ]]||THQ
+|{{dts|1992|11}}||{{dts|1992}}
+|-
+|''[[Jaws (video game)|Jaws]]''
+|[[Atlus]], [[Westone Bit Entertainment|Escape/Westone]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1987|11}}||{{unreleased}}
+|-
+|''[[Merchandise based on Jeopardy!#Consoles|Jeopardy!]]''
+|[[Rare (company)|Rare]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1988|09}}||{{unreleased}}
+|-
+|''[[Merchandise based on Jeopardy!#Consoles|Jeopardy! 25th Anniversary Edition]]''
+|[[Rare (company)|Rare]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Merchandise based on Jeopardy!#Consoles|Jeopardy! Junior Edition]]''
+|[[Rare (company)|Rare]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1989|10}}||{{unreleased}}
+|-
+|''[[The Jetsons: Cogswell's Caper!]]''
+|[[Natsume (company)|Natsume]]
+|[[Taito]]||Taito
+|{{dts|1992|12}}||{{dts|1993|08|26}}
+|-
+|''[[Jimmy Connors Tennis]]''
+|NMS Software
+|[[Ubisoft]]||Ubisoft
+|{{dts|1993|11}}||{{dts|1993}}
+|-
+| {{vgrtbl|NA|''[[Joe & Mac]]''|EU|''Joe & Mac: Caveman Ninja''}}
+|Elite Systems
+|[[Data East]]||[[Elite Systems]]
+|{{dts|1992|12}}||{{dts|1992}}
+|-
+|''[[John Elway's Quarterback]]''
+|[[Rare (company)|Rare]], [[Leland Corporation]]
+|[[Tradewest]]||{{unreleased}}
+|{{dts|1989|03}}||{{unreleased}}
+|-
+|''[[Jordan vs. Bird: One on One]]''
+|[[Rare (company)|Rare]]
+|[[Milton Bradley Company]]||{{unreleased}}
+|{{dts|1989|08}}||{{unreleased}}
+|-
+|''[[Journey to Silius]]''
+|[[Sunsoft]]
+|[[Sunsoft]]||Sunsoft
+|{{dts|1990|09}}||{{dts|1991|02|21}}
+|-
+|''[[Joust (video game)|Joust]]''
+|[[HAL Laboratory]]
+|[[HAL America]]||{{unreleased}}
+|{{dts|1988|10}}||{{unreleased}}
+|-
+|''[[Jurassic Park (NES video game)|Jurassic Park]]''
+|[[Ocean Software]]
+|[[Ocean Software]]||Ocean Software
+|{{dts|1993|06}}||{{dts|1993|12|28}}
+|-
+
+<!-- K -->
+|id="K"|''[[Kabuki Quantum Fighter]]''
+|[[Human Entertainment]]
+|[[HAL America]]||[[HAL Laboratory]]
+|{{dts|1991|01}}||{{dts|1992|02|20}}
+|-
+|''[[Karate Champ]]''
+|[[Data East]], Sakata SAS
+|[[Data East]]||{{unreleased}}
+|{{dts|1986|12}}||{{unreleased}}
+|-
+|''[[The Karate Kid (video game)|The Karate Kid]]''
+|[[Atlus]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1987|11}}||{{unreleased}}
+|-
+|''[[Karnov]]''
+|[[Data East]], Sakata SAS
+|[[Data East]]||{{unreleased}}
+|{{dts|1988|01}}||{{unreleased}}
+|-
+|''[[Kick Master]]''
+|[[KID]]
+|[[Taito]]||{{unreleased}}
+|{{dts|1992|01}}||{{unreleased}}
+|-
+|''[[Kick Off (series)|Kick Off]]''
+|[[Dino Dini]]
+|{{unreleased}}||[[Imagineer (Japanese company)|Imagineer]]
+|{{unreleased}}||{{dts|1992|07|22}}
+|-
+|''[[Kickle Cubicle]]''
+|[[Irem]]
+|[[Irem]]||Irem
+|{{dts|1990|09}}||{{dts|1990}}
+|-
+|''[[Kid Icarus]]''
+|[[Nintendo Research & Development 1]], [[TOSE]]
+|[[Nintendo]]||Nintendo
+|{{dts|1987|07}}||{{dts|1987|02|15}}
+|-
+|''[[Kid Klown in Night Mayor World]]''
+|[[Kemco]]
+|[[Kemco]]||{{unreleased}}
+|{{dts|1993|04}}||{{unreleased}}
+|-
+|''[[Kid Kool]]''
+|[[Vic Tokai]]
+|[[Vic Tokai]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[Kid Niki: Radical Ninja]]''
+|[[TOSE]]
+|[[Data East]]||{{unreleased}}
+|{{dts|1987|11}}||{{unreleased}}
+|-
+|''[[King's Knight]]''
+|Workss
+|[[Square (video game company)|Square]]||{{unreleased}}
+|{{dts|1989|09}}||{{unreleased}}
+|-
+|''[[Kings of the Beach]]''
+|[[Konami]]
+|[[Ultra Games]]||{{unreleased}}
+|{{dts|1990|01}}||{{unreleased}}
+|-
+|''[[King's Quest V: Absence Makes the Heart Go Yonder!]]''
+|[[Novotrade]]
+|[[Konami]]||{{unreleased}}
+|{{dts|1992|06}}||{{unreleased}}
+|-
+|''[[Kirby's Adventure]]''
+|[[HAL Laboratory]]
+|[[Nintendo]]||Nintendo
+|{{dts|1993|05}}||{{dts|1993|11|09}}
+
+|-
+|{{vgrtbl|NA|''[[The NewZealand Story|Kiwi Kraze]]''|EU/AUS|''The NewZealand Story''}}
+|[[Software Creations (UK)|Software Creations]]
+|Taito||{{vgrtbl|EU/AUS|[[Ocean Software]]}}
+|{{dts|1991|03}}||{{dts|1991}}
+|-
+|''[[KlashBall]]''
+|[[The Bitmap Brothers]]
+|[[SOFEL]]||{{unreleased}}
+|{{dts|1991|07}}||{{unreleased}}
+|-
+|''[[Knight Rider (video game)|Knight Rider]]''
+|[[Pack-In-Video]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1989|12}}||{{dts|1990|07|27}}
+|-
+|''[[Konami Hyper Soccer]]''
+|Konami
+|{{unreleased}}||[[Konami]]
+|{{unreleased}}||{{dts|1992}}
+|-
+|''[[The Krion Conquest]]''
+|[[Vic Tokai]]
+|[[Vic Tokai]]||{{unreleased}}
+|{{dts|1991|01}}||{{unreleased}}
+|-
+|''[[Krusty's Fun House]]''
+|Fox Williams and [[Audiogenic]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1992|09}}||{{dts|1992}}
+|-
+|''[[Kung-Fu Master (video game)|Kung Fu]]''
+|[[Nintendo]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1985|06}}
+|-
+|''[[Kung-Fu Heroes]]''
+|[[Culture Brain]]
+|[[Culture Brain]]||{{unreleased}}
+|{{dts|1989|03}}||{{unreleased}}
+|-
+
+<!-- L -->
+|id="L"|''[[Laser Invasion]]''
+|[[Konami]]
+|[[Konami]]||{{unreleased}}
+|{{dts|1991|06}}||{{unreleased}}
+|-
+|''[[Last Action Hero (video game)|Last Action Hero]]''
+|[[Perfect Entertainment|Teeny Weeny Games]]
+|[[Sony Imagesoft]]||{{unreleased}}
+|{{dts|1993|10}}||{{unreleased}}
+|-
+|''[[The Last Ninja]]''
+|[[Beam Software]]
+|[[Jaleco]]||{{unreleased}}
+|{{dts|1991|02}}||{{unreleased}}
+|-
+|''[[Uridium|The Last Starfighter]]''
+|[[Andrew Braybrook]]
+|[[Mindscape]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Lee Trevino's Fighting Golf]]''
+|[[SNK]]
+|[[SNK]]||SNK
+|{{dts|1988|09}}||{{dts|1990|05|18}}
+|-
+|''[[Legacy of the Wizard]]''
+|[[Nihon Falcom]]
+|[[Brøderbund]]||{{unreleased}}
+|{{dts|1989|04}}||{{unreleased}}
+|-
+|''[[The Legend of Kage]]''
+|[[Taito]]
+|[[Taito]]||{{unreleased}}
+|{{dts|1987|08}}||{{unreleased}}
+|-
+|''[[The Legend of Prince Valiant#Video games|The Legend of Prince Valiant]]''
+|[[King Features Syndicate]]
+|{{unreleased}}||[[Ocean Software]]
+|{{unreleased}}||{{dts|1992}}
+|-
+|''[[Legend of the Ghost Lion]]''
+|[[Kemco]]
+|[[Kemco]]||{{unreleased}}
+|{{dts|1992|10}}||{{unreleased}}
+|-
+|''[[The Legend of Zelda (video game)|The Legend of Zelda]]''
+|[[Nintendo Research & Development 4]]
+|[[Nintendo]]||Nintendo
+|{{dts|1987|08|22}}||{{dts|1987|11|15}}
+|-
+|''[[Legendary Wings]]''
+|[[Capcom]]
+|[[Capcom]]||{{unreleased}}
+|{{dts|1988|07}}||{{unreleased}}
+|-
+|''[[Legends of the Diamond]]''
+|[[TOSE]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1992|01}}||{{unreleased}}
+|-
+|''[[Lemmings (video game)|Lemmings]]''
+|[[Ocean Software]]
+|[[Sunsoft]]||Sunsoft
+|{{dts|1992|11}}||{{dts|1993|05|19}}
+|-
+|''[[L'Empereur]]''
+|[[Koei]]
+|[[Koei]]||{{unreleased}}
+|{{dts|1991|11}}||{{unreleased}}
+|-
+|''[[Saint Seiya#Video games|Les Chevaliers du Zodiaque: La Légende d'or]]''
+|[[TOSE]]
+|{{unreleased}}||[[Bandai]]<ref>{{cite web|url=http://www.jenesuis.net/fichiers/manuels/nes/pdf/Chevaliers%20du%20zodiaque.pdf |title=Les Chevaliers du Zodiaque Instruction Manual |publisher=Bandai |year=1987 |accessdate=April 6, 2016}}</ref>
+|{{unreleased}}||{{dts|1987}}
+|-
+|''[[Lethal Weapon (video game)|Lethal Weapon]]''
+|[[Eurocom]]
+|[[Ocean Software]]||Ocean Software
+|{{dts|1993|04}}||{{dts|1993}}
+|-
+|{{vgrtbl|NA|''[[Salamander (video game)#Nintendo Entertainment System|Life Force]]''|EU|''Life Force Salamander''}}
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1988|08}}||{{dts|1989|11|23}}
+|-
+|''[[Little League Baseball: Championship Series]]''
+|[[SNK]]
+|[[SNK]]||{{unreleased}}
+|{{dts|1990|07}}||{{unreleased}}
+|-
+|''[[Little Nemo: The Dream Master]]''
+|[[Capcom]]
+|[[Capcom]]||[[Nintendo]]
+|{{dts|1990|09}}||{{dts|1991|12|12}}
+|-
+|''[[Little Ninja Brothers]]''
+|[[Culture Brain]]
+|[[Culture Brain]]||Culture Brain
+|{{dts|1990|12}}||{{dts|1991}}
+|-
+|''[[Little Samson]]''
+|[[Takeru]]
+|[[Taito]]||Taito
+|{{dts|1992|11}}||{{dts|1993|03|18}}
+|-
+|''[[Lode Runner]]''
+|[[Hudson Soft]]
+|[[Brøderbund]]||{{unreleased}}
+|{{dts|1987|09}}||{{unreleased}}
+|-
+|''[[The Lone Ranger (video game)|The Lone Ranger]]''
+|[[Konami]]
+|[[Konami]]||{{unreleased}}
+|{{dts|1991|08}}||{{unreleased}}
+|-
+|''[[Loopz]]''
+|[[Audiogenic]], [[Milestone srl]]
+|[[Mindscape]]||{{unreleased}}
+|{{dts|1990|10}}||{{unreleased}}
+|-
+|''[[Low G Man: The Low Gravity Man]]''
+|[[KID]]
+|[[Taxan]]||[[Nintendo]]
+|{{dts|1990|09}}||{{dts|1991}}
+|-
+|''[[Lunar Pool]]''
+|[[Compile (company)|Compile]]
+|[[Fujisankei Communications International|FCI]]||FCI
+|{{dts|1987|10}}||{{dts|1987}}
+|-
+
+<!-- M -->
+|id="M"|{{vgrtbl|NA|''[[M.C. Kids]]''|EU|''McDonaldland''}}
+|[[Virgin Interactive]]
+|[[Virgin Interactive]]||[[Ocean Software]]
+|{{dts|1992|02}}||{{dts|1993|05|19}}
+|-
+|''[[M.U.L.E.]]''
+|[[Eastridge Technology]]
+|[[Mindscape]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[M.U.S.C.L.E. (video game)|M.U.S.C.L.E.]]''
+|[[TOSE]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1986|10|29}}||{{unreleased}}
+|-
+|''[[Mach Rider]]''
+|[[Nintendo]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18|}}||{{dts|1985|06}}
+|-
+|''[[Mad Max (1990 video game)|Mad Max]]''
+|[[Mindscape]]
+|[[Mindscape]]||{{unreleased}}
+|{{dts|1990|07}}||{{unreleased}}
+|-
+|''[[The Mafat Conspiracy]]''
+|[[Aicom]]
+|[[Vic Tokai]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Magic Darts]]''
+|[[Romstar]], Make Software
+|[[Romstar]]||{{unreleased}}
+|{{dts|1991|09}}||{{unreleased}}
+|-
+|''[[Magic Johnson's Fast Break]]''
+|[[Software Creations (UK)|Software Creations]], [[Arcadia Systems]]
+|[[Tradewest]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[The Magic of Scheherazade]]''
+|[[Culture Brain]]
+|[[Culture Brain]]||{{unreleased}}
+|{{dts|1989|12}}||{{unreleased}}
+|-
+|''[[Magician (video game)|Magician]]''
+|[[Eurocom]]
+|[[Taxan]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[MagMax]]''
+|[[Nihon Bussan]]
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1988|10}}||{{unreleased}}
+|-
+|''[[Major League Baseball (video game)|Major League Baseball]]''
+|[[Atlus]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1988|04}}||{{unreleased}}
+|-
+|''[[Maniac Mansion]]''
+|[[Lucasfilm Games]]
+|[[Jaleco]]||Jaleco
+|{{dts|1990|09}}||{{dts|1992|10|22}}
+|-
+|''[[Mappy-Land]]''
+|[[TOSE]]
+|[[Taxan]]||{{unreleased}}
+|{{dts|1989|04}}||{{unreleased}}
+|-
+|''[[Marble Madness]]''
+|[[Rare (company)|Rare]]
+|[[Milton Bradley Company]]||Milton Bradley Company
+|{{dts|1989|03}}||{{dts|1989}}
+|-
+|''[[Mario Bros.]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1986|06}}||{{dts|1986|09|01}}
+|-
+|''[[Mario Bros.|Mario Bros. (Classic Series)]]''
+|[[Nintendo Research & Development 1]]
+|{{unreleased}}||[[Nintendo]]
+|{{unreleased}}||{{dts|1993}}
+|-
+|''[[Mario Is Missing!]]''
+|[[Radical Entertainment]]
+|[[Software Toolworks]]||Mindscape
+|{{dts|1993|07}}||{{dts|1994|06}}
+|-
+|''[[Mario's Time Machine]]''
+|[[Radical Entertainment]]
+|[[Software Toolworks]]||{{unreleased}}
+|{{dts|1994|06}}||{{unreleased}}
+|-
+|''[[Mechanized Attack]]''
+|[[SNK]]
+|[[SNK]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Mega Man (video game)|Mega Man]]''
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1987|12}}||{{dts|1989|12|13}}
+|-
+|''[[Mega Man 2]]''{{efn|name=Retro Re-release}}
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1989|06}}||{{dts|1990|12|14}}
+|-
+|''[[Mega Man 3]]''
+|[[Capcom]]
+|[[Capcom]]||[[Nintendo]]
+|{{dts|1990|11}}||{{dts|1992|02|20}}
+|-
+|''[[Mega Man 4]]''
+|[[Capcom]]
+|[[Capcom]]||[[Nintendo]]
+|{{dts|1991|11|08}}||{{dts|1993|01|21}}
+|-
+|''[[Mega Man 5]]''
+|[[Capcom]]
+|[[Capcom]]||[[Nintendo]]
+|{{dts|1992|12}}||{{dts|1993|11|18}}
+|-
+|''[[Mega Man 6]]''
+|[[Capcom]]
+|[[Nintendo]]||{{unreleased}}
+|{{dts|1994|03}}||{{unreleased}}
+|-
+|''[[Mendel Palace]]''
+|[[Game Freak]]
+|[[Hudson Soft]]||{{unreleased}}
+|{{dts|1990|10}}||{{unreleased}}
+|-
+|''[[Metal Gear (video game)|Metal Gear]]''
+|[[Konami]]
+|[[Ultra Games]]||[[Konami]]
+|{{dts|1988|06}}||{{dts|1988}}
+|-
+|''[[Metal Mech|Metal Mech: Man & Machine]]''
+|[[Sculptured Software]]
+|[[Jaleco]]||{{unreleased}}
+|{{dts|1991|03}}||{{unreleased}}
+|-
+|''[[Metal Storm (video game)|Metal Storm]]''
+|Tamtex
+|[[Irem]]||{{unreleased}}
+|{{dts|1991|02}}||{{unreleased}}
+|-
+|''[[Metroid (video game)|Metroid]]''
+|[[Nintendo Research & Development 1]], [[Intelligent Systems]]
+|[[Nintendo]]||Nintendo
+|{{dts|1987|08}}||{{dts|1988|01|15}}
+|-
+|''[[Michael Andretti's World GP]]''
+|[[Human Entertainment]]
+|[[Sammy Corporation|American Sammy]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Mickey Mousecapade]]''
+|[[Hudson Soft]]
+|[[Capcom]]||{{unreleased}}
+|{{dts|1988|10}}||{{unreleased}}
+|-
+|''[[Mickey's Adventures in Numberland]]''
+|[[Beam Software]]
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1994|03}}||{{unreleased}}
+|-
+|''[[Mickey's Safari in Letterland]]''
+|[[Beam Software]]
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1993|03}}||{{unreleased}}
+|-
+|''[[Might and Magic Book One: The Secret of the Inner Sanctum]]''
+|[[New World Computing]]
+|[[Sammy Corporation|American Sammy]]||{{unreleased}}
+|{{dts|1992|08}}||{{unreleased}}
+|-
+|''[[Mighty Bomb Jack]]''
+|[[Tecmo]]
+|[[Tecmo]]||Tecmo
+|{{dts|1987|07}}||{{dts|1987}}
+|-
+|''[[Mighty Final Fight]]''
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1993|07}}||{{dts|1993}}
+|-
+|''[[Punch-Out!! (NES)|Mike Tyson's Punch-Out!!]]''
+|[[Nintendo Research & Development 3]]
+|[[Nintendo]]||Nintendo
+|{{dts|1987|10}}||{{dts|1987|12|15}}
+|-
+|''[[Millipede (video game)|Millipede]]''
+|[[HAL Laboratory]]
+|[[HAL America]]||{{unreleased}}
+|{{dts|1988|10}}||{{unreleased}}
+|-
+|''[[Milon's Secret Castle]]''
+|[[Hudson Soft]]
+|[[Hudson Soft]]||{{unreleased}}
+|{{dts|1988|09}}||{{unreleased}}
+|-
+|''[[Miracle Piano Teaching System|The Miracle Piano Teaching System]]''
+|[[Software Toolworks]]
+|[[Software Toolworks]]||Mindscape
+|{{dts|1990}}||{{dts|1990}}
+|-
+|''[[Mission: Impossible (Nintendo Entertainment System)|Mission: Impossible]]''
+||[[Konami]]
+|[[Ultra Games]]||[[Palcom Software]]
+|{{dts|1990|09}}||{{dts|1991|11|28}}
+|-
+|''[[Monopoly (1991 video game)|Monopoly]]''
+|[[Sculptured Software]]
+|[[Parker Brothers]]||{{unreleased}}
+|{{dts|1991|05}}||{{unreleased}}
+|-
+|''[[Monster in My Pocket]]''
+|[[Konami]]
+|[[Konami]]||[[Palcom Software]]
+|{{dts|1992|01}}||{{dts|1992}}
+|-
+|''[[Monster Party]]''
+|[[Human Entertainment]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1989|06}}||{{unreleased}}
+|-
+|''[[Monster Truck Rally (video game)|Monster Truck Rally]]''
+|[[Realtime Associates]]
+|[[Intellivision|INTV]]||{{unreleased}}
+|{{dts|1991|09}}||{{unreleased}}
+|-
+|''[[Motor City Patrol]]''
+|Source Research & Development
+|[[Matchbox (brand)|Matchbox]]||{{unreleased}}
+|{{dts|1992|01}}||{{unreleased}}
+|-
+|''[[Gimmick!|Mr. Gimmick]]''
+|[[Sunsoft]]
+|{{unreleased}}||[[Sunsoft]]
+|{{unreleased}}||{{dts|1993|05|19}}
+|-
+|''[[Ms. Pac-Man]]''
+|[[Now Production]]
+|[[Namco]]||{{unreleased}}
+|{{dts|1993|11}}||{{unreleased}}
+|-
+|''[[Muppet Adventure: Chaos at the Carnival]]''
+|Mind's Eye
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1990|11}}||{{unreleased}}
+|-
+|''[[The Mutant Virus: Crisis in a Computer World]]''
+|[[Rocket Science Games]]
+|[[ASC Games|American Softworks]]||{{unreleased}}
+|{{dts|1992|04}}||{{unreleased}}
+|-
+|''[[Mystery Quest (video game)|Mystery Quest]]''
+|[[Carry Lab]]
+|[[Taxan]]||{{unreleased}}
+|{{dts|1989|04}}||{{unreleased}}
+|-
+
+<!-- N -->
+|id="N"|''[[Narc (video game)|NARC]]''
+|[[Rare (company)|Rare]]
+|[[Acclaim Entertainment]]||{{unreleased}}
+|{{dts|1990|08}}||{{unreleased}}
+|-
+|''[[NES Open Tournament Golf]]''
+|[[Nintendo Research & Development 2]]
+|[[Nintendo]]||Nintendo
+|{{dts|1991|09}}||{{dts|1992|06|18}}
+|-
+|''[[NES Play Action Football]]''
+|[[TOSE]]
+|[[Nintendo]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[New Ghostbusters II]]''
+|[[HAL Laboratory]]
+|{{unreleased}}||[[HAL Laboratory]]
+|{{unreleased}}||{{dts|1990}}
+|-
+|''[[NFL (video game)|NFL Football]]''
+|[[Atlus]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1989|09}}||{{unreleased}}
+|-
+|''[[Nigel Mansell's World Championship Racing]]''
+|[[Gremlin Interactive|Gremlin Graphics]]
+|[[GameTek]]||GameTek
+|{{dts|1993|10}}||{{dts|1993}}
+|-
+|''[[A Nightmare on Elm Street (franchise)#Merchandise|A Nightmare on Elm Street]]''
+|[[Rare (company)|Rare]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1990|10}}||{{unreleased}}
+|-
+|''[[Nightshade (1991 video game)|Nightshade]]''
+|[[Beam Software]]
+|[[Ultra Games]]||{{unreleased}}
+|{{dts|1992|01}}||{{unreleased}}
+|-
+|''[[Ninja Crusaders]]''
+|[[NMK (company)|NMK]]
+|[[Sammy Corporation|American Sammy]]||{{unreleased}}
+|{{dts|1990|12}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Ninja Gaiden (Nintendo Entertainment System)|Ninja Gaiden]]''|EU|''Shadow Warriors''}}
+|[[Tecmo]]
+|[[Tecmo]]||Tecmo
+|{{dts|1989|03}}||{{dts|1991|08|15}}
+|-
+|{{vgrtbl|NA|''[[Ninja Gaiden II: The Dark Sword of Chaos]]''|EU|''Shadow Warriors II: Ninja Gaiden''}}
+|[[Tecmo]]
+|[[Tecmo]]||Tecmo
+|{{dts|1990|05}}||{{dts|1994|10|27}}
+|-
+|''[[Ninja Gaiden III: The Ancient Ship of Doom]]''
+|[[Tecmo]]
+|[[Tecmo]]||{{unreleased}}
+|{{dts|1991|08}}||{{unreleased}}
+|-
+|''[[Ninja Kid]]''
+|[[TOSE]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1986|10|29}}||{{unreleased}}
+|-
+|''[[Nintendo World Cup]]''
+|[[Technōs Japan]]
+|[[Nintendo]]||Nintendo
+|{{dts|1990|12}}||{{dts|1991|06|27}}
+|-
+|''[[Noah's Ark (video game)|Noah's Ark]]''
+|Source Research & Development
+|{{unreleased}}||[[Konami]]
+|{{unreleased}}||{{dts|1992}}
+|-
+|''[[Nobunaga's Ambition]]''
+|[[Koei]]
+|[[Koei]]||{{unreleased}}
+|{{dts|1989|06}}||{{unreleased}}
+|-
+|''[[Nobunaga's Ambition II]]''
+|[[Koei]]
+|[[Koei]]||{{unreleased}}
+|{{dts|1991|04}}||{{unreleased}}
+|-
+|''[[North & South (video game)|North & South]]''
+|[[Kemco]]
+|Kemco*Seika||[[Infogrames]]
+|{{dts|1990|12}}||{{dts|1992|01|23}}
+|-
+
+<!-- O -->
+|id="O"|''[[Operation Wolf]]''
+|[[Taito]]
+|[[Taito]]||Taito
+|{{dts|1989|05}}||{{dts|1992}}
+|-
+|''[[Hi Tech Expressions|Orb-3D]]''
+|[[Software Toolworks]]
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1990|10}}||{{unreleased}}
+|-
+|''[[Othello (video game)|Othello]]''
+|[[HAL Laboratory]]
+|[[Acclaim Entertainment]]||{{unreleased}}
+|{{dts|1988|12}}||{{unreleased}}
+|-
+|''[[Over Horizon]]''
+|Hot B, Pixel
+|{{unreleased}}||Hot-B
+|{{unreleased}}||{{dts|1991}}
+|-
+|''[[Overlord (1990 video game)|Overlord]]''
+|[[Probe Entertainment|Probe Software]]
+|[[Virgin Interactive]]||{{unreleased}}
+|{{dts|1993|01}}||{{unreleased}}
+|-
+
+<!-- P -->
+|id="P"|''[[P.O.W.: Prisoners of War]]''
+|[[SNK]]
+|[[SNK]]||SNK
+|{{dts|1989|09}}||{{dts|1989}}
+|-
+|''[[Pac-Man]]''
+|[[Namco]]
+|[[Namco]]||Namco
+|{{dts|1993|11}}||{{dts|1988|05}}
+|-
+|''[[Pac-Man]]''{{efn|name=Licensed&Unlicensed}}
+|[[Namco]]
+|[[Tengen (company)|Tengen]]||{{unreleased}}
+|{{dts|1988|08}}||{{unreleased}}
+|-
+|''[[Palamedes (video game)|Palamedes]]''
+|[[Natsume (company)|Natsume]]
+|Hot-B||{{unreleased}}
+|{{dts|1990|11}}||{{unreleased}}
+|-
+|''[[Panic Restaurant]]''
+|[[EIM Group]]
+|[[Taito]]||Taito
+|{{dts|1992|08}}||{{dts|1994|05|26}}
+|-
+|''[[Paperboy (video game)|Paperboy]]''
+|[[Tengen (company)|Tengen]]
+|[[Mindscape]]||Mindscape
+|{{dts|1988|12}}||{{dts|1990|10|26}}
+|-
+|''[[Paperboy 2]]''
+|[[Tengen (company)|Tengen]]
+|[[Mindscape]]||{{unreleased}}
+|{{dts|1992|04}}||{{unreleased}}
+|-
+|''[[Parasol Stars|Parasol Stars: Rainbow Islands II]]''
+|[[Ocean Software]]
+|{{unreleased}}||[[Ocean Software]]
+|{{unreleased}}||{{dts|1992}}
+|-
+|''[[Parodius (1990 video game)|Parodius]]''
+|[[Konami]]
+|{{unreleased}}||[[Palcom Software]]
+|{{unreleased}}||{{dts|1992}}
+|-
+|''[[Peter Pan and the Pirates (video game)|Peter Pan and the Pirates]]''
+|Equilibrium
+|[[THQ]]||{{unreleased}}
+|{{dts|1991|01}}||{{unreleased}}
+|-
+|''[[Phantom Fighter]]''
+|Marionette
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1990|04}}||{{unreleased}}
+|-
+|''[[Pictionary (video game)|Pictionary]]''
+|[[Software Creations (UK)|Software Creations]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1990|07}}||{{unreleased}}
+|-
+|''[[Pinball (video game)|Pinball]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1985|06}}
+|-
+|''[[Pinball Quest]]''
+|[[TOSE]]
+|[[Jaleco]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Pin*Bot (video game)|Pin*Bot]]''
+|[[Rare (company)|Rare]]
+|[[Nintendo]]||Nintendo
+|{{dts|1990|04}}||{{dts|1990}}
+|-
+|''[[Pipe Mania|Pipe Dream]]''
+|[[Distinctive Software]]
+|[[Blue Planet Software|Bullet-Proof Software]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[Sid Meier's Pirates!|Pirates!]]''
+|[[Rare (company)|Rare]]
+|[[Ultra Games]]||Ultra Games
+|{{dts|1991|10}}||???
+|-
+|''[[Platoon (1987 video game)|Platoon]]''
+|[[Sunsoft]]
+|[[Sunsoft]]||{{unreleased}}
+|{{dts|1988|12}}||{{unreleased}}
+|-
+|''[[Popeye (video game)|Popeye]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1986|06}}||{{dts|1985|10|18}}
+|-
+|''[[Power Blade]]''
+|[[Natsume (company)|Natsume]], Taito
+|[[Taito]]||Taito
+|{{dts|1991|03}}||{{dts|1992|01|23}}
+|-
+|''[[Power Blade 2]]''
+|[[Natsume (company)|Natsume]], Taito
+|[[Taito]]||{{unreleased}}
+|{{dts|1992|10}}||{{unreleased}}
+|-
+|''[[Power Punch II]]''
+|[[Beam Software]]
+|[[ASC Games|American Softworks]]||{{unreleased}}
+|{{dts|1992|06}}||{{unreleased}}
+|-
+|''[[Predator (video game)|Predator]]''
+|[[Pack-In-Video]]
+|[[Activision]]||{{unreleased}}
+|{{dts|1988|07}}||{{unreleased}}
+|-
+|''[[Prince of Persia (1989 video game)|Prince of Persia]]''
+|MotiveTime
+|[[Virgin Interactive]]||Virgin Interactive
+|{{dts|1992|11}}||{{dts|1993|04|29}}
+|-
+|''[[Princess Tomato in the Salad Kingdom]]''
+|[[Hudson Soft]]
+|[[Hudson Soft]]||{{unreleased}}
+|{{dts|1991|02}}||{{unreleased}}
+|-
+|''[[Pro Sport Hockey]]''
+|[[TOSE]]
+|[[Jaleco]]||{{unreleased}}
+|{{dts|1993|11}}||{{unreleased}}
+|-
+|''[[Pro Wrestling (NES video game)|Pro Wrestling]]''
+|[[Nintendo Research & Development 3]]
+|[[Nintendo]]||Nintendo
+|{{dts|1987|03}}||{{dts|1987|09|15}}
+|-
+|''[[Punch-Out!! (NES)|Punch-Out!!]]''
+|[[Nintendo Research & Development 3]]
+|[[Nintendo]]||Nintendo
+|{{dts|1990|08}}||{{dts|1991}}
+|-
+|''[[The Punisher (1990 NES video game)|The Punisher]]''
+|[[Beam Software]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1990|11}}||{{unreleased}}
+|-
+|''[[Puss 'n Boots: Pero's Great Adventure]]''
+|Shouei System
+|[[Electro Brain]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Puzznic]]''
+|[[Taito]]
+|[[Taito]]||Taito
+|{{dts|1990|11}}||{{dts|1991|04|25}}
+|-
+
+<!-- Q -->
+|id="Q"|''[[Q*bert]]''
+|[[Konami]]
+|[[Ultra Games]]||{{unreleased}}
+|{{dts|1989|02}}||{{unreleased}}
+|-
+|''[[Qix]]''
+|[[Appaloosa Interactive|Novotrade]]
+|[[Taito]]||{{unreleased}}
+|{{dts|1991|01}}||{{unreleased}}
+|-
+
+<!-- R -->
+|id="R"|''[[R.B.I. Baseball]]''{{efn|name=Licensed&Unlicensed}}
+|[[Atari Games]]
+|[[Tengen (company)|Tengen]]||{{unreleased}}
+|{{dts|1988|06}}||{{unreleased}}
+|-
+|''[[R.C. Pro-Am]]''
+|[[Rare (company)|Rare]]
+|[[Nintendo]]||Nintendo
+|{{dts|1988|03}}||{{dts|1988|04|15}}
+|-
+|''[[R.C. Pro-Am II]]''
+|[[Rare (company)|Rare]]
+|[[Tradewest]]||Tradewest
+|{{dts|1992|12}}||{{dts|1993|09|23}}
+|-
+|{{vgrtbl|NA|''[[Race America]]''|EU|''Corvette ZR-1 Challenge''}}
+|[[Imagineering (company)|Imagineering]]
+|[[Absolute Entertainment]]||[[Milton Bradley Company]]
+|{{dts|1992|05}}||{{dts|1990}}
+|-
+|''[[Racket Attack]]''
+|[[TOSE]]
+|[[Jaleco]]||Jaleco
+|{{dts|1988|10}}||{{dts|1994|03|24}}
+|-
+|''[[Rackets & Rivals]]''
+|[[Konami]]
+|{{unreleased}}||[[Palcom Software]]
+|{{unreleased}}||{{dts|1993}}
+|-
+|''[[Rad Racer]]''
+|[[Square (video game company)|Square]]
+|[[Nintendo]]||Nintendo
+|{{dts|1987|10|01}}||{{dts|1988|01|15}}
+|-
+|''[[Rad Racer II]]''
+|[[Square (video game company)|Square]]
+|[[Square (video game company)|Square]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Raid on Bungeling Bay]]''
+|[[Hudson Soft]]
+|[[Brøderbund]]||{{unreleased}}
+|{{dts|1987|09}}||{{unreleased}}
+|-
+|''[[Rainbow Islands: The Story of Bubble Bobble 2|Rainbow Islands]]''
+|[[Taito]]
+|[[Taito]]||{{unreleased}}
+|{{dts|1991|06}}||{{unreleased}}
+|-
+|''[[Rainbow Islands: The Story of Bubble Bobble 2|Rainbow Islands: Bubble Bobble 2]]''
+|[[Ocean Software]]
+|{{unreleased}}||[[Ocean Software]]
+|{{unreleased}}||{{dts|1991}}
+|-
+|''[[Rally Bike]]''
+|[[Toaplan]]
+|[[Romstar]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[Rambo (Nintendo Entertainment System game)|Rambo]]''
+|[[Pack-In-Video]]
+|[[Acclaim Entertainment]]||{{unreleased}}
+|{{dts|1988|05}}||{{unreleased}}
+|-
+|''[[Rampage (video game)|Rampage]]''
+|[[Data East]]
+|[[Data East]]||{{unreleased}}
+|{{dts|1988|12}}||{{unreleased}}
+|-
+|''[[Rampart (video game)|Rampart]]''
+|[[Tengen (company)|Tengen]]
+|[[Jaleco]]||Jaleco
+|{{dts|1992|01}}||{{dts|1992}}
+|-
+|''[[Remote Control (game show)|Remote Control]]''
+|[[RSP Inc.]]
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1990|05}}||{{unreleased}}
+|-
+|''[[The Ren & Stimpy Show: Buckaroo$!]]''
+|[[Imagineering (company)|Imagineering]]
+|[[THQ]]||{{unreleased}}
+|{{dts|1993|11}}||{{unreleased}}
+|-
+|''[[Renegade (video game)|Renegade]]''
+|[[Technōs Japan]]
+|[[Taito]]||{{unreleased}}
+|{{dts|1988|01}}||{{unreleased}}
+|-
+|''[[Rescue: The Embassy Mission]]''
+|[[Kemco]]
+|Kemco*Seika||[[Kemco]]
+|{{dts|1990|01}}||{{dts|1991|03|27}}
+|-
+|''[[Ring King]]''
+|Jastec, Neue Design
+|[[Data East]]||{{unreleased}}
+|{{dts|1987|09}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[River City Ransom]]''|EU|''Street Gangs''}}
+|[[Technōs Japan]]
+|[[Technōs Japan]]||[[Infogrames Entertainment, SA|Infogrames]]
+|{{dts|1990|01}}||{{dts|1991}}
+|-
+|''[[Road Fighter]]''
+|[[Konami]]
+|{{unreleased}}||[[Palcom Software]]
+|{{unreleased}}||{{dts|1992}}
+|-
+|''[[RoadBlasters]]''
+|[[Beam Software]], [[Tengen (company)|Tengen]]
+|[[Mindscape]]||Mindscape
+|{{dts|1990|01}}||{{dts|1990}}
+|-
+|''[[Robin Hood: Prince of Thieves]]''
+|[[Sculptured Software]], [[Bits Studios]]
+|[[Virgin Interactive]]||Virgin Interactive
+|{{dts|1991|11}}||{{dts|1992|12|10}}
+|-
+|''[[RoboCop (1988 video game)|RoboCop]]''
+|[[Data East]], Sakata SAS
+|[[Data East]]||[[Ocean Software]]
+|{{dts|1989|12}}||{{dts|1991|04|25}}
+|-
+|''[[RoboCop 2 (video game)|RoboCop 2]]''
+|[[Ocean Software]]
+|[[Data East]]||[[Ocean Software]]
+|{{dts|1991|04}}||{{dts|1991}}
+|-
+|''[[RoboCop 3 (video game)|RoboCop 3]]''
+|[[Probe Software]]
+|[[Ocean Software]]||Ocean Software
+|{{dts|1992|08}}||{{dts|1994|07|28}}
+|-
+|''[[Robowarrior]]''
+|[[Hudson Soft]], [[Aicom]]
+|[[Jaleco]]||Jaleco
+|{{dts|1988|12}}||{{dts|1989|09|27}}
+|-
+|''[[Rock 'n' Ball]]''
+|[[KID]]
+|[[Nippon Television|NTVIC]]||{{unreleased}}
+|{{dts|1990|01}}||{{unreleased}}
+|-
+|''[[Rocket Ranger]]''
+|[[Beam Software]]
+|Kemco*Seika||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[The Rocketeer (NES video game)|The Rocketeer]]''
+|Ironwind Software
+|[[Bandai]]||{{unreleased}}
+|{{dts|1991|05}}||{{unreleased}}
+|-
+|''[[Rockin' Kats]]''
+|[[Atlus]]
+|[[Atlus]]||Atlus
+|{{dts|1991|09}}||{{dts|1992|11|19}}
+|-
+|''[[Rod Land]]''
+|[[The Sales Curve]]
+|{{unreleased}}||[[Jaleco]]
+|{{unreleased}}||{{dts|1993}}
+|-
+|''[[Roger Clemens' MVP Baseball]]''
+|[[Sculptured Software]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1991|10}}||{{unreleased}}
+|-
+|''[[Rollerball (video game)|Rollerball]]''
+|[[HAL Laboratory]]
+|[[HAL America]]||{{unreleased}}
+|{{dts|1990|02}}||{{unreleased}}
+|-
+|''[[Rollerblade Racer]]''
+|Radiance
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1993|02}}||{{unreleased}}
+|-
+|''[[RollerGames (video game)|RollerGames]]''
+|[[Konami]]
+|[[Ultra Games]]||Konami
+|{{dts|1990|09}}||{{dts|1991|10|24}}
+|-
+|''[[Romance of the Three Kingdoms (video game series)|Romance of the Three Kingdoms]]''
+|[[Koei]]
+|[[Koei]]||{{unreleased}}
+|{{dts|1989|10}}||{{unreleased}}
+|-
+|''[[Romance of the Three Kingdoms II]]''
+|[[Koei]]
+|[[Koei]]||{{unreleased}}
+|{{dts|1991|09}}||{{unreleased}}
+|-
+|''[[Roundball: 2 on 2 Challenge]]''
+|[[Park Place Productions]]
+|[[Mindscape]]||Mindscape
+|{{dts|1992|05|27}}||{{dts|1992}}
+|-
+|''[[Rush'n Attack]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1987|04}}||{{dts|1988}}
+|-
+|''[[Rygar]]''
+|[[Tecmo]]
+|[[Tecmo]]||Tecmo
+|{{dts|1987|07}}||{{dts|1990|03|30}}
+|-
+
+<!-- S -->
+|id="S"|{{vgrtbl|NA|''[[S.C.A.T.: Special Cybernetic Attack Team]]''|EU|''Action in New York''}}
+|[[Natsume (company)|Natsume]]
+|[[Natsume (company)|Natsume]]||[[Atari, SA|Infogrames]]
+|{{dts|1991|06}}||{{dts|1992}}
+|-
+|''[[Section Z]]''
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1987|07}}||{{dts|1989|09|27}}
+|-
+|''[[Seicross]]''
+|[[Nichibutsu]]
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1988|10}}||{{unreleased}}
+|-
+|''[[Sesame Street: 1-2-3]]''
+|[[Rare (company)|Rare]], Zippo Games
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1989|01}}||{{unreleased}}
+|-
+|''[[Sesame Street: A-B-C]]''
+|[[Rare (company)|Rare]], Zippo Games
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1989|09}}||{{unreleased}}
+|-
+|''[[Sesame Street: A-B-C/1-2-3]]''
+|[[Rare (company)|Rare]], Zippo Games
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1991|11}}||{{unreleased}}
+|-
+|''[[Sesame Street: Big Bird's Hide & Speak]]''
+|[[RSP Inc.]]
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1990|10}}||{{unreleased}}
+|-
+|''[[Sesame Street: Countdown]]''
+|[[RSP Inc.]]
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1992|02}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Shadow of the Ninja]]''|EU|''Blue Shadow''}}
+|[[Natsume (company)|Natsume]]
+|[[Natsume (company)|Natsume]]||[[Taito]]
+|{{dts|1990|12}}||{{dts|1991|07|25}}
+|-
+|''[[Shadowgate]]''
+|[[Kemco]]
+|Kemco*Seika||[[Kemco]]
+|{{dts|1989|12}}||{{dts|1991|05|30}}
+|-
+|''[[Shatterhand]]''
+|[[Natsume (company)|Natsume]]
+|[[Jaleco]]||Jaleco
+|{{dts|1991|12}}||{{dts|1992|11|19}}
+|-
+|''Shingen the Ruler''
+|Hot-B
+|Hot-B||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Shooting Range (video game)|Shooting Range]]''
+|[[TOSE]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1989|06}}||{{unreleased}}
+|-
+|''[[Short Order / Eggsplode!]]''
+|[[TOSE]]
+|[[Nintendo]]||{{unreleased}}
+|{{dts|1989|12}}||{{unreleased}}
+|-
+|''[[Side Pocket]]''
+|[[Data East]]
+|[[Data East]]||Data East
+|{{dts|1987|11|30}}||{{dts|1992|05|27}}
+|-
+|''[[Silent Service (video game)|Silent Service]]''
+|[[Rare (company)|Rare]]
+|[[Ultra Games]]||[[Konami]]
+|{{dts|1989|12}}||{{dts|1990|11|23}}
+|-
+|''[[Silkworm (video game)|Silkworm]]''
+|[[Sammy Corporation|Sammy Japan]]
+|[[Sammy Corporation|American Sammy]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Silver Surfer (video game)|Silver Surfer]]''
+|[[Software Creations (UK)|Software Creations]]
+|[[Arcadia Systems]]||{{unreleased}}
+|{{dts|1990|11}}||{{unreleased}}
+|-
+|''[[The Simpsons: Bart vs. the Space Mutants]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1991|02}}||{{dts|1991|12|12}}
+|-
+|''[[The Simpsons: Bart vs. the World]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1991|12}}||{{dts|1992|10|22}}
+|-
+|''[[The Simpsons: Bartman Meets Radioactive Man]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1992|12}}||{{dts|1992}}
+|-
+|''[[Skate or Die!]]''
+|[[Konami]]
+|[[Ultra Games]]||[[Palcom Software]]
+|{{dts|1988|12}}||{{dts|1990|08|17}}
+|-
+|''[[Skate or Die 2: The Search for Double Trouble]]''
+|[[Electronic Arts]]
+|[[Electronic Arts]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[Ski or Die]]''
+|[[Konami]]
+|[[Ultra Games]]||[[Palcom Software]]
+|{{dts|1991|02}}||{{dts|1991|10|24}}
+|-
+|''[[Sky Kid]]''
+|[[Namco]]
+|[[Sunsoft]]||{{unreleased}}
+|{{dts|1987|09}}||{{unreleased}}
+|-
+|''[[Sky Shark]]''
+|[[Software Creations (UK)|Software Creations]]
+|[[Taito]]||{{unreleased}}
+|{{dts|1989|09}}||{{unreleased}}
+|-
+|''[[Slalom (video game)|Slalom]]''
+|[[Rare (company)|Rare]]
+|[[Nintendo]]||Nintendo
+|{{dts|1987|03}}||{{dts|1987|10|15}}
+|-
+|''[[Smash TV]]''
+|[[Beam Software]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1991|09}}||{{dts|1991}}
+|-
+|''[[List of The Smurfs video games|The Smurfs]]''
+|[[Bit Managers]]
+|{{unreleased}}||[[Infogrames Entertainment, SA|Infogrames]]
+|{{unreleased}}||{{dts|1994}}
+|-
+|''[[Snake Rattle 'n' Roll]]''
+|[[Rare (company)|Rare]]
+|[[Nintendo]]||Nintendo
+|{{dts|1990|07}}||{{dts|1991|03|27}}
+|-
+|''[[Snake's Revenge]]''
+|[[Konami]]
+|[[Ultra Games]]||[[Konami]]
+|{{dts|1990|04}}||{{dts|1991|03}}
+|-
+|''[[Snoopy's Silly Sports Spectacular]]''
+|[[Kemco]]
+|Kemco*Seika||{{unreleased}}
+|{{dts|1990|04}}||{{unreleased}}
+|-
+|''[[Snow Brothers]]''
+|SOL
+|[[Capcom]]||Capcom
+|{{dts|1991|11}}||{{dts|1991}}
+|-
+|''Soccer''
+|[[Intelligent Systems]]
+|[[Nintendo]]||Nintendo
+|{{dts|1987|03}}||{{dts|1987|01|15}}
+|-
+|''[[Solar Jetman: Hunt for the Golden Warpship]]''
+|[[Rare (company)|Rare]], Zippo Games
+|[[Tradewest]]||Tradewest
+|{{dts|1990|09}}||{{dts|1991|09|26}}
+|-
+|''[[Solomon's Key]]''
+|[[Tecmo]]
+|[[Tecmo]]||Tecmo
+|{{dts|1987|07}}||{{dts|1990|03|30}}
+|-
+|''[[Solstice: The Quest for the Staff of Demnos]]''
+|[[Software Creations (UK)|Software Creations]]
+|[[CSG Imagesoft]]||[[Nintendo]]
+|{{dts|1990|06}}||{{dts|1991|09|26}}
+|-
+|''[[Space Shuttle Project]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Absolute Entertainment]]||{{unreleased}}
+|{{dts|1991|11}}||{{unreleased}}
+|-
+|''[[Spelunker (video game)|Spelunker]]''
+|Tamtex, [[TOSE]]
+|[[Brøderbund]]||{{unreleased}}
+|{{dts|1987|09}}||{{unreleased}}
+|-
+|''[[Spider-Man: Return of the Sinister Six]]''
+|[[Bits Studios]]
+|[[LJN]]||LJN
+|{{dts|1992|10}}||{{dts|1992}}
+|-
+|''[[Spot: The Video Game]]''
+|[[Virgin Mastertronic]]
+|[[Arcadia Systems]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[Spy Hunter]]''
+|[[Sunsoft]]
+|[[Sunsoft]]||{{unreleased}}
+|{{dts|1987|09}}||{{unreleased}}
+|-
+|''[[Spy vs. Spy (1984 video game)|Spy vs. Spy]]''
+|[[Kemco]]
+|Kemco*Seika||[[Kemco]]
+|{{dts|1988|10}}||{{dts|1990|07|27}}
+|-
+|''[[Sqoon]]''
+|[[Magical Company|Home Data]]
+|[[Irem]]||{{unreleased}}
+|{{dts|1987|09}}||{{unreleased}}
+|-
+|''[[Stack-Up]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1986|09}}
+|-
+|''[[Stadium Events]]''
+|[[Human Entertainment]]
+|[[Bandai]]||Bandai
+|{{dts|1987|09}}||{{dts|1988}}
+|-
+|''[[Stanley: The Search for Dr. Livingston]]''
+|[[Sculptured Software]]
+|[[Electro Brain]]||{{unreleased}}
+|{{dts|1992|10}}||{{unreleased}}
+|-
+|''[[Star Force]]''
+|[[Hudson Soft]]
+|[[Tecmo]]||Tecmo
+|{{dts|1987|11}}||{{dts|1990|04|27}}
+|-
+|''[[Star Soldier (video game)|Star Soldier]]''
+|[[Hudson Soft]]
+|[[Taxan]]||{{unreleased}}
+|{{dts|1989|01}}||{{unreleased}}
+|-
+|''[[Star Trek: 25th Anniversary (NES video game)|Star Trek: 25th Anniversary]]''
+|[[Interplay Entertainment]]
+|[[Ultra Games]]||Ultra Games
+|{{dts|1992|02}}||{{dts|1992}}
+|-
+|''[[Star Trek: The Next Generation (1993 video game)|Star Trek: The Next Generation]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Absolute Entertainment]]||{{unreleased}}
+|{{dts|1993|09}}||{{unreleased}}
+|-
+|''[[Star Voyager]]''
+|[[ASCII Corporation|ASCII]]
+|[[Acclaim Entertainment]]||{{unreleased}}
+|{{dts|1987|09}}||{{unreleased}}
+|-
+|''[[Star Wars (JVC video game)|Star Wars]]''{{efn|name=Retro Re-release}}
+|[[Beam Software]]
+|[[JVC]]||[[LucasArts]]
+|{{dts|1991|11}}||{{dts|1992|03|26}}
+|-
+|''[[Star Wars: The Empire Strikes Back (NES game)|Star Wars: The Empire Strikes Back]]''{{efn|name=Retro Re-release}}
+|[[Sculptured Software]]
+|[[JVC]]||JVC
+|{{dts|1992|03}}||{{dts|1992}}
+|-
+|''[[Starship Hector]]''
+|[[Hudson Soft]]
+|[[Hudson Soft]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[StarTropics]]''
+|[[Nintendo Research & Development 3]], Locomotive Corporation
+|[[Nintendo]]||Nintendo
+|{{dts|1990|12}}||{{dts|1992|08|20}}
+|-
+|''[[Stealth ATF]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Activision]]||Activision
+|{{dts|1989|10}}||{{dts|1991|05|30}}
+|-
+|''[[Moero TwinBee: Cinnamon-hakase wo Sukue!|Stinger]]''
+|[[Konami]]
+|[[Konami]]||{{unreleased}}
+|{{dts|1987|09}}||{{unreleased}}
+|-
+|''[[Street Cop]]''
+|[[Human Entertainment]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1989|06}}||{{unreleased}}
+|-
+|''[[Street Fighter 2010: The Final Fight]]''
+|[[Capcom]]
+|[[Capcom]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[Strider (NES video game)|Strider]]''
+|[[Capcom]]
+|[[Capcom]]||{{unreleased}}
+|{{dts|1989|07}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Super C (video game)|Super C (aka Super Contra)]]''|EU|''Probotector II: Return of The Evil Forces''}}
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1990|04}}||{{dts|1992}}
+|-
+|''[[Super Cars]]''
+|Magnetic Fields
+|[[Electro Brain]]||{{unreleased}}
+|{{dts|1991|02}}||{{unreleased}}
+|-
+|''[[Super Dodge Ball (NES video game)|Super Dodge Ball]]''
+|[[Technōs Japan]]
+|[[CSG Imagesoft]]||{{unreleased}}
+|{{dts|1989|07}}||{{unreleased}}
+|-
+|''[[Super Glove Ball]]''
+|[[Rare (company)|Rare]]
+|[[Mattel]]||{{unreleased}}
+|{{dts|1990|10}}||{{unreleased}}
+|-
+|''[[Super Jeopardy!]]''
+|[[Imagitec Design|Imagitec]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1991|09}}||{{unreleased}}
+|-
+|''[[Super Mario Bros.]]''
+|[[Nintendo Research & Development 4]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1986|05|15}}
+|-
+|''[[Super Mario Bros./Duck Hunt]]''
+|[[Nintendo]]
+|[[Nintendo]]||Nintendo
+|{{dts|1988|11}}||{{dts|1988|12}}
+|-
+|''[[Super Mario Bros./Duck Hunt/World Class Track Meet]]''
+|[[Nintendo]]
+|[[Nintendo]]||{{unreleased}}
+|{{dts|1990|12}}||{{unreleased}}
+|-
+|''[[Super Mario Bros./Tetris/Nintendo World Cup]]''
+|[[Nintendo]]
+|{{unreleased}}||[[Nintendo]]
+|{{unreleased}}||{{dts|1991}}
+|-
+|''[[Super Mario Bros. 2]]''
+|[[Nintendo Research & Development 4]]
+|[[Nintendo]]||Nintendo
+|{{dts|1988|10|03}}||{{dts|1988|09|01}}
+|-
+|''[[Super Mario Bros. 3]]''
+|[[Nintendo Research & Development 4]]
+|[[Nintendo]]||Nintendo
+|{{dts|1990|02|09}}||{{dts|1989|11|21}}
+|-
+|''[[Super Pitfall]]''
+|[[Micronics]]
+|[[Activision]]||{{unreleased}}
+|{{dts|1987|11}}||{{unreleased}}
+|-
+|''[[Super Spike V'Ball]]''
+|[[Technōs Japan]]
+|[[Nintendo]]||Nintendo
+|{{dts|1990|02}}||{{dts|1992|01|23}}
+|-
+|''[[Super Spike V'Ball/Nintendo World Cup]]''
+|[[Nintendo]]
+|[[Nintendo]]||{{unreleased}}
+|{{dts|1990|12}}||{{unreleased}}
+|-
+|''[[Super Spy Hunter]]''
+|[[Sunsoft]]
+|[[Sunsoft]]||Sunsoft
+|{{dts|1992|02}}||{{dts|1992}}
+|-
+|''[[Super Team Games]]''
+|[[Human Entertainment]]
+|[[Nintendo]]||{{unreleased}}
+|{{dts|1988|11}}||{{unreleased}}
+|-
+|''[[Super Turrican (NES)|Super Turrican]]''
+|[[Rainbow Arts]]
+|{{unreleased}}||[[Imagineer (Japanese company)|Imagineer]]
+|{{unreleased}}||{{dts|1992}}
+|-
+|''[[Superman (Kemco game)|Superman]]''
+|[[Kemco]]
+|Kemco*Seika||{{unreleased}}
+|{{dts|1988|12}}||{{unreleased}}
+|-
+|''[[Swamp Thing (video game)|Swamp Thing]]''
+|[[Imagineering (company)|Imagineering]]
+|[[THQ]]||THQ
+|{{dts|1992|12}}||{{dts|1992}}
+|-
+|''[[Sword Master (video game)|Sword Master]]''
+|[[Athena (company)|Athena]]
+|[[Activision]]||Activision
+|{{dts|1992|01}}||{{dts|1993|01|21}}
+|-
+|''[[Swords and Serpents]]''
+|[[Interplay Entertainment]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1990|08}}||{{dts|1991|11|28}}
+|-
+
+<!-- T -->
+|id="T"|''[[Taboo: The Sixth Sense]]''
+|[[Rare (company)|Rare]]
+|[[Tradewest]]||{{unreleased}}
+|{{dts|1989|04}}||{{unreleased}}
+|-
+|''[[Tag Team Wrestling]]''
+|[[Data East]], Sakata SAS
+|[[Data East]]||{{unreleased}}
+|{{dts|1986|10}}||{{unreleased}}
+|-
+|''[[TaleSpin (Capcom)|TaleSpin]]''
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1991|12}}||{{dts|1992|09|24}}
+|-
+|''[[Target: Renegade]]''
+|[[Software Creations]], [[Ocean Software]]
+|[[Taito]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[Tecmo Baseball]]''
+|[[Tecmo]]
+|[[Tecmo]]||{{unreleased}}
+|{{dts|1989|01}}||{{unreleased}}
+|-
+|''[[Tecmo Bowl]]''
+|[[Tecmo]]
+|[[Tecmo]]||{{unreleased}}
+|{{dts|1989|02}}||{{unreleased}}
+|-
+|''[[Tecmo Cup Soccer Game]]''
+|[[Tecmo]]
+|[[Tecmo]]||Tecmo
+|{{dts|1992|09}}||{{dts|1992|09|24}}
+|-
+|''[[Tecmo NBA Basketball]]''
+|[[Sculptured Software]]
+|[[Tecmo]]||{{unreleased}}
+|{{dts|1992|11}}||{{unreleased}}
+|-
+|''[[Tecmo Super Bowl]]''
+|[[Tecmo]]
+|[[Tecmo]]||{{unreleased}}
+|{{dts|1991|12}}||{{unreleased}}
+|-
+|''[[Tecmo World Cup Soccer]]''
+|[[Tecmo]]
+|{{unreleased}}||[[Tecmo]]
+|{{unreleased}}||{{dts|1991}}
+|-
+|''[[Tecmo World Wrestling]]''
+|[[Tecmo]]
+|[[Tecmo]]||Tecmo
+|{{dts|1990|04}}||{{dts|1990|11|23}}
+|-
+|{{vgrtbl|NA|''[[Teenage Mutant Ninja Turtles (NES video game)|Teenage Mutant Ninja Turtles]]''|EU|''Teenage Mutant Hero Turtles''}}
+|[[Konami]]
+|[[Ultra Games]]||[[Palcom Software]]
+|{{dts|1989|06}}||{{dts|1990|08|17}}
+|-
+|{{vgrtbl|NA|''[[Teenage Mutant Ninja Turtles (arcade game)|Teenage Mutant Ninja Turtles II: The Arcade Game]]''|EU|''Teenage Mutant Hero Turtles II: The Arcade Game''}}
+|[[Konami]]
+|[[Ultra Games]]||[[Konami]]
+|{{dts|1990|12}}||{{dts|1991|11|14}}
+|-
+|''[[Teenage Mutant Ninja Turtles III: The Manhattan Project]]''
+|[[Konami]]
+|[[Konami]]||{{unreleased}}
+|{{dts|1992|02|01}}||{{dts|1992|02|14}}
+|-
+|{{vgrtbl|NA|''[[Teenage Mutant Ninja Turtles: Tournament Fighters#Nintendo Entertainment System version|Teenage Mutant Ninja Turtles: Tournament Fighters]]''|EU|''Teenage Mutant Hero Turtles: Tournament Fighters''}}
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1994|02}}||{{dts|1994}}
+|-
+|''[[Tennis (1984 video game)|Tennis]]''
+|[[Nintendo Research & Development 1]], [[Intelligent Systems]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1985|06}}
+|-
+|''[[The Terminator (NES)|The Terminator]]''
+|[[Radical Entertainment]]
+|[[Mindscape]]||Mindscape
+|{{dts|1992|12}}||{{dts|1992}}
+|-
+|''[[List of Terminator video games#Terminator 2: Judgment Day (8-bit version)|Terminator 2: Judgment Day]]''
+|[[Software Creations (UK)|Software Creations]]
+|[[LJN]]||LJN
+|{{dts|1992|02}}||{{dts|1992}}
+|-
+|''[[Terra Cresta]]''
+|[[Nihon Bussan]]
+|[[Vic Tokai]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[Tetris]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1989|11}}||{{dts|1990|02|23}}
+|-
+|''[[Tetris 2 (1993 video game)|Tetris 2]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1993|10}}||{{dts|1993}}
+|-
+|''[[The Three Stooges (video game)|The Three Stooges]]''
+|[[Beam Software]], [[Cinemaware]], [[Incredible Technologies]]
+|[[Activision]]||{{unreleased}}
+|{{dts|1989|10}}||{{unreleased}}
+|-
+|''[[Thunder & Lightning (video game)|Thunder & Lightning]]''
+|[[SETA Corporation|SETA]], [[Visco Corporation|Visco]]
+|[[Romstar]]||{{unreleased}}
+|{{dts|1990|12}}||{{unreleased}}
+|-
+|''[[Thunderbirds (game)|Thunderbirds]]''
+|[[Pack-In-Video]]
+|[[Activision]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[Thundercade]]''
+|[[Micronics]]
+|[[Sammy Corporation|American Sammy]]||{{unreleased}}
+|{{dts|1989|07}}||{{unreleased}}
+|-
+|''[[Tiger-Heli]]''
+|[[Micronics]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1987|09}}||{{dts|1990|01|17}}
+|-
+|''[[Time Lord (video game)|Time Lord]]''
+|[[Rare (company)|Rare]]
+|[[Milton Bradley Company]]||Milton Bradley Company
+|{{dts|1990|09}}||{{dts|1990}}
+|-
+|''[[Times of Lore]]''
+|[[Toho]]
+|[[Toho]]||{{unreleased}}
+|{{dts|1991|05}}||{{unreleased}}
+|-
+|''[[Tiny Toon Adventures (video game)|Tiny Toon Adventures]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1991|12}}||{{dts|1992|10|22}}
+|-
+|''[[Tiny Toon Adventures 2: Trouble in Wackyland]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1993|04}}||{{dts|1994|01|27}}
+|-
+|''[[Tiny Toon Adventures Cartoon Workshop]]''
+|[[Appaloosa Interactive|Novotrade International]]
+|[[Konami]]||Konami
+|{{dts|1992|12}}||{{dts|1992}}
+|-
+|''[[To the Earth]]''
+|Cirque Verte
+|[[Nintendo]]||Nintendo
+|{{dts|1989|11}}||{{dts|1990|02|23}}
+|-
+|''[[Toki (video game)|Toki]]''
+|Daiei Seisakusho
+|[[Taito]]||{{unreleased}}
+|{{dts|1991|12}}||{{unreleased}}
+|-
+|''[[Tom and Jerry (video game)|Tom and Jerry]]''
+|[[Software Creations]] 
+|[[Hi Tech Expressions]]||Hi Tech Expressions
+|{{dts|1991|12}}||{{dts|1992|10|22}}
+|-
+|''[[Tombs & Treasure]]''
+|[[Compile (company)|Compile]]
+|[[Infocom]]||{{unreleased}}
+|{{dts|1991|06}}||{{unreleased}}
+|-
+|''[[Top Gun (video game)|Top Gun]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1987|11}}||{{dts|1988|11|30}}
+|-
+|''[[Top Gun (video game)#The Second Mission|Top Gun: The Second Mission]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1990|01}}||{{dts|1991|10|24}}
+|-
+|{{vgrtbl|NA|''[[Top Players' Tennis]]''|EU|''Four Players' Tennis''}}
+|[[Magical Company|Home Data]]
+|[[Asmik Ace Entertainment|Asmik]]||[[Nintendo]]
+|{{dts|1990|01}}||{{dts|1992|07}}
+|-
+|''[[Total Recall (video game)|Total Recall]]''
+|[[Interplay Entertainment]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1990|08}}||{{dts|1990}}
+|-
+|''[[Totally Rad]]''
+|[[Aicom]]
+|[[Jaleco]]||Jaleco
+|{{dts|1991|03}}||{{dts|1991}}
+|-
+|''[[Touch Down Fever]]''
+|[[SNK]]
+|[[SNK]]||{{unreleased}}
+|{{dts|1991|02}}||{{unreleased}}
+|-
+|''[[Town & Country Surf Designs: Wood & Water Rage]]''
+|[[Atlus]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1988|02}}||{{unreleased}}
+|-
+|''[[Town & Country II: Thrilla's Surfari]]''
+|[[Sculptured Software]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1992|03}}||{{unreleased}}
+|-
+|''[[Toxic Crusaders (video game)|Toxic Crusaders]]''
+|[[TOSE]]
+|[[Bandai]]||{{unreleased}}
+|{{dts|1992|04}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Track & Field (video game)|Track & Field]]''|EU|''Track & Field in Barcelona''}}
+|[[Konami]]
+|[[Konami]]||[[Kemco]]
+|{{dts|1987|04}}||{{dts|1992}}
+|-
+|''[[Track & Field II]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1989|06}}||{{dts|1989|11|22}}
+|-
+|''[[Treasure Master]]''
+|[[Software Creations (UK)|Software Creations]]
+|[[ASC Games|American Softworks]]||{{unreleased}}
+|{{dts|1991|12}}||{{unreleased}}
+|-
+|''[[Trog!]]''
+|[[Visual Concepts]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1991|10}}||{{dts|1991}}
+|-
+|''[[Trojan (video game)|Trojan]]''
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1987|02}}||{{dts|1989|03|23}}
+|-
+|''[[Doki! Doki! Yūenchi: Crazy Land Daisakusen|The Trolls in Crazyland]]''
+|[[KID]]
+|{{unreleased}}||[[ASC Games|American Softworks]]
+|{{unreleased}}||{{dts|1993}}
+|-
+|''[[Twin Cobra]]''
+|[[Micronics]]
+|[[Sammy Corporation|American Sammy]]||{{unreleased}}
+|{{dts|1990|01}}||{{unreleased}}
+|-
+|''[[Twin Eagle]]''
+|[[SETA Corporation|SETA]]
+|[[Romstar]]||{{unreleased}}
+|{{dts|1989|10}}||{{unreleased}}
+|-
+
+<!-- U -->
+|id="U"|''[[Ufouria: The Saga]]''
+|[[Sunsoft]]
+|{{unreleased}}||[[Sunsoft]]
+|{{unreleased}}||{{dts|1992|11|19}}
+|-
+|''[[Ultima III: Exodus]]''
+|Newtopia Planning
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1989|02}}||{{unreleased}}
+|-
+|''[[Ultima IV: Quest of the Avatar]]''
+|Atelier Double, Infinity
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1990|12}}||{{unreleased}}
+|-
+|''[[Ultima V: Warriors of Destiny]]''
+|[[Origin Systems]]
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1993|01}}||{{unreleased}}
+|-
+|''[[Ultimate Air Combat]]''
+|[[Activision]]
+|[[Activision]]||Activision
+|{{dts|1992|04}}||{{dts|1992|11}}
+|-
+|''[[Ultimate Basketball]]''
+|[[Aicom]]
+|[[Sammy Corporation|American Sammy]]||{{unreleased}}
+|{{dts|1990|09}}||{{unreleased}}
+|-
+|''[[The Uncanny X-Men (video game)|The Uncanny X-Men]]''
+|[[Atlus]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1989|12}}||{{unreleased}}
+|-
+|''[[Uncharted Waters]]''
+|[[Koei]]
+|[[Koei]]||{{unreleased}}
+|{{dts|1991|11}}||{{unreleased}}
+|-
+|''[[Uninvited (video game)|Uninvited]]''
+|[[Kemco]]
+|Kemco*Seika||{{unreleased}}
+|{{dts|1991|06}}||{{unreleased}}
+|-
+|''[[The Untouchables (video game)|The Untouchables]]''
+|Special FX Software
+|[[Ocean Software]]||{{unreleased}}
+|{{dts|1991|01}}||{{unreleased}}
+|-
+|''[[Urban Champion]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1986|08}}||{{dts|1987}}
+|-
+
+<!-- V -->
+|id="V"|''[[Vegas Dream]]''
+|[[HAL America]]
+|[[HAL America]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[Vice: Project Doom]]''
+|[[Aicom]]
+|[[Sammy Corporation|American Sammy]]||{{unreleased}}
+|{{dts|1991|11}}||{{unreleased}}
+|-
+|''[[Videomation]]''
+|[[FarSight Studios]]
+|[[THQ]]||{{unreleased}}
+|{{dts|1991|06}}||{{unreleased}}
+|-
+|''[[Volleyball (video game)|Volleyball]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1987|03}}||{{dts|1987|11|15}}
+|-
+
+<!-- W -->
+|id="W"|''[[Wacky Races (video game)|Wacky Races]]''
+|[[Square Enix Europe|Eidos]]
+|[[Atlus]]||{{unreleased}}
+|{{dts|1992|05}}||{{unreleased}}
+|-
+|''[[Wall Street Kid]]''
+|[[SOFEL]]
+|[[SOFEL]]||{{unreleased}}
+|{{dts|1990|06}}||{{unreleased}}
+|-
+|''[[Wario's Woods]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1994|12|10}}||{{dts|1995|08}}
+|-
+|''[[Wayne Gretzky Hockey]]''
+|[[Bethesda Softworks]]
+|[[THQ]]||{{unreleased}}
+|{{dts|1991|01}}||{{unreleased}}
+|-
+|''[[Wayne's World (video game)|Wayne's World]]''
+|[[Radical Entertainment]]
+|[[THQ]]||{{unreleased}}
+|{{dts|1993|11}}||{{unreleased}}
+|-
+|''[[WCW Wrestling]]''
+|[[Nihon Bussan|Nichibutsu]]
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1990|04}}||{{unreleased}}
+|-
+|''[[Werewolf: The Last Warrior]]''
+|[[Data East]], Sakata SAS
+|[[Data East]]||Data East
+|{{dts|1990|11}}||{{dts|1991|09|26}}
+|-
+|''[[Wheel of Fortune (video game)|Wheel of Fortune]]''
+|[[Rare (company)|Rare]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1988|09}}||{{unreleased}}
+|-
+|''[[Wheel of Fortune (video game)|Wheel of Fortune Family Edition]]''
+|[[Rare (company)|Rare]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[Wheel of Fortune (video game)|Wheel of Fortune: Featuring Vanna White]]''
+|[[Imagitec Design|Imagitec]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1992|01}}||{{unreleased}}
+|-
+|''[[Wheel of Fortune (video game)|Wheel of Fortune Junior Edition]]''
+|[[Rare (company)|Rare]]
+|[[GameTek]]||{{unreleased}}
+|{{dts|1989|10}}||{{unreleased}}
+|-
+|''[[Where in Time Is Carmen Sandiego? (1989)|Where in Time Is Carmen Sandiego?]]''
+|[[Distinctive Software]]
+|[[Konami]]||{{unreleased}}
+|{{dts|1991|10}}||{{unreleased}}
+|-
+|''[[Where's Waldo? (video game)|Where's Waldo?]]''
+|[[Bethesda Softworks]]
+|[[THQ]]||{{unreleased}}
+|{{dts|1991|09|17}}||{{unreleased}}
+|-
+|''[[Who Framed Roger Rabbit (1989 video game)|Who Framed Roger Rabbit]]''
+|[[Rare (company)|Rare]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1989|09}}||{{unreleased}}
+|-
+|''[[Whomp 'Em]]''
+|[[Jaleco]]
+|[[Jaleco]]||{{unreleased}}
+|{{dts|1991|03}}||{{unreleased}}
+|-
+|''[[Widget (video game)|Widget]]''
+|Graphic Research
+|[[Atlus]]||{{unreleased}}
+|{{dts|1992|11}}||{{unreleased}}
+|-
+|''[[Wild Gunman]]''
+|[[Nintendo]], [[Intelligent Systems]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1987|08|22}}
+|-
+|''[[Willow (video game)|Willow]]''
+|[[Capcom]]
+|[[Capcom]]||Capcom
+|{{dts|1989|12}}||{{dts|1991|11|28}}
+|-
+|''[[Win, Lose or Draw#Home versions|Win, Lose, or Draw]]''
+|[[RSP Inc.]]
+|[[Hi Tech Expressions]]||{{unreleased}}
+|{{dts|1990|03}}||{{unreleased}}
+|-
+|''[[Winter Games]]''
+|Atelier Double
+|[[Acclaim Entertainment]]||{{unreleased}}
+|{{dts|1987|09}}||{{unreleased}}
+|-
+|''[[Wizardry: Proving Grounds of the Mad Overlord]]''
+|[[Sir-Tech]]
+|Nexoft||{{unreleased}}
+|{{dts|1990|07}}||{{unreleased}}
+|-
+|''[[Wizardry II: The Knight of Diamonds]]''
+|[[Sir-Tech]]
+|[[ASCII (company)|ASCII]]||{{unreleased}}
+|{{dts|1992|04}}||{{unreleased}}
+|-
+|''[[Wizards & Warriors]]''
+|[[Rare (company)|Rare]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1987|12}}||{{dts|1990|01|17}}
+|-
+|{{vgrtbl|NA|''[[Wizards & Warriors III: Kuros: Visions of Power]]''|EU|''Wizards & Warriors III''}}
+|[[Rare (company)|Rare]], Zippo Games
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1992|03}}||{{dts|1993|01|21}}
+|-
+|''[[Wolverine (video game)|Wolverine]]''
+|[[Software Creations (UK)|Software Creations]]
+|[[LJN]]||{{unreleased}}
+|{{dts|1991|10}}||{{unreleased}}
+|-
+|''World Champ''
+|Pixel
+|[[Romstar]]||Romstar
+|{{dts|1991|04}}||{{dts|1991|04}}
+|-
+|''[[World Class Track Meet]]''
+|[[Human Entertainment]]
+|[[Nintendo]]||{{unreleased}}
+|{{dts|1988|08}}||{{unreleased}}
+|-
+|''[[World Games (video game)|World Games]]''
+|[[Rare (company)|Rare]]
+|[[Milton Bradley Company]]||{{unreleased}}
+|{{dts|1989|03}}||{{unreleased}}
+|-
+|''[[Wrath of the Black Manta]]''
+|AI
+|[[Taito]]||Taito
+|{{dts|1990|04}}||{{dts|1991|01|24}}
+|-
+|''[[Wrecking Crew (video game)|Wrecking Crew]]''
+|[[Nintendo Research & Development 1]]
+|[[Nintendo]]||Nintendo
+|{{dts|1985|10|18}}||{{dts|1985|06}}
+|-
+|''[[Wurm: Journey to the Center of the Earth]]''
+|Cyclone System
+|[[Asmik Ace Entertainment|Asmik]]||{{unreleased}}
+|{{dts|1991|11}}||{{unreleased}}
+|-
+|''[[WWF King of the Ring]]''
+|[[Gray Matter Interactive]], Eastridge Technology
+|[[LJN]]||{{unreleased}}
+|{{dts|1993|11}}||{{unreleased}}
+|-
+|''[[WWF WrestleMania (1989 video game)|WWF WrestleMania]]''
+|[[Rare (company)|Rare]]
+|[[Acclaim Entertainment]]||Acclaim Entertainment
+|{{dts|1989|01}}||{{dts|1989}}
+|-
+|''[[WWF WrestleMania Challenge]]''
+|[[Rare (company)|Rare]]
+|[[LJN]]||LJN
+|{{dts|1990|11}}||{{dts|1991}}
+|-
+|''[[WWF WrestleMania: Steel Cage Challenge]]''
+|[[Sculptured Software]]
+|[[LJN]]||LJN
+|{{dts|1992|09}}||{{dts|1992}}
+|-
+
+<!-- X -->
+|id="X"|''[[Xenophobe (video game)|Xenophobe]]''
+|[[Sunsoft]]
+|[[Sunsoft]]||{{unreleased}}
+|{{dts|1988|12}}||{{unreleased}}
+|-
+|''[[Xevious]]''
+|[[Namco]]
+|[[Bandai]]||Bandai
+|{{dts|1988|09}}||{{dts|1989|10|25}}
+|-
+|''[[Xexyz]]''
+|[[Atlus]]
+|[[Hudson Soft]]||{{unreleased}}
+|{{dts|1990|04}}||{{unreleased}}
+|-
+
+<!-- Y -->
+|id="Y"|''[[Yo! Noid]]''
+|[[Now Production]]
+|[[Capcom]]||{{unreleased}}
+|{{dts|1990|11}}||{{unreleased}}
+|-
+|{{vgrtbl|NA|''[[Yoshi (video game)|Yoshi]]''|EU|''Mario & Yoshi''}}
+|[[Game Freak]]
+|[[Nintendo]]||Nintendo
+|{{dts|1992|06|01}}||{{dts|1992|12|30}}
+|-
+|''[[Yoshi's Cookie]]''
+|[[Blue Planet Software|Bullet-Proof Software]]
+|[[Nintendo]]||Nintendo
+|{{dts|1993|04}}||{{dts|1994|04|28}}
+|-
+|''[[The Young Indiana Jones Chronicles (video game)|The Young Indiana Jones Chronicles]]''
+|[[Jaleco]]
+|[[Jaleco]]||{{unreleased}}
+|{{dts|1992|12}}||{{unreleased}}
+|-
+
+<!-- Z -->
+|id="Z"|''[[Zanac]]''
+|[[Compile (company)|Compile]]
+|[[Fujisankei Communications International|FCI]]||{{unreleased}}
+|{{dts|1987|10}}||{{unreleased}}
+|-
+|''[[Zelda II: The Adventure of Link]]''
+|[[Nintendo Research & Development 4]]
+|[[Nintendo]]||Nintendo
+|{{dts|1988|12|01}}||{{dts|1988|09|26}}
+|-
+|''[[Zen the Intergalactic Ninja]]''
+|[[Konami]]
+|[[Konami]]||Konami
+|{{dts|1993|03}}||{{dts|1993}}
+|-
+|''[[Zoda's Revenge: StarTropics II]]''
+|[[Nintendo Research & Development 3]]
+|[[Nintendo]]||{{unreleased}}
+|{{dts|1994|03}}||{{unreleased}}
+|-
+|''[[Zombie Nation (video game)|Zombie Nation]]''
+|[[KAZe]]
+|[[Meldac]]||{{unreleased}}
+|{{dts|1991|01}}||{{unreleased}}
+|}
+{{notelist|refs=
+{{efn|name=Licensed&Unlicensed|This game was released on both licensed and unlicensed cartridge. This was a result of the Publisher initially using licensed cartridges at the game's release, but then moving the game's production to unlicensed cartridges to avoid paying Nintendo's license fees after discovering a means to bypass Nintendo's lockout chip.}}
+{{efn|name=Retro Re-release|This game received an official re-release with permission of the current rights holder of the game title, at the time of re-release, in limited quantities on either a refurbished licensed cartridge or an unlicensed reproduction cartridge long after the Nintendo Entertainment System's lifespan. Usually this is done as the result of a promotional stunt or to capitalize on the retro game collecting market.}}
+}}
+{{Compact ToC|name=no|center=yes|top=yes|num=yes}}
+
+==Championship games==
+{| class="wikitable plainrowheaders sortable" id="softwarelistchampionship" 
+|-
+!Title
+!Developer(s)
+!Publisher(s)<ref name="NintendoList" /><ref name="IGNList" /><ref name="GamespotList" />
+!Release date
+|-
+|''[[Nintendo World Championships 1990]]''
+|Nintendo
+|[[Nintendo]]
+|{{dts|1990|03}}
+|-
+|''[[Nintendo Campus Challenge 1991]]''
+|Nintendo
+|[[Nintendo]]
+|{{dts|1991}}
+|}
+
+==Unreleased games==
+For cancelled games see [[List of cancelled Nintendo games]].
+
+{| class="wikitable sortable" id="softwarelistunreleased"
+|-
+!Title<ref name="IGNList"/><ref name="GamespotList"/>
+!Publisher<ref name="IGNList" /><ref name="GamespotList" />
+|-
+|''[[Airball]]''
+|[[Tengen (company)|Tengen]]
+|-
+|''Armadillo''
+|IGS
+|-
+|''[[Bio Senshi Dan: Increaser to no Tatakai|Bashi Bazook: Morphoid Masher '']]
+|[[Jaleco]]
+|-
+|''Blazeblasters''
+|Nexoft
+|-
+|''[[Blockout]]
+|[[Technōs Japan]]
+|-
+|''[[Buster Bros.]]''
+|[[Hudson Soft]]
+|-
+|''[[The California Raisins: The Grape Escape]]''
+|[[Capcom]]
+|-
+|''Card Sharks''
+|[[GameTek]]
+|-
+|''[[Chip's Challenge]]
+|[[Blue Planet Software|Bullet-Proof Software]]
+|-
+|''[[Chuck Yeager's Fighter Combat]]
+|[[Electronic Arts]]
+|-
+|''[[Drac's Night Out]]''
+|[[Parker Brothers]]
+|-
+|''[[EarthBound Beginnings]]''
+|[[Nintendo]]
+|-
+|''Erik the Viking''
+|???
+|-
+|''[[Exploding Fist]]''
+|[[Tradewest]]
+|-
+|''[[Final Fantasy II]]''
+|[[Square (video game company)|Square]]
+|-
+|''Happily Ever After''
+|[[SOFEL]]
+|-
+|''[[Hard Drivin']]''
+|[[Tengen (company)|Tengen]]
+|-
+|''HeroQuest''
+|[[Hasbro Interactive]]
+|-
+|''[[Hit the Ice]]''
+|[[Taito]]
+|-
+|''[[John Madden Football '93]]''
+|[[Ubisoft]]
+|-
+|''New Kids on the Block''
+|[[Parker Brothers]]
+|-
+|''Password''
+|[[GameTek]]
+|-
+|''Pescatore''
+|[[Sunsoft]]
+|-
+|''Pizza Pop''
+|[[Jaleco]]
+|-
+|''Police Academy''
+|[[Tengen (company)|Tengen]]
+|-
+|''The Price is Right''
+|[[GameTek]]
+|-
+|''Return of Donkey Kong''
+|[[Nintendo]]
+|-
+|''[[RoboCop Versus The Terminator|RoboCop vs. the Terminator]]''
+|[[Virgin Interactive]]
+|-
+|''[[SimCity]]''
+|[[Nintendo]]
+|-
+|''[[Spy vs. Spy (1984 video game)|Spy vs. Spy: The Island Caper]]''{{efn|name=SpyvsSpy}}
+|[[Kemco]]
+|-
+|''Squashed''
+|[[Jaleco]]
+|-
+|''[[Sunman (video game)|Sunman]]''
+|[[Sunsoft]]
+|-
+|''Super Password''
+|[[GameTek]]
+|-
+|''Talking Super Password''
+|[[GameTek]]
+|-
+|''[[Techno Cop|Technocop]]''
+|[[Tengen (company)|Tengen]]
+|-
+|''[[Thomas the Tank Engine & Friends (video game)|Thomas the Tank Engine & Friends]]''
+|[[THQ]]
+|-
+|''[[Time Diver: Eon Man]]''
+|[[Taito]]
+|-
+|''[[Titan Warriors]]''
+|[[Capcom]]
+|-
+|''Trival Pursuit''
+|[[Parker Brothers]]
+|-
+|''Twin Peaks''
+|[[Hi-Tech Expressions]]
+|-
+|''UWC''
+|[[SETA Corporation|SETA]]
+|-
+|''War on Wheels''
+|[[Jaleco]]
+|-
+|''World War III''
+|[[LJN]]
+|-
+|''[[Xybots]]''
+|[[Tengen (company)|Tengen]]
+|}
+{{notelist|refs=
+{{efn|name=SpyvsSpy|In 2009, reproduction cartridges of the game were released.}}
+}}
+
+==Unlicensed games==
+There are '''{{table row counter|id=unlicensedgames|ignore=1}}''' unlicensed games in the NES library released without approval from [[Nintendo]] during the console's lifespan. There are an additional '''{{table row counter|id=unlicensedgamesafter|ignore=1}}''' unlicensed games released thereafter.
+
+===Console's life span===
+{| class="wikitable sortable" id="unlicensedgames"
+|-
+!Title<ref name="IGNList" /><ref name="GamespotList" />
+!Publisher<ref name="IGNList" /><ref name="GamespotList" />
+!Year<ref name="IGNList" /><ref name="GamespotList" />
+|-
+|''2-in-1 Cosmocop / Cyber Monster''
+|[[Sachen]]
+|1993
+|-
+|''2-in-1 Tough Cop / Super Tough Cop''
+|[[Sachen]]
+|1993
+|-
+|''2 Turn Pair''
+|[[Hwang Shinwei]]
+|1991
+|-
+|''3D Block''
+|[[Hwang Shinwei]]
+|1989/1990
+|-
+|''[[Caltron 6 in 1|6 in 1]]''
+|[[Caltron 6 in 1|Caltron]] (Later [[Caltron 6 in 1|Myriad]])
+|1992
+|-
+|''[[Action 52]]''
+|[[Active Enterprises]]
+|1991
+|-
+|''[[After Burner]]''
+|[[Tengen (company)|Tengen]]
+|1989
+|-
+|''[[Alien Syndrome]]''
+|[[Tengen (company)|Tengen]]
+|1989
+|-
+|''Auto Upturn''
+|[[Sachen]]
+|1991
+|-
+|''[[Baby Boomer (video game)|Baby Boomer]]''
+|[[Color Dreams]]
+|1989
+|-
+|''BB Car''
+|[[Hwang Shinwei]]
+|1991
+|-
+|''[[Bee 52]]''
+|[[Camerica]]
+|1992
+|-
+|''[[Bible Adventures]]''
+|[[Wisdom Tree]]
+|1990
+|-
+|''[[Bible Buffet]]''
+|[[Wisdom Tree]]
+|1993
+|-
+|''[[Big Nose Freaks Out]]''
+|[[Camerica]]
+|1992
+|-
+|''[[Big Nose the Caveman]]''
+|[[Camerica]]
+|1991
+|-
+|''Bingo 75''
+|[[Sachen]]
+|1990
+|-
+|''[[American Video Entertainment#Blackjack|Blackjack]]''
+|[[American Video Entertainment]]
+|1992
+|-
+|''Block Force''
+|[[Hwang Shinwei]]
+|1990
+|-
+|''Blood of Jurassic''
+|Shanghai Paradise
+|1997
+|-
+|''Brush Roller''
+|[[Hwang Shinwei]]
+|1990
+|-
+|''[[Bubble Bath Babes]]''
+|[[Panesian]]
+|1991
+|-
+|''[[Captain Comic|Captain Comic – The Adventure]]''
+|[[Color Dreams]]
+|1989
+|-
+|''[[Castle of Deceit]]''
+|[[Bunch Games]]
+|1990
+|-
+|''[[Challenge of the Dragon]]''
+|[[Color Dreams]]
+|1990
+|-
+|''[[Cheetahmen II]]''
+|[[Active Enterprises]]
+|1993
+|-
+|''Chess Academy''
+|[[Sachen]]
+|1991
+|-
+|''[[Chiller (video game)|Chiller]]''
+|{{vgrtbl|NA|[[American Game Cartridges]]|AU|[[Home Entertainment Suppliers|HES]]}}
+|1990
+|-
+|''China Chess''
+|[[Hwang Shinwei]]
+|Unknown
+|-
+|''Chinese Checkers''
+|[[Sachen]]
+|1991
+|-
+|''Chinese Kung Fu''
+|[[Sachen]]
+|1989
+|-
+|''Chuugoku Taitei''
+|[[Sachen]]
+|Unknown
+|-
+|''[[Crystal Mines]]''
+|[[Color Dreams]]
+|1989
+|-
+|''Dancing Block''
+|[[Sachen]]
+|1990
+|-
+|''[[Death Race (1990 video game)|Death Race]]''
+|[[American Game Cartridges]]
+|1990
+|-
+|''[[Deathbots]]''
+|[[American Video Entertainment]]
+|1990
+|-
+|''[[Decathlon (1992 video game)|Decathlon]]''
+|[[C&E]]
+|1992
+|-
+|''[[Dizzy Prince of the Yolkfolk|Dizzy the Adventurer]]''
+|[[Codemasters]]
+|1993
+|-
+|''[[Double Strike]]''
+|{{vgrtbl|NA|[[American Video Entertainment]]|AUS|[[Home Entertainment Suppliers|HES]]}}
+|1990
+|-
+|''Dragon Ball Z V''
+|SuperTone Electronics
+|1995
+|-
+|''[[Duck Maze]]''
+|[[Home Entertainment Suppliers|HES]] (AUS)
+|1990
+|-
+|''[[Dudes with Attitude]]''
+|[[American Video Entertainment]]
+|1990
+|-
+|''Elfland''
+|Tip Top
+|1992
+|-
+|''[[Exodus (video game)|Exodus]]''
+|[[Wisdom Tree]]
+|1990
+|-
+|''[[F-15 City War]]''
+|{{vgrtbl|NA|[[American Video Entertainment]]|AU|[[Home Entertainment Suppliers|HES]]}}
+|1990
+|-
+|''F18 Race''
+|[[Hwang Shinwei]]
+|1990
+|-
+|''F-22''
+|Shanghai Paradise
+|1997
+|-
+|''[[Fantastic Dizzy|The Fantastic Adventures of Dizzy]]''
+|{{vgrtbl|NA|[[Camerica]]|EU|[[Codemasters]]}}
+|1991
+|-
+|''[[Fantasy Zone]]''
+|[[Tengen (company)|Tengen]]
+|1989
+|-
+|''Feng Shen Bang''
+|[[C&E]]
+|1995
+|-
+|''[[Final Combat]]''
+|[[Sachen]]
+|1992
+|-
+|''[[FireHawk (video game)|Firehawk]]''
+|[[Camerica]]
+|1991
+|-
+|''Frog Adventure''
+|[[Sachen]]
+|1992
+|-
+|''Frog River''
+|[[Hwang Shinwei]]
+|1990
+|-
+|''Gaiapolis''
+|[[Sachen]]
+|1990
+|-
+|''[[Galactic Crusader]]''
+|[[Bunch Games]]
+|1990
+|-
+|''[[Gauntlet (1985 video game)|Gauntlet]]''{{efn|name=Licensed&Unlicensed}}
+|[[Tengen (company)|Tengen]]
+|1988
+|-
+|''Gluk the Thunder Warrior''
+|Gluk
+|1992
+|-
+|''The Great Wall''
+|[[Sachen]]
+|1992
+|-
+|''Happy Pairs''
+|[[Sachen]]
+|1991
+|-
+|''Hell Fighter''
+|[[Thin Chen Enterprise|Sachen]]
+|1991
+|-
+|''Hidden Chinese Chess''
+|[[Sachen|Joy Van]]
+|1989
+|-
+|''Honey Peach''
+|[[Sachen]]
+|1990
+|-
+|''[[Hot Slots]]''
+|[[Panesian]]
+|1991
+|-
+|''Huge Insect''
+|[[Sachen]]
+|1993
+|-
+|''[[Impossible Mission II]]''
+|[[American Video Entertainment]]
+|1990
+|-
+|''Incantation''
+|[[Sachen|Joy Van]]
+|1989
+|-
+|''[[Indiana Jones and the Temple of Doom (1988 video game)|Indiana Jones and the Temple of Doom]]''{{efn|name=Licensed&Unlicensed}}
+|[[Tengen (company)|Tengen]]
+|1988
+|-
+|''Jing Ke Xin Zhuan''
+|SuperTone Electronics
+|1992
+|-
+|''[[Joshua & the Battle of Jericho]]''
+|[[Wisdom Tree]]
+|1992
+|-
+|''Jovial Race''
+|[[Sachen|Joy Van]]
+|1989
+|-
+|''Jurassic Boy''
+|[[Sachen]]
+|1990
+|-
+|''[[Kart Fighter]]''
+|Ge De Industry Co.
+|1993
+|-
+|''[[King Neptune's Adventure]]''
+|[[Color Dreams]]
+|1990
+|-
+|''[[King of Kings: The Early Years]]''
+|[[Wisdom Tree]]
+|1991
+|-
+|''[[Klax (video game)|Klax]]''
+|[[Tengen (company)|Tengen]]
+|1990
+|-
+|''[[Krazy Kreatures]]''
+|[[American Video Entertainment]]
+|1990
+|-
+|''[[Linus Spacehead's Cosmic Crusade]]''
+|[[Camerica]]
+|1991
+|-
+|''[[Little Red Hood]]''
+|[[Home Entertainment Suppliers|HES]]
+|1989
+|-
+|''Locksmith''
+|[[Sachen]]
+|1991
+|-
+|''Lucky 777''
+|[[Sachen]]
+|1989
+|-
+|''[[Magic Cube]]''
+|[[Sachen]]
+|1991
+|-
+|''[[Magic Jewelry]]''
+|[[Hwang Shinwei]]
+|1990
+|-
+|''[[Magic Jewelry#Sequel|Magic Jewelry II]]''
+|[[Hwang Shinwei]]
+|1991
+|-
+|''Magical Mathematics''
+|[[Sachen]]
+|1990
+|-
+|''Magical Tower''
+|[[Sachen|Tin Chen]]
+|1992
+|-
+|''Mahjong Academy''
+|[[Sachen]]
+|1992
+|-
+|''Mahjong Companion''
+|[[Sachen]]
+|1990
+|-
+|''Mahjong Trap''
+|[[Sachen]]
+|1990
+|-
+|''Mahjong Trap Plus''
+|[[Sachen]]
+|1990
+|-
+|''The Mahjong World''
+|[[Sachen]]
+|1990
+|-
+|''[[Master Chu and the Drunkard Hu]]''
+|[[Color Dreams]]
+|1989
+|-
+|''[[Maxi 15]]''
+|[[American Video Entertainment]]
+|1992
+|-
+|''Mēi Shāo Nú Mèng Gōngchāng''
+|[[Sachen|Tin Chen]]
+|unknown
+|-
+|''Memory Pair''
+|[[Hwang Shinwei]]
+|1991
+|-
+|''[[Menace Beach]]''
+|[[Color Dreams]]
+|1990
+|-
+|''[[Mermaids of Atlantis]]''
+|[[American Video Entertainment]]
+|1991
+|-
+|''[[Metal Fighter]]''
+|[[Color Dreams]]
+|1989
+|-
+|''[[Micro Machines (video game series)|Micro Machines]]''
+|[[Camerica]]
+|1992
+|-
+|''Middle School English''
+|[[Sachen]]
+|1989
+|-
+|''[[MiG-29: Soviet Fighter]]''
+|[[Camerica]]
+|1991
+|-
+|''Millionaire''
+|[[Sachen]]
+|1990
+|-
+|''[[Minesweeper (video game)|Minesweeper]]''
+|[[Sachen]]
+|1989
+|-
+|''Minesweeper 2''
+|[[Sachen]]
+|1989
+|-
+|''Minesweeper 3''
+|[[Sachen]]
+|1989
+|-
+|''[[Mission Cobra]]''
+|[[Bunch Games]]
+|1990
+|-
+|''[[Moon Ranger]]''
+|[[Bunch Games]]
+|1990
+|-
+|''[[Ms. Pac-Man]]''
+|[[Tengen (company)|Tengen]]
+|1990
+|-
+|''Olympic IQ''
+|[[Sachen]]
+|1991
+|-
+|''[[Operation Secret Storm]]''
+|[[Color Dreams]]
+|1991
+|-
+|''[[Pac-Man]]''{{efn|name=Licensed&Unlicensed}}
+|[[Tengen (company)|Tengen]]
+|1988
+|-
+|''[[Pac-Mania]]''
+|[[Tengen (company)|Tengen]]
+|1990
+|-
+|''[[Peek-A-Boo Poker]]''
+|[[Panesian]]
+|1991
+|-
+|''The Penguin and Seal''
+|[[Sachen]]
+|1989
+|-
+|''[[Pesterminator: The Western Exterminator]]''
+|[[Color Dreams]]
+|1990
+|-
+|''Piano''
+|[[Hwang Shinwei]]
+|Unknown
+|-
+|''Pipe V''
+|[[Sachen]]
+|1990
+|-
+|''Poker II''
+|[[Sachen]]
+|1990
+|-
+|''Poker III''
+|[[Sachen]]
+|1991
+|-
+|''Poker Mahjong''
+|[[Sachen]]
+|1991
+|-
+|''Popo Team''
+|[[Sachen]]
+|1991
+|-
+|''[[The P'Radikus Conflict]]''
+|[[Color Dreams]]
+|1990
+|-
+|''Punch Sprite''
+|[[Hwang Shinwei]]
+|1990
+|-
+|''[[Puzzle (American Video Entertainment)|Puzzle]]''
+|[[American Video Entertainment]]
+|1990
+|-
+|''[[Pyramid (video game)|Pyramid]]''
+|[[American Video Entertainment]]
+|1990
+|-
+|''Pyramid II''
+|[[Sachen]]
+|1990
+|-
+|''Q Boy''
+|[[Sachen]]
+|1994
+|-
+|''[[Quattro Adventure]]''
+|[[Camerica]]
+|1991
+|-
+|''[[Quattro Arcade]]''
+|[[Camerica]]
+|1992
+|-
+|''[[Quattro Sports]]''
+|[[Camerica]]
+|1992
+|-
+|''RacerMate Challenge II''
+|RacerMate
+|1996
+|-
+|''[[Rad Racket: Deluxe Tennis II]]''
+|[[American Video Entertainment]]
+|1991
+|-
+|''[[Raid 2020]]''
+|[[Color Dreams]]
+|1989
+|-
+|''[[R.B.I. Baseball]]''{{efn|name=Licensed&Unlicensed}}
+|[[Tengen (company)|Tengen]]
+|1988
+|-
+|''[[R.B.I. Baseball|R.B.I. Baseball 2]]''
+|[[Tengen (company)|Tengen]]
+|1990
+|-
+|''[[R.B.I. Baseball|R.B.I. Baseball 3]]''
+|[[Tengen (company)|Tengen]]
+|1991
+|-
+|''[[Road Runner (video game)|Road Runner]]''
+|[[Tengen (company)|Tengen]]
+|1989
+|-
+|''[[Robodemons]]''
+|[[Color Dreams]]
+|1990
+|-
+|''Rockball''
+|[[Sachen]]
+|1993
+|-
+|''Rocman X''
+|[[Sachen]]
+|1995
+|-
+|''[[Rolling Thunder (video game)|Rolling Thunder]]''
+|[[Tengen (company)|Tengen]]
+|1989
+|-
+|''[[Secret Scout in the Temple of Demise]]''
+|[[Color Dreams]]
+|1991
+|-
+|''[[Shinobi (video game)|Shinobi]]''
+|[[Tengen (company)|Tengen]]
+|1989
+|-
+|''[[Shockwave (video game)|Shockwave]]''
+|[[American Game Cartridges]]
+|1990
+|-
+|''Sidewinder''
+|[[Sachen|Joy Van]]
+|1989
+|-
+|''[[Silent Assault]]''
+|[[Color Dreams]]
+|1990
+|-
+|''Silver Eagle''
+|[[Sachen]]
+|1994
+|-
+|''[[Skull & Crossbones]]''
+|[[Tengen (company)|Tengen]]
+|1990
+|-
+|''Solar Wars''
+|CMC Games
+|1999
+|-
+|''[[American Video Entertainment#Solitaire|Solitaire]]''
+|[[American Video Entertainment]]
+|1992
+|-
+|''[[Somari]]''
+|Ge De Industry Co.
+|1994
+|-
+|''[[Spiritual Warfare (video game)|Spiritual Warfare]]''
+|[[Wisdom Tree]]
+|1992
+|-
+|''Strategist''
+|[[Sachen]]
+|1991
+|-
+|''Street Heroes''
+|[[Sachen]]
+|1995
+|-
+|''[[Stunt Kids]]''
+|[[Camerica]]
+|1992
+|-
+|''[[Sunday Funday]]''
+|[[Wisdom Tree]]
+|1995
+|-
+|''[[Super Mario World]]''
+|Hummer Team
+|1995
+|-
+|''Super Pang''
+|[[Sachen]]
+|1991
+|-
+|''Super Pang II''
+|[[Sachen]]
+|1992
+|-
+|''[[Super Sprint]]''
+|[[Tengen (company)|Tengen]]
+|1989
+|-
+|''[[Colorful Dragon|Tagin' Dragon]]''
+|[[Bunch Games]]
+|1990
+|-
+|''Taiwan Mahjong''
+|[[Sachen]]
+|1989
+|-
+|''Taiwan Mahjong II''
+|[[Sachen]]
+|1992
+|-
+|''Tasac''
+|[[Sachen]]
+|1992
+|-
+|''[[Tetris: The Soviet Mind Game|Tetris]]''
+|[[Tengen (company)|Tengen]]
+|1989
+|-
+|''[[Tiles of Fate]]''
+|[[American Video Entertainment]]
+|1990
+|-
+|''[[Time Diver: Eon Man|Time Diver Avenger]]''
+|Nitra Corporation
+|1994
+|-
+|''[[Toobin']]''
+|[[Tengen (company)|Tengen]]
+|1989
+|-
+|''[[Toy Story (video game)|Toy Story]]''
+|NT
+|1997
+|-
+|''[[Trolls on Treasure Island]]''
+|[[American Video Entertainment]]
+|1992
+|-
+|''Twin Eagle''
+|[[Sachen|Joy Van]]
+|1989
+|-
+|''[[Ultimate League Soccer]]''
+|[[American Video Entertainment]]
+|1991
+|-
+|''[[The Ultimate Stuntman]]''
+|[[Camerica]]
+|1990
+|-
+|''[[Venice Beach Volleyball]]''
+|[[American Video Entertainment]]
+|1991
+|-
+|''[[Vindicators]]''
+|[[Tengen (company)|Tengen]]
+|1988
+|-
+|''[[Wally Bear and the NO! Gang]]''
+|[[American Video Entertainment]]
+|1991
+|-
+|''Wild Ball''
+|[[Hwang Shinwei]]
+|1991
+|-
+|''The World of Card Games''
+|[[Sachen]]
+|1990
+|-
+|''Worm Visitor''
+|[[Sachen]]
+|1992
+|-
+|}
+{{notelist|refs=
+{{efn|name=Licensed&Unlicensed|This game was released on both licensed and unlicensed cartridge. This was a result of the Publisher initially using licensed cartridges at the game's release, but then moving the game's production to unlicensed cartridges to avoid paying Nintendo's license fees after discovering a means to bypass Nintendo's lockout chip.}}
+}}
+
+===After life span===
+{| class="wikitable plainrowheaders sortable" style="font-size: 90%;" id="unlicensedgamesafter"
+|-
+!Title<ref name="IGNList" /><ref name="GamespotList" />
+!Publisher<ref name="IGNList" /><ref name="GamespotList" />
+!Year<ref name="IGNList" /><ref name="GamespotList" />
+|-
+|''2-in-1 Geminim / Siamond''
+|RetroZone
+|2008
+|-
+|''8-bit Xmas 2009''
+|RetroZone
+|2010
+|-
+|''Armed For Battle''
+|Infinite NES Lives
+|2014
+|-
+|''[[Battle Kid: Fortress of Peril]]''
+|Sivak Games
+|2010
+|-
+|''Battle Kid 2: Mountain of Torment''
+|Sivak Games
+|2012
+|-
+|''City Trouble''
+|Mega Cat Studios
+|2017
+|-
+|''Color Caves''
+|Unknown
+|2010
+|-
+|''Data East All-Star Collection''<ref name="retrobit">{{cite web|url=http://www.nintendolife.com/news/2017/10/retro-bit_lifts_the_lid_on_its_multi-cart_collections_for_the_nes_and_snes|title=Retro-Bit Lifts The Lid On Its Multi-Cart Collections for the NES And SNES|website=[[Nintendo Life]]|first=Damien|last=McFerran|date=October 27, 2017|accessdate=March 26, 2018}}</ref>
+|Retro-Bit
+|2017
+|-
+|''Dreamworld Pogie''<ref name="Nintendo Life">{{cite web|url=http://www.nintendolife.com/news/2016/12/new_nes_game_dreamworld_pogie_finds_kickstarter_success|title=New NES game Dreamworld Pogie Finds Kickstarter Success – Nintendo Life|website=[[Nintendo Life]]|first=Darren|last=Calvert|date=December 19, 2016|accessdate=January 4, 2019}}</ref>
+|Codemasters
+|2016
+|-
+|''[[Piko Interactive LLC|Escape from Atlantis]]''
+|[[Piko Interactive LLC]]
+|2017
+|-
+| ''Expedition''<ref>{{cite web|url=https://www.destructoid.com/expedition-is-a-tabletop-rpg-on-an-nes-cartridge-452957.phtml|title=Expedition is a tabletop RPG on an NES cartridge|website=[[Destructoid]]|first=Joel|last=Peterson|date=August 5, 2017|accessdate=August 6, 2017}}</ref>
+| Mega Cat Studios
+| 2017
+|-
+|''Galf''
+| [[Limited Run Games]]
+| 2018
+|-
+|''Lizard''
+| Infinite NES Lives
+| 2018
+|-
+|''Log Jammers''
+| Mega Cat Studios
+| 2017
+|-
+|''Almost Hero''
+| Mega Cat Studios
+| 2017
+|-
+|''[[Final Fantasy VII (NES video game)|Final Fantasy VII]]''
+|ShenZhen Nanjing Technology
+|2005
+|-
+|''Micro Mages''
+|Morphcat Games
+|2019
+|-
+|''[[Piko Interactive LLC|Free Fall]]''
+|[[Piko Interactive LLC]]
+|2017
+|-
+|''GemVenture''
+|RetroZone
+|2010
+|-
+|''Meteor Swarm''
+|CollectorVision
+|2016
+|-
+|''Mystery World Dizzy''<ref name="Eurogamer">{{cite web|url=https://www.eurogamer.net/articles/2017-04-07-the-oliver-twins-release-new-old-dizzy-game-to-celebrate-his-30th-birthday|title=Unreleased Fantasy World Dizzy NES remake finally comes out – 24 years later|website=[[Eurogamer]]|first=Ian|last=Higton|date=April 8, 2017|accessdate=January 4, 2019}}</ref>
+|Codemasters
+|2017
+|-
+|''Quest Forge: By Order of Kings''
+|[[Piko Interactive LLC]]
+|2015
+|-
+|''Snakky''
+|[[Piko Interactive LLC]]
+|2017
+|-
+|''Streemerz''
+|Faux Game Co.
+|2012
+|-
+|''Sydney Hunter and the Curse of the Mayans''
+|CollectorVision
+|2017
+|-
+|''Wisdom Tree NES Collection''
+|[[Piko Interactive LLC]]
+|2017
+|-
+|''[[Wonderland Dizzy]]''
+|[[Codemasters]]
+|2015
+|-
+|}
+
+==External links==
+*http://www.nesworld.com/mirror/nr.php
+
+==See also==
+* [[List of best-selling video games|List of the best selling video games on the Nintendo Entertainment System]]
+* [[List of Family Computer games]]
+* [[List of Family Computer Disk System games]]
+* [[Lists of video games]]
+
+==References==
+{{Reflist}}
+
+{{Nintendo Entertainment System}}
+{{Video game lists by platform}}
+
+[[Category:Nintendo-related lists|Nintendo Entertainment System games]]
+[[Category:Video game lists by platform|Nintendo Entertainment System]]
+[[Category:Nintendo Entertainment System games|*]]
+
+[[ko:패밀리 컴퓨터 게임 목록]]

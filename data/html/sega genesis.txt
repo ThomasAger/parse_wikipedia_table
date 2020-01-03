@@ -1,0 +1,7447 @@
+{{featured list}}
+[[File:Sega-Genesis-Mk2-6button.jpg|thumb|250px|Sega Genesis model 2 (North America)]]
+
+The [[Sega Genesis]], known as the {{nihongo|Mega Drive|メガドライブ|Mega Doraibu|lead=yes}} in regions outside of North America, is a [[16-bit]] [[video game console]] that was developed and sold by [[Sega]]. First released in Japan in 1988, in North America in 1989 and in [[PAL region]]s in 1990, the Genesis is Sega's third console and the successor to the [[Master System]]. The system supports a library of more than 700 games created both by Sega and a wide array of third-party publishers and delivered on [[ROM cartridge]]s.<ref name="SegaSpecs">{{cite book|publisher=[[Sega|Sega Enterprises, Ltd.]]|title=Sega Service Manual (Supplement): Mega Drive II/Genesis II|year=1993}}</ref> It can also play [[List of Master System games|the complete library of Master System games]] when the separately sold Power Base Converter is installed. The Sega Genesis also benefited from numerous [[Video game accessory|peripherals]], including the [[Sega CD]] and [[Sega 32X]], several network services, and multiple first-party and third-party variations of the console that focused on extending its functionality.<ref name="AllgameGenesis">{{cite web|title=Sega Genesis - Overview|publisher=[[Allgame]]|accessdate=October 5, 2013|url=http://www.allgame.com/platform.php?id=24|author=Beuscher, David|archiveurl=https://web.archive.org/web/20100102043808/http://allgame.com/platform.php?id=24|archivedate=January 2, 2010}}</ref> The console and its games continue to be popular among fans, collectors, video game music fans, and emulation enthusiasts. Licensed third party re-releases of the console are still being produced,<ref name=Blaze>{{cite web|url=http://www.blazeeurope.com/sega/cartridge-console-with-15-sega-megadrive-games/prod_68.html |title=Cartridge Console With 15 Sega Megadrive Games |publisher=[[Blaze Europe]] |accessdate=July 16, 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20140804045733/http://www.blazeeurope.com/sega/cartridge-console-with-15-sega-megadrive-games/prod_68.html |archivedate=August 4, 2014 }}</ref> and several [[indie game]] developers continue to produce games for it.<ref name="retronintendolife">{{cite web |url=http://retro.nintendolife.com/news/2011/07/interview_star_odyssey_and_the_challenge_of_bringing_dead_games_back_to_life |title=Interview: Star Odyssey and The Challenge of Bringing Dead Games Back to Life |website=[[Nintendo Life]] |accessdate=October 3, 2011 |last=McFerran |first=Damien |date=July 1, 2011 |url-status=live |archiveurl=https://web.archive.org/web/20111025142135/http://retro.nintendolife.com/news/2011/07/interview_star_odyssey_and_the_challenge_of_bringing_dead_games_back_to_life |archivedate=October 25, 2011 |df=mdy-all }}</ref> Many games have also been re-released in compilations for newer consoles and offered for download on various digital distribution services, such as [[Virtual Console]], [[Xbox Live Arcade]], [[PlayStation Network]], and [[Steam (software)|Steam]].<ref name="Wii">{{cite web|url=http://www.gamespot.com/news/6146528.html |title=GDC 06: Revolution to play Genesis, TurboGrafx-16 games |author=Tor Thorsen |website=[[GameSpot]] |date=October 18, 2007 |accessdate=July 16, 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20060418150351/http://www.gamespot.com/news/6146528.html |archivedate=April 18, 2006 }}</ref><ref name="Kotaku1">{{cite web|website=Kotaku|url=http://kotaku.com/5286458/sega-vintage-collection-2-games-hit-xbox-live-arcade|title=Sega Vintage Collection 2 games Hit Xbox Live Arcade|date=June 10, 2009|author=McWhertor, Michael|accessdate=October 5, 2013|url-status=live|archiveurl=https://web.archive.org/web/20131108154054/http://kotaku.com/5286458/sega-vintage-collection-2-games-hit-xbox-live-arcade|archivedate=November 8, 2013|df=mdy-all}}</ref><ref name="Kotaku3">{{cite web|website=Kotaku|url=http://kotaku.com/5762517/sega-genesis-games-come-to-playstation-plus|title=Sega Genesis Games Come To PlayStation Plus|date=February 16, 2011|author=McWhertor, Michael|accessdate=October 5, 2013|url-status=live|archiveurl=https://web.archive.org/web/20131220055004/http://kotaku.com/5762517/sega-genesis-games-come-to-playstation-plus|archivedate=December 20, 2013|df=mdy-all}}</ref><ref name="Steam">{{cite web|url=http://store.steampowered.com/sub/7825/|title=Steam listing: SEGA Genesis Classics Collection|publisher=[[Steam (software)|Steam]]|accessdate=November 27, 2013|url-status=live|archiveurl=https://web.archive.org/web/20131122014135/http://store.steampowered.com/sub/7825/|archivedate=November 22, 2013|df=mdy-all}}</ref>
+
+The Genesis library was initially modest, but eventually grew to contain games to appeal to all types of players. The initial pack-in title was ''[[Altered Beast]]'', which was later replaced with [[Sonic the Hedgehog]].<ref name="Retroinspection" /> Top sellers included [[Sonic the Hedgehog (1991 video game)|Sonic the Hedgehog]], its sequel ''[[Sonic the Hedgehog 2]]'', and ''[[Disney's Aladdin (Virgin Games video game)|Disney's Aladdin]]''.<ref name=IGNnumbers>{{cite web |url=http://retro.ign.com/articles/965/965032p1.html |title=Genesis vs. SNES: By the Numbers |first=Levi |last=Buchanan |date=March 20, 2009 |website=IGN |accessdate=January 19, 2011 |url-status=live |archiveurl=https://web.archive.org/web/20120217164431/http://retro.ign.com/articles/965/965032p1.html |archivedate=February 17, 2012 |df=mdy-all }}</ref> During development for the console, Sega Enterprises in Japan focused on developing [[action game]]s while Sega of America was tasked with developing [[sports game]]s. A large part of the appeal of the Genesis library during the console's lifetime was the [[arcade game|arcade]]-based experience of its games, as well as more difficult entries such as ''[[Ecco the Dolphin]]'' and sports games such as ''[[Joe Montana Football]]''.<ref name="Retroinspection"/> Compared to its competition, Sega advertised to an older audience by hosting more mature games, including the uncensored version of ''[[Mortal Kombat (1992 video game)|Mortal Kombat]]''.<ref name="Retroinspection">{{cite journal|journal=[[Retro Gamer]]|publisher=Imagine Publishing|title=Retroinspection: Mega Drive|author=Sczepaniak, John|issue=27|year=2006|pages=42–47}}</ref>
+
+This is an alphabetical list of released games for the Sega Genesis. Titles listed do not include [[List of Sega CD games|releases for the Sega CD]] and [[List of Sega 32X games|Sega 32X]] add-ons. Included in this list are titles not licensed by Sega, including releases in Taiwan by several developers such as [[Gamtec]], as well as releases by [[Accolade (company)|Accolade]] before being licensed following the events of ''[[Sega v. Accolade]]''. This list also includes titles developed by unlicensed third-party developers after the discontinuation of the Genesis, such as ''[[Pier Solar and the Great Architects]]''.
+
+A few games were only released exclusively on the [[Sega Channel]] subscription service, which was active from 1994 to 1998, in the US. This means that, whilst cartridges were officially released for use on PAL and Japanese consoles, they were unavailable physically in the US. While few games were released this way, some of them are considered to be staples in the Genesis library, such as ''[[Pulseman]]'' and ''[[Mega Man: The Wily Wars]]''.
+
+{| class="wikitable plainrowheaders sortable"
+|+Region code guide
+|-
+!scope="col"|Regions released
+!scope="col"|Region description
+|-
+!scope="row"|JP ([[Japan]])
+|Japanese ([[NTSC-J]]) formatted release
+|-
+!scope="row"|NA ([[North America]])
+|North America and other [[NTSC]] territories, besides Japan
+|-
+!scope="row"|[[PAL region|PAL]]
+|[[PAL]]/[[SECAM]] territories: much of [[Europe]], [[Australia]], parts of [[Asia]]
+|-
+!scope="row"|BR ([[Brazil]])
+|NTSC-U release exclusively in Brazil (some systems may output PAL-M, but all games are NTSC-U){{discuss}}
+|-
+!scope="row"|KR ([[South Korea]])
+|NTSC-J release exclusively in South Korea
+|-
+!scope="row"|TW ([[Taiwan]])
+|NTSC-J release exclusively in Taiwan
+|}
+
+==Games==
+A total of '''{{table row counter|tableno=2|ignore=2}} game titles''' are known to have been released for the console:
+{{Compact ToC|center=yes|num=yes|seealso=no|refs=yes|nobreak=yes}}
+{|class="wikitable sortable" style="text-align:center;" width="auto"
+|-
+!rowspan="2"|Title(s)<ref name="Allgame">{{cite web |publisher=[[Allgame]] |url=http://www.allgame.com/platform.php?id=24&tab=games |title=Sega Mega Drive — Games |accessdate=November 27, 2013|archiveurl=https://web.archive.org/web/20100210234957/http://allgame.com/platform.php?id=24&tab=games|archivedate=February 10, 2010 }}</ref><ref name="Sega">{{cite web |publisher=[[Sega]] |url=http://sega.jp/fb/segahard/md/soft.html |title=Mega Drive Master List (Sega) |language=Japanese |accessdate=November 27, 2013 |archiveurl=https://web.archive.org/web/20121124020335/http://sega.jp/fb/segahard/md/soft.html |archivedate=November 24, 2012}}</ref><ref name="SegaL">{{cite web |publisher=[[Sega]] |url=http://sega.jp/fb/segahard/md/soft_licensee.html |title=Mega Drive Master List (Licensees) |language=Japanese |accessdate=November 27, 2013 |archiveurl=https://web.archive.org/web/20130110090256/http://sega.jp/fb/segahard/md/soft_licensee.html |archivedate=January 10, 2013}}</ref>
+!rowspan="2"|Developer(s)<ref name="Allgame"/><ref name="Sega"/><ref name="SegaL"/>
+!rowspan="2"|Publisher(s)<ref name="Allgame"/><ref name="Sega"/><ref name="SegaL"/>
+!colspan="4"|Release date
+|-
+!{{abbr|JP|Japan}}<ref name="Allgame"/><ref name="Sega"/><ref name="SegaL"/>
+!{{abbr|NA|North America}}<ref name="Allgame"/>
+!{{abbr|PAL|PAL regions, which include Europe and Australasia}}<ref name="Allgame"/>
+!Other
+|-
+!scope="row"|<span id="0–9"></span>''[[3 Ninjas Kick Back (video game)|3 Ninjas Kick Back]]''<span id="0–9"></span>
+|[[Malibu Comics|Malibu Interactive]]
+|[[Psygnosis]]<br />[[Sony Imagesoft]]
+|{{unreleased}}
+|{{dts|June 1, 1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[688 Attack Sub]]''
+|[[MicroProse]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1991|07}}
+|{{dts|1991|09}}
+|
+|-
+!scope="row"|<span id="A"></span>''[[A Dinosaur's Tale]]''<span id="A"></span>
+|[[Funcom]]
+|[[Hi Tech Expressions|Hi-Tech Entertainment]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[A Ressha de Ikou MD]]''
+|MNM Software
+|[[Sega]]
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Aaahh! Real Monsters (video game)|<nowiki>Aaahh!!! Real Monsters</nowiki>]]''
+|[[Realtime Associates]]
+|[[Viacom (original)|Viacom New Media]]
+|{{unreleased}}
+|{{dts|1995|08|15}}
+|{{dts|1995|11}}
+|
+|-
+!scope="row"|''[[Aah! Harimanada]]''
+|[[Sega|Sega CS]]<br />Megasoft
+|[[Sega]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Action 52]]''
+|[[FarSight Studios|FarSight Technologies]]
+|[[Action 52|Active Enterprises]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Addams Family Values (video game)|Addams Family Values]]''
+|[[Ocean Software]]
+|[[Ocean Software]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995|06}}
+|
+|-
+!scope="row"|''{{sort|Addams Family, The|[[The Addams Family (video game)|The Addams Family]]}}''
+|[[Ocean Software]]
+|[[List of Acclaim Entertainment subsidiaries|Flying Edge]]
+|{{unreleased}}
+|{{dts|1993|10}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Daisenryaku#Advanced Daisenryaku|Advanced Daisenryaku -Deutsch Dengeki Sakusen-]]''
+|[[SystemSoft Alpha|SystemSoft]]
+|[[Sega]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Adventures of Batman and Robin, The|[[The Adventures of Batman & Robin (video game)|The Adventures of Batman & Robin]]}}''
+|[[Clockwork Tortoise]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995|06}}
+|
+|-
+!scope="row"|''{{sort|Adventures of Mighty Max, The|[[The Adventures of Mighty Max]]}}''
+|WJS Design
+|[[Ocean Software]]
+|{{unreleased}}
+|{{dts|1995|02}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''{{sort|Adventures of Rocky and Bullwinkle and Friends, The|[[The Adventures of Rocky and Bullwinkle and Friends (video game)|The Adventures of Rocky and Bullwinkle and Friends]]}}''
+|[[Imagineering]]
+|[[Absolute Entertainment]]
+|{{unreleased}}
+|{{dts|1994|05|01}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Aero the Acro-Bat]]''
+|[[Acclaim Studios Austin|Iguana Entertainment]]
+|[[Sunsoft]]
+|{{unreleased}}
+|{{dts|1993|8|1}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Aero the Acro-Bat 2]]''
+|[[Acclaim Studios Austin|Iguana Entertainment]]
+|[[Sunsoft]]
+|{{unreleased}}
+|{{dts|1995|01}}
+|{{dts|1995|08}}
+|
+|-
+!scope="row"|''[[Aerobiz]]''<br /><center>''Air Management: Oozora ni Kakeru''<sup>JP</sup></center>
+|[[Koei]]
+|[[Koei]]
+|{{dts|1992|11|1}}
+|{{dts|1992}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Aerobiz Supersonic]]''<br /><center>''Air Management II: Koukuu Ou wo Mezase''<sup>JP</sup></center>
+|[[Koei]]
+|[[Koei]]
+|{{dts|1994|2|18}}
+|{{dts|1994|11}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[After Burner II]]''
+|Dempa
+|[[Sega]]
+|{{dts|1990|03|23}}
+|{{dts|1990|03|22}}
+|{{dts|1991|04}}
+|
+|-
+!scope="row"|''[[Air Buster]]''<br /><center>''Aero Blasters''<sup>JP</sup></center>
+|Inter State
+|[[Kaneko]]
+|{{dts|1991}}
+|{{dts|1991|02}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Air Diver]]''
+|Copya System
+|Seismic<sup>NA</sup><br />[[Asmik Ace|Asmik]]<sup>JP</sup>
+|{{dts|1990}}
+|{{dts|1990|04}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Alex Kidd in the Enchanted Castle]]''<br /><center>''Alex Kidd: Tenkuu Majou''<sup>JP</sup></center>
+|[[Sega|Sega R&D2]]
+|[[Sega]]
+|{{dts|1989|02|10}}
+|{{dts|1989|08|14}}
+|{{dts|1990|11|30}}
+|
+|-
+!scope="row"|''[[Alien 3 (video game)|Alien 3]]''
+|[[List of Acclaim Entertainment subsidiaries|Probe Software]]
+|[[List of Acclaim Entertainment subsidiaries|Arena Entertainment]]
+|{{unreleased}}
+|{{dts|1992|10}}<ref name=EGM39a>Electronic Gaming Monthly #39, pg. 40</ref>
+|{{dts|1992|10}}
+|
+|-
+!scope="row"|''[[Alien Soldier]]''
+|[[Treasure (company)|Treasure]]
+|[[Sega]]
+|{{dts|1995|01|24}}
+|{{dts|1995}}
+|{{dts|1995|06}}
+|
+|-
+!scope="row"|''[[Alien Storm]]''
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{dts|1991|06|28}}
+|{{dts|1991|07}}
+|{{dts|1991|09}}
+|
+|-
+!scope="row"|''[[Alisia Dragoon]]''
+|[[Game Arts]]
+|[[Sega]]<sup>NA/PAL</sup><br />[[Game Arts]]<sup>JP</sup>
+|{{dts|1992|04|24}}
+|{{dts|1992|03|30}}<ref name=EGM33>Electronic Gaming Monthly #33, pg. 35</ref>
+|{{dts|1992|03|30}}
+|
+|-
+!scope="row"|''[[Altered Beast]]''<br /><center>''Juuouki''<sup>JP</sup></center>
+|[[Sega|Sega R&D2]]
+|[[Sega]]
+|{{dts|1988}}
+|{{dts|1989|08|14}}
+|{{dts|1990|11|30}}
+|
+|-
+!scope="row"|''[[American Gladiators (video game)|American Gladiators]]''
+|[[Imagitec Design]]
+|[[GameTek]]
+|{{unreleased}}
+|{{dts|1993|01}}<ref name=EGM42a>Electronic Gaming Monthly #42, pg. 42</ref>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Andre Agassi Tennis]]''
+|[[TecMagik]]
+|[[TecMagik]]
+|{{unreleased}}
+|{{dts|1993|01}}<ref name=EGM42a/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Animaniacs (video game)|Animaniacs]]''
+|[[Konami]]
+|[[Konami]]
+|{{unreleased}}
+|{{dts|1994|05|14}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Another World (video game)|Another World]]''<br /><center>''Out of This World''<sup>NA</sup></center>
+|[[Delphine Software International|Delphine Software]]
+|[[Virgin Interactive|Virgin Games]]
+|{{unreleased}}
+|{{dts|1993|03}}
+|{{dts|1993|04}}
+|
+|-
+!scope="row"|''{{sort|Aquatic Games, The|[[The Aquatic Games|The Aquatic Games starring James Pond and The Aquabats]]}}''
+|Millennium Interactive
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1992|09}}
+|{{dts|1992|09}}
+|
+|-
+!scope="row"|''[[Arcade Classics]]''
+|Al Baker & Associates
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{dts|1996}}
+|
+|-
+!scope="row"|''[[Arch Rivals|Arch Rivals: The Arcade Game]]''
+|Arc Developments
+|[[List of Acclaim Entertainment subsidiaries|Flying Edge]]
+|{{unreleased}}
+|{{dts|1992|07}}<ref name=EGM36>Electronic Gaming Monthly #36, pg. 29</ref>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Arcus Odyssey]]''
+|[[Namco Tales Studio|Wolf Team]]
+|[[Telenet Japan|Renovation Products]]<sup>NA</sup><br />[[Telenet Japan]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|09}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Ariel the Little Mermaid]]''
+|[[BlueSky Software]]
+|[[Sega]]<br />[[Disney Interactive Studios|Disney Software]]
+|{{unreleased}}
+|{{dts|1992|12}}<ref name=EGM40a>Electronic Gaming Monthly #40, pg. 36</ref>
+|{{dts|1992|12|14}}
+|
+|-
+!scope="row"|''[[Arnold Palmer Tournament Golf]]''<br /><center>''Naomichi Ozaki no Super Masters''<sup>JP</sup></center>
+|[[Sega|Sega R&D2]]
+|[[Sega]]
+|{{dts|1989}}
+|{{dts|1989|10}}
+|{{dts|1991|01}}
+|
+|-
+!scope="row"|''[[Arrow Flash]]''
+|I.T.L
+|[[Renovation Products]]<sup>NA</sup><br />Sega<sup>JP/PAL</sup>
+|{{dts|1990|10|20}}
+|{{dts|1991|01}}
+|{{dts|1991|05}}
+|
+|-
+!scope="row"|''[[Art Alive!]]''
+|Western Technologies<br />[[FarSight Studios|FarSight Technologies]]
+|[[Sega]]
+|{{dts|1992|03|27}}
+|{{dts|1992|01}}<ref name=EGM30>Electronic Gaming Monthly #30, pg. 33</ref>
+|{{dts|1992|03}}
+|
+|-
+!scope="row"|''[[Art of Fighting]]''<br /><center>''Ryuuko no Ken''<sup>JP</sup></center>
+|[[SNK]]
+|[[Sega]]
+|{{dts|1994|01|14}}
+|{{dts|1994|10}}
+|{{dts|1994|03}}
+|
+|-
+!scope="row"|''[[Asterix and the Great Rescue]]''
+|[[Core Design]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1994|06}}
+|{{dts|1993|12}}
+|
+|-
+!scope="row"|''[[Asterix and the Power of the Gods]]''
+|[[Core Design]]
+|[[Sega]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995|04}}
+|
+|-
+!scope="row"|''[[Atomic Robo-Kid]]''
+|[[Micronics]]
+|[[Treco]]
+|{{dts|1990}}
+|{{dts|1990|10}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Chelnov|Atomic Runner]]''<br /><center>''Chelnov''<sup>JP</sup></center>
+|[[Data East]]
+|[[Data East]]<sup> NA/JP</sup><br />[[Sega]]<sup> PAL</sup>
+|{{dts|1992}}
+|{{dts|1992|07}}<ref name=EGM36/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[ATP Tour Championship Tennis]]''
+|[[SIMS Co., Ltd.|SIMS]]
+|[[Sega|Sega Sports]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1995|03}}
+|
+|-
+!scope="row"|''[[Australian Rugby League (video game)|Australian Rugby League]]''
+|I-Space Interactive
+|[[Electronic Arts|EA Sports]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Awesome Possum... Kicks Dr. Machino's Butt]]''<br /><center>''Ausam Possum''<sup>JP</sup></center>
+|[[Tengen (company)|Tengen]]
+|[[Tengen (company)|Tengen]]
+|{{dts|1993|12|25}}
+|{{dts|1993|11|25}}
+|{{unreleased}}
+|
+|-
+!scope="row"|<span id="B"></span>''[[B.O.B. (video game)|B.O.B.]]''<br /><span id="B"></span><center>''Space Funky B.O.B.''<sup>JP</sup></center>
+|Foley Hi-Tech Systems
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1993}}
+|{{dts|1993|09}}
+|{{dts|1993|08}}
+|
+|-
+!scope="row"|''[[Back to the Future Part III (video game)|Back to the Future Part III]]''
+|[[List of Acclaim Entertainment subsidiaries|Probe Software]]
+|[[List of Acclaim Entertainment subsidiaries|Arena Entertainment]]<sup>NA</sup><br />[[Image Works]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1992|01}}<ref name=EGM30/>
+|{{dts|1991|02}}
+|
+|-
+!scope="row"|''[[Bahamut Senki]]''
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Ball Jacks]]''
+|[[Namco]]
+|[[Namco]]
+|{{dts|1993|04|23}}
+|{{unreleased}}
+|{{dts|1993|11}}
+|
+|-
+!scope="row"|''[[Ballz|Ballz 3D: Fighting at its Ballziest]]''<br /><center>''Ballz 3D: The Battle of the Ballz''<sup>PAL</sup></center>
+|[[PF Magic]]
+|[[Accolade (company)|Accolade]]
+|{{unreleased}}
+|{{dts|1994|10}}
+|{{dts|1994|09}}
+|
+|-
+!scope="row"|''[[Barbie: Super Model]]''
+|Tahoe Software
+|[[Hi Tech Expressions|Hi-Tech Expressions]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Barkley Shut Up and Jam!]]''
+|[[Accolade (company)|Accolade]]
+|[[Accolade (company)|Sport Accolade]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Barkley Shut Up and Jam! 2]]''
+|[[Accolade (company)|Accolade]]
+|[[Accolade (company)|Sport Accolade]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Barney's Hide & Seek Game]]''
+|[[Realtime Associates]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1993|06|01}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Barver Battle Saga: Tài Kong Zhàn Shì''<br /><center>''Brave Battle Saga: The Space Soldier''</center>
+|Chuanpu Technology
+|Chuanpu Technology
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|TW ({{dts|1996}})<ref name="pirate"/>
+|-
+!scope="row"|''[[Bass Masters Classic]]''
+|Black Pearl Software
+|Black Pearl Software<br />[[THQ]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Bass Masters Classic: Pro Edition]]''
+|Black Pearl Software
+|Black Pearl Software<br />[[THQ]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Batman (Sega Genesis video game)|Batman]]''<br /><center>''Batman: The Video Game''<sup>NA</sup></center>
+|[[Sunsoft]]
+|Sunsoft<sup>NA/JP</sup><br />[[Sega]]<sup>PAL</sup>
+|{{dts|1990|07|19}}
+|{{dts|1991|06|27}}
+|{{dts|1992|07}}
+|
+|-
+!scope="row"|''[[Batman Forever (video game)|Batman Forever]]''
+|[[List of Acclaim Entertainment subsidiaries|Probe Entertainment]]
+|[[Acclaim Entertainment]]<br />[[Warner Bros. Interactive Entertainment]]
+|{{dts|1995|10|17}}
+|{{dts|1995|09|07}}
+|{{dts|1995|10}}
+|
+|-
+!scope="row"|''[[Batman Returns (video game)|Batman Returns]]''
+|[[Malibu Comics|Malibu Interactive]]
+|[[Sega]]
+|{{dts|1993|02|19}}
+|{{dts|1992|12}}<ref name=EGM41b>Electronic Gaming Monthly #41, pg. 45</ref>
+|{{dts|1992|11}}
+|
+|-
+!scope="row"|''[[Batman: Return of the Joker|Batman: Revenge of the Joker]]''
+|Ringler Studios
+|[[Sunsoft]]
+|{{unreleased}}
+|{{dts|1993|01}}<ref name=EGM42a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Battle Golfer Yui]]''
+|[[Sega|Sega CS]]<br />[[Santos (game developer)|Santos]]
+|[[Sega]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Battle Mania Daiginjō]]''
+|[[Tokai Communications|Vic Tokai]]
+|[[Tokai Communications|Vic Tokai]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Battle Master]]''
+|[[Nick Pelling]]
+|[[List of Acclaim Entertainment subsidiaries|Arena Entertainment]]
+|{{unreleased}}
+|{{dts|1991|12}}<ref name=EGM29>Electronic Gaming Monthly #29, pg. 29</ref>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Battle Squadron]]''
+|[[Innerprise Software]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1990|12}}
+|{{dts|1991|01}}
+|
+|-
+!scope="row"|''[[MechWarrior 3050|Battletech: A Game of Armored Combat]]''
+|[[Malibu Comics|Malibu Interactive]]
+|Extreme Entertainment Group
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Battletoads]]''
+|[[Arc System Works]]
+|[[Tradewest]]<sup> NA/JP</sup><br />[[Sega]]<sup> PAL</sup>
+|{{dts|1993|03|26}}
+|{{dts|1993|03}}
+|{{dts|1993|07}}
+|
+|-
+!scope="row"|''[[Battletoads & Double Dragon]]''
+|[[Rare (company)|Rare]]
+|[[Tradewest]]
+|{{unreleased}}
+|{{dts|1993|12}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Beast Wrestler]]''<br /><center>''Beast Warriors''<sup>JP</sup></center>
+|[[Telenet Japan]]<br />Riot
+|[[Renovation Products]]<sup>NA</sup><br />[[Telenet Japan]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|12}}<ref name=EGM29/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Beauty & The Beast: Belle's Quest]]''
+|[[Acclaim Studios Manchester|Software Creations]]
+|[[Sunsoft]]<br />[[Disney Interactive Studios|Disney Software]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Beauty & The Beast: Roar of the Beast]]''
+|[[Acclaim Studios Manchester|Software Creations]]
+|[[Sunsoft]]<br />[[Disney Interactive Studios|Disney Software]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[MTV's Beavis and Butt-Head|Beavis and Butt-Head]]''
+|[[Radical Entertainment]]
+|[[Viacom (original)|Viacom New Media]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1995|05}}
+|
+|-
+!scope="row"|''[[Beggar Prince]]''<br /><center>''Xin Qigai Wangzi'' <sup>[[Taiwan|TW]]</sup></center>
+|C&E, Inc.
+|C&E, Inc.<sup>TW</sup><br />[[Super Fighter Team]]<sup>NA</sup>
+|{{unreleased}}
+|{{dts|2006|05|22}}
+|{{unreleased}}
+|TW ({{dts|1996}})<ref>{{cite web|title=Beggar Prince|url=http://www.sega-16.com/2006/07/beggar-prince/|date=July 6, 2006|author=Horowitz, Ken|publisher=Sega-16|accessdate=January 15, 2014|url-status=live|archiveurl=https://web.archive.org/web/20140116123017/http://www.sega-16.com/2006/07/beggar-prince/|archivedate=January 16, 2014|df=mdy-all}}</ref>
+|-
+!scope="row"|''{{sort|Berenstain Bears' Camping Adventure, The|[[The Berenstain Bears' Camping Adventure]]}}''
+|[[Realtime Associates]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Best of the Best: Championship Karate]]''<br /><center>''The Kick Boxing''<sup>JP</sup></center>
+|[[Loriciels|Loriciel]]
+|[[Electro Brain]]<sup>NA</sup><br />Micro World<sup>JP</sup>
+|{{dts|1993}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Beyond Oasis]]''<br /><center>''The Story of Thor''<sup>JP/PAL</sup></center>
+|[[Ancient (company)|Ancient]]
+|[[Sega]]
+|{{dts|1994|12|12}}
+|{{dts|1995|03|15}}
+|{{dts|1995|03}}
+|
+|-
+!scope="row"|''[[Bible Adventures]]''
+|[[Wisdom Tree]]
+|[[Wisdom Tree]]
+|{{unreleased}}
+|{{dts|1994}}<ref name="P2P">{{cite journal|title=Play to Pray|issue=December 2006|journal=[[Games for Windows: The Official Magazine]]|publisher=[[Ziff Davis]]}}</ref>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Bill Walsh College Football]]''
+|High Score Productions<br />Jim Simmons
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1993|08}}
+|{{dts|1993|09}}
+|
+|-
+!scope="row"|''[[Bill Walsh College Football '95]]''
+|High Score Productions<br />Jim Simmons
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1994|06|01}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Bimini Run]]''
+|Microsmiths
+|Nuvision Entertainment
+|{{unreleased}}
+|{{dts|1991|02}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Bio-Hazard Battle]]''<br /><center>''Crying: Aseimei Sensou''<sup>JP</sup></center>
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{dts|1992|10|30}}
+|{{dts|1992|11}}<ref name=EGM40a/>
+|{{dts|1992|11}}
+|
+|-
+!scope="row"|''[[Bio-ship Paladin]]''<br /><center>''Uchuu Senkan Gomora''</center>
+|Aisystem Tokyo
+|UPL
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[List of Sailor Moon video games#Sailor Moon (Angel) 1993|Bishoujo Senshi Sailor Moon]]''
+|[[Arc System Works]]<br />TNS
+|Ma-Ba
+|{{dts|1994}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Blades of Vengeance]]''
+|[[Krome Studios Melbourne|Beam Software]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1993|12}}
+|{{dts|1993|12|17}}
+|
+|-
+!scope="row"|''[[Blaster Master 2]]''
+|[[Acclaim Studios Manchester|Software Creations]]
+|[[Sunsoft]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Blockout]]''
+|[[Electronic Arts]]
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Sega]]<sup>JP</sup>
+|{{dts|1991|11|01}}
+|{{dts|1991}}
+|{{dts|1991|07}}
+|
+|-
+!scope="row"|''[[Bloodshot (video game)|Bloodshot]]''
+|[[Domark]]
+|[[Domark]]
+|{{unreleased}}
+|{{dts|1994|11}}
+|{{dts|1995|01}}
+|
+|-
+!scope="row"|''[[Blue Almanac]]''<br /><center>''Star Odyssey''<sup>NA</sup></center>
+|HOT-B
+|[[Kodansha]]<sup>JP</sup><br />[[Super Fighter Team]]<sup>NA</sup>
+|{{dts|1991|06|22}}
+|{{dts|2011|06|22}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Body Count (video game)|Bodycount]]''
+|[[List of Acclaim Entertainment subsidiaries|Probe Software]]
+|[[Sega]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994|03}}
+|
+|-
+!scope="row"|''[[Bonanza Bros.]]''
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{dts|1991|05|17}}
+|{{dts|1991|05|16}}<ref name=EGM28>Electronic Gaming Monthly #28, pg. 33</ref>
+|{{dts|1991|12|15}}
+|
+|-
+!scope="row"|''[[Boogerman: A Pick and Flick Adventure]]''
+|[[Interplay Entertainment|Interplay]]
+|[[Interplay Entertainment|Interplay]]<sup>NA/PAL</sup>
+|{{unreleased}}
+|{{dts|1994|11|18}}
+|{{dts|1995|1}}
+|
+|-
+!scope="row"|''[[Boxing Legends of the Ring]]''
+|[[Sculptured Software]]
+|[[Electro Brain]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Bram Stoker's Dracula (video game)|Bram Stoker's Dracula]]''
+|[[Psygnosis]]<br />[[Traveller's Tales]]
+|[[Sony Imagesoft]]
+|{{unreleased}}
+|{{dts|1993|07}}
+|{{dts|1993|11}}
+|
+|-
+!scope="row"|''[[Brett Hull Hockey '95]]''
+|[[Radical Entertainment]]
+|[[Accolade (company)|Sport Accolade]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Brian Lara Cricket]]''
+|[[Audiogenic|Audiogenic Software]]
+|[[Codemasters]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Brian Lara Cricket '96]]''<br /><center>''Shane Warne Cricket'' <sup>AUS</sup></center>
+|[[Audiogenic|Audiogenic Software]]
+|[[Codemasters]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1996}}
+|
+|-
+!scope="row"|''[[Brutal: Paws of Fury]]''
+|[[Eurocom|Eurocom Entertainment Software]]
+|[[GameTek]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994|10|01}}
+|
+|-
+!scope="row"|''[[Bubba 'n' Stix]]''
+|[[Core Design]]
+|[[Core Design]]<br />[[Tengen (company)|Tengen]]
+|{{unreleased}}
+|{{dts|1994|02}}
+|{{dts|1994|04}}
+|
+|-
+!scope="row"|''[[Bubble and Squeak (video game)|Bubble And Squeak]]''
+|[[Audiogenic|Audiogenic Software]]<br />Fox Williams
+|[[Sunsoft]]
+|{{unreleased}}
+|{{dts|1994|03}}
+|{{dts|1995|01}}
+|
+|-
+!scope="row"|''[[Bubsy in Claws Encounters of the Furred Kind]]''
+|Al Baker & Associates
+|[[Accolade (company)|Accolade]]
+|{{unreleased}}
+|{{dts|1993|07}}
+|{{dts|1993|08}}
+|
+|-
+!scope="row"|''[[Bubsy 2]]''
+|[[Accolade (company)|Accolade]]
+|[[Accolade (company)|Accolade]]
+|{{unreleased}}
+|{{dts|1994|10|15}}
+|{{dts|1994|10|21}}
+|
+|-
+!scope="row"|''[[Buck Rogers: Countdown to Doomsday]]''
+|[[Electronic Arts]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1991|12}}<ref name=EGM29/>
+|{{dts|1992|02}}
+|
+|-
+!scope="row"|''[[Budokan: The Martial Spirit]]''
+|[[Electronic Arts]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1990|07}}
+|{{dts|1990|12}}
+|
+|-
+!scope="row"|''[[Bugs Bunny in Double Trouble]]''
+|[[List of Acclaim Entertainment subsidiaries|Probe Entertainment]]<br />[[Atod]]<br />[[Climax Group|Climax Studios]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{dts|1996|08|15}}
+|
+|-
+!scope="row"|''[[Bulls vs. Blazers and the NBA Playoffs]]''<br /><center>''NBA Playoffs: Bulls Vs. Blazers''<sup>JP</sup></center>
+|[[Electronic Arts]]
+|[[Electronic Arts|EA Sports]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1993}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Bulls vs Lakers and the NBA Playoffs]]''<br /><center>''NBA Pro Basketball: Bulls vs. Lakers and the NBA Playoffs''<sup>JP</sup></center>
+|[[Electronic Arts]]
+|[[Electronic Arts|Electronic Arts Sports Network]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1992|06}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Burning Force]]''
+|[[Namco]]
+|[[Namco]]
+|{{dts|1990}}
+|{{dts|1990}}
+|{{dts|1991|12}}
+|
+|-
+!scope="row"|<span id="C"></span>''[[Cadash]]''<span id="C"></span>
+|Cyclone System
+|[[Taito]]
+|{{unreleased}}
+|{{dts|1992|06}}<ref name=EGM35>Electronic Gaming Monthly #35, pg. 41</ref>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Super Caesars Palace|Caesars Palace]]''
+|[[Illusions Gaming Company]]
+|[[Virgin Interactive|Virgin Games]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Cal Ripken Jr. Baseball]]''
+|[[Malibu Comics|Acme Interactive]]
+|[[Mindscape]]
+|{{unreleased}}
+|{{dts|1992|12}}<ref name=EGM41a>Electronic Gaming Monthly #41, pg. 44</ref>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Caliber .50]]''
+|[[Visco Corporation|Visco]]
+|Mentrix Software
+|{{unreleased}}
+|{{dts|1991|12}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[California Games]]''
+|[[Appaloosa Interactive|Novotrade]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1992|02}}<ref name=EGM31>Electronic Gaming Monthly #31, pg. 33</ref>
+|{{dts|1991|12}}
+|
+|-
+!scope="row"|''[[Cannon Fodder (video game)|Cannon Fodder]]''
+|PanelComp
+|[[Virgin Interactive|Virgin Games]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995|01}}
+|
+|-
+!scope="row"|''[[Captain America and The Avengers]]''
+|[[Data East]]<br />ISCO<br />Opera House
+|[[Data East]]<sup> NA</sup><br />[[Sega]]<sup> PAL</sup>
+|{{unreleased}}
+|{{dts|1992|12}}
+|{{dts|1993|04}}
+|
+|-
+!scope="row"|''[[Captain Planet and the Planeteers#Video games|Captain Planet]]''
+|[[NovaLogic]]
+|[[Sega]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1993|02|16}}
+|
+|-
+!scope="row"|''Cascade''
+|[[Epyx]]
+|[[Super Fighter Team]]
+|{{unreleased}}
+|{{dts|2015|12|24}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Castle of Illusion Starring Mickey Mouse]]''<br /><center>''I Love Mickey Mouse: Fushigi no Oshiro Daibouken''<sup>JP</sup></center>
+|[[Sega|Sega R&D2]]
+|[[Sega]]
+|{{dts|1990|11|21}}
+|{{dts|1990|11|20}}
+|{{dts|1991|03}}
+|
+|-
+!scope="row"|''[[Castlevania: Bloodlines]]''<br /><center>''Castlevania: The New Generation''<sup>PAL</sup><br />''Vampire Killer''<sup>JP</sup></center>
+|[[Konami]]
+|[[Konami]]
+|{{dts|1994|03|17}}
+|{{dts|1994|03|18}}
+|{{dts|1994|03|20}}
+|
+|-
+!scope="row"|''[[Centurion: Defender of Rome]]''
+|Bits of Magic
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1991|07}}
+|{{dts|1991|06}}
+|
+|-
+!scope="row"|''[[Chakan: The Forever Man]]''
+|Extended Play<br />Nu Romantic Productions
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1992|12|08}}<ref name=EGM42a/>
+|{{dts|1993|02}}
+|
+|-
+!scope="row"|''[[Champions World Class Soccer]]''
+|[[Park Place Productions]]
+|[[List of Acclaim Entertainment subsidiaries|Flying Edge]]<sup>NA/PAL</sup><br />[[Acclaim Entertainment|Acclaim Japan]]<sup>JP</sup>
+|{{dts|1994}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Championship Bowling]]''<br /><center>''Boogie Woogie Bowling'' <sup>JP</sup></center>
+|Soft Machine
+|Mentrix Software<sup>NA</sup><br />[[Visco Corporation]]<sup>JP</sup>
+|{{dts|1993}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Championship Pool]]''
+|Bitmasters
+|[[Mindscape]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[R.C. Pro-Am|Championship Pro-Am]]''
+|[[Rare (company)|Rare]]
+|[[Tradewest]]
+|{{unreleased}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Chaos Engine, The|[[The Chaos Engine]]}}''<br /><center>''Soldiers of Fortune''<sup>NA</sup></center>
+|[[Graftgold]]
+|[[Spectrum HoloByte]]<sup>NA</sup><br />[[MicroProse]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1993|11}}
+|{{dts|1994|07}}
+|
+|-
+!scope="row"|''[[Chase H.Q.#Home versions|Chase H.Q. II]]''<br /><center>''Super H.Q.''<sup>JP</sup></center>
+|I.T.L
+|[[Taito]]
+|{{dts|1992}}
+|{{dts|1992|11}}<ref name=EGM40b>Electronic Gaming Monthly #40, pg. 37</ref>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Cheese Cat-Astrophe Starring Speedy Gonzales]]''
+|[[Cryo Interactive]]
+|[[Sega]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995|03|1}}
+|
+|-
+!scope="row"|''[[Chester Cheetah: Too Cool to Fool]]''
+|System Vision
+|[[Kaneko]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Chester Cheetah: Wild Wild Quest]]''
+|[[Kaneko]]
+|[[Kaneko]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Chi Chi's Pro Challenge Golf]]''<br /><center>''Top Pro Golf 2''<sup>JP</sup></center>
+|Coconuts Japan
+|[[Virgin Interactive|Virgin Games]]<sup>NA</sup><br />Soft Vision<sup>JP</sup>
+|{{dts|1993}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Chibi Maruko-chan: Waku Waku Shopping]]''
+|[[Namco]]
+|[[Namco]]
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Mega Twins|Chiki Chiki Boys]]''
+|[[Visco Corporation|Visco]]
+|[[Sega]]
+|{{dts|1992}}
+|{{dts|1992}}
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Chōkyūkai Miracle Nine]]''
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{dts|1995|07|21}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Chuck Rock]]''
+|[[Core Design]]
+|[[Virgin Interactive|Virgin Games]]
+|{{unreleased}}
+|{{dts|1991|12}}<ref name=EGM32>Electronic Gaming Monthly #32, pg. 35</ref>
+|{{dts|1992|09}}
+|
+|-
+!scope="row"|''[[Chuck Rock II: Son of Chuck]]''
+|[[Core Design]]
+|[[Virgin Interactive|Virgin Games]]<sup>NA/JP</sup><br />Core Design<sup>PAL</sup>
+|{{dts|1993}}
+|{{dts|1993|09}}
+|{{dts|1993|10}}
+|
+|-
+!scope="row"|''[[ClayFighter]]''
+|Ringler Studios
+|[[Interplay Entertainment|Interplay]]
+|{{unreleased}}
+|{{dts|1994|06|23}}
+|{{dts|1995|01|01}}
+|
+|-
+!scope="row"|''[[Cliffhanger (video game)|Cliffhanger]]''
+|[[Malibu Comics|Malibu Interactive]]
+|[[Sony Imagesoft]]
+|{{unreleased}}
+|{{dts|1993|11}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Clue (1992 video game)|Clue]]''
+|[[Sculptured Software]]
+|[[Parker Brothers]]
+|{{unreleased}}
+|{{dts|1992}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Coach K College Basketball]]''
+|Hitmen Productions
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[College Football USA 96]]''
+|High Score Entertainment<br />Jim Simmons
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1995|07|15}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[College Football USA '97|College Football USA 97: The Road To New Orleans]]''
+|High Score Entertainment<br />[[EA Tiburon|Tiburon Entertainment]]
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[College Football's National Championship]]''
+|[[BlueSky Software]]
+|[[Sega|Sega Sports]]
+|{{unreleased}}
+|{{dts|1994|05|06}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[College Football's National Championship II]]''
+|[[BlueSky Software]]
+|[[Sega|Sega Sports]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[College Slam]]''
+|[[Acclaim Studios Austin|Iguana Entertainment]]
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Columns (video game)|Columns]]''<br /><center>''Shapes and Columns''<sup>BR</sup></center>
+|[[Sega|Sega R&D2]]
+|[[Sega]]
+|{{dts|1990|06|30}}
+|{{dts|1990|06|29}}
+|{{dts|1990|07|09}}
+|
+|-
+!scope="row"|''[[Columns III]]''<br /><center>''Columns III: Taiketsu! Columns World''<sup>JP</sup></center>
+|[[Sega|Sega CS]]<br />Minato Giken
+|[[Vic Tokai]]<sup>NA</sup><br />Sega<sup>JP</sup>
+|{{dts|1993}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Combat Cars]]''
+|[[Accolade (company)|Accolade]]
+|[[Accolade (company)|Accolade]]
+|{{unreleased}}
+|{{dts|1994|06}}
+|{{dts|1994|07}}
+|
+|-
+!scope="row"|''[[Comix Zone]]''
+|[[Sega Technical Institute]]
+|[[Sega]]
+|{{dts|1995|09|01}}
+|{{dts|1995|08|02}}
+|{{dts|1995|10|27}}
+|
+|-
+!scope="row"|''[[Contra: Hard Corps]]''<br /><center>''Probotector'' <sup>EU</sup><br />''Contra: The Hard Corps''<sup>JP</sup></center>
+|[[Konami]]
+|[[Konami]]
+|{{dts|1994|09|15}}
+|{{dts|1994|08|08}}
+|{{dts|1994|10|14}}
+|
+|-
+!scope="row"|''[[Cool Spot]]''
+|[[Virgin Interactive|Virgin Games]]
+|Virgin Games
+|{{dts|1993}}
+|{{dts|1993|04}}
+|{{dts|1993|05}}
+|
+|-
+!scope="row"|''[[Cosmic Spacehead]]''
+|[[Supersonic Software]]
+|[[Codemasters]]
+|{{unreleased}}
+|{{dts|1993|11|02}}
+|{{dts|1993|11|02}}
+|
+|-
+!scope="row"|''[[Crack Down]]''
+|HOT-B
+|Sage's Creation<sup>NA</sup><br />[[Sega]]<sup>JP/PAL</sup>
+|{{dts|1990}}
+|{{dts|1991|03}}
+|{{dts|1991|01}}
+|
+|-
+!scope="row"|''Crayon Shin-Chan: Arashi wo Yobu Enji''
+|[[SIMS Co., Ltd.|SIMS]]
+|Ma-Ba
+|{{dts|1994}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Airwolf#Video games|CrossFire]]''<br /><center>''Super Airwolf''<sup>JP</sup></center>
+|A.I
+|Kyugo
+|{{dts|1991}}
+|{{dts|1991}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Crüe Ball]]''
+|[[NuFX]]
+|[[Electronic Arts]]<sup>NA/EU</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|11}}<ref name=EGM40a/>
+|{{dts|1992|09}}
+|
+|-
+!scope="row"|''[[Crusader of Centy]]''<br /><center>''Soleil''<sup>PAL</sup><br />''Shin Souseiki Ragnacenty''<sup>JP</sup></center>
+|[[Nex Entertainment|Nextech]]
+|[[Atlus]]<sup>NA</sup><br />[[Sega]]<sup>JP/PAL</sup>
+|{{dts|1994|06|17}}
+|{{dts|1994|06|16}}
+|{{dts|1995|01}}
+|
+|-
+!scope="row"|''[[Crystal's Pony Tale]]''
+|[[Artech Digital Entertainment|Artech Studios]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1994|02|01}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Curse (video game)|Curse]]''
+|[[Micronet co., Ltd.|Micronet]]
+|Micronet
+|{{dts|1989}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Cutie Suzuki no Ringside Angel]]''
+|Copya System
+|[[Asmik Ace Entertainment|Asmik]]
+|{{dts|1990}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Cutthroat Island (video game)|Cutthroat Island]]''
+|[[Acclaim Studios Manchester|Software Creations]]
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{dts|1996}}
+|
+|-
+!scope="row"|''[[Cyberball]]''
+|[[Sega|Sega R&D2]]
+|[[Sega]]<br />[[Tengen (company)|Tengen]]
+|{{dts|1990}}
+|{{dts|1990|07}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Corporation (video game)|Cyber-Cop]]''<br /><center>''Corporation'' <sup>EU</sup></center>
+|[[Core Design]]
+|[[Virgin Interactive|Virgin Games]]
+|{{unreleased}}
+|{{dts|1992|09}}<ref name=EGM40b/>
+|{{dts|1992|09}}
+|
+|-
+!scope="row"|''[[Cyborg Justice]]''
+|[[Appaloosa Interactive|Novotrade]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993|04}}
+|
+|-
+!scope="row"|<span id="D"></span>''[[Daffy Duck in Hollywood (video game)|Daffy Duck in Hollywood]]''<span id="D"></span>
+|Psionic Systems
+|[[Sega]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994}}
+|BR (1994)
+|-
+!scope="row"|''[[Dahna: Megami Tanjō]]''
+|[[Information Global Service|IGS]]
+|IGS
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Dangerous Seed]]''
+|[[TOSE|Tose Software]]
+|[[Namco]]
+|{{dts|1990}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Dark Castle]]''
+|[[Artech Digital Entertainment|Artech Studios]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1991|12}}
+|{{dts|1991|11}}
+|
+|-
+!scope="row"|''[[Darwin 4081]]''
+|[[Sega|Sega R&D2]]
+|[[Sega]]
+|{{dts|1990}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Dashin' Desperadoes]]''
+|[[Data East]]
+|[[Data East]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[David Crane's Amazing Tennis]]''
+|[[FarSight Studios|FarSight Technologies]]
+|[[Absolute Entertainment]]
+|{{unreleased}}
+|{{dts|1993|01}}<ref name=EGM42a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[David Robinson's Supreme Court]]''<br /><center>''David Robinson Basketball''<sup>JP</sup></center>
+|[[Malibu Comics|Acme Interactive]]
+|[[Sega]]
+|{{dts|1992|07|10}}
+|{{dts|1992|06}}<ref name=EGM34>Electronic Gaming Monthly #34, pg. 35</ref>
+|{{dts|1992|08}}
+|
+|-
+!scope="row"|''Davis Cup Tennis''<br /><center>''Davis Cup World Tour''<sup>PAL</sup><br />''Davis Cup''<sup>JP</sup></center>
+|[[Loriciels|Loriciel]]
+|[[Tengen (company)|Tengen]]
+|{{dts|1993}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Daze Before Christmas]]''
+|[[Funcom]]
+|[[Sunsoft]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Power Moves|Deadly Moves]]''<br /><center>''Power Athlete''<sup>JP</sup></center>
+|System Vision
+|[[Kaneko]]<sup>NA/JP</sup>
+|{{dts|1992}}
+|{{dts|1992}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Death and Return of Superman, The|[[The Death and Return of Superman]]}}''
+|[[Blizzard Entertainment]]
+|[[Sunsoft]]<sup>NA</sup><br />[[Acclaim Entertainment]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1995|01}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Death Duel (video game)|Death Duel]]''
+|Punk Development
+|RazorSoft
+|{{unreleased}}
+|{{dts|1992|09}}<ref name=EGM38>Electronic Gaming Monthly #38, pg. 35</ref>
+|{{dts|1992|10}}
+|
+|-
+!scope="row"|''[[Decap Attack]]''
+
+''Magical Hat no Buttobi Tabo! Daibōken''<sup>'''JP'''</sup><br />
+|[[Tokai Communications|Vic Tokai]]
+|[[Sega]]
+|{{dts|1990}}
+|{{dts|1991|09}}
+|{{dts|1991|11}}
+|
+|-
+!scope="row"|''[[Demolition Man (video game)|Demolition Man]]''
+|Alexandria, Inc.
+|[[Acclaim Entertainment]]<br />[[Warner Bros. Interactive Entertainment]]
+|{{unreleased}}
+|{{dts|1995|01}}
+|{{dts|1995|08}}
+|
+|-
+!scope="row"|''[[Desert Demolition|Desert Demolition Starring Road Runner and Wile E. Coyote]]''
+|[[BlueSky Software]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1995|02}}
+|{{dts|1995|03}}
+|
+|-
+!scope="row"|''[[Desert Strike: Return to the Gulf]]''<br /><center>''Desert Strike: Wangan Sakusen''<sup>JP</sup></center>
+|[[Electronic Arts]]
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|03}}<ref name=EGM32/>
+|{{dts|1992|03}}
+|
+|-
+!scope="row"|''[[True Golf: Wicked 18|Devil's Course]]''
+|[[Technology and Entertainment Software|T&E Soft]]
+|[[Sega]]
+|{{dts|1994}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Devilish (video game)|Devilish: The Next Possession]]''<br /><center>''Bad Omen'' <sup>JP</sup></center>
+|Aisystem Tokyo
+|Sage's Creation<sup>NA</sup><br />HOT-B<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|04}}<ref name=EGM33/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Dick Tracy (video game)#Sega version|Dick Tracy]]''
+|[[Sega Technical Institute]]
+|[[Sega]]
+|{{dts|1991}}
+|{{dts|1991|01}}
+|{{dts|1991|04}}
+|
+|-
+!scope="row"|''[[Dick Vitale's "Awesome Baby" College Hoops]]''
+|[[Atari Games|Time Warner Interactive]]
+|[[Atari Games|Time Warner Interactive]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Dino Dini's Soccer]]''
+|Dini & Dini Productions
+|[[Virgin Interactive]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Dino Land]]''<br /><center>''Chou Touryuu Retsuden: Dino Land''<sup>JP</sup></center>
+|[[Namco Tales Studio|Wolf Team]]
+|[[Renovation Products]]<sup>NA</sup><br />[[Telenet Japan]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|11}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Dinosaurs For Hire#Video games|Dinosaurs for Hire]]''
+|[[Sega|Sega Interactive Development Division]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Disney's Aladdin (Virgin Games video game)|Disney's Aladdin]]''
+|[[Virgin Interactive|Virgin Games]]
+|[[Sega]]<br />[[Disney Interactive Studios|Disney Software]]
+|{{dts|1993}}
+|{{dts|1993|11|11}}
+|{{dts|1993|11|11}}
+|
+|-
+!scope="row"|''[[Disney's Pinocchio]]''
+|[[Virgin Interactive|Virgin Studios London]]
+|[[THQ]]<sup>NA</sup><br />[[Disney Interactive Studios|Disney Interactive]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1996|11|12}}
+|{{dts|1996|10}}
+|
+|-
+!scope="row"|''[[Bonkers (TV series)#Video games|Disney's Bonkers]]''
+|[[Sega|Sega Interactive Development Division]]
+|[[Sega]]<br />[[Disney Interactive Studios|Disney Software]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Divine Sealing]]''
+|Studio Fazzy
+|[[CYX]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[DJ Boy]]''
+|Inter State
+|[[Kaneko]]<sup>NA</sup><br />[[Sega]]<sup>JP/PAL</sup>
+|{{dts|1990}}
+|{{dts|1990}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Donald in Maui Mallard]]''
+|[[Eurocom|Eurocom Entertainment Software]]
+|[[Sega]]<br />[[Disney Interactive Studios|Disney Interactive]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995|12|08}}
+|
+|-
+!scope="row"|''Doraemon: Yume Dorobou to 7-nin no Gozans''
+|[[Sega|Sega CS]]<br />G-Sat<br />Nexus Interact<br />Winds
+|[[Sega]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Double Clutch (video game)|Double Clutch]]''
+|BGS Development
+|[[Sega]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Double Dragon (video game)|Double Dragon]]''
+|[[Acclaim Studios Manchester|Software Creations]]
+|[[Accolade (company)|Ballistic]]
+|{{unreleased}}
+|{{dts|1992|04}}<ref name=EGM33/>
+|{{dts|1992|04|29}}
+|
+|-
+!scope="row"|''{{sort|Double Dragon 2|[[Double Dragon II: The Revenge]]}}''
+|PAL Soft
+|PAL Soft
+|{{dts|1991|12|20}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Double Dragon 3|[[Double Dragon 3: The Rosetta Stone|Double Dragon 3: The Arcade Game]]}}''
+|[[Acclaim Studios Manchester|Software Creations]]
+|[[List of Acclaim Entertainment subsidiaries|Flying Edge]]
+|{{unreleased}}
+|{{dts|1992|02}}
+|{{dts|1992|02}}
+|
+|-
+!scope="row"|''{{sort|Double Dragon 5|[[Double Dragon V: The Shadow Falls]]}}''
+|[[Leland Interactive Media]]
+|[[Tradewest]]
+|{{unreleased}}
+|{{dts|1994|08|05}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Double Dribble: The Playoff Edition]]''<br /><center>''Hyper Dunk''<sup>PAL</sup><br />''Hyper Dunk: The Playoff Edition''<sup>JP</sup></center>
+|[[Konami]]
+|[[Konami]]
+|{{dts|1994}}
+|{{dts|1994|04}}
+|{{dts|1994|03}}
+|
+|-
+!scope="row"|''[[Dr. Robotnik's Mean Bean Machine]]''<br /><center>''[[Puyo Puyo]]''<sup>JP</sup></center>
+|[[Compile (publisher)|Compile]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1993|11|26}}
+|{{dts|1994|01}}
+|
+|-
+!scope="row"|''[[Dragon Ball Z: Buyu Retsuden]]''<br /><center>''Dragon Ball Z: L'Appel du Destin '' <sup>[[France|FR]]</sup><br />''Dragon Ball Z'' <sup>POR</sup></center>
+|[[TOSE|Tose Software]]
+|[[Bandai]]
+|{{dts|1994}}
+|{{unreleased}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Dragon Slayer: The Legend of Heroes|Dragon Slayer: Eiyuu Densetsu]]''
+|Sega Falcom
+|[[Sega]]
+|{{dts|1994}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Dragon Slayer: The Legend of Heroes II|Dragon Slayer: Eiyuu Densetsu II]]''
+|Sega Falcom
+|[[Sega]]
+|{{dts|1995|01|20}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Dragon's Eye Plus: Shanghai III''
+|[[Home Data]]
+|[[Home Data]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Devil's Crush|Dragon's Fury]]''<br /><center>''Devil Crash MD''<sup>JP</sup></center>
+|[[Technosoft]]
+|[[Tengen (company)|Tengen]]<sup>NA/PAL</sup><br />Technosoft<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1992|07}}
+|{{dts|1992|09|24}}
+|
+|-
+!scope="row"|''[[Dragon's Revenge]]''
+|[[Tengen (company)|Tengen]]
+|[[Tengen (company)|Tengen]]
+|{{dts|1993}}
+|{{dts|1993}}
+|{{dts|1994|01|14}}
+|
+|-
+!scope="row"|''[[Dragon: The Bruce Lee Story (video game)|Dragon: The Bruce Lee Story]]''
+|[[Virgin Interactive]]
+|[[Acclaim Entertainment]]<sup>NA</sup><br />Virgin Interactive<sup>EU</sup>
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994|06}}
+|
+|-
+!scope="row"|''{{sort|Duel, The: Test Drive II|[[The Duel: Test Drive II]]}}''
+|[[Accolade (company)|Accolade]]
+|[[Accolade (company)|Ballistic]]
+|{{unreleased}}
+|{{dts|1992|04}}<ref name=EGM33/>
+|{{dts|1992|05|06}}
+|
+|-
+!scope="row"|''[[Duke Nukem 3D]]''
+|[[3D Realms]]
+|Tectoy
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|BR ({{dts|1998}})<ref>{{cite web|url=http://jogorama.com.br/jogos/mega-drive/4756/duke-nukem-3d/|title=Duke Nukem 3D (Mega Drive)|publisher=Jogorama|accessdate=January 15, 2014|language=Portuguese|url-status=live|archiveurl=https://web.archive.org/web/20140116132741/http://jogorama.com.br/jogos/mega-drive/4756/duke-nukem-3d/|archivedate=January 16, 2014|df=mdy-all}}</ref>
+|-
+!scope="row"|''[[Dune II|Dune: The Battle For Arrakis]]''<br /><center>''Dune II: Battle for Arrakis''<sup>PAL</sup></center>
+|[[Westwood Studios]]
+|[[Virgin Interactive|Virgin Games]]
+|{{unreleased}}
+|{{dts|1994|01}}
+|{{dts|1994|06}}
+|
+|-
+!scope="row"|''[[Dungeons & Dragons: Warriors of the Eternal Sun]]''
+|[[Westwood Studios|Westwood Associates]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1992|08}}<ref name=EGM37>Electronic Gaming Monthly #37, pg. 31</ref>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''Dyna Brothers''
+|[[CRI Middleware|CRI]]
+|[[CRI Middleware|CRI]]
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Dyna Brothers 2''
+|[[CRI Middleware|CRI]]
+|[[CRI Middleware|CRI]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Dynamite Duke]]''
+|Hertz Co., Ltd.
+|[[Sega]]
+|{{dts|1990}}
+|{{dts|1990|12}}
+|{{dts|1991|04}}
+|
+|-
+!scope="row"|''[[Dynamite Headdy]]''
+|[[Treasure (company)|Treasure]]
+|[[Sega]]
+|{{dts|1994|08|05}}
+|{{dts|1994|09}}
+|{{dts|1994|10}}
+|
+|-
+!scope="row"|<span id="E"></span>''[[Earnest Evans]]''<span id="E"></span>
+|[[Namco Tales Studio|Wolf Team]]
+|[[Renovation Products]]
+|{{unreleased}}
+|{{dts|1992|04}}<ref name=EGM33/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Earth Defense]]''<br /><center>''The Earth Defend''<sup>TW</sup></center>
+|AV Artisan
+|Realtec
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|TW ({{dts|1995}})
+|-
+!scope="row"|''[[Earthworm Jim (video game)|Earthworm Jim]]''
+|[[Shiny Entertainment]]
+|[[Playmates Toys|Playmates Interactive]]<sup>NA</sup><br />[[Virgin Interactive]]<sup>EU</sup>
+|{{unreleased}}
+|{{dts|1994|08|02}}
+|{{dts|1994|11|11}}
+|
+|-
+!scope="row"|''[[Earthworm Jim 2]]''
+|[[Shiny Entertainment]]
+|[[Playmates Toys|Playmates Interactive]]<sup>NA</sup><br />[[Virgin Interactive]]<sup>EU</sup>
+|{{unreleased}}
+|{{dts|1995|11|15}}
+|{{dts|1995|12|22}}
+|
+|-
+!scope="row"|''[[Ecco Jr.]]''
+|[[Appaloosa Interactive|Novotrade]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1995|08|15}}
+|{{dts|1995|12|11}}
+|
+|-
+!scope="row"|''[[Ecco the Dolphin]]''
+|[[Appaloosa Interactive|Novotrade]]
+|[[Sega]]
+|{{dts|1992}}
+|{{dts|1992|12|29}}<ref name=EGM42a/>
+|{{dts|1992|12}}
+|
+|-
+!scope="row"|''[[Ecco: The Tides of Time]]''<br /><center>''Ecco the Dolphin II''<sup>JP</sup></center>
+|[[Appaloosa Interactive|Novotrade]]
+|[[Sega]]
+|{{dts|1994|08|26}}
+|{{dts|1994|08|25}}
+|{{dts|1994|08|27}}
+|
+|-
+!scope="row"|''[[El Viento]]''
+|[[Namco Tales Studio|Wolf Team]]
+|[[Renovation Products]]<sup>NA</sup><br />[[Telenet Japan]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|11}}<ref name=EGM28/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Elemental Master]]''
+|[[Technosoft]]
+|[[Renovation Products]]<sup>NA</sup><br />Technosoft<sup>JP</sup>
+|{{dts|1990}}
+|{{dts|1993|03}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Eliminate Down]]''
+|Aprinet
+|Soft Vision
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[ESPN Baseball Tonight]]''
+|[[Park Place Productions]]
+|[[Sony Imagesoft]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[ESPN National Hockey Night (video game)|ESPN National Hockey Night]]''
+|[[Park Place Productions]]
+|[[Sony Imagesoft]]
+|{{unreleased}}
+|{{dts|1994|11}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[ESPN Speed World]]''
+|[[Park Place Productions]]
+|[[Sony Imagesoft]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[ESPN Sunday Night NFL]]''
+|Ringler Studios
+|[[Sony Imagesoft]]
+|{{unreleased}}
+|{{dts|1994|08|01}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[ESWAT: City under Siege|ESWAT: City Under Siege]]''<br /><center>''Cyber Police: ESWAT''<sup>JP</sup></center>
+|[[Sega|Sega R&D2]]
+|[[Sega]]
+|{{dts|1990}}
+|{{dts|1990|10}}
+|{{dts|1990|12}}
+|
+|-
+!scope="row"|''[[Eternal Champions]]''
+|[[Sega|Sega Interactive Development Division]]
+|[[Sega]]
+|{{dts|1993}}
+|{{dts|1993|12|11}}
+|{{dts|1994|01|16}}
+|
+|-
+!scope="row"|''[[European Club Soccer]]''<br /><center>''World Trophy Soccer'' <sup>NA</sup><br />''J.League Champion Soccer'' <sup>JP</sup></center>
+|[[Krisalis Software]]<br />[[Game Arts]]<sup>JP</sup>
+|[[Virgin Interactive|Virgin Games]]<sup>NA/PAL</sup><br />[[Shogakukan|Shogakukan Production]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|11}}<ref name=EGM40b/>
+|{{dts|1992|07}}
+|
+|-
+!scope="row"|''[[Evander Holyfield's Real Deal Boxing|Evander Holyfield's "Real Deal" Boxing]]''
+|[[Malibu Comics|Acme Interactive]]
+|[[Sega]]
+|{{dts|1992|08|30}}
+|{{dts|1992|08|19}}<ref name=EGM37/>
+|{{dts|1992|09|24}}
+|
+|-
+!scope="row"|''[[Ex-Mutants]]''
+|[[Malibu Comics|Malibu Interactive]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1992|12}}
+|{{dts|1992|12|18}}
+|
+|-
+!scope="row"|''[[Exile (1988 video game series)|Exile]]''<br /><center>''Exile: Toki no Hazama e'' <sup>JP</sup></center>
+|Micro Factory
+|[[Renovation Products]]<sup>NA</sup><br />[[Telenet Japan]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1992|02}}<ref name=EGM31/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Exosquad (video game)|Exo Squad]]''
+|[[Appaloosa Interactive|Novotrade]]
+|[[Playmates Toys|Playmates Interactive Entertainment]]<sup>NA</sup><br />[[Virgin Interactive]]<sup>EU</sup>
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Exodus (video game)|Exodus]]''
+|[[Wisdom Tree]]
+|[[Wisdom Tree]]
+|{{unreleased}}
+|{{dts|1993}}<ref name="P2P"/>
+|{{unreleased}}
+|
+|-
+!scope="row"|<span id="F"></span>''[[F1 Grand Prix: Nakajima Satoru|F-1 Grand Prix: Nakajima Satoru Kanshuu]]''<span id="F"></span>
+|[[Varie]]
+|[[Varie]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[F1 Super License: Nakajima Satoru|F-1 Super License: Nakajima Satoru Kanshuu]]''
+|Aprinet<br />[[Varie]]
+|[[Varie]]
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[F-117 Night Storm]]''<br /><center>''F-117 Stealth Operation: Night Storm'' <sup>JP</sup></center>
+|[[Electronic Arts]]
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1994|05|27}}
+|{{dts|1993|12}}
+|{{dts|1993|12|23}}
+|
+|-
+!scope="row"|''[[F-15 Strike Eagle II]]''
+|[[MicroProse]]
+|[[MicroProse]]
+|{{unreleased}}
+|{{dts|1993|06}}
+|{{dts|1993|12}}
+|
+|-
+!scope="row"|''[[F-22 Interceptor]]''
+|[[Electronic Arts]]
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1993|02|12}}
+|{{dts|1991|09}}<ref name=EGM28/>
+|{{dts|1991|11|21}}
+|
+|-
+!scope="row"|''[[F1 (video game)|F1]]''<br /><center>''Formula One''<sup>NA</sup></center>
+|[[Lankhor]]
+|[[Domark]]
+|{{unreleased}}
+|{{dts|1993|11}}
+|{{dts|1993|11|05}}
+|
+|-
+!scope="row"|''[[F1 Circus MD]]''
+|[[Micronics]]
+|[[Nihon Bussan|Nichibutsu]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[F1 (video game)|F1 World Championship Edition]]''
+|[[Lankhor]]<br />Peakstar Software<br />[[Domark]]
+|[[Domark]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995|09}}
+|
+|-
+!scope="row"|''{{sort|Faery Tale Adventure, The|[[The Faery Tale Adventure]]}}''
+|[[New World Computing]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1991|07}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Family Feud#Merchandise|Family Feud]]''
+|[[Eurocom|Eurocom Entertainment Software]]
+|[[GameTek]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Fantasia (video game)|Fantasia]]''<br /><center>''Fantasia: Mickey Mouse Magic''<sup>JP</sup></center>
+|[[Atari, SA|Infogrames]]
+|[[Sega]]
+|{{dts|1991}}
+|{{dts|1991|08}}
+|{{dts|1991|08}}
+|
+|-
+!scope="row"|''[[Fantastic Dizzy]]''
+|Chameleon Team
+|[[Codemasters]]
+|{{unreleased}}
+|{{dts|1993|09|21}}
+|{{dts|1993|10}}
+|
+|-
+!scope="row"|''[[Fastest 1]]''
+|[[Human Entertainment]]
+|[[Human Entertainment]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Fatal Fury: King of Fighters]]''<br /><center>''Garou Densetsu: Shukumei no Tatakai'' <sup>JP</sup></center>
+|[[Aspect (company)|Aspect]]<br />Gaibrain
+|[[Takara]]<sup>NA</sup><br />[[Sega]]<sup>JP/PAL</sup>
+|{{dts|1993|04|23}}
+|{{dts|1993|02}}
+|{{dts|1993|05}}
+|
+|-
+!scope="row"|''[[Fatal Fury 2]]''<br /><center>''Garou Densetsu 2: Aratanaru Tatakai'' <sup>JP</sup></center>
+|[[Aspect (company)|Aspect]]
+|[[Takara]]<sup>NA/JP</sup><br />[[Sega]]<sup>PAL</sup>
+|{{dts|1994|06|24}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Fatal Labyrinth]]''
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1991|08|21}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[The Killing Game Show|Fatal Rewind]]''<br /><center>''The Killing Game Show'' <sup>JP</sup></center>
+|[[Bizarre Creations|Raising Hell Productions]]
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|10}}
+|{{dts|1991|11}}
+|
+|-
+!scope="row"|''[[Férias Frustradas do Pica-Pau]]''
+|[[Tectoy]]
+|[[Tectoy]]
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|BR ({{dts|1996}})<ref name="Woody">{{cite web|url=http://www.sega-16.com/2012/03/ferias-frustradas-do-pica-pau/|author=Sponsel, Sebastian|title=Férias Frustradas do Pica-Pau|publisher=Sega-16|date=March 18, 2012|accessdate=December 28, 2013|url-status=live|archiveurl=https://web.archive.org/web/20131217024224/http://www.sega-16.com/2012/03/ferias-frustradas-do-pica-pau/|archivedate=December 17, 2013|df=mdy-all}}</ref>
+|-
+!scope="row"|''[[F1 Hero|Ferrari Grand Prix Challenge]]''<br /><center>''F-1 Hero MD: Nakajima Satoru Kanshuu''<sup>JP</sup></center>
+|Aisystem Tokyo
+|[[Flying Edge]]<sup>NA/PAL</sup><br />[[Varie]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|06}}
+|{{dts|1992|09}}
+|
+|-
+!scope="row"|''[[FIFA: Road to World Cup 98|FIFA 98: Road to World Cup]]''
+|XYZ Productions
+|[[EA Sports]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1997}}
+|
+|-
+!scope="row"|''[[FIFA International Soccer]]''
+|[[EA Canada|Extended Play Productions]]
+|[[EA Sports]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1993}}
+|{{dts|1993|12}}
+|{{dts|1993|12|03}}
+|
+|-
+!scope="row"|''[[FIFA Soccer 95]]''
+|[[EA Canada|Extended Play Productions]]
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1994|10|10}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[FIFA Soccer 96]]''
+|[[EA Canada|Extended Play Productions]]
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1995|11}}
+|{{dts|1995|11|30}}
+|
+|-
+!scope="row"|''[[FIFA Soccer '97]]''<br /><center>''FIFA 97'' <sup>EU</sup></center>
+|XYZ Productions
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1997|03|20}}
+|{{dts|1997|04|04}}
+|
+|-
+!scope="row"|''[[Fighting Masters]]''
+|[[Givro|Almanic Corp.]]
+|[[Treco]]
+|{{dts|1991}}
+|{{dts|1992|06}}<ref name=EGM35/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Final Zone]]''<br /><center>''FZ Senki Axis'' <sup>JP</sup></center>
+|[[Namco Tales Studio|Wolf Team]]
+|[[Renovation Products]]<sup>NA</sup><br />[[Telenet Japan]]<sup>JP</sup>
+|{{dts|1990}}
+|{{dts|1990|12}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[USAAF Mustang|Fire Mustang]]''
+|NMK
+|[[Taito]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Fire Shark]]''<br /><center>''Same! Same! Same!''<sup>JP</sup></center>
+|[[Toaplan]]
+|[[DreamWorks Pictures|DreamWorks]]<sup>NA</sup><br />[[Sega]]<sup>PAL</sup><br />Toaplan<sup>JP</sup>
+|{{dts|1990}}
+|{{dts|1990|10}}
+|{{dts|1990|12}}
+|
+|-
+!scope="row"|''[[Flashback (1992 video game)|Flashback: The Quest for Identity]]''
+|[[Delphine Software International|Delphine Software]]
+|[[U.S. Gold]]<sup>NA/PAL</sup><br />[[Sunsoft]]<sup>JP</sup>
+|{{dts|1993}}
+|{{dts|1993|02|20}}
+|{{dts|1993|06}}
+|
+|-
+!scope="row"|''[[Flicky]]''
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1991|04}}
+|{{dts|1991|09}}
+|
+|-
+!scope="row"|''[[Flink]]''
+|[[Psygnosis]]
+|[[Sony Imagesoft|Sony Electronic Publishing]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994|11|11}}
+|
+|-
+!scope="row"|''[[The Flintstones (1993 video game)|The Flintstones]]''
+|[[Taito]]
+|[[Taito]]<sup>NA/JP</sup><br />[[Sega]]<sup>PAL</sup>
+|{{dts|1993|11|19}}
+|{{dts|1993|02|22}}
+|{{dts|1993|06}}
+|
+|-
+!scope="row"|''[[Foreman For Real]]''
+|[[Acclaim Studios Manchester|Software Creations]]
+|[[Acclaim Entertainment]]
+|{{dts|1995|11|27}}
+|{{dts|1995|09}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Forgotten Worlds]]''
+|[[Sega|Sega R&D2]]
+|[[Sega]]
+|{{dts|1989}}
+|{{dts|1989|12}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Frank Thomas Big Hurt Baseball]]''
+|[[Acclaim Studios Austin|Iguana Entertainment]]
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1995|09|04}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Frogger]]''
+|[[Morning Star Multimedia]]
+|[[Majesco Entertainment|Majesco Sales]]<br />[[Hasbro Interactive]]
+|{{unreleased}}
+|{{dts|1998}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Fun 'n Games]]''
+|[[Leland Interactive Media]]
+|[[Tradewest]]<sup> NA</sup><br />[[Sony Imagesoft|Sony Electronic Publishing]]<sup> PAL</sup>
+|{{unreleased}}
+|{{dts|1993|12}}
+|{{dts|1994|10}}
+|
+|-
+!scope="row"|''Funny World & Balloon Boy''
+|AV Artisan
+|Realtec
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|TW ({{dts|1993}})
+|-
+!scope="row"|''[[Nadia: The Secret of Blue Water (video game)|Fushigi no Umi no Nadia]]''
+|[[Namco]]
+|[[Namco]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|<span id="G"></span>''[[G-LOC: Air Battle]]''<span id="G"></span>
+|[[List of Acclaim Entertainment subsidiaries|Probe Software]]
+|[[Sega]]
+|{{dts|1992}}
+|{{dts|1992}}
+|{{dts|1992}}
+|
+|-
+!scope="row"|''{{sort|Gadget Twins, The|The Gadget Twins}}''
+|[[Imagitec Design]]
+|[[GameTek]]
+|{{unreleased}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Gaiares]]''
+|[[Telenet Japan]]
+|[[Renovation Products]]<sup>NA</sup><br />[[Telenet Japan]]<sup>JP</sup>
+|{{dts|1990}}
+|{{dts|1991|02}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Gain Ground]]''
+|[[Sega|Sega CS]]
+|[[Renovation Products]]<sup>NA</sup><br />[[Sega]]<sup>JP/PAL</sup>
+|{{dts|1991|01|03}}
+|{{dts|1991|01|02}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Galaxy Force (video game)|Galaxy Force II]]''
+|[[CRI Middleware|CRI]]
+|[[Sega]]<sup>NA/PAL</sup><br />[[CRI Middleware|CRI]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1992|02}}<ref name=EGM32/>
+|{{dts|1991}}
+|
+|-
+!scope="row"|''Gambler Jiko Chuushinha: Katayama Masayuki no Mahjong Doujou''
+|Yellow Horn
+|[[Game Arts]]
+|{{dts|1990}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Ganso Kyuukyoku Girl 6-nin Adventure Mahjong! Dial Q wo Mawase!''
+|Studio Fazzy
+|Studio Fazzy
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Garfield: Caught in the Act]]''
+|[[Sega|Sega Interactive Development Division]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1995|10|31}}
+|{{dts|1995|12|08}}
+|
+|-
+!scope="row"|''[[Gargoyles (video game)|Gargoyles]]''
+|[[Disney Interactive Studios|Buena Vista Interactive]]
+|[[Disney Interactive Studios|Buena Vista Interactive]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Gauntlet (arcade game)|Gauntlet IV]]''<br /><center>''Gauntlet''<sup>JP</sup></center>
+|[[M2 (game developer)|M2]]
+|[[Tengen (company)|Tengen]]
+|{{dts|1993}}
+|{{dts|1993|10}}
+|{{dts|1993|09|17}}
+|
+|-
+!scope="row"|''[[Gemfire]]''<br /><center>''Royal Blood''<sup>JP</sup></center>
+|[[Koei]]
+|[[Koei]]
+|{{dts|1992}}
+|{{dts|1992|09}}<ref name=EGM38/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[General Chaos]]''<br /><center>''General Chaos: Daikonsen''<sup>JP</sup></center>
+|[[Game Refuge Inc.|Game Refuge]]
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1993}}
+|{{dts|1993|08}}
+|{{dts|1993|08}}
+|
+|-
+!scope="row"|''[[Generations Lost]]''
+|Pacific Softscape
+|[[Time Warner Interactive]]
+|{{unreleased}}
+|{{dts|1994|12}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Genghis Khan II: Clan of the Gray Wolf]]''<br /><center>''Aoki Ookami to Shiroki Mejika: Genchou Hishi''<sup>JP</sup></center>
+|[[Koei]]
+|[[Koei]]
+|{{dts|1993}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[George Foreman's KO Boxing]]''
+|[[Krome Studios Melbourne|Beam Software]]
+|[[List of Acclaim Entertainment subsidiaries|Flying Edge]]
+|{{unreleased}}
+|{{dts|1993|01}}<ref name=EGM42a/>
+|{{dts|1993|06}}
+|
+|-
+!scope="row"|''[[Ghostbusters (franchise)#Video games|Ghostbusters]]''
+|[[Sega|Sega R&D2]]<br />[[Compile (company)|Compile]]
+|[[Sega]]
+|{{dts|1990}}
+|{{dts|1990|08}}
+|{{dts|1990|12}}
+|
+|-
+!scope="row"|''[[Ghouls 'n Ghosts]]''<br /><center>''Daimakaimura''<sup>JP</sup></center>
+|[[Sega|Sega R&D2]]
+|[[Sega]]
+|{{dts|1989}}
+|{{dts|1989|10}}
+|{{dts|1990|11|30}}
+|
+|-
+!scope="row"|''[[Global Gladiators]]''<br /><center>''Mick & Mack as the Global Gladiators''<sup>NA</sup></center>
+|[[Virgin Interactive|Virgin Games]]
+|Virgin Games
+|{{unreleased}}
+|{{dts|1992|11}}<ref name=EGM41b/>
+|{{dts|1993|04}}
+|
+|-
+!scope="row"|''[[Gley Lancer|Gley Lancer (Advanced Busterhawk)]]''
+|NCS<br />[[Cube (company)|Cube]]
+|[[Samsung]]<sup>KR</sup><br />[[Masaya (company)|Masaya]]<sup>JP</sup>
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Gods (video game)|Gods]]''
+|[[Graftgold]]
+|[[Mindscape]]<sup>NA</sup><br />[[Accolade (company)|Accolade]]<sup>PAL</sup><br />PCM Complete<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|11}}
+|{{dts|1993|11|23}}
+|
+|-
+!scope="row"|''[[Golden Axe (video game)|Golden Axe]]''
+|[[Sega|Sega R&D2]]
+|[[Sega]]
+|{{dts|1989|12|23}}
+|{{dts|1989|12|22}}
+|{{dts|1990|11|30}}
+|
+|-
+!scope="row"|''[[Golden Axe II]]''
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{dts|1991}}
+|{{dts|1992|01}}
+|{{dts|1991|12}}
+|
+|-
+!scope="row"|''[[Golden Axe III]]''
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Goofy's Hysterical History Tour]]''
+|[[Absolute Entertainment]]
+|[[Absolute Entertainment]]
+|{{unreleased}}
+|{{dts|1993|09|28}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Power Instinct#Power Instinct|Gouketsuji Ichizoku]]''
+|Make Software
+|[[Atlus]]
+|{{dts|1994}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Granada (video game)|Granada]]''
+|[[Namco Tales Studio|Wolf Team]]<br />[[Cube (company)|Cube]]
+|[[Renovation Products]]<sup>NA</sup><br />[[Telenet Japan]]<sup>JP</sup>
+|{{dts|1990}}
+|{{dts|1990|12}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Great Circus Mystery Starring Mickey & Minnie, The|[[Disney's Magical Quest#The Great Circus Mystery Starring Mickey & Minnie|The Great Circus Mystery Starring Mickey & Minnie]]}}''<br /><center>''Mickey to Minnie: Magical Adventure 2''<sup>JP</sup></center>
+|[[Capcom]]
+|[[Capcom]]
+|{{dts|1994|12|06}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Great Waldo Search, The|[[The Great Waldo Search (video game)|The Great Waldo Search]]}}''
+|Radiance Software
+|[[THQ]]
+|{{unreleased}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Greatest Heavyweights]]''
+|[[Malibu Comics|Acme Interactive]]
+|[[Sega]]
+|{{dts|1993}}
+|{{dts|1993|12}}
+|{{dts|1994|01}}
+|
+|-
+!scope="row"|''[[Greendog: The Beached Surfer Dude!]]''
+|Interactive Designs
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1992|09}}<ref name=EGM38/>
+|{{dts|1992|09}}
+|
+|-
+!scope="row"|''[[Grind Stormer]]''<br /><center>''V-V''<sup>JP</sup></center>
+|[[Tengen (company)|Tengen]]
+|[[Tengen (company)|Tengen]]
+|{{dts|1994}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Growl (video game)|Growl]]''<br /><center>''Runark''<sup>JP</sup></center>
+|I.T.L
+|[[Taito]]
+|{{dts|1991}}
+|{{dts|1991|11}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Gunship 2000|Gunship]]''
+|[[List of Acclaim Entertainment subsidiaries|Probe Software]]<br />[[Krisalis Software]]
+|[[U.S. Gold]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994|01}}
+|
+|-
+!scope="row"|''[[Gunstar Heroes]]''
+|[[Treasure (company)|Treasure]]
+|[[Sega]]
+|{{dts|1993|09|10}}
+|{{dts|1993|09|09}}
+|{{dts|1993|09|10}}
+|
+|-
+!scope="row"|''[[Gynoug]]''<br /><center>''Wings of Wor''<sup>NA</sup></center>
+|NCS<br />[[Cube (company)|Cube]]
+|[[DreamWorks Pictures|DreamWorks]]<sup>NA</sup><br />[[Sega]]<sup>PAL</sup><br />[[Masaya (company)|Masaya]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|06}}
+|{{dts|1992|03}}
+|
+|-
+!scope="row"|<span id="H"></span>''[[Hard Drivin']]''<span id="H"></span>
+|Sterling Silver Software
+|[[Tengen (company)|Tengen]]
+|{{dts|1990|12|21}}
+|{{dts|1990}}
+|{{dts|1991|12}}
+|
+|-
+!scope="row"|''[[HardBall!]]''
+|[[Accolade (company)|Accolade]]
+|[[Accolade (company)|Ballistic]]
+|{{unreleased}}
+|{{dts|1991|06}}
+|{{dts|1991|06}}
+|
+|-
+!scope="row"|''[[HardBall III]]''
+|Mindspan Technologies
+|[[Accolade (company)|Accolade]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Hardball '94''
+|Mindspan Technologies
+|[[Accolade (company)|Sport Accolade]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994|07}}
+|
+|-
+!scope="row"|''[[Hardball '95]]''
+|Mindspan Technologies<br />Cygnus Multimedia
+|[[Accolade (company)|Sport Accolade]]
+|{{unreleased}}
+|{{dts|1995|06}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Harukanaru Augusta|Harukanaru Augusta (New 3D Golf Simulation)]]''
+|[[Technology and Entertainment Software|T&E Soft]]
+|[[Technology and Entertainment Software|T&E Soft]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Haunting (video game)|Haunting starring Polterguy]]''
+|[[Electronic Arts]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1993|10}}
+|{{dts|1993|11}}
+|
+|-
+!scope="row"|''[[Fever Pitch Soccer|Head-On Soccer]]''<br /><center>''Fever Pitch Soccer''<sup>PAL</sup></center>
+|[[U.S. Gold]]
+|[[U.S. Gold]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995|06|30}}
+|
+|-
+!scope="row"|''[[Heavy Nova (video game)|Heavy Nova]]''
+|Holocronet
+|[[Micronet co., Ltd.|Micronet]]
+|{{unreleased}}
+|{{dts|1992|01}}<ref name=EGM30/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Heavy Unit|Heavy Unit: Mega Drive Special]]''
+|Advance Communication Co.
+|[[Toho]]
+|{{dts|1990}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Hellfire (video game)|Hellfire]]''
+|NCS
+|Seismic<sup>NA</sup><br />[[Sega]]<sup>PAL</sup><br />[[Masaya (company)|Masaya]]<sup>JP</sup>
+|{{dts|1990|09|28}}
+|{{dts|1990|11}}
+|{{dts|1992|05}}
+|
+|-
+!scope="row"|''[[Herzog Zwei]]''
+|[[Technosoft]]
+|[[Sega]]<sup>NA/PAL</sup><br />Technosoft<sup>JP</sup>
+|{{dts|1989}}
+|{{dts|1990|01|11}}
+|{{dts|1989}}
+|
+|-
+!scope="row"|''[[High Seas Havoc]]''<br /><center>''Havoc''<sup>PAL</sup><br />''Captain Lang''<sup>JP</sup></center>
+|[[Data East]]
+|[[Data East]]<sup>NA/JP</sup><br />[[Codemasters]] <sup>EU</sup>
+|{{dts|1994|04|22}}
+|{{dts|1993|08|16}}
+|{{dts|1994|01}}
+|
+|-
+!scope="row"|''[[Hit the Ice]]''
+|Aisystem Tokyo
+|[[Taito]]
+|{{unreleased}}
+|{{dts|1993|01}}<ref name=EGM42a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Home Alone (video game)|Home Alone]]''
+|Brian A. Rice, Inc.
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1992|11}}<ref name=EGM40a/>
+|{{dts|1992|11}}
+|
+|-
+!scope="row"|''[[Home Alone 2 (video game)|Home Alone 2: Lost in New York]]''
+|[[Sega|Sega Interactive Development Division]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Honō no Tōkyūji: Dodge Danpei]]''
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Hook (video game)|Hook]]''
+|[[Ukiyotei]]<br />[[Core Design]]
+|[[Sony Imagesoft]]
+|{{unreleased}}
+|{{dts|1991|08}}<ref name=EGM41b/>
+|{{dts|1991|11}}
+|
+|-
+!scope="row"|''Huan Lè Táo Qì Shǔ: Smart Mouse''
+|Chuanpu Technology
+|Chuanpu Technology
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|TW ({{dts|1992}})<ref name="pirate"/>
+|-
+!scope="row"|''{{sort|Humans, The|[[The Humans (video game)|The Humans]]}}''
+|[[Imagitec Design]]
+|[[GameTek]]
+|{{unreleased}}
+|{{dts|1992}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Hurricanes''
+|Arc Developments
+|[[U.S. Gold]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''{{sort|Hybrid Front, The|[[The Hybrid Front]]}}''
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{dts|1994|07|22}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Hyokkori Hyoutan Jima''
+|Japan System House
+|[[Sega]]
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|<span id="I"></span>''[[IMG International Tour Tennis]]''<span id="I"></span>
+|High Score Productions
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''{{sort|Immortal, The|[[The Immortal (video game)|The Immortal]]}}''<br /><center>''Wizard of the Immortal''<sup>JP</sup></center>
+|[[Will Harvey|Sandcastle Productions]]
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|11}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''{{sort|Incredible Crash Dummies, The|[[The Incredible Crash Dummies (video game)|The Incredible Crash Dummies]]}}''
+|[[Gray Matter Inc.]]
+|[[Flying Edge]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''{{sort|Incredible Hulk, The|[[The Incredible Hulk (1994 video game)|The Incredible Hulk]]}}''
+|[[List of Acclaim Entertainment subsidiaries|Probe Software]]
+|[[U.S. Gold]]
+|{{unreleased}}
+|{{dts|1994|07}}
+|{{dts|1994|06}}
+|
+|-
+!scope="row"|''[[Indiana Jones and the Last Crusade (video game)|Indiana Jones and the Last Crusade]]''
+|[[Tiertex Design Studios|Tiertex]]
+|[[U.S. Gold]]
+|{{unreleased}}
+|{{dts|1992|11}}<ref name=EGM40b/>
+|{{dts|1992|12}}
+|
+|-
+!scope="row"|''[[Insector X]]''
+|HOT-B
+|Sage's Creation<sup>NA</sup><br />Hot B<sup>JP</sup>
+|{{dts|1990}}
+|{{dts|1990|10}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Instruments of Chaos starring Young Indiana Jones]]''
+|Brian A. Rice, Inc.<br />Waterman Design
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1994|06|01}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[International Rugby Challenge|International Rugby]]''
+|[[Tiertex Design Studios|Tiertex]]
+|[[Domark]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993|10}}
+|
+|-
+!scope="row"|''[[Sensible Soccer#Games in the series|International Sensible Soccer Limited Edition: World Champions]]''
+|[[Sensible Software]]
+|[[Sony Imagesoft]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[International Superstar Soccer Deluxe]]''
+|[[Factor 5]]
+|[[Konami]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1996}}
+|
+|-
+!scope="row"|''[[Ishido: The Way of Stones]]''
+|[[Accolade (company)|Accolade]]
+|[[Accolade (company)|Accolade]]
+|{{unreleased}}
+|{{dts|1990}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Izzy's Quest for the Olympic Rings]]''
+|Alexandria, Inc.
+|[[U.S. Gold]]
+|{{unreleased}}
+|{{dts|1995|04}}
+|{{dts|1995|05}}
+|
+|-
+!scope="row"|<span id="J"></span>''J.League Pro Striker''<span id="J"></span>
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''J.League Pro Striker 2''
+|[[Sega|Sega CS]]
+|[[Sega]]
+|{{dts|1994}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Jack Nicklaus Golf & Course Design: Signature Edition|Jack Nicklaus' Power Challenge Golf]]''
+|Microsmiths
+|[[Accolade]]
+|{{unreleased}}
+|{{dts|1993|03}}
+|{{dts|1993|04}}
+|
+|-
+!scope="row"|''[[Final Blow|James "Buster" Douglas Knock Out Boxing]]''<br /><center>''Final Blow''<sup>JP</sup></center>
+|[[Sega|Sega R&D2]]
+|[[Sega]]<sup>NA/PAL</sup><br />Taito<sup>JP</sup>
+|{{dts|1990}}
+|{{dts|1990|09}}
+|{{dts|1991|06}}
+|
+|-
+!scope="row"|''[[James Bond 007: The Duel]]''<br /><center>''007 Shitou''<sup>JP</sup></center>
+|[[Domark]]
+|[[Domark]]<sup>NA/PAL</sup><br />[[Tengen (company)|Tengen]]<sup>JP</sup>
+|{{dts|1993|05|14}}
+|{{dts|1993|03}}
+|{{dts|1994|07}}
+|
+|-
+!scope="row"|''[[James Pond|James Pond: Underwater Agent]]''
+|Millennium Interactive<br />Vectordean
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1991|04}}
+|{{dts|1991|04}}
+|
+|-
+!scope="row"|''[[James Pond 2|James Pond II: Codename: RoboCod]]''
+|Millennium Interactive
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|08|18}}
+|{{dts|1991|12}}
+|
+|-
+!scope="row"|''[[James Pond 3|James Pond 3: Operation Starfish]]''
+|Millennium Interactive<br />Vectordean
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1993|12}}
+|{{dts|1993|12|14}}
+|
+|-
+!scope="row"|''[[Jammit]]''
+|[[GTE Interactive Media|GTE ImagiTrek]]
+|[[Virgin Interactive]]
+|{{unreleased}}
+|{{dts|1994|05}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Janou Touryuumon''
+|[[Game Arts]]<br />Mecano Associates
+|[[Sega]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Jantei Monogatari''
+|[[Atlus]]
+|[[Telenet Japan]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Jennifer Capriati Tennis]]''<br /><center>''Grandslam''<sup>JP/PAL</sup></center>
+|[[System Sacom]]
+|[[Renovation Products]]<sup>NA</sup><br />[[Sega]]<sup>PAL</sup><br />[[Telenet Japan]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|09}}<ref name=EGM38/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Jeopardy!]]''
+|[[Park Place Productions]]
+|[[GameTek]]
+|{{unreleased}}
+|{{dts|1993|01}}<ref name=EGM42a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''Jeopardy! Deluxe Edition''
+|[[Park Place Productions]]
+|[[GameTek]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Jeopardy! Sports Edition''
+|[[Park Place Productions]]
+|[[GameTek]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Pigskin 621 A.D.|Jerry Glanville's Pigskin Footbrawl]]''
+|Developer Resources
+|RazorSoft
+|{{unreleased}}
+|{{dts|1993|01}}<ref name=EGM42a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Jewel Master]]''
+|[[Cube (company)|Cube]]
+|[[Sega]]
+|{{dts|1991|08|30}}
+|{{dts|1991|08|29}}
+|{{dts|1991|11}}
+|
+|-
+!scope="row"|''[[Jimmy White's 'Whirlwind' Snooker]]''
+|[[Archer MacLean]]
+|[[Virgin Interactive]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Joe & Mac]]''
+|Eden Entertainment<br />[[Krisalis Software]]
+|[[Takara]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Joe Montana Football]]''
+|[[Park Place Productions]]
+|[[Sega]]
+|{{dts|1991}}
+|{{dts|1990|12|22}}
+|{{dts|1991|05}}
+|
+|-
+!scope="row"|''Joe Montana II: Sports Talk Football''
+|[[BlueSky Software]]
+|[[Sega]]
+|{{dts|1991}}
+|{{dts|1991|12}}
+|{{dts|1992|01}}
+|
+|-
+!scope="row"|''[[John Madden Football (1990 video game)|John Madden Football]]''<br /><center>''John Madden American Football''<sup>PAL</sup></center>
+|[[Park Place Productions]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1990|11}}
+|{{dts|1990|12}}
+|
+|-
+!scope="row"|''[[John Madden Football '92]]''
+|[[Electronic Arts]]
+|[[Electronic Arts|Electronic Arts Sports Network]]
+|{{unreleased}}
+|{{dts|1991|12}}<ref name=EGM29/>
+|{{dts|1991|12}}
+|
+|-
+!scope="row"|''[[John Madden Football '93]]''<br /><center>''John Madden Football: Pro Football''<sup>JP</sup></center>
+|[[Looking Glass Studios|Looking Glass Technology]]<br />[[Electronic Arts|EA Studios]]
+|[[EA Sports]]<sup>NA</sup><br />[[Electronic Arts|EASN]]<sup>PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|12}}
+|{{dts|1992|12|14}}
+|
+|-
+!scope="row"|''[[Jordan vs. Bird: One on One]]''
+|[[Electronic Arts]]
+|[[Electronic Arts|Electronic Arts Sports Network]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|04}}<ref name=EGM32/>
+|{{dts|1992|05}}
+|
+|-
+!scope="row"|''[[Joshua & the Battle of Jericho]]''
+|[[Wisdom Tree]]
+|[[Wisdom Tree]]
+|{{unreleased}}
+|{{dts|1994}}<ref name="P2P"/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Judge Dredd (1995 video game)|Judge Dredd]]''
+|[[List of Acclaim Entertainment subsidiaries|Probe Entertainment]]
+|[[Acclaim Entertainment]]
+|{{dts|1995|09|01}}
+|{{dts|1995|06|16}}
+|{{dts|1995|07}}
+|
+|-
+!scope="row"|''[[Junction (video game)|Junction]]''
+|[[Micronet co., Ltd.|Micronet]]
+|[[Micronet co., Ltd.|Micronet]]
+|{{dts|1990}}
+|{{dts|1991|04}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[The Jungle Book (video game)|The Jungle Book]]''
+|[[Eurocom|Eurocom Entertainment Software]]
+|[[Virgin Interactive|Virgin Interactive Entertainment]]
+|{{unreleased}}
+|{{dts|1994|07}}
+|{{dts|1994|07}}
+|
+|-
+!scope="row"|''[[Jungle Strike]]''<br /><center>''Jungle Strike: Uketsugareta Kyouki''<sup>JP</sup></center>
+|High Score Productions
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1993}}
+|{{dts|1993|08}}
+|{{dts|1993|07|16}}
+|
+|-
+!scope="row"|''[[Jurassic Park (Sega video game)|Jurassic Park]]''
+|[[BlueSky Software]]
+|[[Sega]]
+|{{dts|1993|08|27}}
+|{{dts|1993|08|10}}
+|{{dts|1993|08|28}}
+|
+|-
+!scope="row"|''[[Jurassic Park: Rampage Edition]]''
+|[[BlueSky Software]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1994|10}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Justice League Task Force (video game)|Justice League Task Force]]''
+|[[Blizzard North|Condor, Inc.]]
+|[[Acclaim Entertainment]]<br />[[Sunsoft]]
+|{{dts|1995|09|01}}
+|{{dts|1995|01}}
+|{{dts|1995|06}}
+|
+|-
+!scope="row"|<span id="K"></span>''Ka-Ge-Ki: Fists of Steel''<span id="K"></span>
+|Hot B
+|Sage's Creation<sup>NA</sup><br />Hot B<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|10}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Kawasaki Superbike Challenge]]''
+|[[Lankhor]]
+|[[Time Warner Interactive]]<sup>NA</sup><br />[[Domark]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1994|12}}
+|{{dts|1995|03|17}}
+|
+|-
+!scope="row"|''[[Kick Off 3|Kick Off 3: European Challenge]]''
+|[[Anco Software]]
+|[[Vic Tokai]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994|11|26}}
+|
+|-
+!scope="row"|''[[Kid Chameleon]]''<br /><center>''Chameleon Kid''<sup>JP</sup></center>
+|[[Sega Technical Institute]]
+|[[Sega]]
+|{{dts|1992|05|28}}
+|{{dts|1992|03}}<ref name=EGM32/>
+|{{dts|1992|05}}
+|
+|-
+!scope="row"|''Kidou Keisatsu Patlabor: 98-shiki Kidou seyo!''
+|Advance Communication Co.
+|Ma-Ba
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Tōgi Ō: King Colossus|King Colossus (Tougi-Ou)]]''
+|[[Sega AM6]]
+|[[Sega]]
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[King of the Monsters (video game)|King of the Monsters]]''
+|SPS Co., Ltd.
+|[[Takara]]<sup>NA</sup><br />[[Sega]]<sup>JP/PAL</sup>
+|{{dts|1993|11|26}}
+|{{dts|1993|03}}
+|{{dts|1993|06}}
+|
+|-
+!scope="row"|''[[King of the Monsters 2]]''
+|Betop
+|[[Takara]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[King Salmon (video game)|King Salmon: The Big Catch]]''
+|Hot B
+|[[Vic Tokai]]<sup>NA</sup><br />Hot B<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|09}}<ref name=EGM38/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[King's Bounty|King's Bounty: The Conqueror's Quest]]''
+|[[New World Computing]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1991|07}}
+|{{dts|1991|06}}
+|
+|-
+!scope="row"|''Kishi Densetsu''
+|[[Cube (company)|Cube]]
+|[[Kodansha]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Klax (video game)|Klax]]''
+|[[Tengen (company)|Tengen]]
+|Tengen<sup>NA/PAL</sup><br />[[Namco]]<sup>JP</sup>
+|{{dts|1990}}
+|{{dts|1990|12}}
+|{{dts|1992|01}}
+|
+|-
+!scope="row"|''[[Krusty's Fun House|Krusty's Super Fun House]]''
+|[[Audiogenic]]
+|[[Flying Edge]]
+|{{unreleased}}
+|{{dts|1992|06}}
+|{{dts|1992|12}}
+|
+|-
+!scope="row"|''[[Kyūkai Dōchūki]]''
+|[[Namco]]
+|Namco
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|<span id="L"></span>''[[Tony La Russa Baseball|La Russa Baseball 95]]''<span id="L"></span>
+|[[Stormfront Studios]]<br />High Score Productions
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1994|09}}
+|{{dts|1994|09}}
+|
+|-
+!scope="row"|''[[Lakers versus Celtics and the NBA Playoffs]]''
+|[[Electronic Arts]]
+|Electronic Arts
+|{{unreleased}}
+|{{dts|1990|12}}
+|{{dts|1991|10}}
+|
+|-
+!scope="row"|''[[Landstalker|Landstalker: The Treasures of King Nole]]''<br /><center>''Landstalker: Koutei no Zaihou''<sup>JP</sup></center>
+|[[Climax Entertainment]]
+|[[Sega]]
+|{{dts|1992|10|30}}
+|{{dts|1993|10}}
+|{{dts|1993|10}}
+|
+|-
+!scope="row"|''[[Langrisser II]]''
+|NCS<br />[[Cube (company)|Cube]]
+|[[Masaya (company)|Masaya]]
+|{{dts|1994|08|26}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Last Action Hero (video game)|Last Action Hero]]''
+|[[Bits Studios|Bits Corporation]]
+|[[Sony Imagesoft]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Last Battle (video game)|Last Battle]]''<br /><center>''Hokuto no Ken: Shin Seikimatsu Kyuuseishu Densetsu''<sup>JP</sup></center>
+|[[Sega]]
+|Sega
+|{{dts|1989}}
+|{{dts|1989|08|14}}
+|{{dts|1990|09}}
+|
+|-
+!scope="row"|''{{sort|Lawnmower Man, The|[[The Lawnmower Man (video game)|The Lawnmower Man]]}}''
+|[[Square Enix Europe|SCi]]<br />[[Atod|Atod AB]]<br />Teque London
+|[[Time Warner Interactive]]
+|{{unreleased}}
+|{{dts|1994|11}}
+|{{dts|1994|09}}
+|
+|-
+!scope="row"|''{{sort|Legend of Galahad, The|[[Leander (video game)|The Legend of Galahad]]}}''<br /><center>''Galahad''<sup>NA</sup></center>
+|[[Traveller's Tales]]<br />[[Krisalis Software]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1992|09}}
+|{{dts|1992|11}}
+|
+|-
+!scope="row"|''[[Legend of Wukong]]''<br /><center>''Wucom Legend''<sup>[[Taiwan|TW]]</sup></center>
+|[[Gamtec]]
+|Ming Technology<sup>TW</sup><br />[[Super Fighter Team]]<sup>NA</sup>
+|{{unreleased}}
+|{{dts|2008|12|03}}
+|{{unreleased}}
+|TW ({{dts|1996}})<ref>{{cite web|url=http://www.sega-16.com/2008/12/legend-of-wukong/|title=Legend of Wukong|author=Horowitz, Ken|publisher=Sega-16|date=December 4, 2008|accessdate=January 15, 2014|url-status=live|archiveurl=https://web.archive.org/web/20140116123019/http://www.sega-16.com/2008/12/legend-of-wukong/|archivedate=January 16, 2014|df=mdy-all}}</ref>
+|-
+!scope="row"|''[[Lemmings (video game)|Lemmings]]''
+|[[Sunsoft]]
+|Sunsoft<sup>NA/JP</sup><br />[[Sega]]<sup>PAL</sup>
+|{{dts|1992}}
+|{{dts|1992|11}}
+|{{dts|1992|12|14}}
+|
+|-
+!scope="row"|''[[Lemmings 2: The Tribes]]''
+|Digital Developments<br />[[Krisalis Software]]
+|[[Psygnosis]]
+|{{unreleased}}
+|{{dts|1994|11}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Lethal Enforcers]]''
+|[[Konami]]
+|Konami
+|{{dts|1993|12|10}}
+|{{dts|1993|07|25}}
+|{{dts|1993|10|29}}
+|
+|-
+!scope="row"|''[[Lethal Enforcers II: Gun Fighters]]''
+|[[Konami]]
+|Konami
+|{{unreleased}}
+|{{dts|1994|10}}
+|{{dts|1994|12|17}}
+|
+|-
+!scope="row"|''[[LHX Attack Chopper]]''
+|[[Electronic Arts]]
+|[[Electronic Arts|EA Air Force]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1993|06|04}}
+|{{dts|1992|11}}
+|{{dts|1992|08}}
+|
+|-
+!scope="row"|''[[Liberty or Death (video game)|Liberty or Death]]''
+|[[Koei]]
+|Koei
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Light Crusader]]''
+|[[Treasure (company)|Treasure]]
+|[[Sega]]
+|{{dts|1995|05|26}}
+|{{dts|1995|05|25}}
+|{{dts|1995|08}}
+|
+|-
+!scope="row"|''Link Dragon''
+|Songtly
+|Jumbo Team
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|TW ({{dts|1993}})<ref>{{cite web|title=Link Dragon - Overview|url=http://www.allgame.com/game.php?id=16076|publisher=[[Allgame]]|accessdate=January 15, 2014|archiveurl=https://web.archive.org/web/20141116001136/http://www.allgame.com/game.php?id=16076|archivedate=November 16, 2014}}</ref>
+|-
+!scope="row"|''{{sort|Lion King, The|[[The Lion King (video game)|The Lion King]]}}''
+|[[Westwood Studios]]<br />[[Disney Interactive Studios|Disney Software]]
+|[[Virgin Interactive]]<sup>NA/PAL</sup><br />[[Virgin Interactive|Virgin Games]]<sup>JP</sup>
+|{{dts|1994|12|09}}
+|{{dts|1994|11}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Lord Monarch]]''
+|Sega Falcom
+|[[Sega]]
+|{{dts|1994}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Lost Vikings, The|[[The Lost Vikings]]}}''
+|[[Blizzard Entertainment|Silicon & Synapse]]<br />[[Krisalis Software]]
+|[[Interplay Entertainment]]<sup>NA</sup><br />[[Virgin Interactive|Virgin Games]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1994|01}}
+|{{dts|1994|04}}
+|
+|-
+!scope="row"|''{{sort|Lost World: Jurassic Park, The|[[The Lost World: Jurassic Park (Sega game)|The Lost World: Jurassic Park]]}}''
+|[[Appaloosa Interactive]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1997|09|16}}
+|{{dts|1997|10}}
+|
+|-
+!scope="row"|''[[Lotus Turbo Challenge]]''
+|[[Gremlin Interactive|Gremlin Graphics]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{dts|1992|12|14}}
+|
+|-
+!scope="row"|''[[Lotus II RECS|Lotus II: R.E.C.S.]]''
+|[[Gremlin Interactive|Gremlin Graphics]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1993|12}}
+|{{dts|1993|12|14}}
+|
+|-
+!scope="row"|<span id="M"></span>''[[Abrams Battle Tank|M-1 Abrams Battle Tank]]''<span id="M"></span>
+|[[Dynamix]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1991|04}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Madden NFL '94]]''<br /><center>''NFL Pro Football: John Madden '94''<sup>JP</sup></center>
+|High Score Productions
+|[[Electronic Arts]]
+|{{dts|1994|02|18}}
+|{{dts|1993|11|19}}
+|{{dts|1993|11|12}}
+|
+|-
+!scope="row"|''[[Madden NFL '95]]''
+|High Score Productions
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1994|11}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Madden NFL '96]]''
+|High Score Productions
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1995|11|10}}
+|{{dts|1995|11|30}}
+|
+|-
+!scope="row"|''[[Madden NFL 97]]''
+|High Score Productions
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1996|09|15}}
+|{{dts|1996|09|14}}
+|
+|-
+!scope="row"|''[[Madden NFL 98]]''
+|High Score Productions
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1997}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Madō Monogatari I]]''
+|[[Compile (publisher)|Compile]]
+|Compile
+|{{dts|1996|03|22}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Magic Girl Featuring Ling Ling the Little Witch''
+''Magic Girl''<sup>TW</sup>
+|[[Gamtec]]
+|Gamtec<sup>TW</sup><br />[[Super Fighter Team]]<sup>NA</sup>
+|{{unreleased}}
+|{{dts|2015|12|24}}
+|{{unreleased}}
+|TW ({{dts|1992}})<ref name="16Taiwan">{{cite web|author=Figueiredo, Edward|title=Magic Girl|url=http://www.sega-16.com/2013/02/magic-girl/|date=February 25, 2013|accessdate=December 28, 2013|publisher=Sega-16|url-status=live|archiveurl=https://web.archive.org/web/20131207001454/http://www.sega-16.com/2013/02/magic-girl/|archivedate=December 7, 2013|df=mdy-all}}</ref>
+|-
+!scope="row"|''[[List of video games from The Magic School Bus|Magic School Bus, (Scholastic's) The: Space Exploration Game]]''
+|Music Pen
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Magical Tarurūto-kun]]''
+|[[Game Freak]]
+|[[Sega]]
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Mahjong Cop Ryuu: Shiro Ookami no Yabou''
+|[[Santos (game developer)|Whiteboard]]
+|Sega
+|{{dts|1989}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Mamono Hunter Yohko: Dai-7 no Keishou''
+|NCS
+|[[Masaya (company)|Masaya]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Marble Madness]]''
+|Mike Schwartz <br /> Steve Hayes
+|[[Electronic Arts]]
+|{{dts|1993|08|13}}
+|{{dts|1991|11}}
+|{{dts|1992|01}}
+|
+|-
+!scope="row"|''[[Mario Andretti Racing]]''
+|High Score Productions
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Mario Lemieux Hockey''
+|Ringler Studios
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1992|01}}<ref name=EGM30/>
+|{{dts|1992|03}}
+|
+|-
+!scope="row"|''Marko's Magic Football''<br /><center>''Marko''<sup>NA</sup></center>
+|The Cartoon Mavericks
+|[[Domark]]
+|{{unreleased}}
+|{{dts|1994|09}}
+|{{dts|1994|07}}
+|
+|-
+!scope="row"|''[[Marsupilami (game)|Marsupilami]]''
+|[[Marsu Productions|Marsu]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{dts|1995|11}}
+|
+|-
+!scope="row"|''[[Marvel Land]]''<br /><center>''Talmit's Adventure''<sup>PAL</sup></center>
+|[[Tose Software]]
+|[[Namco]] <sup>NA/JP</sup><br />[[Sega]] <sup>EU</sup> 
+|{{dts|1991|06|28}}
+|{{dts|1991|10}}
+|{{dts|1992|08}}
+|
+|-
+!scope="row"|''[[Mary Shelley's Frankenstein (video game)|Mary Shelley's Frankenstein]]''
+|[[Bits Studios|Bits Corporation]]
+|[[Sony Imagesoft]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Master of Monsters]]''
+|ISCO<br />Opera House
+|[[Renovation Products]]
+|{{dts|1991}}
+|{{dts|1991|12}}<ref name=EGM29/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Master of Weapon]]''
+|KID Corp.
+|[[Taito]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Maten no Sōmetsu''
+|[[Kodansha]]
+|Kodansha
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Math Blaster Episode I: In Search of Spot|Math Blaster: Episode 1]]''
+|[[Davidson & Associates]]
+|Davidson & Associates
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Mazin Saga: Mutant Fighter]]''<br /><center>''Mazin Wars''<sup>PAL</sup><br />''Mazin Saga''<sup>JP</sup></center>
+|[[Dynamic Planning]]
+|[[Sega]]
+|{{dts|1993|02|26}}
+|{{dts|1993}}
+|{{dts|1993|07}}
+|
+|-
+!scope="row"|''[[McDonald's Treasure Land Adventure]]''
+|[[Treasure (company)|Treasure]]
+|[[Sega]]
+|{{dts|1993|09|23}}
+|{{dts|1993|12}}
+|{{dts|1994|03}}
+|
+|-
+!scope="row"|''[[Bomberman '94|Mega Bomberman]]''
+|[[Westone Bit Entertainment|Westone]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1994|10|11}}
+|{{dts|1994|10|11}}
+|
+|-
+!scope="row"|''[[Mega Lo Mania|Mega-Lo-Mania]]''<br /><center>''Tyrants: Fight Through Time''<sup>NA</sup></center>
+|[[Sensible Software]]
+|[[Virgin Interactive]]
+|{{dts|1993|04|23}}
+|{{dts|1993}}
+|{{dts|1993|04|05}}
+|
+|-
+!scope="row"|''[[Mega Man: The Wily Wars]]''<br /><center>''RockMan: Mega World''<sup>JP</sup></center>
+|Minakuchi Engineering
+|[[Capcom]]
+|{{dts|1994|10|21}}
+|{{dts|1994|10|15}}<ref name="Sega Channel only"/>
+|{{dts|1994|10|20}}
+|
+|-
+!scope="row"|''[[Megapanel]]''
+|[[Namco]]
+|Namco
+|{{dts|1990}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Super SWIV|Mega SWIV]]''
+|[[Square Enix Europe|The Sales Curve]]
+|[[Time Warner Interactive]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995|03}}
+|
+|-
+!scope="row"|''[[Mega Turrican]]''
+|[[Factor 5]]
+|[[Data East]]<sup> NA</sup><br />[[Sony Electronic Publishing]]<sup> PAL</sup>
+|{{unreleased}}
+|{{dts|1994|06|07}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Menacer 6-Game Cartridge]]''
+|[[Sega]]
+|Sega
+|{{unreleased}}
+|{{dts|1992|10}}
+|{{dts|1992|12}}
+|
+|-
+!scope="row"|''[[Mercs]]''<br /><center>''Senjou no Ookami II''<sup>JP</sup></center>
+|[[Sega]]
+|Sega
+|{{dts|1991}}
+|{{dts|1991|10}}<ref name=EGM28/>
+|{{dts|1991|12}}
+|
+|-
+!scope="row"|''Metal Fangs''
+|[[Victor Entertainment]]
+|[[JVC]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Michael Jackson's Moonwalker]]''
+|[[Sega]]
+|Sega
+|{{dts|1990}}
+|{{dts|1990|08}}
+|{{dts|1991|01}}
+|
+|-
+!scope="row"|''[[Mickey Mania|Mickey Mania: The Timeless Adventures of Mickey Mouse]]''
+|[[Traveller's Tales]]
+|[[Sony Imagesoft]]
+|{{dts|1995|03|31}}
+|{{dts|1994|11}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Mickey's Ultimate Challenge]]''
+|Designer Software
+|[[Hi Tech Expressions]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Micro Machines (video game)|Micro Machines]]''
+|[[Codemasters]]
+|Codemasters
+|{{unreleased}}
+|{{dts|1993|09|14}}
+|{{dts|1993|07}}
+|
+|-
+!scope="row"|''[[Micro Machines 2: Turbo Tournament]]''
+|[[Codemasters]]
+|Codemasters
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994|11|25}}
+|
+|-
+!scope="row"|''[[Micro Machines (video game series)#Micro Machines: Turbo Tournament 96|Micro Machines: Turbo Tournament 96]]''
+|[[Codemasters]]
+|Codemasters
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995|10|20}}
+|
+|-
+!scope="row"|''[[Micro Machines Military]]''
+|[[Codemasters|Supersonic Software]]
+|[[Codemasters]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1996|11|15}}
+|
+|-
+!scope="row"|''[[Midnight Resistance]]''
+|[[Data East]]<br />ISCO<br />Opera House
+|Data East <sup>JP</sup><br />[[Sega]] <sup>NA</sup>
+|{{dts|1991}}
+|{{dts|1991|06}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''MiG-29 Fighter Pilot''
+|[[Domark|The Kremlin]]
+|[[Domark]]
+|{{dts|1993|11|26}}
+|{{dts|1993|05}}
+|{{dts|1993|06}}
+|
+|-
+!scope="row"|''[[Might and Magic II: Gates to Another World]]''
+|[[New World Computing]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1991|07}}
+|{{dts|1991|07}}
+|
+|-
+!scope="row"|''[[Mighty Morphin Power Rangers (video game)#Sega Mega Drive/Genesis|Mighty Morphin Power Rangers]]''
+|[[Banpresto]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1994|11}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Mighty Morphin Power Rangers: The Movie (video game)|Mighty Morphin Power Rangers: The Movie]]''
+|[[Banpresto]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1995|06|15}}
+|{{dts|1995|08|15}}
+|
+|-
+!scope="row"|''Mike Ditka Power Football''
+|Ballistic
+|[[Accolade]]
+|{{unreleased}}
+|{{dts|1991|09}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Minnesota Fats: Pool Legend]]''
+|[[Data East]]
+|Data East
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Miracle Piano Teaching System|[[Miracle Piano Teaching System|The Miracle Piano Teaching System]]}}''
+|[[Software Toolworks]]
+|Software Toolworks
+|{{dts|1992|11}}
+|{{dts|1992|11}}
+|{{dts|1992|11}}
+|
+|-
+!scope="row"|''[[MLBPA Baseball]]''
+|High Score Productions
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Sports Talk Baseball|MLBPA Sports Talk Baseball]]''<br /><center>''Pro Yakyuu Super League '91''<sup>JP</sup></center>
+|[[Sega AM6]]
+|[[Sega]]
+|{{dts|1991|08|30}}
+|{{dts|1992|06}}<ref name=EGM35/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Monopoly (1991 video game)|Monopoly]]''
+|Magical
+|[[Parker Brothers]]
+|{{unreleased}}
+|{{dts|1992}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Monster World IV]]''
+|[[Westone]]
+|[[Sega]]
+|{{dts|1994|04|01}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Mortal Kombat (1992 video game)|Mortal Kombat]]''<br /><center>''Mortal Kombat: Shinken Kourin Densetsu''<sup>JP</sup></center>
+|[[Acclaim Cheltenham|Probe Entertainment]]
+||[[Acclaim Entertainment|Arena Entertainment]] <sup>NA/EU</sup><br />[[Acclaim Entertainment]] <sup>JP</sup>
+|{{dts|1994|05|27}}
+|{{dts|1993|09|13}}
+|{{dts|1993|09|13}}
+|
+|-
+!scope="row"|''{{sort|Mortal Kombat 2|[[Mortal Kombat II]]}}''<br /><center>''Mortal Kombat II: Kyuukyoku Shinken''<sup>JP</sup></center>
+|[[Acclaim Cheltenham|Probe Entertainment]]
+|[[Acclaim Entertainment]]
+|{{dts|1994|09|09}}
+|{{dts|1994|09|09}}
+|{{dts|1994|09|09}}
+|
+|-
+!scope="row"|''[[Mortal Kombat 3]]''
+|[[Sculptured Software]]
+|[[Williams Entertainment]]
+|{{unreleased}}
+|{{dts|1995|10|13}}
+|{{dts|1995|10|13}}
+|
+|-
+!scope="row"|''[[Mr. Nutz]]''
+|[[Ocean Software]]
+|Ocean Software
+|{{unreleased}}
+|{{dts|1994|11}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Ms. Pac-Man]]''
+|[[Tengen (company)|Tengen]]
+|Tengen
+|{{unreleased}}
+|{{dts|1991|07}}
+|{{dts|1991|10}}
+|
+|-
+!scope="row"|''[[Muhammad Ali Heavyweight Boxing]]''
+|[[Park Place Productions]]
+|[[Virgin Interactive]]
+|{{unreleased}}
+|{{dts|1992|12}}
+|{{dts|1993|01}}
+|
+|-
+!scope="row"|''[[MUSHA]]''<br /><center>''Musha Aleste''<sup>JP</sup></center>
+|[[Compile (publisher)|Compile]]
+|Seismic
+|{{dts|1990|12|21}}
+|{{dts|1991}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Doom Troopers|Mutant Chronicles: Doom Troopers]]''
+|[[Epinephrine|Adrenalin]]
+|Playmates Interactive
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Mutant League Football]]''
+|Mutant Productions
+|[[Electronic Arts]]
+|{{dts|1993|09|10}}
+|{{dts|1993|06}}
+|{{dts|1993|06}}
+|
+|-
+!scope="row"|''[[Mutant League Hockey]]''
+|Mutant Productions
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1994|05}}
+|{{dts|1994|03}}
+|
+|-
+!scope="row"|''[[Mystic Defender]]''<br /><center>''Kujaku Ou 2: Geneijou''<sup>JP</sup></center>
+|[[Sega]]
+|Sega
+|{{dts|1989|11|25}}
+|{{dts|1989|12}}
+|{{dts|1991|01}}
+|
+|-
+!scope="row"|''[[Mystical Fighter (video game)|Mystical Fighter]]''<br /><center>''Maou Renjishi''<sup>JP</sup></center>
+|KID Corp
+|[[Taito]]<sup>JP</sup><br />[[DreamWorks Pictures|DreamWorks]]<sup>NA</sup>
+|{{dts|1991|10|25}}
+|{{dts|1992|03}}<ref name="GamePro April 1992"/>
+|{{unreleased}}
+|
+|-
+!scope="row"|<span id="N"></span>''[[NBA Action#Video game|NBA Action '94]]''<span id="N"></span>
+|[[Sega|Sega Sports]]
+|Sega Sports
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[NBA Action '95|NBA Action '95 Starring David Robinson]]''
+|Double Diamond Sports
+|[[Sega|Sega Sports]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[NBA All-Star Challenge]]''
+|[[Krome Studios Melbourne|Beam Software]]
+|[[Flying Edge]]
+|{{unreleased}}
+|{{dts|1993|02}}
+|{{dts|1993|02}}
+|
+|-
+!scope="row"|''[[NBA Hangtime]]''
+|[[Funcom]]
+|[[Midway Games|Midway Home Entertainment]]
+|{{unreleased}}
+|{{dts|1996|11}}
+|{{dts|1997|02}}
+|
+|-
+!scope="row"|''[[NBA Jam (1993 video game)|NBA Jam]]''
+|[[Iguana Entertainment]]
+|[[Acclaim Entertainment|Arena Entertainment]]<sup>NA/PAL</sup><br />[[Acclaim Entertainment]]<sup>JP</sup>
+|{{dts|1994|04|29}}
+|{{dts|1994|03|04}}
+|{{dts|1994|03|04}}
+|
+|-
+!scope="row"|''[[NBA Jam (1993 video game)#Tournament Edition|NBA Jam Tournament Edition]]''
+|[[Iguana Entertainment]]
+|[[Acclaim Entertainment]]
+|{{dts|1995|02|24}}
+|{{dts|1995|02|23}}
+|{{dts|1995|02|23}}
+|
+|-
+!scope="row"|''[[NBA Live 95]]''
+|Hitmen Productions<br />[[EA Canada]]
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1994|11}}
+|{{dts|1994|12|03}}
+|
+|-
+!scope="row"|''[[NBA Live 96]]''
+|Hitmen Productions<br />[[EA Canada]]
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1995|11}}
+|{{dts|1995|11|30}}
+|
+|-
+!scope="row"|''[[NBA Live 97]]''
+|[[NuFX]]<br />Hitmen Productions
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1996|11}}
+|{{dts|1996|11}}
+|
+|-
+!scope="row"|''[[NBA Live 98]]''
+|[[NuFX]]<br />[[Tiertex]]
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1997}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[NBA Showdown (video game)|NBA Showdown '94]]''<br /><center>''NBA Showdown''<sup>PAL</sup><br />''NBA Pro Basketball '94''<sup>JP</sup></center>
+|[[Electronic Arts|EA Creative Development]]
+|[[EA Sports]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1994|07|01}}
+|{{dts|1994|06|21}}
+|{{dts|1994|03|29}}
+|
+|-
+!scope="row"|''[[NCAA Final Four Basketball]]''
+|Bitmasters
+|[[Mindscape]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[NCAA Football series|NCAA Football]]''
+|[[Software Toolworks]]
+|[[Mindscape]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Nintendo World Cup|Nekketsu Koukou Dodgeball-bu: Soccer-hen MD]]''
+|[[Technōs Japan]]
+|PAL Soft
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Newman/Haas IndyCar featuring Nigel Mansell]]''
+|[[Gremlin Interactive|Gremlin Graphics]]<br />[[Spidersoft]]
+|[[Acclaim Entertainment]]
+|{{dts|1994|12|16}}
+|{{dts|1994|12}}
+|{{dts|1994|12|02}}
+|
+|-
+!scope="row"|''{{sort|New Zealand Story, The|[[The NewZealand Story]]}}''
+|[[Taito]]
+|Taito
+|{{dts|1990}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[NFL '95]]''
+|Double Diamond Sports
+|[[Sega|Sega Sports]]
+|{{unreleased}}
+|{{dts|1994|11|15}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[NFL Football '94 Starring Joe Montana]]''
+|[[BlueSky Software]]
+|[[Sega|Sega Sports]]<sup>NA</sup><br />[[Sega]]<sup>JP</sup>
+|{{dts|1994|02|04}}
+|{{dts|1993|11}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[NFL Prime Time '98]]''
+|Spectacular Games
+|[[Sega|Sega Sports]]
+|{{unreleased}}
+|{{dts|1997}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[NFL Quarterback Club]]''<br /><center>''NFL Quarterback Club '95''<sup>JP</sup></center>
+|[[Iguana Entertainment]]
+|[[Acclaim Entertainment]]
+|{{dts|1995|02|24}}
+|{{dts|1995|03}}
+|{{dts|1995|03}}
+|
+|-
+!scope="row"|''[[NFL Quarterback Club 96]]''
+|[[Iguana Entertainment]]
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1995|10|27}}
+|{{dts|1995|10}}
+|
+|-
+!scope="row"|''[[NFL Sports Talk Football '93]]''
+|[[BlueSky Software]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1992|11}}
+|{{dts|1992|12}}
+|
+|-
+!scope="row"|''[[NHL '94]]''
+|High Score Productions
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1993|09}}
+|{{dts|1993|09|11}}
+|
+|-
+!scope="row"|''[[NHL 95]]''
+|High Score Productions<br />Double Diamond Sports
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1994|09}}
+|{{dts|1994|10|27}}
+|
+|-
+!scope="row"|''[[NHL 96]]''
+|High Score Entertainment
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1995|10|06}}
+|{{dts|1995|10}}
+|
+|-
+!scope="row"|''[[NHL 97]]''
+|High Score Entertainment
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1996|09|24}}
+|{{dts|1996|10|04}}
+|
+|-
+!scope="row"|''[[NHL 98]]''
+|High Score Entertainment
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1997}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[NHL All-Star Hockey '95]]''
+|[[Sega|Sega Midwest Studio]]<br />New Wave Graphics
+|[[Sega|Sega Sports]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[NHL Hockey]]''<br /><center>''EA Hockey''<sup>PAL</sup><br />''Pro Hockey''<sup>JP</sup></center>
+|[[Park Place Productions]]
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{unreleased}}
+|{{dts|1991|08}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[NHLPA Hockey '93]]''
+|[[Electronic Arts|EA Studios]]
+|[[Electronic Arts|EASN]]<sup>NA</sup><br />[[EA Sports]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1992|09}}<ref name=EGM38/>
+|{{dts|1992|11}}
+|
+|-
+!scope="row"|''[[Nigel Mansell's F-1 Challenge|Nigel Mansell's World Championship Racing]]''
+|[[Gremlin Interactive|Gremlin Graphics]]
+|[[GameTek]]<sup>NA</sup><br />[[Konami]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1993|11}}
+|{{dts|1993|11}}
+|
+|-
+!scope="row"|''[[Nightmare Circus]]''
+|[[Funcom]]
+|[[Tectoy]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{unreleased}}
+|BR ({{dts|1996}})<ref name="NC">{{cite web|url=http://www.sega-16.com/2011/08/nightmare-circus/|author=Durham, Nick|title=Nightmare Circus|publisher=Sega-16|date=August 22, 2011|accessdate=December 28, 2013|url-status=live|archiveurl=https://web.archive.org/web/20131230234555/http://www.sega-16.com/2011/08/nightmare-circus/|archivedate=December 30, 2013|df=mdy-all}}</ref>
+|-
+!scope="row"|''Ninja Burai Densetsu''
+|[[Sega AM6]]
+|[[Sega]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[No Escape (video game)|No Escape]]''
+|[[Bits Studios|Bits Corporation]]
+|[[Psygnosis]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Nobunaga's Ambition|Nobunaga no Yabou: Bushou Fuuunroku]]''
+|[[Koei]]
+|Koei
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Nobunaga's Ambition|Nobunaga no Yabou: Haouden]]''
+|[[Koei]]
+|Koei
+|{{dts|1994}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Nobunaga's Ambition]]''<br /><center>''Nobunaga no Yabou: Zenkokuban''<sup>JP</sup></center>
+|[[Koei]]
+|Koei
+|{{dts|1993}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Normy's Beach Babe-O-Rama''
+|High Score Productions<br />[[Realtime Associates]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1994|03}}
+|{{dts|1994|03}}
+|
+|-
+!scope="row"|<span id="O"></span>''[[Olympic Gold (video game)|Olympic Gold: Barcelona '92]]''<span id="O"></span>
+|[[Tiertex]]
+|[[U.S. Gold]]<sup>NA/PAL</sup><br />[[Sega]]<sup>JP</sup>
+|{{dts|1992|07|24}}
+|{{dts|1992|06}}<ref name=EGM35/>
+|{{dts|1992|07}}
+|
+|-
+!scope="row"|''[[Olympic Summer Games (video game)|Olympic Summer Games: Atlanta 1996]]''
+|[[Tiertex]]
+|Black Pearl Software
+|{{unreleased}}
+|{{dts|1996|08}}
+|{{dts|1996|08}}
+|
+|-
+!scope="row"|''[[Onslaught (video game)|Onslaught]]''
+|Code Monkeys Ltd.
+|Ballistic
+|{{unreleased}}
+|{{dts|1991|07}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Ooze, The|[[The Ooze]]}}''
+|[[Sega Technical Institute]]
+|[[Sega]]
+|{{dts|1995|09|22}}
+|{{dts|1995|05|06}}
+|{{dts|1995|12}}
+|
+|-
+!scope="row"|''[[Operation Europe: Path to Victory]]''<br /><center>''Europa Sensen''<sup>JP</sup></center>
+|[[Koei]]
+|Koei
+|{{dts|1993}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Osomatsu-kun: Hachamecha Gekijō]]''
+|[[Sega]]
+|Sega
+|{{dts|1988}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Ottifants, The|The Ottifants}}''
+|[[Graftgold]]
+|[[Sega]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1993|10}}
+|
+|-
+!scope="row"|''[[Outlander (video game)|Outlander]]''
+|[[Graftgold]]
+|[[Mindscape]]
+|{{unreleased}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Out Run]]''
+|Hertz Co., Ltd.
+|[[Sega]]
+|{{dts|1991|08|09}}
+|{{dts|1991|10}}
+|{{dts|1991|11}}
+|
+|-
+!scope="row"|''[[OutRun 2019]]''
+|Hertz Co., Ltd.
+|[[Sega]]<sup>NA/PAL</sup><br />[[SIMS Co., Ltd.|SIMS]]<sup>JP</sup>
+|{{dts|1993|03|26}}
+|{{dts|1993|03}}
+|{{dts|1993|03}}
+|
+|-
+!scope="row"|''[[OutRunners]]''
+|[[Sega AM1]]
+|[[Sega]]<sup> JP</sup><br />[[Data East]]<sup> NA</sup>
+|{{dts|1994|05|13}}
+|{{dts|1994|06|14}}
+|{{unreleased}}
+|
+|-
+!scope="row"|<span id="P"></span>''[[P.T.O.|P.T.O.: Pacific Theater of Operations]]''<br /><span id="P"></span><center>''Teitoku no Ketsudan''<sup>JP</sup></center>
+|[[Koei]]
+|Koei
+|{{dts|1992}}
+|{{dts|1992}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Pac-Attack]]''<br /><center>''Pac-Panic''<sup>PAL</sup></center>
+|[[Namco]]
+|Namco
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1995|12}}
+|
+|-
+!scope="row"|''[[Pac-Man 2: The New Adventures]]''
+|[[Namco]]
+|[[Namco|Namco Hometek]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Pac-Mania]]''
+|[[Sculptured Software]]
+|[[Tengen (company)|Tengen]]
+|{{unreleased}}
+|{{dts|1991|09}}
+|{{dts|1991|09}}
+|
+|-
+!scope="row"|''Pachinko Kuunyan''
+|Soft Vision
+|Soft Vision
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Pagemaster, The|[[The Pagemaster (video game)|The Pagemaster]]}}''
+|[[Acclaim Cheltenham|Probe Software]]<br />[[Atod|Atod AB]]
+|[[Fox Interactive]]
+|{{unreleased}}
+|{{dts|1994|11}}
+|{{dts|1994|11}}
+|
+|-
+!scope="row"|''[[Panorama Cotton]]''
+|[[Success (company)|Success]]
+|[[Sunsoft]]
+|{{dts|1994}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Paperboy (video game)|Paperboy]]''
+|Motivetime<br />Arc Developments
+|[[Tengen (company)|Tengen]]
+|{{dts|1992|06|26}}
+|{{dts|1992|04}}<ref name=EGM33/>
+|{{dts|1992|04}}
+|
+|-
+!scope="row"|''[[Paperboy 2]]''
+|[[Tengen (company)|Tengen]]
+|Tengen
+|{{unreleased}}
+|{{dts|1993|02}}
+|{{dts|1993|06}}
+|
+|-
+!scope="row"|''[[Party Quiz Mega Q]]''
+|Minato Giken
+|[[Sega]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Pat Riley Basketball]]''<br /><center>''Super Real Basketball''<sup>JP/PAL</sup></center>
+|[[Sega]]
+|Sega
+|{{dts|1990|03|02}}
+|{{dts|1990|08}}
+|{{dts|1991|03}}
+|
+|-
+!scope="row"|''[[True Golf Classics: Pebble Beach Golf Links|Pebble Beach Golf Links]]''<br /><center>''Pebble Beach no Hatou''<sup>JP</sup></center>
+|[[Technology and Entertainment Software|T&E Soft]]
+|[[Sega|Sega Sports]]<sup>NA/PAL</sup><br />[[Sega]]<sup>JP</sup>
+|{{dts|1993|10|29}}
+|{{dts|1994|01}}
+|{{dts|1994|02}}
+|
+|-
+!scope="row"|''[[Pelé II: World Tournament Soccer]]''<br /><center>''Pelé's World Tournament Soccer''<sup>PAL</sup></center>
+|[[Radical Entertainment]]
+|[[Accolade (company)|Sport Accolade]]
+|{{unreleased}}
+|{{dts|1994|06}}
+|{{dts|1994|06}}
+|
+|-
+!scope="row"|''Pelé!''
+|[[Radical Entertainment]]
+|[[Accolade (company)|Accolade]]
+|{{unreleased}}
+|{{dts|1993|12}}
+|{{dts|1994|02}}
+|
+|-
+!scope="row"|''[[Pengo (video game)|Pepen ga Pengo]]''
+|JSH
+|[[Sega]]
+|{{dts|1995}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Pete Sampras Tennis]]''
+|[[Codemasters]]
+|[[Codemasters|Sportsmaster]]
+|{{unreleased}}
+|{{dts|1994|04}}
+|{{dts|1994|06|16}}
+|
+|-
+!scope="row"|''[[PGA European Tour (video game)|PGA European Tour]]''
+|Polygames
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[PGA Tour 96]]''
+|[[NuFX]]<br />Hitmen Productions
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[PGA Tour Golf]]''
+|Sterling Silver Software
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1991|04}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[PGA Tour Golf II]]''
+|Polygames
+|[[EA Sports]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1993|01}}<ref name=EGM42a/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[PGA Tour Golf III]]''
+|Polygames<br />High Score Productions
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Phantasy Star (video game)|Phantasy Star Fukkokuban]]''
+|[[Sega AM7]]
+|[[Sega]]
+|{{dts|1994}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Phantasy Star II]]''<br /><center>''Phantasy Star II: Kaerazaru Toki no Owari ni''<sup>JP</sup></center>
+|[[Sega AM7]]
+|[[Sega]]
+|{{dts|1989|03|21}}
+|{{dts|1990|03}}
+|{{dts|1990|11|30}}
+|
+|-
+!scope="row"|''[[Phantasy Star III: Generations of Doom]]''<br /><center>''Phantasy Star III: Toki no Keishousha''<sup>JP</sup></center>
+|[[Sega AM7]]
+|[[Sega]]
+|{{dts|1990|04|21}}
+|{{dts|1991|07}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Phantasy Star IV: The End of the Millennium]]''<br /><center>''Phantasy Star: Sennenki no Owari ni''<sup>JP</sup></center>
+|[[Sega AM7]]
+|[[Sega]]
+|{{dts|1993|12|17}}
+|{{dts|1995|02}}
+|{{dts|1995|12|08}}
+|
+|-
+!scope="row"|''[[Phantom 2040 (video game)|Phantom 2040]]''
+|Illusions
+|[[Viacom (2005–present)|Viacom New Media]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Phelios]]''
+|[[Namco]]
+|Namco
+|{{dts|1990}}
+|{{dts|1990|10}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Pier Solar and the Great Architects]]''<ref>{{cite web|url=http://www.sega-16.com/2011/04/pier-solar-the-great-architects/|author=Horowitz, Ken|title=Pier Solar and the Great Architects|publisher=Sega-16|date=April 25, 2011|accessdate=December 28, 2013|url-status=live|archiveurl=https://web.archive.org/web/20131230232650/http://www.sega-16.com/2011/04/pier-solar-the-great-architects/|archivedate=December 30, 2013|df=mdy-all}}</ref>
+|WaterMelon
+|WaterMelon
+|{{dts|2010|12|20}}
+|{{dts|2010|12|20}}
+|{{dts|2010|12|20}}
+|
+|-
+!scope="row"|''Pink Goes To Hollywood''
+|[[Activision Value|Headgames]]<br />[[Manley & Associates]]<br />Nu Romantic Productions
+|[[TecMagik]]<sup>NA/EU</sup>
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''{{sort|Pirates of Dark Water, The|[[The Pirates of Dark Water#Other media|The Pirates of Dark Water]]}}''
+|[[Iguana Entertainment]]
+|[[Sunsoft]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Pirates! Gold]]''
+|[[MicroProse]]
+|MicroProse
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Pit-Fighter]]''
+|Sterling Silver Software
+|[[Tengen (company)|Tengen]]
+|{{dts|1991}}
+|{{dts|1991|12}}<ref name=EGM29/>
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Pitfall: The Mayan Adventure]]''
+|Redline Games
+|[[Activision]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Pocahontas (1995 film)#Legacy|Pocahontas]]''
+|[[Funcom]]
+|[[Disney Interactive Studios|Disney Interactive]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{dts|1996}}
+|
+|-
+!scope="row"|''[[Populous (video game)|Populous]]''
+|[[Bullfrog Productions]]
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Sega]]<sup>JP</sup>
+|{{dts|1990}}
+|{{dts|1990}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Power Drive (1994 video game)|Power Drive]]''
+|[[Rage Software]]
+|[[U.S. Gold]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Powermonger]]''
+|[[Bullfrog Productions]]<br />Sprytes
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992}}
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Powerball (video game)|Powerball]]''<br /><center>''Wrestle Ball''<sup>JP</sup></center>
+|[[Namco]]
+|Namco
+|{{dts|1991}}
+|{{dts|1991|04}}
+|
+|
+|-
+!scope="row"|''[[Predator 2 (1992 video game)|Predator 2]]''
+|[[Teeny Weeny Games]]<br />[[Krisalis Software]]
+|[[Arena Entertainment]]
+|{{unreleased}}
+|{{dts|1992}}
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Premier Manager]]''
+|Realms of Fantasy<br />[[Gremlin Interactive]]
+|[[Sega]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Premier Manager (series)|Premier Manager 97]]''
+|[[Gremlin Interactive]]
+|[[Sega]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1996}}
+|
+|-
+!scope="row"|''[[Primal Rage]]''
+|[[Acclaim Cheltenham|Probe Entertainment]]
+|[[Time Warner Interactive]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Prime Time NFL Starring Deion Sanders]]''
+|Spectacular Games
+|[[Sega|Sega Sports]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Prince of Persia (1989 video game)|Prince of Persia]]''
+|[[Domark]]
+|[[Tengen (company)|Tengen]]<sup>NA</sup><br />[[Domark]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1992|12}}<ref name=EGM41b/>
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Pro Moves Soccer]]''
+|[[Zyrinx]]
+|Asciiware
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Pro Quarterback]]''
+|[[Leland Interactive Media]]
+|[[Tradewest]]
+|{{unreleased}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''Pro Striker Final Stage''
+|[[Nex Entertainment|Nextech]]
+|[[Sega]]
+|{{dts|1995}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Psy-O-Blade''
+|[[Technology and Entertainment Software|T&E Soft]]
+|Sigma Enterprises
+|{{dts|1990}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Psycho Pinball]]''
+|[[Codemasters]]
+|Codemasters
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Puggsy]]''
+|[[Traveller's Tales]]<br />[[Krisalis Software]]
+|[[Psygnosis]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Pulseman]]''
+|[[Game Freak]]
+|[[Sega]]
+|{{dts|1994|07|22}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Punisher, The|[[The Punisher (1993 video game)|The Punisher]]}}''
+|[[Sculptured Software]]
+|[[Capcom]]
+|{{unreleased}}
+|{{dts|1994|06|01}}
+|{{dts|1995|04}}
+|
+|-
+!scope="row"|''[[Puyo Puyo (video game)|Puyo Puyo]]''
+|[[Compile (publisher)|Compile]]
+|Compile
+|{{dts|1992|12|18}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Puyo Puyo Tsuu]]''
+|[[Compile (publisher)|Compile]]
+|Compile
+|{{dts|1994|12|02}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Puzzle & Action: Ichidant-R]]''
+|[[Sega]]<br />[[CRI Middleware|CRI]]
+|Sega
+|{{dts|1995|01|13}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Puzzle & Action: Tant-R]]''
+|[[Sega]]
+|Sega
+|{{dts|1994|04|01}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|<span id="Q"></span>''[[QuackShot|Quackshot starring Donald Duck]]''<br /><span id="Q"></span><center>''I Love Donald Duck: Georgia Ou no Hihou''<sup>JP</sup></center>
+|[[Sega AM7]]
+|[[Sega]]
+|{{dts|1991}}
+|{{dts|1991|11}}<ref name=EGM28/>
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Quad Challenge]]''<br /><center>''MegaTraX''<sup>JP</sup></center>
+|[[Now Production]]
+|[[Namco]]
+|{{dts|1991}}
+|{{dts|1991|10}}
+|{{unreleased}}
+|
+|-
+!scope="row"|<span id="R"></span>''R.B.I. Baseball '93''<span id="R"></span>
+|[[Tengen (company)|Tengen]]
+|Tengen
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''R.B.I. Baseball '94''
+|[[Tengen (company)|Tengen]]
+|Tengen
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[R.B.I. Baseball|R.B.I. Baseball 3]]''
+|[[Tengen (company)|Tengen]]
+|Tengen
+|{{unreleased}}
+|{{dts|1991|12}}<ref name=EGM29/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[R.B.I. Baseball|R.B.I. Baseball 4]]''
+|[[Tengen (company)|Tengen]]
+|Tengen
+|{{dts|1992}}
+|{{dts|1992|09}}<ref name=EGM38/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Race Drivin']]''
+|Polygames
+|[[Tengen (company)|Tengen]]
+|{{unreleased}}
+|{{dts|1993|03|12}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Radical Rex]]''
+|[[Krome Studios Melbourne|Beam Software]]
+|[[Activision]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Raiden (video game)|Raiden Trad]]''<br /><center>''Raiden Densetsu'' <sup>JP</sup></center>
+|[[Seibu Kaihatsu]]<br />[[Micronet co., Ltd.|Micronet]]<br />[[Beyond Interactive]]
+|Micronet
+|{{dts|1991}}
+|{{dts|1991|09}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Rainbow Islands: The Story of Bubble Bobble 2|Rainbow Islands Extra]]''
+|Aisystem Tokyo<br />[[Cube (company)|Cube]]
+|[[Taito]]
+|{{dts|1990}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Rambo III (video game)|Rambo III]]''
+|[[Sega]]
+|Sega
+|{{dts|1989}}
+|{{dts|1989|12}}
+|{{dts|1990|09}}
+|
+|-
+!scope="row"|''[[Rampart (video game)|Rampart]]''
+|[[Silicon Sorcery]]
+|[[Tengen (company)|Tengen]]
+|{{dts|1991}}
+|{{dts|1991|09}}<ref name=EGM38/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Ranger X]]''<br /><center>''Ex-Ranza'' <sup>JP</sup></center>
+|[[Nex Entertainment|Gau Entertainment]]<br />[[Cube (company)|Cube]]
+|[[Sega]]
+|{{dts|1993}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''Ransei no Hasha''
+|[[SystemSoft Alpha|SystemSoft]]<br />SPS Co., Ltd.
+|[[Asmik Ace Entertainment|Asmik]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Rastan Saga II]]''
+|Opera House
+|[[Taito]]
+|{{dts|1990}}
+|{{dts|1991|04}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Red Zone (video game)|Red Zone]]''
+|[[Zyrinx]]
+|[[Atari Games|Time Warner Interactive]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Ren & Stimpy: Stimpy's Invention]]''
+|[[BlueSky Software]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Rent a Hero]]''
+|[[Sega AM2]]
+|[[Sega]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Revenge of Shinobi, The|[[The Revenge of Shinobi]]}}''<br /><center>''The Super Shinobi''<sup>JP</sup></center>
+|[[Sega Wow|Sega AM7]]
+|[[Sega]]
+|{{dts|1989|12|02}}
+|{{dts|1989|12|02}}
+|{{dts|1990|03|22}}
+|
+|-
+!scope="row"|''[[Revolution X]]''
+|[[Rage Software]]
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Richard Scarry's Busytown]]''
+|[[Appaloosa Interactive|Novotrade]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Rings of Power (video game)|Rings of Power]]''
+|[[Naughty Dog]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1992|01}}<ref name=EGM30/>
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Rise of the Robots]]''
+|Data Design Interactive
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Risk (video game)|Risk]]''
+|[[Sculptured Software]]
+|[[Parker Brothers]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Risky Woods]]''<br /><center>''Jashin Draxos''<sup>JP</sup></center>
+|Zeus Software
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Ristar]]''<br /><center>''Ristar: The Shooting Star''<sup>JP</sup></center>
+|[[Sega]]
+|Sega
+|{{dts|1995|2|17}}
+|{{dts|1995|2|16}}
+|{{dts|1995|2|18}}
+|
+|-
+!scope="row"|''[[Road Rash (video game)|Road Rash]]''
+|[[Electronic Arts]]
+|Electronic Arts<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|11}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Road Rash II]]''
+|[[Electronic Arts|EA Studios]]
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Road Rash 3|Road Rash III: Tour de Force]]''
+|Monkey Do Productions
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1995|05|15}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[RoadBlasters]]''
+|Sterling Silver Software
+|[[Tengen (company)|Tengen]]
+|{{dts|1991}}
+|{{dts|1991|11}}<ref name=EGM28/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[RoboCop 3 (video game)|RoboCop 3]]''
+|[[Ocean Software]]<br />Eden Entertainment<br />[[Krisalis Software]]
+|[[Flying Edge]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993|12}}
+|
+|-
+!scope="row"|''[[RoboCop Versus The Terminator]]''
+|[[Virgin Interactive|Virgin Games]]
+|Virgin Games
+|{{dts|1994|05|28}}
+|{{dts|1994|05|19}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Rock n' Roll Racing]]''
+|[[Blizzard Interactive|Silicon & Synapse]]
+|[[Interplay Entertainment]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Rocket Knight Adventures]]''
+|[[Konami]]
+|Konami
+|{{dts|1993|08|06}}
+|{{dts|1993|08|05}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Roger Clemens' MVP Baseball]]''
+|[[Sculptured Software]]
+|[[Flying Edge]]
+|{{unreleased}}
+|{{dts|1992}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Rolling Thunder 2]]''
+|[[Namco]]
+|[[Namco]]
+|{{dts|1991|11|19}}
+|{{dts|1992|02}}<ref name=EGM31/>
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Rolling Thunder 3]]''
+|[[Now Production]]
+|[[Namco|Namco Hometek]]
+|{{unreleased}}
+|{{dts|1993|05|19}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Rolo to the Rescue]]''<br /><center>''Zou! Zou! Zou! Rescue Daisakusen''<sup>JP</sup></center>
+|Vectordean
+|[[Electronic Arts]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1993|01}}<ref name=EGM42a/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Romance of the Three Kingdoms II]]''<br /><center>''Sangokushi II''<sup>JP</sup></center>
+|[[Koei]]
+|Koei
+|{{dts|1991}}
+|{{dts|1992|09}}<ref name=EGM38/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Romance of the Three Kingdoms III: Dragon of Destiny]]''<br /><center>''Sangokushi III''<sup>JP</sup></center>
+|[[Koei]]
+|Koei
+|{{dts|1992}}
+|{{dts|1992}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Rugby World Cup '95]]''
+|[[The Creative Assembly]]
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|<span id="S"></span>''[[Darius II (video game)|Sagaia]]''<br /><span id="S"></span><center>''Darius II''<sup>JP</sup></center>
+|[[Taito]]
+|Taito
+|{{dts|1990}}
+|{{dts|1991|04}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Saint Sword]]''
+|Cyclone System
+|[[Taito]]
+|{{dts|1991}}
+|{{dts|1991|10}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Sampras Tennis 96]]''
+|[[Codemasters]]
+|[[Sportsmaster]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Samurai Shodown]]''<br /><center>''Samurai Spirits''<sup>JP</sup></center>
+|Saurus
+|[[Takara]]
+|{{dts|1994}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''Sangokushi Retsuden: Ransei no Eiyuu-tachi''
+|[[TOSE|Tose Software]]
+|[[Sega]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Saturday Night Slam Masters]]''
+|[[Capcom]]
+|Capcom
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Scooby-Doo Mystery]]''
+|Illusions Gaming Company
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[SeaQuest DSV (video game)|SeaQuest DSV]]''
+|[[Sculptured Software]]
+|Black Pearl Software
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''{{sort|Second Samurai, The|[[The Second Samurai]]}}''
+|[[Psygnosis]]
+|Vivid Image
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Sensible Soccer (series)|Sensible Soccer: European Champions]]''
+|[[Sensible Software]]
+|[[Sony Imagesoft]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Sesame Street video games#Sesame Street Counting Cafe|Sesame Street: Counting Cafe]]''
+|[[Electronic Arts]]
+|Electronic Arts
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Shadow Blasters]]''<br /><center>''Shiten Myouou''<sup>JP</sup></center>
+|Sage's Creation
+|Sigma Enterprises
+|{{unreleased}}
+|{{dts|1990|08}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Shadow Dancer]]''<br /><center>''The Secret of Shinobi''<sup>JP</sup></center>
+|[[Sega]]
+|Sega
+|{{dts|1990|12|01}}
+|{{dts|1990}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Shadow of the Beast]]''<br /><center>''Shadow of the Beast: Mashou no Okite''<sup>JP</sup></center>
+|[[Psygnosis]]
+|[[Electronic Arts]]
+|{{dts|1991}}
+|{{dts|1991|11}}<ref name=EGM28/>
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Shadow of the Beast II]]''
+|[[Psygnosis]]
+|[[Electronic Arts]]
+|{{dts|1992}}
+|{{dts|1992|11}}<ref name=EGM40a/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Shadowrun (1994 video game)|Shadowrun]]''
+|[[FASA]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Shanghai II: Dragon's Eye]]''
+|[[Home Data]]
+|[[Activision]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Shaq Fu]]''
+|[[Delphine Software International|Delphine Software]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1994|10|28}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''Shi-Kin-Jou''
+|Scap Trust<br />[[Sunsoft]]
+|Sunsoft
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Shining Force]]''<br /><center>''Shining Force: Kamigami no Isan''<sup>JP</sup></center>
+|[[Camelot Software Planning|Sonic]]<br />[[Climax Entertainment|Climax]]
+|[[Sega]]
+|{{dts|1992|3|20}}
+|{{dts|1993|7}}
+|{{dts|1993|7}}
+|
+|-
+!scope="row"|''[[Shining Force II]]''<br /><center>''Shining Force II: Inishie no Fuuin''<sup>JP</sup></center>
+|[[Camelot Software Planning|Sonic]]
+|[[Sega]]
+|{{dts|1993|10|1}}
+|{{dts|1994|10}}
+|{{dts|1994|7|2}}
+|
+|-
+!scope="row"|''[[Shining in the Darkness]]''<br /><center>''Shining and the Darkness''<sup>JP</sup></center>
+|[[Camelot Software Planning|Sonic]]<br />[[Climax Entertainment|Climax]]
+|[[Sega]]
+|{{dts|1991}}
+|{{dts|1991|10}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Shinobi III: Return of the Ninja Master]]''<br /><center>''The Super Shinobi II''<sup>JP</sup></center>
+|[[Sega]]
+|Sega
+|{{dts|1993|07|23}}
+|{{dts|1993|08|22}}
+|{{dts|1993|07|24}}
+|
+|-
+!scope="row"|''Shougi no Hoshi''
+|[[Home Data]]
+|Home Data
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Shove It! ...The Warehouse Game''<br /><center>''Shijou Saidai no Soukoban''<sup>JP</sup></center>
+|NCS
+|[[EA Los Angeles|DreamWorks]]
+|{{dts|1990}}
+|{{dts|1990|05}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Show do Milhão''
+|[[Tectoy]]
+|Tectoy
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|BR ({{dts|2001}})<ref name="milhao">{{cite web|url=http://www.ign.com/games/show-do-milhao-139043/gen-829538|title=Show do Milhão - Genesis|website=[[IGN]]|accessdate=December 28, 2013|url-status=live|archiveurl=https://web.archive.org/web/20140222212156/http://www.ign.com/games/show-do-milhao-139043/gen-829538|archivedate=February 22, 2014|df=mdy-all}}</ref>
+|-
+!scope="row"|''Show do Milhão vol.2''
+|[[Tectoy]]
+|Tectoy
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|BR ({{dts|2002}})<ref>{{cite web|url=http://jogorama.com.br/jogos/mega-drive/4767/show-do-milhao-volume-2/|title=Show do Milhão Volume 2|publisher=Jogorama|language=Portuguese|accessdate=December 28, 2013|url-status=live|archiveurl=https://web.archive.org/web/20131230234724/http://jogorama.com.br/jogos/mega-drive/4767/show-do-milhao-volume-2/|archivedate=December 30, 2013|df=mdy-all}}</ref>
+|-
+!scope="row"|''Shuǐ Hǔ Fēng Yún Zhuán''
+|Never Ending Soft Team
+|Never Ending Soft Team
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|TW ({{dts|1996}})<ref name="pirate">{{cite web|url=http://www.sega-16.com/2011/11/hacks-homebrews-top-tier-pirate-games/|title=Hacks & Homebrews: Top Tier Pirate Games|author=Greg J|publisher=Sega-16|date=November 23, 2011|accessdate=December 28, 2013|url-status=live|archiveurl=https://web.archive.org/web/20140114203441/http://www.sega-16.com/2011/11/hacks-homebrews-top-tier-pirate-games/|archivedate=January 14, 2014|df=mdy-all}}</ref>
+|-
+!scope="row"|''[[Shura no Mon]]''
+|[[SIMS Co., Ltd.|SIMS]]
+|[[Sega]]
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Side Pocket]]''
+|[[Data East]]
+|Data East<sup> NA/JP </sup><br />[[Sega]]<sup> PAL</sup>
+|{{dts|1992}}
+|{{dts|1992|08}}<ref name=EGM37/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''{{sort|Simpsons, The: Bart vs. the Space Mutants|[[The Simpsons: Bart vs. the Space Mutants]]}}''
+|Arc Developments
+|[[Flying Edge]]
+|{{unreleased}}
+|{{dts|1992|06}}<ref name=EGM35/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''{{sort|Simpsons, The: Bart's Nightmare|[[The Simpsons: Bart's Nightmare]]}}''
+|[[Sculptured Software]]
+|[[Flying Edge]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''Skeleton Krew''
+|[[Core Design]]
+|Core Design
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Skitchin']]''
+|[[Electronic Arts]]
+|Electronic Arts
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''Slam Dunk, From TV Animation: Kyougou Makkou Taiketsu!''
+|[[SIMS Co., Ltd.|SIMS]]
+|[[Bandai]]
+|{{dts|1995}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Slap Fight|Slap Fight MD]]''
+|[[Toaplan]]
+|[[Tengen (company)|Tengen]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Slaughter Sport''
+|[[Sanritsu Denki|Sanritsu]]
+|Razorsoft
+|{{dts|1990}}
+|{{dts|1991|12|20}}<ref name="SVisions07">Sega Visions Volume #1, Issue #7, Pages 44-45</ref>
+|{{dts|1990}}
+|
+|-
+!scope="row"|''{{sort|Smurfs, The|[[List of Smurfs video games|The Smurfs]]}}''
+|[[Infogrames Entertainment, SA|Infogrames]]
+|Infogrames
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''{{sort|Smurfs, The: Tour of the World|[[List of Smurfs video games|The Smurfs: Tour of the World]]}}''
+|[[Infogrames Entertainment, SA|Infogrames]]
+|Infogrames
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1996}}
+|
+|-
+!scope="row"|''[[Snake Rattle 'n' Roll]]''
+|[[Rare (company)|Rare]]
+|[[Sega]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Snow Bros|Snow Bros.: Nick & Tom]]''
+|[[Toaplan]]/[[Cube]]
+|[[Tengen (company)|Tengen]]
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Socket (video game)|Socket]]''<br /><center>''Time Dominator 1st''<sup>JP</sup></center>
+|[[Vic Tokai]]
+|Vic Tokai
+|{{dts|1994|03|25}}
+|{{dts|1993|08|17}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Sol-Feace|Sol-Deace]]''
+|[[Namco Tales Studio|Wolf Team]]
+|[[Renovation Products]]
+|{{unreleased}}
+|{{dts|1992|04}}<ref name=EGM33/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Sonic 3D Blast]]''<br /><center>''Sonic 3D Flickies' Island''<sup>PAL</sup></center>
+|[[Traveller's Tales]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1996|11|07}}
+|{{dts|1996|11|05}}
+|
+|-
+!scope="row"|''[[Sonic & Knuckles]]''
+|[[Sonic Team]]
+|[[Sega]]
+|{{dts|1994|10|18}}
+|{{dts|1994|10|18}}
+|{{dts|1994|10|18}}
+|
+|-
+!scope="row"|''[[Sonic the Hedgehog (1991 video game)|Sonic the Hedgehog]]''
+|[[Sonic Team]]
+|[[Sega]]
+|{{dts|1991}}
+|{{dts|1991|06|23}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Sonic the Hedgehog 2]]''
+|[[Sonic Team]]
+|[[Sega]]
+|{{dts|1992}}
+|{{dts|1992|11}}<ref name=EGM40a/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Sonic the Hedgehog 3]]''
+|[[Sonic Team]]
+|[[Sega]]
+|{{dts|1994|5|27}}
+|{{dts|1994|2|2}}
+|{{dts|1994|2|24}}
+|
+|-
+!scope="row"|''[[Sonic Spinball]]''
+|[[Sega Technical Institute]]
+|[[Sega]]
+|{{dts|1993|12|10}}
+|{{dts|1993|11|18}}
+|{{dts|1993|11|26}}
+|
+|-
+!scope="row"|''[[Sorcerer's Kingdom]]''<br /><center>''Sorcer Kingdom''<sup>JP</sup></center>
+|NCS
+|[[Treco]]
+|{{dts|1992}}
+|{{dts|1993|01}}<ref name=EGM42b>Electronic Gaming Monthly #42, pg. 43</ref>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Sorcerian]]''
+|[[Sega AM6]]
+|[[Sega]]
+|{{dts|1990}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Space Harrier II]]''
+|[[Sega]]
+|Sega
+|{{dts|1988}}
+|{{dts|1989|08|14}}
+|{{dts|1990|11|30}}
+|
+|-
+!scope="row"|''[[Space Invaders#Remakes and sequels|Space Invaders '91]]''<br /><center>''Space Invaders 90''<sup>JP</sup></center>
+|[[Taito]]
+|Taito
+|{{dts|1991}}
+|{{dts|1991|04}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Sparkster: Rocket Knight Adventures 2]]''
+|[[Konami]]
+|Konami
+|{{dts|1994|9|23}}
+|{{dts|1994|2|22}}
+|{{dts|1994|5|8}}
+|
+|-
+!scope="row"|''[[Speedball (video game)|Speedball 2]]''<br /><center>''Speedball 2: Brutal Deluxe''<sup>NA</sup></center>
+|[[The Bitmap Brothers]]
+|[[Mirrorsoft|Arena Entertainment]]
+|{{dts|1991}}
+|{{dts|1991|10}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Spider-Man (1995 video game)|Spider-Man: The Animated Series]]''
+|Western Technologies
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[The Amazing Spider-Man vs. The Kingpin|Spider-Man vs. The Kingpin]]''
+|[[Technopop]]
+|[[Sega]]
+|{{dts|1991}}
+|{{dts|1991|08}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Spider-Man and Venom: Maximum Carnage]]''
+|Software Creations (US)
+|[[Acclaim Entertainment]]
+|{{dts|1995|05|26}}
+|{{dts|1994|09|16}}
+|{{dts|1994|11|24}}
+|
+|-
+!scope="row"|''[[Spider-Man and the X-Men in Arcade's Revenge]]''
+|Software Creations (US)
+|[[Flying Edge]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!Spiritual Warfare
+|Wisdom Tree
+|Wisdom Tree
+|{{unreleased}}
+|1994
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Spirou (video game)|Spirou]]''
+|[[Infogrames Entertainment, SA|Infogrames]]
+|Infogrames
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Splatterhouse 2]]''
+|[[Now Production]]
+|[[Namco]]
+|{{dts|1992}}
+|{{dts|1992|06}}<ref name=EGM35/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Splatterhouse 3]]''
+|[[Now Production]]
+|[[Namco]]
+|{{dts|1993}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Spot Goes To Hollywood]]''
+|[[Eurocom]]
+|[[Virgin Interactive|Virgin Games]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Squirrel King]]''
+|[[Gamtec]]
+|Gamtec
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|TW ({{dts|1996}})<ref name="pirate"/>
+|-
+!scope="row"|''[[Sink or Swim (video game)|S.S. Lucifer: Man Overboard!]]''
+|Odysseus Software
+|[[Codemasters]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Star Control]]''
+|[[Toys For Bob]]
+|[[Accolade (company)|Accolade]]
+|{{unreleased}}
+|{{dts|1991|06}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Star Cruiser]]''
+|[[Arsys Software]]
+|[[Masaya]]
+|{{dts|1990}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Star Trek: Deep Space Nine#Games|Star Trek: Deep Space Nine: Crossroads of Time]]''
+|[[Appaloosa Interactive|Novotrade]]
+|Playmates Interactive
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Star Trek: The Next Generation: Echoes from the Past]]''
+|[[MicroProse]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Starflight]]''
+|[[Starflight|Binary Systems]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1991|11}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Stargate (1995 video game)|Stargate]]''
+|[[Acclaim Cheltenham|Probe Entertainment]]
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Steel Empire]]''<br /><center>''Empire of Steel''<sup>PAL</sup><br />''Koutetsu Teikoku: Steel Empire''<sup>JP</sup></center>
+|Hot B
+|[[Acclaim Entertainment]]
+|{{dts|1992}}
+|{{dts|1992|05}}<ref name=EGM34/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Steel Talons]]''
+|[[Tengen (company)|Tengen]]
+|Tengen
+|{{dts|1992}}
+|{{dts|1992}}
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Stormlord]]''
+|[[Hewson Consultants|Hewson]]
+|Razorsoft
+|{{dts|1990}}
+|{{dts|1991|06}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Street Fighter II: Champion Edition]]''<br /><center>''Street Fighter II' Plus: Champion Edition''<sup>JP</sup></center>
+|[[Capcom]]
+|Capcom
+|{{dts|1993|09|28}}
+|{{dts|1993|09|27}}
+|{{dts|1993|10|29}}
+|
+|-
+!scope="row"|''[[Street Racer (1994 video game)|Street Racer]]''
+|Vivid Image
+|[[Ubisoft]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Street Smart (video game)|Street Smart]]''
+|[[Treco]]
+|Treco
+|{{dts|1991}}
+|{{dts|1991|08}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Streets of Rage (video game)|Streets of Rage]]''<br /><center>''Bare Knuckle: Ikari no Tekken''<sup>JP</sup></center>
+|[[Sega AM7]]
+|Sega
+|{{dts|1991|08|02}}
+|{{dts|1991|09|18}}
+|{{dts|1991|10}}
+|
+|-
+!scope="row"|''[[Streets of Rage 2]]''<br /><center>''Streets of Rage II''<sup>PAL</sup><br />''Bare Knuckle II: Shitou e no Chingonka''<sup>JP</sup></center>
+|[[Sega AM7]]<br />[[Ancient (company)|Ancient]]
+|Sega
+|{{dts|1993|01|14}}
+|{{dts|1992|12|20}}<ref name=EGM42a/>
+|{{dts|1993|01}}
+|
+|-
+!scope="row"|''[[Streets of Rage 3]]''<br /><center>''Bare Knuckle III''<sup>JP</sup></center>
+|[[Sega AM7]]
+|Sega
+|{{dts|1994|01}}
+|{{dts|1994|04}}
+|{{dts|1994|04}}
+|
+|-
+!scope="row"|''[[Strider (arcade game)|Strider]]''<br /><center>''Strider Hiryuu''<sup>JP</sup></center>
+|[[Sega]]
+|Sega
+|{{dts|1990}}
+|{{dts|1990|11}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Strider II|Strider Returns: Journey from Darkness]]''<br /><center>''Strider II''<sup>PAL</sup></center>
+|[[Tiertex]]
+|[[U.S. Gold]]
+|{{dts|1992}}
+|{{dts|1992}}
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Striker (video game)|Striker]]''
+|[[Rage Software]]
+|[[Sega]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Sub-Terrania]]''
+|[[Zyrinx]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''Summer Challenge''
+|[[Accolade (company)|Accolade]]
+|Accolade
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Sunset Riders]]''
+|[[Konami]]
+|Konami
+|{{dts|1992}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Super Baseball 2020]]''<br /><center>''2020 Super Baseball''<sup>JP</sup></center>
+|[[NuFX]]
+|[[Electronic Arts]]
+|{{dts|1993}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Super Battleship]]''
+|[[Synergy|Synergistic]]
+|[[Mindscape]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Super Battletank|Super Battletank: War in the Gulf]]''
+|[[Imagineering (company)|Imagineering]]
+|[[Absolute Entertainment]]
+|{{unreleased}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Daisenryaku|Super Daisenryaku]]''
+|[[SystemSoft Alpha]]
+|[[Sega]]
+|{{dts|1989}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Super Fantasy Zone]]''
+|[[Sunsoft]]
+|[[Sunsoft]]
+|{{dts|1992}}
+|{{unreleased}}
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Super Hang-On]]''
+|[[Sega]]
+|Sega
+|{{dts|1989}}
+|{{dts|1989|12}}
+|{{dts|1990|11}}
+|
+|-
+!scope="row"|''Super High Impact''
+|[[Krome Studios Melbourne|Beam Software]]
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1992|09}}<ref name=EGM38/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Super Hydlide]]''
+|[[Technology and Entertainment Software|T&E Soft]]
+|Seismic
+|{{dts|1989}}
+|{{dts|1990|04}}
+|{{dts|1989}}
+|
+|-
+!scope="row"|''[[Super Kick Off]]''
+|[[Anco Software]]<br />[[Tiertex]]
+|[[U.S. Gold]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Super Monaco GP]]''
+|[[Sega]]
+|Sega
+|{{dts|1990}}
+|{{dts|1990|09}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Ayrton Senna's Super Monaco GP II|Super Monaco GP II, Ayrton Senna's]]''
+|[[Sega]]
+|Sega
+|{{dts|1992}}
+|{{dts|1992|09}}<ref name=EGM38/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Super Off Road]]''
+|[[Tradewest]]
+|Ballistic
+|{{unreleased}}
+|{{dts|1992}}
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Super Skidmarks]]''
+|[[Acid]]
+|[[Codemasters]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Smash TV|Super Smash TV]]''
+|[[Acclaim Cheltenham|Probe Software]]
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1992|09}}<ref name=EGM38/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Super Street Fighter II]]''<br /><center>''Super Street Fighter II: The New Challengers''<sup>JP</sup></center>
+|[[Capcom]]
+|Capcom
+|{{dts|1994|06|24}}
+|{{dts|1994|07|18}}
+|{{dts|1994|08|24}}
+|
+|-
+!scope="row"|''[[Super Thunder Blade]]''
+|[[Sega]]
+|Sega
+|{{dts|1988}}
+|{{dts|1989|08|14}}
+|{{dts|1990|11|30}}
+|
+|-
+!scope="row"|''Super Volleyball''
+|[[Video System]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1991|08}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Superman (Sunsoft game)|Superman]]''<br /><center>''Superman: The Man of Steel''<sup>PAL</sup></center>
+|[[Sunsoft]]
+|Sunsoft
+|{{unreleased}}
+|{{dts|1992|10}}<ref name=EGM39b>Electronic Gaming Monthly #39, pg. 41</ref>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''Surging Aura''
+|Japan Media Programming
+|[[Sega]]
+|{{dts|1995}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Sword of Sodan]]''
+|Innerprise
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1990}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Sword of Vermilion]]''<br /><center>''Vermilion''<sup>JP</sup></center>
+|[[Sega]]
+|Sega
+|{{dts|1989}}
+|{{dts|1991|01|28}}
+|{{dts|1991|04|22}}
+|
+|-
+!scope="row"|''[[Valis II|Syd of Valis]]''<br /><center>''SD Valis''<sup>JP</sup></center>
+|[[Telenet Japan|Telenet]]
+|[[Renovation Products]]
+|{{dts|1991}}
+|{{dts|1992|04}}<ref name=EGM33/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Sylvester and Tweety in Cagey Capers]]''
+|Alexandria, Inc.
+|[[TecMagik]]
+|{{unreleased}}
+|{{dts|1994|08}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Syndicate (video game)|Syndicate]]''
+|[[Bullfrog Productions]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|<span id="T"></span>''[[Terminator 2: Judgment Day (video game)#Terminator 2: Judgment Day (1991 film) games|T2: Terminator 2: Judgement Day]]''<span id="T"></span>
+|[[Bits Studios]]
+|[[Flying Edge]]
+|{{unreleased}}
+|{{dts|1993|01}}<ref name=EGM42a/>
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Terminator 2: Judgment Day (arcade game)|T2: The Arcade Game]]''
+|[[Acclaim Cheltenham|Probe Software]]<br />[[Krisalis Software]]
+|[[Acclaim Entertainment|Arena Entertainment]]<sup>NA/PAL</sup><br />[[Acclaim Entertainment]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992}}
+|{{dts|1992}}
+|
+|-
+!scope="row"|''Taiheiki''
+|[[TOSE|Tose Software]]
+|[[Sega]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Taikō Risshiden]]''
+|[[Koei]]
+|Koei
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[TaleSpin (video game)|TaleSpin]]''
+|[[Sega|Sega InterActive]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1992|11}}<ref name=EGM40b/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Tanglewood (2018 video game)|Tanglewood]]''
+|Big Evil Corporation
+|Big Evil Corporation
+|{{dts|2018|8|14}}
+|{{dts|2018|8|14}}
+|{{dts|2018|8|14}}
+|
+|-
+!scope="row"|''[[Target Earth (video game)|Target Earth]]''<br /><center>''Assault Suit Leynos''<sup>JP</sup></center>
+|NCS
+|[[DreamWorks Pictures|DreamWorks]]<sup>NA</sup><br />[[Masaya (company)|Masaya]]<sup>JP</sup>
+|{{dts|1990}}
+|{{dts|1990|06}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Task Force Harrier EX]]''
+|NMK<br />[[Jorudan]]<br />Opus
+|[[Treco]]
+|{{dts|1991}}
+|{{dts|1991|10}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Taz-Mania (video game)|Taz-Mania]]''
+|Recreational Brainware<br />Nu Romantic Productions
+|[[Sega]]
+|{{dts|1992}}
+|{{dts|1992|07}}<ref name=EGM36/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Taz in Escape from Mars]]''
+|[[Activision Value|Headgames]]<br />Nu Romantic Productions
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1994|10}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Team USA Basketball (video game)|Team USA Basketball]]''<br /><center>''Dream Team USA''<sup>JP</sup></center>
+|[[Electronic Arts]]
+|[[Electronic Arts|EASN]]<sup>NA/PAL</sup><br />[[Electronic Arts Victor]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|09}}<ref name=EGM38/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Technoclash]]''
+|[[Zono]]<br />[[BlueSky Software]]<br />Nu Romantic Productions
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Techno Cop]]''
+|[[Gray Matter Inc.]]<br />[[Imagexcel]]<br />Punk Development
+|RazorSoft
+|{{unreleased}}
+|{{dts|1991|01}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Tecmo Super Baseball]]''
+|[[Sculptured Software]]
+|[[Tecmo]]
+|{{dts|1994|10|28}}
+|{{dts|1994|09}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Tecmo Super Bowl]]''
+|[[Tecmo]]
+|Tecmo
+|{{dts|1993}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Tecmo Super Bowl II: Special Edition]]''
+|[[Tecmo]]
+|Tecmo
+|{{dts|1994|12|20}}
+|{{dts|1995|01|01}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Tecmo Super Bowl III: Final Edition]]''
+|[[Tecmo]]
+|Tecmo
+|{{unreleased}}
+|{{dts|1995|08|04}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Tecmo Super Hockey''
+|[[Malibu Games]]
+|[[Tecmo]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Tecmo Super NBA Basketball]]''
+|[[Sculptured Software]]
+|[[Tecmo]]
+|{{dts|1993}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Tecmo World Cup '90|Tecmo World Cup]]''<br /><center>''Tecmo World Cup '92''<sup>JP</sup></center>
+|Hertz Co., Ltd.
+|[[Atlus]]<sup>NA</sup><br />[[SIMS Co., Ltd.|SIMS]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Teenage Mutant Ninja Turtles: The Hyperstone Heist]]''<br /><center>''Teenage Mutant Hero Turtles: The Hyperstone Heist''<sup>PAL</sup><br />''Teenage Mutant Ninja Turtles: Return of the Shredder''<sup>JP</sup></center>
+|[[Konami]]
+|Konami
+|{{dts|1992}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Teenage Mutant Ninja Turtles: Tournament Fighters#Mega Drive version|Teenage Mutant Ninja Turtles: Tournament Fighters]]''<br /><center>''Teenage Mutant Hero Turtles: Tournament Fighters''<sup>PAL</sup></center>
+|[[Konami]]
+|Konami
+|{{dts|1993|12|08}}
+|{{dts|1993|09|04}}
+|{{dts|1993|12}}
+|
+|-
+!scope="row"|''{{sort|Terminator, The|[[Terminator video games#The Terminator (1992 video game)|The Terminator]]}}''
+|[[Acclaim Cheltenham|Probe Software]]<br />[[Krisalis Software]]
+|[[Virgin Interactive|Virgin Games]]
+|{{unreleased}}
+|{{dts|1992|03}}<ref name=EGM32/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Tetris]]''
+|[[Sanritsu Denki]]
+|[[Sega]]
+|{{dts|1989}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Theme Park (video game)|Theme Park]]''
+|[[Bullfrog Productions]]<br />Images Software
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Thomas the Tank Engine & Friends (video game)|Thomas the Tank Engine & Friends]]''
+|Malibu Interactive
+|[[THQ]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Thunderbolt II''
+|[[Gamtec|Sun Green]]
+|Sun Green
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|TW ({{dts|1993}})<ref name="16Taiwan"/>
+|-
+!scope="row"|''[[Thunder Force II]]''<br /><center>''Thunder Force II MD''<sup>JP</sup></center>
+|[[Technosoft]]
+|[[Sega]]<sup>NA/PAL</sup><br />Technosoft<sup>JP</sup>
+|{{dts|1989}}
+|{{dts|1989|08|14}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Thunder Force III]]''
+|[[Technosoft]]
+|Technosoft
+|{{dts|1990}}
+|{{dts|1990|10}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Thunder Force IV]]''<br /><center>''Lightning Force: Quest for the Darkstar''<sup>NA</sup></center>
+|[[Technosoft]]
+|[[Sega]]<sup>NA/PAL</sup><br />Technosoft<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1993|01}}<ref name=EGM42a/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Thunder Fox]]''
+|Aisystem Tokyo
+|[[Taito]]
+|{{dts|1991}}
+|{{dts|1991|09}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Thunder Pro Wrestling Retsuden]]''
+|[[Human Entertainment]]
+|Human Entertainment
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''{{sort|Tick, The|[[The Tick (video game)|The Tick]]}}''
+|Software Creations (US)
+|[[Fox Interactive]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Time Killers]]''
+|[[Incredible Technologies]]
+|Black Pearl Software
+|{{unreleased}}
+|{{dts|1996}}
+|{{dts|1996}}
+|
+|-
+!scope="row"|''[[Tinhead (video game)|Tinhead]]''
+|[[MicroProse]]
+|[[Spectrum HoloByte]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Tintin in Tibet (video game)|Tintin in Tibet]]''
+|[[Infogrames Entertainment, SA|Infogrames]]
+|Infogrames
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1996}}
+|
+|-
+!scope="row"|''[[Tiny Toon Adventures: ACME All-Stars]]''
+|[[Konami]]
+|Konami
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Tiny Toon Adventures: Buster's Hidden Treasure]]''
+|[[Konami]]
+|Konami
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''TNN Bass Tournament of Champions''
+|[[Imagitec Design]]
+|[[ASC Games|American Softworks]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[TNN Outdoors Bass Tournament '96]]''
+|[[Imagitec Design]]
+|[[ASC Games]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Todd's Adventures in Slime World]]''<br /><center>''Slime World''<sup>JP</sup></center>
+|[[Epyx]]
+|[[Renovation Products]]<sup>NA</sup><br />Micro World<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|09}}<ref name=EGM38/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[ToeJam & Earl]]''
+|[[ToeJam & Earl Productions|Johnson-Voorsanger Productions]]<br />Nu Romantic Productions
+|[[Sega]]
+|{{dts|1991}}
+|{{dts|1991|10}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[ToeJam & Earl in Panic on Funkotron]]''
+|[[ToeJam & Earl Productions|Johnson-Voorsanger Productions]]<br />Nu Romantic Productions
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1994|1}}
+|
+|-
+!scope="row"|''[[Toki (video game)|Toki: Going Ape Spit]]''<br /><center>''JuJu Densetsu''<sup>JP</sup></center>
+|[[TAD Corporation]]<br />Santos
+|[[Sega]]
+|{{dts|1991}}
+|{{dts|1992|01}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''Tom & Jerry: Frantic Antics!''
+|[[Krome Studios Melbourne|Beam Software]]
+|[[Hi-Tech Expressions]]<sup>NA</sup><br />[[Altron]]<sup>JP</sup>
+|{{dts|1993}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Tom Clown''
+|AV Artisan
+|Realtec
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Tommy Lasorda Baseball]]''<br /><center>''Super League''<sup>JP/PAL</sup></center>
+|[[Sega]]
+|Sega
+|{{dts|1989}}
+|{{dts|1989|08|14}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Tony La Russa Baseball]]''
+|[[Beyond Software]]<br />[[Electronic Arts]]
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Top Gear 2]]''
+|[[Gremlin Interactive|Gremlin Graphics]]
+|[[Vic Tokai]]
+|{{unreleased}}
+|{{dts|1994|06|02}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Top Pro Golf''
+|Coconuts Japan<br />[[Varie]]
+|Soft Vision
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Total Football (video game)|Total Football]]''
+|[[Domark]]
+|Domark
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Toughman Contest (video game)|Toughman Contest]]''
+|[[Visual Concepts]]<br />High Score Productions
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Toxic Crusaders (video game)|Toxic Crusaders]]''
+|[[Infogrames]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1992}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Toy Story (video game)|Toy Story]]''
+|[[Traveller's Tales]]<br />[[Disney Interactive Studios]]
+|Disney Interactive Studios <sup>NA</sup><br />[[Sega]] <sup>EU</sup> 
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Toys (video game)|Toys]]''
+|[[Absolute Entertainment]]
+|Absolute Entertainment
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Trampoline Terror!]]''
+|NCS
+|[[DreamWorks Pictures|DreamWorks]]
+|{{unreleased}}
+|{{dts|1990}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Traysia]]''<br /><center>''Minato no Traysia''<sup>JP</sup></center>
+|Riot
+|[[Renovation Products]]<sup>NA</sup><br />[[Telenet Japan]]<sup>JP</sup>
+|{{dts|1992}}
+|{{dts|1992|04}}<ref name=EGM33/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Triple Play series|Triple Play 96]]''
+|[[EA Canada|Extended Play Productions]]
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Triple Play series|Triple Play: Gold Edition]]''
+|[[EA Canada]]
+|[[EA Sports]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Trouble Shooter]]''<br /><center>''Battle Mania''<sup>JP</sup></center>
+|[[Vic Tokai]]
+|Vic Tokai
+|{{dts|1991}}
+|{{dts|1992|01}}<ref name=EGM30/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Troy Aikman NFL Football]]''
+|[[Leland Interactive Media]]
+|[[Tradewest]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[True Lies (video game)|True Lies]]''
+|[[Krome Studios Melbourne|Beam Software]]
+|[[Acclaim Entertainment]]
+|{{dts|1995}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Truxton (video game)|Truxton]]''<br /><center>''Tatsujin''<sup>JP</sup></center>
+|[[Toaplan]]
+|[[Sega]]
+|{{dts|1989}}
+|{{dts|1989|12}}
+|{{dts|1990|11}}
+|
+|-
+!scope="row"|''[[Turbo Outrun]]''
+|[[Sega AM2]]<br />[[Tiertex]]
+|[[Sega]]
+|{{dts|1992}}
+|{{unreleased}}
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Turrican]]''
+|[[Rainbow Arts]]<br />Code Monkeys Ltd.
+|[[Accolade (company)|Accolade]]
+|{{unreleased}}
+|{{dts|1991|09}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[Twin Cobra|Twin Cobra: Desert Attack Helicopter]]''<br /><center>''Kyuukyoku Tiger''<sup>JP</sup></center>
+|[[Graphic Research]]
+|[[Sega]]<sup>NA</sup><br />[[Treco]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|06}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Twin Hawk]]''<br /><center>''Daisenpuu''<sup>JP</sup></center>
+|[[Toaplan]]
+|[[Sega]]
+|{{dts|1990}}
+|{{unreleased}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Twinkle Tale]]''
+|Zap Corporation
+|Wonder Amusement Studio
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Two Crude Dudes]]''<br /><center>''Crude Buster''<sup>JP</sup></center>
+|ISCO<br />Opera House
+|[[Data East]]<sup> NA/JP</sup><br />[[Sega]]<sup> PAL</sup>
+|{{dts|1992}}
+|{{dts|1992|03}}<ref name=EGM32/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Populous II: Trials of the Olympian Gods|Two Tribes: Populous II]]''
+|Panelcomp
+|[[Virgin Interactive|Virgin Games]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|<span id="U"></span>''[[Ultimate Mortal Kombat 3]]''<span id="U"></span>
+|[[Avalanche Software]]
+|[[WMS Industries|Williams Entertainment]]<sup>NA</sup><br />[[Acclaim Entertainment]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1996|06}}
+|{{dts|1996|11|28}}
+|
+|-
+!scope="row"|''[[Ultimate Qix]]''<br /><center>''Volfied''<sup>JP</sup></center>
+|ITL
+|[[Taito]]
+|{{dts|1991}}
+|{{dts|1991|07}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Ultimate Soccer]]''
+|[[Rage Software]]
+|[[Sega]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Ultracore]]''
+|[[Digital Illusions|Digital Illusions CE AB]]
+|[[Strictly Limited]]
+|{{unreleased}}
+|{{dts|2019/03}}
+|{{dts|2019/03}}
+|
+|-
+!scope="row"|''[[Ultraman#In video games|Ultraman]]''
+|[[Tsuburaya Productions|Tsuburaya]]
+|Ma-Ba
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Uncharted Waters]]''<br /><center>''Daikoukai Jidai'' <sup>JP</sup></center>
+|[[Koei]]
+|Koei
+|{{dts|1992}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Uncharted Waters: New Horizons]]''<br /><center>''Daikoukai Jidai II'' <sup>JP</sup></center>
+|[[Koei]]
+|Koei
+|{{dts|1994}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Undead Line''
+|[[Technology and Entertainment Software|T&E Soft]]
+|PAL Soft
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Universal Soldier Video Game|Universal Soldier]]''
+|[[Rainbow Arts]]<br />Code Monkeys Ltd.
+|Ballistic
+|{{unreleased}}
+|{{dts|1992|11}}<ref name=EGM40a/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Unnecessary Roughness '95]]''
+|[[Accolade (company)|Accolade]]
+|[[Accolade (company)|Sport Accolade]]
+|{{unreleased}}
+|{{dts|1994|08|25}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Urban Strike]]''
+|Foley Hi-Tech Systems<br />Granite Bay Software
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Uzu Keobukseon]]''
+|[[Samsung Group|Samsung]]
+|Samsung
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|KR ({{dts|1992}})<ref>{{cite web|author=Figueiredo, Edward|title=Space Turtle Ship (Uzu Keobukseon)|url=http://www.sega-16.com/2010/06/space-turtle-ship-uzu-keobukseon/|publisher=Sega-16|date=June 8, 2010|accessdate=December 28, 2013|url-status=live|archiveurl=https://web.archive.org/web/20131230234553/http://www.sega-16.com/2010/06/space-turtle-ship-uzu-keobukseon/|archivedate=December 30, 2013|df=mdy-all}}</ref>
+|-
+!scope="row"|<span id="V"></span>''[[Valis: The Fantasm Soldier|Valis]]''<br /><span id="V"></span><center>''Mugen Senshi Valis''<sup>JP</sup></center>
+|Riot<br />Triad
+|[[Renovation Products]]<sup>NA</sup><br />[[Telenet Japan]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1992|03}}<ref name=EGM32/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Valis III]]''
+|Reno
+|[[Renovation Products]]<sup>NA</sup><br />[[Telenet Japan]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|04}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Vapor Trail: Hyper Offence Formation|Vapor Trail]]''<br /><center>''Kuuga: Operation Vapor Trail''<sup>JP</sup></center>
+|[[Data East]]
+|[[Telenet Japan]]<sup>JP</sup><br />[[Renovation Products]]<sup>NA</sup>
+|{{dts|1991}}
+|{{dts|1991|11}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Vectorman]]''
+|[[BlueSky Software]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1995|10|24}}
+|{{dts|1995|11|30}}
+|
+|-
+!scope="row"|''[[Vectorman 2]]''
+|[[BlueSky Software]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1996|11|15}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Venom/Spider-Man: Separation Anxiety]]''
+|Software Creations (US)
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1995|11}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Verytex]]''
+|ISCO<br />Opera House
+|[[Asmik Ace Entertainment|Asmik]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Viewpoint (video game)|Viewpoint]]''
+|Nexus Interact
+|[[Sammy Corporation|Sammy]]
+|{{unreleased}}
+|{{dts|1994|11}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Virtua Fighter 2]]''
+|[[Sega AM2]]<br />[[Success (company)|Success]]<br />Gaibrain<br />Winds
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1997|03|04}}
+|{{dts|1996}}
+|
+|-
+!scope="row"|''[[Virtua Racing]]''
+|[[Sega AM2]]
+|[[Sega|Sega Sports]]
+|{{dts|1994|3|18}}
+|{{dts|1994|3|14}}
+|{{dts|1994|3|16}}
+|
+|-
+!scope="row"|''[[Virtual Bart]]''
+|[[Sculptured Software]]
+|[[Acclaim Entertainment]]
+|{{dts|1994}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Virtual Pinball]]''
+|[[BudgeCo]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Vixen 357]]''
+|NCS<br />Opus
+|[[Masaya (company)|Masaya]]<sup>JP</sup><br />[[Super Fighter Team]]<sup>NA</sup>
+|{{dts|1992}}
+|{{dts|2019}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[VR Troopers (video game)|VR Troopers]]''
+|Syrox Developments
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1995|11}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|<span id="W"></span>''[[Wacky Worlds Creativity Studio]]''<span id="W"></span>
+|[[Activision Value|Headgames]]<br />Nu Romantic Productions
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Waialae no Kiseki''
+|[[Technology and Entertainment Software|T&E Soft]]
+|[[Sega]]
+|{{dts|1994}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Wani Wani World''
+|Inter State
+|[[Kaneko]]
+|{{dts|1992}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Wardner (video game)|Wardner]]''<br /><center>''Wardner no Mori Special''<sup>JP</sup></center>
+|[[Visco Corporation]]
+|Mentrix Software<sup>NA</sup><br />Visco Corporation<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|05}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Warlock (video game)|Warlock]]''
+|[[Realtime Associates]]<br />Trimark Interactive
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1995|05|26}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[WarpSpeed]]''
+|[[Accolade (company)|Accolade]]
+|Accolade
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Warrior of Rome]]''<br /><center>''Caesar no Yabou''<sup>JP</sup></center>
+|[[Micronet co., Ltd.|Micronet]]
+|Micronet
+|{{dts|1991}}
+|{{dts|1991|05}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Warrior of Rome II]]''<br /><center>''Caesar no Yabou II''<sup>JP</sup></center>
+|[[Micronet co., Ltd.|Micronet]]
+|Micronet
+|{{dts|1992}}
+|{{dts|1992|06}}<ref name=EGM35/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Warsong]]''<br /><center>''Langrisser''<sup>JP</sup></center>
+|NCS<br />[[Cube (company)|Cube]]
+|[[Treco]]<sup>NA</sup><br />[[Masaya (company)|Masaya]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|12}}<ref name=EGM29/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Wayne Gretzky and the NHLPA All-Stars]]''
+|[[Time Warner Interactive]]<br />Cygnus Multimedia<br />DMP Productions
+|Time Warner Interactive
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Wayne's World (video game)|Wayne's World]]''
+|[[Gray Matter Inc.]]
+|[[THQ]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Weaponlord]]''
+|[[Visual Concepts]]
+|[[Namco|Namco Hometek]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''Whac-a-Critter''<br /><center>''Mallet Legend''<sup>TW</sup></center>
+|AV Artisan
+|Realtec
+|{{unreleased}}
+|{{dts|1993}}
+|{{unreleased}}
+|TW ({{dts|1993}})
+|-
+!scope="row"|''[[Wheel of Fortune (video game)|Wheel of Fortune]]''
+|[[Imagitec Design]]
+|[[GameTek]]
+|{{unreleased}}
+|{{dts|1992|07}}<ref name=EGM36/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Where in the World Is Carmen Sandiego? (1985 video game)|Where in the World Is Carmen Sandiego?]]''
+|[[EA Canada]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1992|10}}<ref name=EGM39b/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Where in Time Is Carmen Sandiego? (video game)|Where in Time is Carmen Sandiego?]]''
+|[[EA Canada]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1992|03}}<ref name=EGM32/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Whip Rush]]''<br /><center>''Whip Rush: Wakusei Voltegas no Nazo''<sup>JP</sup></center>
+|[[Vic Tokai]]
+|[[Renovation Products]]<sup>NA</sup><br />[[Sega]]<sup>JP</sup>
+|{{dts|1990}}
+|{{dts|1990|10}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Williams Arcade's Greatest Hits]]''<br /><center>''Midway Presents Arcade's Greatest Hits''<sup>PAL</sup></center>
+|[[Digital Eclipse Software]]<br />Image Impressions
+|[[WMS Industries|Williams Entertainment]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{dts|1996}}
+|
+|-
+!scope="row"|''Wimbledon Championship Tennis''<br /><center>''Wimbledon'' <sup>EU</sup></center>
+|[[SIMS Co., Ltd.|SIMS]]
+|[[Sega|Sega Sports]]<sup>NA</sup><br />[[Sega]]<sup>JP/PAL</sup>
+|{{dts|1993}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Winter Challenge]]''
+|MindSpan Technologies
+|Ballistic<sup>NA</sup><br />[[Accolade (company)|Accolade]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1992|01}}<ref name=EGM30/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[Winter Olympics: Lillehammer 94]]''
+|[[Tiertex]]
+|[[U.S. Gold]]<sup>NA</sup><br />[[U.S. Gold|Kixx]]<sup>PAL</sup><br />[[Sega]]<sup>JP</sup>
+|{{dts|1994}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Wiz 'n' Liz]]''<br /><center>''Wiz 'n' Liz: The Frantic Wabbit Wescue''<sup>PAL</sup></center>
+|[[Bizarre Creations|Raising Hell Productions]]<br />[[Krisalis Software]]
+|[[Psygnosis]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Wolfchild]]''
+|[[Core Design]]<br />[[Krisalis Software]]
+|[[JVC]]
+|{{unreleased}}
+|{{dts|1992}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Wolverine: Adamantium Rage]]''
+|[[Perfect Entertainment|Teeny Weeny Games]]
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Wonder Boy III: Monster Lair]]''
+|[[Aicom]]
+|[[Sega]]
+|{{dts|1990}}
+|{{unreleased}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Wonder Boy in Monster World]]''<br /><center>''Wonder Boy V: Monster World III''<sup>JP</sup></center><center>''Turma Da Monica na Terra dos Monstros''<sup>BR</sup></center>
+|[[Westone Bit Entertainment|Westone]]
+[[Tectoy]]<sup>BR</sup>
+|[[Sega]]
+[[Tectoy]]<sup>BR</sup>
+|{{dts|1991}}
+|{{dts|1992|03}}<ref name=EGM32/>
+|{{dts|1991}}
+|BR ({{dts|1994}})
+|-
+!scope="row"|''Wonder Library''
+|[[Victor Entertainment]]
+|Victor Entertainment
+|{{dts|1993}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[World Championship Soccer]]''<br /><center>''World Cup Italia '90''<sup>PAL</sup><br />''World Cup Soccer''<sup>JP</sup></center>
+|[[Sega]]
+|Sega
+|{{dts|1989}}
+|{{dts|1989|09}}
+|{{dts|1989}}
+|
+|-
+!scope="row"|''[[World Championship Soccer 2]]''<br /><center>''World Championship Soccer II''<sup>NA</sup></center>
+|[[Graftgold]]
+|[[Sega|Sega Sports]]<sup>NA</sup><br />[[Sega]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''World Class Leaderboard Golf''
+|[[Access Software]]<br />[[Tiertex]]
+|[[U.S. Gold]]
+|{{unreleased}}
+|{{dts|1992|11}}<ref name=EGM40b/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[World Cup USA '94]]''
+|[[Tiertex]]
+|[[U.S. Gold]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[World Heroes (video game)|World Heroes]]''
+|[[Sega|Sega Midwest Studio]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[World of Illusion Starring Mickey Mouse and Donald Duck]]''<br /><center>''I Love Mickey & Donald: Fushigi na Magic Box''<sup>JP</sup></center>
+|[[Sega AM7]]
+|[[Sega]]
+|{{dts|1992|12|18}}
+|{{dts|1992|12|17}}
+|{{dts|1992|12|19}}
+|
+|-
+!scope="row"|''[[World Series Baseball (video game)|World Series Baseball]]''
+|[[BlueSky Software]]
+|[[Sega|Sega Sports]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[World Series Baseball '95]]''
+|[[BlueSky Software]]
+|[[Sega|Sega Sports]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''World Series Baseball '96''
+|[[BlueSky Software]]
+|[[Sega|Sega Sports]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''World Series Baseball '98''
+|[[BlueSky Software]]
+|[[Sega|Sega Sports]]
+|{{unreleased}}
+|{{dts|1997}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Worms (1995 video game)|Worms]]''
+|[[Team17]]<br />East Point Software
+|[[Ocean Software]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[Wrestle War (video game)|Wrestle War]]''
+|[[Sega]]
+|Sega
+|{{dts|1991}}
+|{{unreleased}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''[[WWF Raw (1994 video game)|WWF Raw]]''
+|[[Sculptured Software]]
+|[[Acclaim Entertainment]]
+|{{dts|1994}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[WWF Royal Rumble (1993 video game)|WWF Royal Rumble]]''
+|[[Sculptured Software]]
+|[[Flying Edge]]<sup>NA/PAL</sup><br />[[Acclaim Entertainment]]<sup>JP</sup>
+|{{dts|1993}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[WWF Super WrestleMania]]''
+|[[Sculptured Software]]
+|[[Flying Edge]]
+|{{unreleased}}
+|{{dts|1992|12}}<ref name=EGM41a/>
+|{{dts|1992}}
+|
+|-
+!scope="row"|''[[WWF WrestleMania: The Arcade Game]]''
+|[[Sculptured Software]]
+|[[Acclaim Entertainment]]
+|{{unreleased}}
+|{{dts|1995|11}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|<span id="X"></span>''[[X-Men (1993 video game)|X-Men]]''<span id="X"></span>
+|Western Technologies
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1993|03}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[X-Men 2: Clone Wars]]''
+|[[Activision Value|Headgames]]<br />[[Zono]]
+|[[Sega]]
+|{{unreleased}}
+|{{dts|1995|05|15}}
+|{{dts|1995}}
+|
+|-
+!scope="row"|''[[X-Perts]]''
+|Abalone Entertainment
+|[[Sega|Deep Water]]
+|{{unreleased}}
+|{{dts|1996}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[XDR (video game)|XDR: X-Dazedly-Ray]]''
+|Affect
+|Unipacc
+|{{dts|1990}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Xeno Crisis]]''<ref>{{cite web|url=http://www.siliconera.com/2018/01/04/xeno-crisis-new-top-shooter-coming-mega-drive-genesis-dreamcast/|author=Couture, Joel|title=Xeno Crisis Is A New Top-Down Shooter Coming To Mega Drive, Genesis, Dreamcast|publisher=Siliconera|date=January 4, 2018|accessdate=May 5, 2018}}</ref>
+|Bitmap Bureau
+|Bitmap Bureau
+|{{dts|2018}}
+|{{dts|2018}}
+|{{dts|2018}}
+|
+|-
+!scope="row"|''[[Xenon 2 Megablast]]''
+|[[The Bitmap Brothers]]
+|[[Virgin Interactive|Virgin Games]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1992}}
+|
+|-
+!scope="row"|<span id="Y"></span>''Yang Warrior Family''<span id="Y"></span>
+|Unknown
+|Unknown
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|TW ({{dts|1990}})<ref>{{cite web|url=http://www.sega-16.com/2010/08/yang-jia-jiang-yang-warrior-family/|title=Yang Jia Jiang (Yang Warrior Family)|author=Jackson, Doug|publisher=Sega-16|date=August 20, 2010|accessdate=December 28, 2013|url-status=live|archiveurl=https://web.archive.org/web/20131230235241/http://www.sega-16.com/2010/08/yang-jia-jiang-yang-warrior-family/|archivedate=December 30, 2013|df=mdy-all}}</ref>
+|-
+!scope="row"|''[[Adventures of Yogi Bear|Yogi Bear: Cartoon Capers]]''
+|[[Empire Interactive]]
+|[[GameTek]]
+|{{unreleased}}
+|{{unreleased}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Ys III: Wanderers from Ys]]''
+|Riot
+|[[Renovation Products]]<sup>NA</sup><br />[[Nihon Falcom]]<sup>JP</sup>
+|{{dts|1991}}
+|{{dts|1991|12}}<ref name=EGM29/>
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[YuYu Hakusho: Gaiden]]''
+|[[Gau Entertainment]]
+|[[Sega]]
+|{{dts|1994}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Yū Yū Hakusho Makyō Tōitsusen]]''
+|[[Treasure (company)|Treasure]]
+|[[Sega]]
+|{{dts|1994|09|30}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|<span id="Z"></span>''[[Zan: Yasha Enbukyoku]]''<span id="Z"></span>
+|[[Namco Tales Studio|Wolf Team]]
+|[[Telenet Japan]]
+|{{dts|1991}}
+|{{unreleased}}
+|{{unreleased}}
+|
+|-
+!scope="row"|''[[Zany Golf]]''
+|[[Will Harvey|Sandcastle Productions]]
+|[[Electronic Arts]]
+|{{unreleased}}
+|{{dts|1990}}
+|{{dts|1990}}
+|
+|-
+!scope="row"|''[[Zero the Kamikaze Squirrel]]''
+|[[Iguana Entertainment]]
+|[[Sunsoft]]
+|{{unreleased}}
+|{{dts|1994|11}}
+|{{dts|1994|07}}
+|
+|-
+!scope="row"|''[[Zero Tolerance (video game)|Zero Tolerance]]''
+|[[Technopop (developer)|Technopop]]
+|[[Accolade (company)|Accolade]]
+|{{unreleased}}
+|{{dts|1994}}
+|{{dts|1994}}
+|
+|-
+!scope="row"|''[[Zero Wing]]''
+|[[Toaplan]]<br />[[Cube (company)|Cube]]
+|[[Sega]]<sup>PAL</sup><br />Toaplan<sup>JP</sup>
+|{{dts|1991}}
+|{{unreleased}}
+|{{dts|1991}}
+|
+|-
+!scope="row"|''Zhuo Guǐ Dà Shi: Ghost Hunter''
+|Senchi Technology
+|Senchi Technology
+|{{unreleased}}
+|{{unreleased}}
+|{{unreleased}}
+|TW ({{dts|1994}})<ref>{{cite web|title=Zhuo Guǐ Dà Shi: Ghost Hunter - Overview|url=http://www.allgame.com/game.php?id=15976|publisher=Allgame|accessdate=January 15, 2014|archiveurl=https://web.archive.org/web/20141116001224/http://www.allgame.com/game.php?id=15976|archivedate=November 16, 2014}}</ref>
+|-
+!scope="row"|''[[Zombies Ate My Neighbors]]''<br /><center>''Zombies'' <sup>EU</sup></center>
+|[[LucasArts]]
+|[[Konami]]
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Zool]]''
+|[[Gremlin Interactive|Gremlin Graphics]]
+|[[GameTek]]<sup>NA</sup><br />[[Electronic Arts]]<sup>PAL</sup>
+|{{unreleased}}
+|{{dts|1993}}
+|{{dts|1993}}
+|
+|-
+!scope="row"|''[[Zoom!]]''
+|Discovery Software<br />Cyclone System<br />Sigma Pro-Tech
+|[[Sega]]
+|{{dts|1989}}
+|{{dts|1990|01}}
+|{{dts|1989}}
+|
+|-
+!scope="row"|''[[Zoop]]''
+|Hookstone<br />Panelcomp
+|[[Viacom (2005–present)|Viacom New Media]]
+|{{unreleased}}
+|{{dts|1995}}
+|{{dts|1995}}
+|
+|}
+
+{{Compact ToC|center=yes|num=yes|seealso=no|refs=yes|nobreak=yes}}
+
+==Sega Meganet titles==
+[[Sega Meganet]], also known as the Net Work System, was an online service for the Mega Drive in Japan. Utilizing [[dial-up Internet access]], Meganet was Sega's first [[Internet|online]] [[multiplayer|multiplayer gaming]] service, and functioned on a [[pay to play]] basis. The system functioned through the use of a peripheral called the Mega Modem and offered several unique titles that could be downloaded, and a few could be played competitively with friends. In addition, it shared technology and equipment with more serious services such as the Mega Anser, used for banking purposes. Though the system was announced for North America under the rebranded name "Tele-Genesis", it was never released for that region.<ref name="Disconnected"/>
+
+The Meganet service utilized its own library of titles, independent of the Mega Drive library. Most of these games never received a cartridge release; however, ''[[Columns (video game)|Columns]]'', ''[[Flicky]]'', ''[[Fatal Labyrinth]]'', and ''[[Teddy Boy Blues]]'' each later saw cartridge versions. Several Meganet games would also later appear in the ''Game no Kanzume'' series, released for the [[Sega CD|Mega-CD]] exclusively in Japan. Most games for the service were small, at around 128kB per game, due to the limits of Internet connection speeds at the time.<ref name="TeddyBoy">{{cite web|author=Horowitz, Ken|title=Teddy Boy Blues|publisher=Sega-16|url=http://www.sega-16.com/2013/04/teddy-boy-blues/|date=April 12, 2013|accessdate=December 4, 2013|url-status=live|archiveurl=https://web.archive.org/web/20160215235722/http://www.sega-16.com/2013/04/teddy-boy-blues/|archivedate=February 15, 2016|df=mdy-all}}</ref> Downloads were estimated to take about five to eight minutes to complete.<ref name="Disconnected"/> All of the Meganet games were available through the Sega Game Library, accessed through the Meganet modem. Due to issues with long-distance charges through the use of telephone lines, as well as seconds of lag time between commands, only two games featured competitive play: ''[[Tel-Tel Stadium]]'' and ''[[Tel-Tel Mahjong]]'', with the remainder of the games available for single players via download. Due to Sega's reluctance to commit to releasing the service in North America, [[Video game developer|third-party developers]] in that region were unwilling to invest in developing games specifically for Meganet. This resulted in a low number of titles created for the service.<ref name="Disconnected">{{cite web|author=Horowitz, Ken|title=Disconnected: The TeleGenesis Modem|date=November 10, 2006|accessdate=December 4, 2013|url=http://www.sega-16.com/2006/11/disconnected-the-telegenesis-modem/|publisher=Sega-16|url-status=live|archiveurl=https://web.archive.org/web/20150903032549/http://www.sega-16.com/2006/11/disconnected-the-telegenesis-modem/|archivedate=September 3, 2015|df=mdy-all}}</ref>
+
+The following list contains all of the titles released for the Meganet service. All titles in this list were released in Japan only.
+
+There were {{table row counter|tableno=3|ignore=1}} games on the Meganet.
+
+{|class="wikitable sortable"
+!scope="column" | Title<ref name="Sega"/><ref name="SegaL"/>
+!scope="column" | Developer<ref name="Sega"/><ref name="SegaL"/>
+!scope="column" | Publisher<ref name="Sega"/><ref name="SegaL"/>
+!scope="column" | Year<ref name="Sega"/><ref name="SegaL"/>
+|-
+!scope="row"|''16t''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Aworg: Hero In The Sky''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Columns (video game)|Columns]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Flicky]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Forbidden City''
+|[[Sunsoft]]
+|Sunsoft
+|1991
+|-
+!scope="row"|''Hyper Marbles''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Ikazuse! Koi no Doki Doki Penguin Land MD''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Kiss Shot''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Medal City''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Mega Mind''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Paddle Fighter''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Phantasy Star II Text Adventures#Amia's Adventure|Phantasy Star II: Amia's Adventure]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Phantasy Star II Text Adventures#Anne's Adventure|Phantasy Star II: Anne's Adventure]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Phantasy Star II Text Adventures#Huey's Adventure|Phantasy Star II: Huey's Adventure]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Phantasy Star II Text Adventures#Kinds's Adventure|Phantasy Star II: Kinds's Adventure]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Phantasy Star II Text Adventures#Nei's Adventure|Phantasy Star II: Nei's Adventure]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Phantasy Star II Text Adventures#Rudger's Adventure|Phantasy Star II: Rudger's Adventure]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Phantasy Star II Text Adventures#Shilka's Adventure|Phantasy Star II: Shilka's Adventure]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Phantasy Star II Text Adventures#Eusis's Adventure|Phantasy Star II: Eusis's Adventure]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Putter Golf''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Pyramid Magic''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Pyramid Magic II''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Pyramid Magic III''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Pyramid Magic Special''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Riddle Wired''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''Robot Battler''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Fatal Labyrinth|Shi no Meikyuu: Labyrinth of Death]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Sonic Eraser]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Teddy Boy Blues]]''
+|[[Sega]]
+|Sega
+|1991
+|-
+!scope="row"|''[[Tel-Tel Mahjong]]''
+|[[Sunsoft]]
+|Sunsoft
+|1990
+|-
+!scope="row"|''[[Tel-Tel Stadium]]''
+|[[Sunsoft]]
+|Sunsoft
+|1990
+|}
+
+==See also==
+{{Portal|Video games}}
+* [[List of Sega video game franchises]]
+* [[List of Sega CD games]]
+* [[List of Sega 32X games]]
+* [[List of cancelled games for Sega consoles]]
+* [[Lists of video games]]
+
+==References==
+{{reflist|30em}}
+
+{{Video game lists by platform}}
+{{Use mdy dates|date=December 2017}}
+
+[[Category:Sega Genesis games| ]]
+[[Category:Video game lists by platform|Sega Genesis]]
+[[Category:Lists of Sega games|Genesis]]
